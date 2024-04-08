@@ -1,7 +1,7 @@
 ---
 title: Easy steps to recover deleted pictures from S17e.
-date: 2024-03-06 15:16:47
-updated: 2024-03-10 20:22:59
+date: 2024-04-07T02:22:08.429Z
+updated: 2024-04-08T02:22:08.429Z
 tags: 
   - android data recovery
   - android devices pictures recovery
@@ -61,7 +61,7 @@ Just deleted an important batch of pictures from your Vivo S17e memory card? Nev
 </div>  
 
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery on Mac</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
 
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-free-try.png" class="atpl-imgstyle" alt="android data recovery free try" />
 
@@ -89,7 +89,7 @@ When the scanning is finished, all types of files will be listed in categories o
 </div>
 
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Windows computer.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Windows computer.
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-start-interface.png"  class="atpl-imgstyle" alt="android data recovery windows" />
 
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>

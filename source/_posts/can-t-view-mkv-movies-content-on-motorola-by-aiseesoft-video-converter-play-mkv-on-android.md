@@ -1,6 +1,6 @@
 ---
 title: Can’t view MKV movies content on Motorola
-date: 2024-02-25 19:26:13
+date: 2024-04-07T02:22:06.458Z
 tags: 
   - mkv video
   - mkv android
@@ -50,7 +50,7 @@ Part 2: <strong><a href="#p2">You can convert mkv video files For Motorola Moto 
 <div class="atpl-step-part-style">Part 1. You can convert mkv video files For Motorola Moto G Stylus 5G (2023) (on Windows)</div>
 To convert mkv video files for Motorola Moto G Stylus 5G (2023) playback on Windows, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Windows computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Windows computer.
 
 <strong>Step 1: Import MKV video files </strong>
 Click <b>"Add File"</b> to load video files that you want to convert into this program.
@@ -83,7 +83,7 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <div class="atpl-step-part-style">Part 2. You can convert mkv video files For Motorola Moto G Stylus 5G (2023) (on macOS)</div>
 To convert mkv video files for Motorola Moto G Stylus 5G (2023) playback on Mac, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Mac computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Mac computer.
 
 <strong>Step 1: Import MKV video files </strong>
 Click <b>"Add File"</b> to load video files that you want to convert into this program.

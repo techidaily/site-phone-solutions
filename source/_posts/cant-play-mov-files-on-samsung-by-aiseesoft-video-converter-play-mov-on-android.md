@@ -1,7 +1,7 @@
 ---
 title: Can't play .mov files on Samsung
-date: 2024-03-06 22:34:38
-updated: 2024-03-10 16:20:26
+date: 2024-04-07T02:22:06.723Z
+updated: 2024-04-08T02:22:06.723Z
 tags: 
   - mov video
   - mov android
@@ -44,7 +44,7 @@ Part 2: <strong><a href="#p2">You can convert .mov files for Samsung Galaxy A25 
 <div class="atpl-step-part-style">Part 1. You can convert .mov files for Samsung Galaxy A25 5G (on Windows)</div>
 To convert .mov video files for Samsung Galaxy A25 5G playback on Windows, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Windows computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Windows computer.
 
 
 <strong>Step 1: Import MOV video files </strong>
@@ -78,7 +78,7 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <div class="atpl-step-part-style">Part 2. You can convert .mov files for Samsung Galaxy A25 5G (on macOS)</div>
 To convert .mov video files for Samsung Galaxy A25 5G playback on Mac, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Mac computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Mac computer.
 
 <strong>Step 1: Import MOV video files </strong>
 Click <b>"Add File"</b> to load video files that you want to convert into this program.

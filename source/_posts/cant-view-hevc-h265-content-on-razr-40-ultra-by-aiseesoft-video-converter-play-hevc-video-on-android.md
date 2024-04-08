@@ -1,7 +1,7 @@
 ---
 title: Can’t view HEVC H.265 content on Razr 40 Ultra
-date: 2024-03-09 10:29:28
-updated: 2024-03-10 15:49:31
+date: 2024-04-07T02:22:06.731Z
+updated: 2024-04-08T02:22:06.731Z
 tags: 
   - hevc video
   - hevc android
@@ -58,7 +58,7 @@ Part 2: <strong><a href="#p2">How To Convert HEVC Videos For Motorola Razr 40 Ul
 <div class="atpl-step-part-style">Part 1. How To Convert HEVC Videos For Motorola Razr 40 Ultra on Windows?</div>
 To convert hevc videos for Motorola Razr 40 Ultra playback on Windows, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Windows computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Windows computer.
 
 <strong>Step 1: Import video files </strong>
 Click <b>"Add File"</b> to load video files that you want to convert into this program.
@@ -91,7 +91,7 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <div class="atpl-step-part-style">Part 2. How To Convert HEVC Videos For Motorola Razr 40 Ultra on Mac?</div>
 To convert hevc videos for Motorola Razr 40 Ultra playback on Mac, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Mac computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Mac computer.
 
 <strong>Step 1: Import video files </strong>
 Click <b>"Add File"</b> to load video files that you want to convert into this program.

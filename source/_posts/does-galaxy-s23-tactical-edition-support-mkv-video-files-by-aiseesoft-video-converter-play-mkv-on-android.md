@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy S23 Tactical Edition support MKV video files?
-date: 2024-02-20 18:13:32
+date: 2024-04-07T02:22:07.725Z
 tags: 
   - mkv video
   - mkv android
@@ -44,7 +44,7 @@ Part 2: <strong><a href="#p2">You can convert mkv video files For Samsung Galaxy
 <div class="atpl-step-part-style">Part 1. You can convert mkv video files For Samsung Galaxy S23 Tactical Edition (on Windows)</div>
 To convert mkv video files for Samsung Galaxy S23 Tactical Edition playback on Windows, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Windows computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Windows computer.
 
 <strong>Step 1: Import MKV video files </strong>
 Click <b>"Add File"</b> to load video files that you want to convert into this program.
@@ -77,7 +77,7 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <div class="atpl-step-part-style">Part 2. You can convert mkv video files For Samsung Galaxy S23 Tactical Edition (on macOS)</div>
 To convert mkv video files for Samsung Galaxy S23 Tactical Edition playback on Mac, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Mac computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Mac computer.
 
 <strong>Step 1: Import MKV video files </strong>
 Click <b>"Add File"</b> to load video files that you want to convert into this program.

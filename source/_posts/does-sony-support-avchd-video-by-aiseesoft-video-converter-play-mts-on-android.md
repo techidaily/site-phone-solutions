@@ -1,6 +1,6 @@
 ---
 title: Does Sony  support AVCHD video?
-date: 2024-02-20 20:54:53
+date: 2024-04-07T02:22:07.826Z
 tags: 
   - mts video
   - mts android
@@ -42,7 +42,7 @@ Part 2: <strong><a href="#p2">AVCHD MTS Conversion Suggestion For Sony Xperia 10
 <div class="atpl-step-part-style">Part 1. AVCHD MTS Conversion Suggestion For Sony Xperia 10 V (on Windows)</div>
 To convert .mts video files for Sony Xperia 10 V playback on Windows, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Windows computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Windows computer.
 
 <strong>Step 1: Import your video files </strong>
 Click <b>"Add File"</b> to load your video files that you want to convert into this program.
@@ -75,7 +75,7 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <div class="atpl-step-part-style">Part 2. AVCHD MTS Conversion Suggestion For Sony Xperia 10 V (on macOS)</div>
 To convert .mts video files for Sony Xperia 10 V playback on Mac, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Mac computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Mac computer.
 
 <strong>Step 1: Import your video files </strong>
 Click <b>"Add File"</b> to load your video files that you want to convert into this program.

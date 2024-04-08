@@ -1,7 +1,7 @@
 ---
 title: How to convert AVCHD MTS to MP4 for Xiaomi ?
-date: 2024-03-08 21:17:25
-updated: 2024-03-10 15:50:32
+date: 2024-04-07T02:22:10.359Z
+updated: 2024-04-08T02:22:10.359Z
 tags: 
   - mts video
   - mts android
@@ -45,7 +45,7 @@ Part 2: <strong><a href="#p2">AVCHD MTS Conversion Suggestion For Xiaomi 14 (on 
 <div class="atpl-step-part-style">Part 1. AVCHD MTS Conversion Suggestion For Xiaomi 14 (on Windows)</div>
 To convert .mts video files for Xiaomi 14 playback on Windows, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Windows computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Windows computer.
 
 <strong>Step 1: Import your video files </strong>
 Click <b>"Add File"</b> to load your video files that you want to convert into this program.
@@ -78,7 +78,7 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <div class="atpl-step-part-style">Part 2. AVCHD MTS Conversion Suggestion For Xiaomi 14 (on macOS)</div>
 To convert .mts video files for Xiaomi 14 playback on Mac, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Mac computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Mac computer.
 
 <strong>Step 1: Import your video files </strong>
 Click <b>"Add File"</b> to load your video files that you want to convert into this program.

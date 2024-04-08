@@ -1,6 +1,6 @@
 ---
 title: Easy steps to recover deleted photos from Infinix Smart 8 HD.
-date: 2024-04-02T23:45:41.704Z
+date: 2024-04-07T02:22:08.299Z
 tags: 
   - android data recovery
   - android devices photos recovery
@@ -34,7 +34,7 @@ A highly recommended Infinix Smart 8 HD photos recovery program to 100% restore 
 <div class="atpl-post-description-part-3">
 <div class="tpl-content-sub-paragraph-content">
   <p>
-    <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener"><strong>Android Data Recovery</strong></a> is a powerful data recovery solution I came across recently. I have tried several recovery tools in last week and Android Data Recovery is the best among them for its recovery ability and simple user interface. Only 3 steps are involved in the whole recovery process to get back lost or deleted photos, contacts, text messages, media files and documents. You trigged the recover button, and then handle it over to the software. Grab a cup of coffee, then your lost photos of Infinix Smart 8 HD will come back after your return.
+    <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" ><strong>Android Data Recovery</strong></a> is a powerful data recovery solution I came across recently. I have tried several recovery tools in last week and Android Data Recovery is the best among them for its recovery ability and simple user interface. Only 3 steps are involved in the whole recovery process to get back lost or deleted photos, contacts, text messages, media files and documents. You trigged the recover button, and then handle it over to the software. Grab a cup of coffee, then your lost photos of Infinix Smart 8 HD will come back after your return.
   </p>
 </div>
 </div>
@@ -48,7 +48,7 @@ A highly recommended Infinix Smart 8 HD photos recovery program to 100% restore 
   <span class="atpl-step-part-style">Part 1. Easy steps to recover deleted photos from Infinix Smart 8 HD. (on macOS)</span>
 </div>  
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery on Mac</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
 <br>
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-free-try.png" class="atpl-imgstyle" alt="android data recovery free try" /><br>
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>
@@ -71,7 +71,7 @@ When the scanning is finished, all types of files will be listed in categories o
   <span class="atpl-step-part-style">Part 2. Easy steps to recover deleted photos from Infinix Smart 8 HD. (on Windows)</span>
 </div>
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Windows computer.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Windows computer.
 <br>
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-start-interface.png"  class="atpl-imgstyle" alt="android data recovery windows" /><br>
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>

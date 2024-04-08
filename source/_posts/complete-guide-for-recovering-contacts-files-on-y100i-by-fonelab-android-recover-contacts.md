@@ -1,7 +1,7 @@
 ---
 title: Complete guide for recovering contacts files on Y100i.
-date: 2024-03-06 11:30:25
-updated: 2024-03-10 19:17:10
+date: 2024-04-07T02:22:06.919Z
+updated: 2024-04-08T02:22:06.919Z
 tags: 
   - android data recovery
   - android devices contacts recovery
@@ -45,7 +45,7 @@ How to recover deleted contacts from Vivo Y100i SIM card? Here you will find a c
 </div>
 <div class="tpl-content-sub-paragraph-content">
   <p>
-    An excellent program is required for the task - <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener"><strong>Android Data Recovery</strong></a> (Win/Mac). It is easy to manage as you can recover lost, deleted, or formatted contacts on Android phones through only several clicks. Before you make the recovery, the program allows you to preview all the contacts information, such as name, phone number, email address, company address and so on, so that you can choose what you want and restore them selectively. The restored contacts can be saved in the format of HTML or TXT. And the best Android Contacts Recovery is compatible with nearly all brands of smartphone with Android system, including HTC, Samsung, Motorola, Sony, ZTE, LG, Huawei and so on.
+    An excellent program is required for the task - <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" ><strong>Android Data Recovery</strong></a> (Win/Mac). It is easy to manage as you can recover lost, deleted, or formatted contacts on Android phones through only several clicks. Before you make the recovery, the program allows you to preview all the contacts information, such as name, phone number, email address, company address and so on, so that you can choose what you want and restore them selectively. The restored contacts can be saved in the format of HTML or TXT. And the best Android Contacts Recovery is compatible with nearly all brands of smartphone with Android system, including HTC, Samsung, Motorola, Sony, ZTE, LG, Huawei and so on.
   </p>
 </div>
 
@@ -68,7 +68,7 @@ How to recover deleted contacts from Vivo Y100i SIM card? Here you will find a c
 </div>  
 
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery on Mac</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Mac computer, when you open it, a dialog box will pop up to remind you whether to register, purchase or free try.
 
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/mac-free-try.png" class="atpl-imgstyle" alt="android data recovery free try" />
 
@@ -96,7 +96,7 @@ When the scanning is finished, all types of files will be listed in categories o
 </div>
 
 <span class="atpl-stepstyle-a"><span>Step 1: </span></span> <strong>Download and launch the Android Data Recovery</strong>
-Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" target="_blank" rel="noopener">Android Data Recovery</a> on your Windows computer.
+Download and install the <a href="https://tools.techidaily.com/aiseesoft-android-data-recovery/" >Android Data Recovery</a> on your Windows computer.
 <img src="https://tools.techidaily.com/images/apps/aiseesoft/android-data-recovery/win-start-interface.png"  class="atpl-imgstyle" alt="android data recovery windows" />
 
 <span class="atpl-stepstyle-a"><span>Step 2: </span></span> <strong>Connection</strong>

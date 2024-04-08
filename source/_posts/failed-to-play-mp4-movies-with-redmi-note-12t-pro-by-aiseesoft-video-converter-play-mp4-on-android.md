@@ -1,6 +1,6 @@
 ---
 title: Failed to play MP4 movies with Redmi Note 12T Pro
-date: 2024-02-22 19:43:37
+date: 2024-04-07T02:22:08.807Z
 tags: 
   - mp4 video
   - mp4 android
@@ -37,7 +37,7 @@ Part 2: <strong><a href="#p2">MP4 conversion suggestion for Xiaomi Redmi Note 12
 <div class="atpl-step-part-style">Part 1. MP4 conversion suggestion for Xiaomi Redmi Note 12T Pro (on Windows)</div>
 To convert MP4 video files for Xiaomi Redmi Note 12T Pro playback on Windows, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Windows computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Windows computer.
 
 <strong>Step 1: Import your video files </strong>
 Click <b>"Add File"</b> to load your video files that you want to convert into this program.
@@ -70,7 +70,7 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <div class="atpl-step-part-style">Part 2. MP4 conversion suggestion for Xiaomi Redmi Note 12T Pro (on macOS)</div>
 To convert MP4 video files for Xiaomi Redmi Note 12T Pro playback on Mac, do as below:
 
-Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" target="_blank" rel="noopener">Video Converter</a> on your Mac computer.
+Download and install <a class="atpl-step-content-a-style" href="https://tools.techidaily.com/aiseesoft-total-video-converter/" >Video Converter</a> on your Mac computer.
 
 <strong>Step 1: Import your video files </strong>
 Click <b>"Add File"</b> to load your video files that you want to convert into this program.
