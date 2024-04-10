@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Xiaomi Redmi K70E-convert MTS for Xiaomi Redmi K70E
-date: 2024-04-07T16:53:17.000Z
+date: 2024-04-09T01:42:43.028Z
 tags: 
   - mts video
   - mts android

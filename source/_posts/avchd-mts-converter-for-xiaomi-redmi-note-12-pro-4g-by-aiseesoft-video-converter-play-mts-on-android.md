@@ -1,7 +1,7 @@
 ---
 title: AVCHD MTS Converter for Xiaomi Redmi Note 12 Pro 4G
-date: 2024-04-07T16:53:16.969Z
-updated: 2024-04-08T16:53:16.969Z
+date: 2024-04-09T01:42:42.994Z
+updated: 2024-04-10T01:42:42.994Z
 tags: 
   - mts video
   - mts android

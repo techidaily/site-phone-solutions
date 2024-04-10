@@ -1,6 +1,6 @@
 ---
 title: Advance Repair for Bad and Corrupt Video Files of Itel A60
-date: 2024-04-07T16:53:16.899Z
+date: 2024-04-09T01:42:42.947Z
 tags: 
   - repair
 categories: 

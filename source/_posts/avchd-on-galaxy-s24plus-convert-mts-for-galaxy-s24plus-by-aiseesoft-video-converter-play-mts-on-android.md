@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Galaxy S24+-convert MTS for Galaxy S24+
-date: 2024-04-07T16:53:16.977Z
+date: 2024-04-09T01:42:43.004Z
 tags: 
   - mts video
   - mts android

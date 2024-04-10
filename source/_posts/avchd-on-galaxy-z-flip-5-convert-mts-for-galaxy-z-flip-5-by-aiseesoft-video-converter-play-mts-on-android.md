@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Galaxy Z Flip 5-convert MTS for Galaxy Z Flip 5
-date: 2024-04-07T16:53:16.978Z
+date: 2024-04-09T01:42:43.005Z
 tags: 
   - mts video
   - mts android

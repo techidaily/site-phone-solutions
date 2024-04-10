@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Galaxy F14 5G-convert MTS for Galaxy F14 5G
-date: 2024-04-07T16:53:16.975Z
+date: 2024-04-09T01:42:43.002Z
 tags: 
   - mts video
   - mts android

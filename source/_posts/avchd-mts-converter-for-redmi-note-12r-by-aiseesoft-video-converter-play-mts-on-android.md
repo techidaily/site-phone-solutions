@@ -1,6 +1,6 @@
 ---
 title: AVCHD MTS Converter for Redmi Note 12R
-date: 2024-04-07T16:53:16.952Z
+date: 2024-04-09T01:42:42.979Z
 tags: 
   - mts video
   - mts android

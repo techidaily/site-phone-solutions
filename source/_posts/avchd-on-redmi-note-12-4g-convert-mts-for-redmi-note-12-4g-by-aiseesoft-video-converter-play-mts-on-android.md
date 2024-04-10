@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Redmi Note 12 4G-convert MTS for Redmi Note 12 4G
-date: 2024-04-07T16:53:16.987Z
+date: 2024-04-09T01:42:43.014Z
 tags: 
   - mts video
   - mts android

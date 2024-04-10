@@ -1,7 +1,7 @@
 ---
 title: Advance Repair for Bad and Corrupt Video Files of Infinix
-date: 2024-04-07T16:53:16.897Z
-updated: 2024-04-08T16:53:16.897Z
+date: 2024-04-09T01:42:42.946Z
+updated: 2024-04-10T01:42:42.946Z
 tags: 
   - repair
 categories: 

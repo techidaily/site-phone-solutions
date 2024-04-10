@@ -1,7 +1,7 @@
 ---
 title: AVCHD MTS Converter for Moto G 5G (2023)
-date: 2024-04-07T16:53:16.948Z
-updated: 2024-04-08T16:53:16.948Z
+date: 2024-04-09T01:42:42.975Z
+updated: 2024-04-10T01:42:42.975Z
 tags: 
   - mts video
   - mts android

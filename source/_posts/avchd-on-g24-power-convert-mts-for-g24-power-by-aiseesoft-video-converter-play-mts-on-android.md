@@ -1,7 +1,7 @@
 ---
 title: AVCHD on G24 Power-convert MTS for G24 Power
-date: 2024-04-07T16:53:16.974Z
-updated: 2024-04-08T16:53:16.974Z
+date: 2024-04-09T01:42:43.001Z
+updated: 2024-04-10T01:42:43.001Z
 tags: 
   - mts video
   - mts android

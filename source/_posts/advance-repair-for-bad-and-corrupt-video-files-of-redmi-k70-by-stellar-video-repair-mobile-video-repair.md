@@ -1,7 +1,7 @@
 ---
 title: Advance Repair for Bad and Corrupt Video Files of Redmi K70
-date: 2024-04-07T16:53:16.908Z
-updated: 2024-04-08T16:53:16.908Z
+date: 2024-04-09T01:42:42.956Z
+updated: 2024-04-10T01:42:42.956Z
 tags: 
   - repair
 categories: 

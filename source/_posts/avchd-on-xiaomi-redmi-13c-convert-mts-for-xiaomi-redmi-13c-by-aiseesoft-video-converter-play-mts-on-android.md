@@ -1,7 +1,7 @@
 ---
 title: AVCHD on Xiaomi Redmi 13C-convert MTS for Xiaomi Redmi 13C
-date: 2024-04-07T16:53:16.999Z
-updated: 2024-04-08T16:53:16.999Z
+date: 2024-04-09T01:42:43.027Z
+updated: 2024-04-10T01:42:43.027Z
 tags: 
   - mts video
   - mts android

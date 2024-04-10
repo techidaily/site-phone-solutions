@@ -1,6 +1,6 @@
 ---
 title: AVCHD on HTC U23-convert MTS for HTC U23
-date: 2024-04-07T16:53:16.979Z
+date: 2024-04-09T01:42:43.006Z
 tags: 
   - mts video
   - mts android

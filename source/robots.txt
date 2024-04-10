@@ -1,4 +1,4 @@
-Sitemap: https://phone-solutions.techidaily.com/sitemap.txt
+Sitemap: https://phone-solutions.techidaily.com/sitemap.xml
 User-agent: Googlebot
 Disallow:
 

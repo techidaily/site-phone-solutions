@@ -1,7 +1,7 @@
 ---
 title: AVCHD on Xiaomi -convert MTS for Xiaomi
-date: 2024-04-07T16:53:16.998Z
-updated: 2024-04-08T16:53:16.998Z
+date: 2024-04-09T01:42:43.026Z
+updated: 2024-04-10T01:42:43.026Z
 tags: 
   - mts video
   - mts android

@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Samsung Galaxy A05-convert MTS for Samsung Galaxy A05
-date: 2024-04-07T16:53:16.988Z
+date: 2024-04-09T01:42:43.016Z
 tags: 
   - mts video
   - mts android

@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Redmi 12-convert MTS for Redmi 12
-date: 2024-04-07T16:53:16.984Z
+date: 2024-04-09T01:42:43.011Z
 tags: 
   - mts video
   - mts android
