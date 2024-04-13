@@ -407,3 +407,8 @@ The second Client account copied the trade normally since we do not have any MAA
 The first Client account is a different story though. The Master account has a balance histogram below the MA. Normally, it would not be allowed to the Client-side, yet we have inversed its logic. With the Reversed Trade enabled too, the “buy” EURUSD becomes “sell” EURUSD.
 
 After all this, you might be wondering why would we need all this inversion? Well, this is a perfect solution for all Reversal trading strategies! It makes sense to reverse trades from a losing account, right? Why not make bad, losing strategies profitable? And with the MAAB Filter reverse logic, we are going one step further – we copy bad losing strategies (and reverse their trades) only when the Master account is losing. It is funny but true, now you can start composing bad strategies as well, and make use of all those EAs or strategies you have thrown into the trash bin.
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

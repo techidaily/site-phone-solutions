@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Sony -convert MTS for Sony 
-date: 2024-04-09T01:42:43.024Z
+date: 2024-04-12T01:16:41.414Z
 tags: 
   - mts video
   - mts android
@@ -169,3 +169,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>8 Solutions to Solve YouTube App Crashing on Oppo A1 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>What to Do if Google Play Services Keeps Stopping on Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

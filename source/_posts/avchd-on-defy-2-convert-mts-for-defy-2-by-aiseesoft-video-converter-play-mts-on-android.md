@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Defy 2-convert MTS for Defy 2
-date: 2024-04-09T01:42:42.999Z
+date: 2024-04-12T01:16:41.387Z
 tags: 
   - mts video
   - mts android
@@ -162,3 +162,9 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/" ><u>How to Fake Snapchat Location on Apple iPhone 13 mini | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-poco-x6-pro-location-on-twitter-drfone-by-drfone-virtual-android/" ><u>How to Change your Poco X6 Pro Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

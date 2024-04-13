@@ -476,6 +476,12 @@ Yes, your phone can be spied on without anyone touching it or having access to i
 
 The technological advancements may have brought a lot of convenience to the users but on the flip side there is a dark side to it as well and one of these is spying tools. So, if you too have been doubting that your spouse is keeping an eye on your phone and whereabouts, the above content will surely help you.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

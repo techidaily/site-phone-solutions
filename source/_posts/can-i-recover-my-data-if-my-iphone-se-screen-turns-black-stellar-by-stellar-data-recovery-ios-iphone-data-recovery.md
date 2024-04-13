@@ -447,6 +447,12 @@ FAQs
 
 If there is water in your iPhone speaker, it may not work. In such a situation, try drying your iPhone and turning it on to take a backup of your data before testing the speaker. You can even visit Apple Genius Bar to get the help of a tech expert to fix your iPhone.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

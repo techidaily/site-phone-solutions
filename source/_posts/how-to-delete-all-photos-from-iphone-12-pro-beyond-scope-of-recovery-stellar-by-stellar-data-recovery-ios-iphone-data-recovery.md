@@ -573,6 +573,12 @@ To delete an iPhone Calendar event,
 - Next, tap on the **event** you want to delete, then tap **Delete** **Event**.
 - Confirm your choice by tapping **Delete** **Event**.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

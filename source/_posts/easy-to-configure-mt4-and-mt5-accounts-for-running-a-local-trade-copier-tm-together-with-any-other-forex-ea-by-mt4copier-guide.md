@@ -228,3 +228,8 @@ Now, you might be thinking, “This sounds great, but is it complicated to set u
 <iframe width="898" height="503" src="https://www.youtube.com/embed/TwthTCQm74A" title="Easy Way to Copy Trades of Equal Lot Size for All MT4 &amp; MT5 Accounts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 In this video, Rimantas explains how to make every MT4 & MT5 Client account use the same lot size as the Main account with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ for MT4 & MT5. It is an easy way to copy trades of equal lot size for all Metatrader accounts.
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

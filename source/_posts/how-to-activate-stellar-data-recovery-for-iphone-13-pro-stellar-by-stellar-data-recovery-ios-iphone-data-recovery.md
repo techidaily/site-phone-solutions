@@ -345,6 +345,12 @@ When you delete screenshots on an iPhone, it is moved to the **“Recently Dele
 
 To take a full screenshot of a website, take the screenshot and tap preview before it disappears—tap **Full Page** to save the screenshot as a PDF.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

@@ -363,3 +363,8 @@ Once you find out the specific Android version after putting the device in Recov
 <iframe width="930" height="450" src="https://www.youtube.com/embed/-I35GTXostw" title="How To Bypass FRP on Samsung Devices?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 </div>
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

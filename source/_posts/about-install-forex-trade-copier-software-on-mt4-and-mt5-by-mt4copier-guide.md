@@ -342,3 +342,8 @@ Rimantas will teach you how to take your Forex and Gold trades from one book (MT
 Think of it like copying a drawing from one piece of paper and pasting it onto another without using scissors or glue. It’s that easy!
 
 It’s like having a magic wand that does the work for you. So, even if you’ve never tried this magic trick before, Rimantas will guide you step by step. Get ready to become a trading magician!
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>

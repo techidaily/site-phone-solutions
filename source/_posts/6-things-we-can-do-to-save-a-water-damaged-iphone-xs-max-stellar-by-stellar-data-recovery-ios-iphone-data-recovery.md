@@ -349,6 +349,12 @@ You can reset your iPhone without any computer by using the settings app of your
 
 - Go to the **Settings** app > **General** > **Reset** > **Erase** **all** **Content** **and** **Settings**.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

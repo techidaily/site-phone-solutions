@@ -461,6 +461,12 @@ If you want to [delete apps on your iPhone](https://www.stellarinfo.com/article/
 
 Documents and Data folder may contain browsing history, cookies, cache, temporary files, database files and other information specific to the app. You can delete them easily by following this detailed [guide](https://www.stellarinfo.com/blog/delete-documents-data-iphone/).
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

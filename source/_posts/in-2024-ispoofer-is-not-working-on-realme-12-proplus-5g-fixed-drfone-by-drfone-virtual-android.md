@@ -389,6 +389,12 @@ Taking these precautions can help safeguard your phone's location and enhance yo
 
 Hopefully, now you know "why is find my friends not working" and several ways to fix the Find Friends location not available. In this guide, we learned all these tips to make it easy for Realme 12 Pro+ 5G  users to rectify the issues with the Find Friends app. Check all the tips carefully and implement them whenever you face issues like this.
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

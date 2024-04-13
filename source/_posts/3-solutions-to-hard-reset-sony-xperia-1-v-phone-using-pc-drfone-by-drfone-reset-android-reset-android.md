@@ -366,6 +366,12 @@ Resetting an Sony Xperia 1 V phone can be tricky sometimes; therefore, it should
 
 ## You Might Also Like
 
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"

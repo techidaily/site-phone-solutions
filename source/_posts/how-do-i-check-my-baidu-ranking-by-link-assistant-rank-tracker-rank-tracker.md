@@ -297,3 +297,8 @@ Available for: **Windows** **Apple** **Linux**
 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-200x200eng.png" border="0"></a>
 
 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875"><img src="https://secure.2checkout.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sale-2023-winter-728x90.png" border="0"></a>
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>
