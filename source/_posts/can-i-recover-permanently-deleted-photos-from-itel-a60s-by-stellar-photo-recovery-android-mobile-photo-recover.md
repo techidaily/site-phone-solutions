@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Itel A60s
-date: 2024-04-12T01:17:29.488Z
+date: 2024-04-30T19:40:04.843Z
 tags: 
   - recover
 categories: 
@@ -257,3 +257,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On HTC U23 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-2-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze 2 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+

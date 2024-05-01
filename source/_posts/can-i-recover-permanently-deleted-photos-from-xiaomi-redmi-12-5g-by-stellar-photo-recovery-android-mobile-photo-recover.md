@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Xiaomi Redmi 12 5G
-date: 2024-04-12T01:17:54.297Z
+date: 2024-04-30T19:40:05.074Z
 tags: 
   - recover
 categories: 
@@ -256,3 +256,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://review-topics.techidaily.com/does-vivo-x100-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo X100 Pro Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Moto G13 | Dr.fone</u></a></li>
 </ul></div>
+

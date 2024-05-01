@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from X9b
-date: 2024-04-12T01:17:53.597Z
+date: 2024-04-30T19:40:05.059Z
 tags: 
   - recover
 categories: 
@@ -245,3 +245,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12?</u></a></li>
 <li><a href="https://techidaily.com/remove-vivo-lock-screen-without-password-vivo-y78t-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Lock Screen without Password(Vivo Y78t)</u></a></li>
 </ul></div>
+

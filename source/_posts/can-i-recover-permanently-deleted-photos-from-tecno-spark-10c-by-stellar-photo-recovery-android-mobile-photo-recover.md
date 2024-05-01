@@ -1,7 +1,7 @@
 ---
 title: Can I recover permanently deleted photos from Tecno Spark 10C
-date: 2024-04-12T01:17:48.205Z
-updated: 2024-04-13T01:17:48.205Z
+date: 2024-04-30T19:40:05.023Z
+updated: 2024-05-01T19:40:05.023Z
 tags: 
   - recover
 categories: 
@@ -241,3 +241,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 Pro Max After Forgetting the Passcode?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-12-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme 12 Pro 5G without App | Dr.fone</u></a></li>
 </ul></div>
+

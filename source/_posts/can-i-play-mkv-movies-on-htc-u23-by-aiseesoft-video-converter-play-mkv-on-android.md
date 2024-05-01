@@ -1,6 +1,6 @@
 ---
 title: Can I play MKV movies on HTC U23?
-date: 2024-04-12T01:17:15.121Z
+date: 2024-04-30T19:40:04.764Z
 tags: 
   - mkv video
   - mkv android
@@ -159,3 +159,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/a-guide-infinix-hot-40-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Infinix Hot 40 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-a60-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel A60 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+

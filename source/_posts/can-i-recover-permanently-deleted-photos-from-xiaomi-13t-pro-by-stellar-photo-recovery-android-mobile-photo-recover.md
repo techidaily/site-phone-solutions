@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Xiaomi 13T Pro
-date: 2024-04-12T01:17:53.738Z
+date: 2024-04-30T19:40:05.060Z
 tags: 
   - recover
 categories: 
@@ -285,3 +285,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Smart 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-x-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo X Flip Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+

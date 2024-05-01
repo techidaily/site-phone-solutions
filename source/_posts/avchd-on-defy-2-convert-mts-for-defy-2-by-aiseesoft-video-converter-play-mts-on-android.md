@@ -1,6 +1,6 @@
 ---
 title: AVCHD on Defy 2-convert MTS for Defy 2
-date: 2024-04-12T01:16:41.387Z
+date: 2024-04-30T19:40:04.286Z
 tags: 
   - mts video
   - mts android
@@ -168,3 +168,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+

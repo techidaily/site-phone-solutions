@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Huawei Nova Y71?
-date: 2024-04-12T01:17:58.609Z
+date: 2024-04-30T19:40:05.116Z
 tags: 
   - mts video
   - mts android
@@ -192,3 +192,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-100-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor 100 Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+

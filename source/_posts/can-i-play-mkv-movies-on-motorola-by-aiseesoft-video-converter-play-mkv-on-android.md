@@ -1,7 +1,7 @@
 ---
 title: Can I play MKV movies on Motorola ?
-date: 2024-04-12T01:17:15.963Z
-updated: 2024-04-13T01:17:15.963Z
+date: 2024-04-30T19:40:04.768Z
+updated: 2024-05-01T19:40:04.768Z
 tags: 
   - mkv video
   - mkv android
@@ -209,3 +209,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-6-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 6</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-g42-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia G42 5G? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+

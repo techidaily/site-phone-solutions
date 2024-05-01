@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from 12 Pro 5G
-date: 2024-04-12T01:17:19.357Z
+date: 2024-04-30T19:40:04.786Z
 tags: 
   - recover
 categories: 
@@ -270,3 +270,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-fold-2-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X Fold 2 Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y78plus-t1-edition-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
 </ul></div>
+

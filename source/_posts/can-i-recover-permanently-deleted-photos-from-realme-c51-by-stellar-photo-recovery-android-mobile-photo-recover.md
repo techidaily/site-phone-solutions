@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Realme C51
-date: 2024-04-12T01:17:40.843Z
+date: 2024-04-30T19:40:04.952Z
 tags: 
   - recover
 categories: 
@@ -282,3 +282,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-xiaomi-redmi-note-13-pro-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Xiaomi Redmi Note 13 Pro 5G? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Moto E13 | Dr.fone</u></a></li>
 </ul></div>
+

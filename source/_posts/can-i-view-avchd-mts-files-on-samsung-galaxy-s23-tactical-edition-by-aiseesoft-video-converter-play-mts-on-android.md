@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Samsung Galaxy S23 Tactical Edition?
-date: 2024-04-12T01:18:00.682Z
+date: 2024-04-30T19:40:05.132Z
 tags: 
   - mts video
   - mts android
@@ -193,3 +193,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-14-pro-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 14 Pro WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-nord-ce-3-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus Nord CE 3 5G Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+

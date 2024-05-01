@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Vivo Y36i
-date: 2024-04-12T01:17:52.571Z
+date: 2024-04-30T19:40:05.054Z
 tags: 
   - recover
 categories: 
@@ -284,3 +284,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c32-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C32 To Phone | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-itel-a60-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Itel A60 Phone Now with These Tips</u></a></li>
 </ul></div>
+

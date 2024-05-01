@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi 12 Without Power Button | Dr.fone
-date: 2024-03-17 14:36:34
-updated: 2024-03-19 19:18:17
+date: 2024-04-30T19:52:09.686Z
+updated: 2024-05-01T19:52:09.686Z
 tags: 
   - reset
 categories:
@@ -373,4 +373,69 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-ext-files-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a {{ext}} files electronically</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-galaxy-m14-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Galaxy M14 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x50-gt-video-recovery-recover-deleted-videos-from-honor-x50-gt-by-fonelab-android-recover-video/"><u>Honor X50 GT Video Recovery - Recover Deleted Videos from Honor X50 GT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-galaxy-a15-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Galaxy A15 5G?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-oppo-a78-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Oppo A78? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 13 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-lava-blaze-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y17s-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y17s</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-video-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Video Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-14-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone 14 Space | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-spark-10c-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Spark 10C.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-itel-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Itel</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-honor-magic-v2-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Honor Magic V2</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-infinix-zero-5g-2023-turbo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Infinix Zero 5G 2023 Turbo Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-google-pixel-8-pro-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-21-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from 21</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-realme-v30t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Realme V30T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-smart-8-plus-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Smart 8 Plus.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-oppo-reno-11-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-asus-rog-phone-8-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Asus ROG Phone 8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-x50i-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-spark-go-2024-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Spark Go (2024)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-itel-s23-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Itel S23? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-redmi-note-12-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi Redmi Note 12 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-nord-n30-se-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus Nord N30 SE Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-infinix-smart-8-hd-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Infinix Smart 8 HD</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-tools-to-bypass-lock-screen-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/"><u>Bypass Tools to Bypass Lock Screen(Galaxy A15 4G)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-c300-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to C300 Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-nokia-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Nokia lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-note-30-vip-racing-edition-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Note 30 VIP Racing Edition Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-moto-g-stylus-2023-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Moto G Stylus (2023)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-edge-40-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Edge 40 Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-vivo-s17-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Vivo S17 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2019-step-by-step-guide-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2019 | Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-huawei-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Huawei </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-y200-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo Y200</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-honor-magic5-ultimate-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-online-aspect-ratio-calculators-top-picks-for-accuracy/"><u>Updated In 2024, Online Aspect Ratio Calculators Top Picks for Accuracy</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-how-to-make-memes-with-white-background-step-by-step/"><u>In 2024, How to Make Memes with White Background Step by Step</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X, Apples New iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-pova-6-pro-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Pova 6 Pro 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-oppo-a38-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Oppo A38 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-online-tiktok-watermark-removers-you-should-try/"><u>2024 Approved Best Online TikTok Watermark Removers You Should Try</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-ios-beta-version-on-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-s18-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo S18? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 7</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-samsung-galaxy-a14-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Samsung Galaxy A14 4G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-v30-lite-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo V30 Lite 5G FRP Locks</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-a1x-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo A1x 5G Have Find My Friends? | Dr.fone</u></a></li>
+</ul></div>
 

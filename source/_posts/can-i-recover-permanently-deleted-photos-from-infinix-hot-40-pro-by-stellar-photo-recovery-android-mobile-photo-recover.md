@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Infinix Hot 40 Pro
-date: 2024-04-12T01:17:27.926Z
+date: 2024-04-30T19:40:04.833Z
 tags: 
   - recover
 categories: 
@@ -250,3 +250,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A78 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-t2-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo T2 Pro 5G Device SIM</u></a></li>
 </ul></div>
+

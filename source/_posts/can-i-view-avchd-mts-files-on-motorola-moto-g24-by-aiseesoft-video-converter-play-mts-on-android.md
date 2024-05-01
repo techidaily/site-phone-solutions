@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Motorola Moto G24?
-date: 2024-04-12T01:17:59.464Z
+date: 2024-04-30T19:40:05.123Z
 tags: 
   - mts video
   - mts android
@@ -188,3 +188,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-lava-storm-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Lava Storm 5G Screen | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-iphone-15-pro-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From iPhone 15 Pro Max Online</u></a></li>
 </ul></div>
+

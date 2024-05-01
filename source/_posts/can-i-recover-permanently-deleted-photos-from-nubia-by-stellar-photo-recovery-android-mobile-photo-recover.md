@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Nubia
-date: 2024-04-12T01:17:35.375Z
+date: 2024-04-30T19:40:04.909Z
 tags: 
   - recover
 categories: 
@@ -277,3 +277,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-moto-g34-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola Moto G34 5G Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-a-excel-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign a Excel document online</u></a></li>
 </ul></div>
+

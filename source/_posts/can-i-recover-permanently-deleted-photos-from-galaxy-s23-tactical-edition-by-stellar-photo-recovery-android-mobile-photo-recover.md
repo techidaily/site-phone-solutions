@@ -1,7 +1,7 @@
 ---
 title: Can I recover permanently deleted photos from Galaxy S23 Tactical Edition
-date: 2024-04-12T01:17:22.691Z
-updated: 2024-04-13T01:17:22.691Z
+date: 2024-04-30T19:40:04.806Z
+updated: 2024-05-01T19:40:04.806Z
 tags: 
   - recover
 categories: 
@@ -251,3 +251,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-social.techidaily.com/how-to-change-your-realme-gt-neo-5-se-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme GT Neo 5 SE Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Xiaomi Civi 3? | Dr.fone</u></a></li>
 </ul></div>
+

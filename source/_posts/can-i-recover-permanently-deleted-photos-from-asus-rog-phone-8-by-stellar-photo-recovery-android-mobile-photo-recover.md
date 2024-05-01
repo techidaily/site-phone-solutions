@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Asus ROG Phone 8
-date: 2024-04-12T01:17:20.489Z
+date: 2024-04-30T19:40:04.794Z
 tags: 
   - recover
 categories: 
@@ -262,3 +262,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone 15 Pro?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-8-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 8 in Lost Mode | Dr.fone</u></a></li>
 </ul></div>
+

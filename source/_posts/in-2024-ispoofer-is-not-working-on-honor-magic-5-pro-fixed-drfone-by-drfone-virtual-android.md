@@ -353,3 +353,4 @@ Trying a GPS spoofing app like [Dr. Fone - Virtual Location](https://tools.techi
 <li><a href="https://phone-solutions.techidaily.com/cannot-play-mkv-files-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mkv-on-android/" ><u>Cannot play MKV files on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/bypassreset-a1-5g-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/" ><u>Bypass/Reset A1 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
 </ul></div>
+

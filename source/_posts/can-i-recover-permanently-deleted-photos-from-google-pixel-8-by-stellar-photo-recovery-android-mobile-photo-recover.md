@@ -1,7 +1,7 @@
 ---
 title: Can I recover permanently deleted photos from Google Pixel 8
-date: 2024-04-12T01:17:23.405Z
-updated: 2024-04-13T01:17:23.405Z
+date: 2024-04-30T19:40:04.810Z
+updated: 2024-05-01T19:40:04.810Z
 tags: 
   - recover
 categories: 
@@ -299,3 +299,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y28-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y28 5G</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi K70 Pro</u></a></li>
 </ul></div>
+

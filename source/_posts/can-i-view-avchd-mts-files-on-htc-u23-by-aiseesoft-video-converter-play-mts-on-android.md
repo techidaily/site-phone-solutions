@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on HTC U23?
-date: 2024-04-12T01:17:58.322Z
+date: 2024-04-30T19:40:05.113Z
 tags: 
   - mts video
   - mts android
@@ -152,3 +152,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-xiaomi-redmi-k70-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Xiaomi Redmi K70 FRP Bypass</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-14-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 14 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
 </ul></div>
+

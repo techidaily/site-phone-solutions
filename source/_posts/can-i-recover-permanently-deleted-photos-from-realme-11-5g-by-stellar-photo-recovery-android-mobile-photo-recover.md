@@ -1,7 +1,7 @@
 ---
 title: Can I recover permanently deleted photos from Realme 11 5G
-date: 2024-04-12T01:17:40.087Z
-updated: 2024-04-13T01:17:40.087Z
+date: 2024-04-30T19:40:04.946Z
+updated: 2024-05-01T19:40:04.946Z
 tags: 
   - recover
 categories: 
@@ -275,3 +275,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-poco-x5-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Poco X5 Pro Phone?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23 To Phone | Dr.fone</u></a></li>
 </ul></div>
+

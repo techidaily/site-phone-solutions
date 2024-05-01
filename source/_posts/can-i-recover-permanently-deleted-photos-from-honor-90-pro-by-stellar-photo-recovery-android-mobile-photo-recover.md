@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Honor 90 Pro
-date: 2024-04-12T01:17:24.403Z
+date: 2024-04-30T19:40:04.815Z
 tags: 
   - recover
 categories: 
@@ -285,3 +285,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-infinix-note-30-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Infinix Note 30 5G to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-zero-30-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Zero 30 5G to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+

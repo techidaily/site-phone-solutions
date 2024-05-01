@@ -264,3 +264,4 @@ There you have it, these are the tricks that you can do on your own to fix any i
 <li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-13-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 13 to Windows PC With Ease? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-motorola-moto-g23-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Motorola Moto G23 Quickly | Dr.fone</u></a></li>
 </ul></div>
+

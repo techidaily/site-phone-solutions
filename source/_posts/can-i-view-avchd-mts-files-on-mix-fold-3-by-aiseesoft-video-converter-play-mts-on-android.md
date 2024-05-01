@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Mix Fold 3?
-date: 2024-04-12T01:17:58.752Z
+date: 2024-04-30T19:40:05.117Z
 tags: 
   - mts video
   - mts android
@@ -197,3 +197,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-realme-12-proplus-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Realme 12 Pro+ 5G? Try These Fixes</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-convert-mts-for-huawei-nova-y91-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Huawei Nova Y91</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Honor X8b
-date: 2024-04-12T01:17:26.264Z
+date: 2024-04-30T19:40:04.825Z
 tags: 
   - recover
 categories: 
@@ -253,3 +253,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola G24 Power | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-sony-xperia-5-v-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Sony Xperia 5 V FRP Locks</u></a></li>
 </ul></div>
+

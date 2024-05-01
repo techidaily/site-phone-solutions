@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Y78t
-date: 2024-04-12T01:17:56.595Z
+date: 2024-04-30T19:40:05.091Z
 tags: 
   - recover
 categories: 
@@ -275,3 +275,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy F34 5G</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y28-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y28 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Can I view AVCHD .mts files on Motorola Moto G73 5G?
-date: 2024-04-12T01:17:59.605Z
-updated: 2024-04-13T01:17:59.605Z
+date: 2024-04-30T19:40:05.124Z
+updated: 2024-05-01T19:40:05.124Z
 tags: 
   - mts video
   - mts android
@@ -205,3 +205,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo A58 4G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone SE (2020) | Stellar</u></a></li>
 </ul></div>
+

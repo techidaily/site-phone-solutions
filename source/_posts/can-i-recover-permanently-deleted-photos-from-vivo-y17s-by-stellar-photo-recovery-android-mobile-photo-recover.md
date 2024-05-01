@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Vivo Y17s
-date: 2024-04-12T01:17:51.726Z
+date: 2024-04-30T19:40:05.050Z
 tags: 
   - recover
 categories: 
@@ -256,3 +256,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo Reno 11 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-14-pro-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 14 Pro? Learn All 4 Methods</u></a></li>
 </ul></div>
+

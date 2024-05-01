@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Y100i
-date: 2024-04-12T01:17:56.169Z
+date: 2024-04-30T19:40:05.088Z
 tags: 
   - recover
 categories: 
@@ -306,3 +306,4 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/how-to-fix-it-realme-11-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme 11 Pro Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-transfer-your-apple-iphone-12-pro-apps-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Transfer your Apple iPhone 12 Pro Apps to New iPhone | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on HTC ?
-date: 2024-04-12T01:17:58.178Z
+date: 2024-04-30T19:40:05.112Z
 tags: 
   - mts video
   - mts android
@@ -185,3 +185,4 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-pop-8-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Pop 8 Screen | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/best-itel-frp-bypass-guide-by-drfone-android/"><u>Best Itel FRP Bypass Guide</u></a></li>
 </ul></div>
+
