@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Xiaomi Redmi Note 12R?
-date: 2024-04-30T19:44:26.335Z
+date: 2024-05-19T17:46:52.642Z
 tags: 
   - hevc video
   - hevc android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y02T | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-12-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi 12 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

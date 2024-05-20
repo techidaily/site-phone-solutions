@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy S21 FE 5G (2023) has native HEVC support?
-date: 2024-04-30T19:42:36.763Z
+date: 2024-05-19T17:46:51.835Z
 tags: 
   - hevc video
   - hevc android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Plus Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Apple iPhone 14 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on HTC U23 Pro?
-date: 2024-04-30T19:40:05.115Z
+date: 2024-05-19T17:46:50.736Z
 tags: 
   - mts video
   - mts android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oneplus-12-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of OnePlus 12?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-x-flip-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo X Flip Lock Screen Password</u></a></li>
 </ul></div>
+
 

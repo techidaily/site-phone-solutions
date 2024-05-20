@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Google Pixel 8 Pro Hard Reset | Dr.fone
-date: 2024-04-30T19:48:46.115Z
-updated: 2024-05-01T19:48:46.115Z
+date: 2024-05-19T17:46:55.237Z
+updated: 2024-05-20T17:46:55.237Z
 tags: 
   - reset
 categories:
@@ -381,4 +381,5 @@ This concludes our article on five ways to hard reset Google Pixel 8 Pro phones.
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Find X6 Pro? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y77t | Dr.fone</u></a></li>
 </ul></div>
+
 

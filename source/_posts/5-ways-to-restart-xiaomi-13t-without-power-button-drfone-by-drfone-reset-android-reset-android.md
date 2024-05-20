@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi 13T Without Power Button | Dr.fone
-date: 2024-04-30T19:52:08.160Z
-updated: 2024-05-01T19:52:08.160Z
+date: 2024-05-19T17:46:57.770Z
+updated: 2024-05-20T17:46:57.770Z
 tags: 
   - reset
 categories:
@@ -413,4 +413,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Other iPhone 11 devices? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone SE (2022)</u></a></li>
 </ul></div>
+
 

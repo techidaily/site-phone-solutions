@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Realme C51 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:35.825Z
-updated: 2024-05-01T19:50:35.825Z
+date: 2024-05-19T17:46:56.580Z
+updated: 2024-05-20T17:46:56.580Z
 tags: 
   - reset
 categories:
@@ -393,4 +393,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-60x-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo 60x 5G Phone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-12-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

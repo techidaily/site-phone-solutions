@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on 14
-date: 2024-04-30T19:40:28.886Z
+date: 2024-05-19T17:46:50.941Z
 tags: 
   - hevc video
   - hevc android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-edge-2023-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Edge 2023 Location | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Oppo A1 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

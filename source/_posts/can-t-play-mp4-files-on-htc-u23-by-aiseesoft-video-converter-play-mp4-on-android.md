@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on HTC U23
-date: 2024-04-30T19:40:22.309Z
+date: 2024-05-19T17:46:50.860Z
 tags: 
   - mp4 video
   - mp4 android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/bricked-your-itel-a60s-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Itel A60s? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Passcode without iTunes without Knowing Passcode?</u></a></li>
 </ul></div>
+
 

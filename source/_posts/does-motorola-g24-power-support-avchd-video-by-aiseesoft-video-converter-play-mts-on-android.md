@@ -1,6 +1,6 @@
 ---
 title: Does Motorola G24 Power support AVCHD video?
-date: 2024-04-30T19:42:12.723Z
+date: 2024-05-19T17:46:51.664Z
 tags: 
   - mts video
   - mts android
@@ -200,4 +200,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/complete-tutorial-for-tecno-pop-7-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Pop 7 Pro Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-edgeplus-2023-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola Edge+ (2023) Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+
 

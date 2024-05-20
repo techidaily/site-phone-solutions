@@ -1,7 +1,7 @@
 ---
 title: Can you play MP4 on Samsung ?
-date: 2024-04-30T19:40:57.810Z
-updated: 2024-05-01T19:40:57.810Z
+date: 2024-05-19T17:46:51.125Z
+updated: 2024-05-20T17:46:51.125Z
 tags: 
   - mp4 video
   - mp4 android
@@ -189,4 +189,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/does-apple-iphone-13-pro-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 13 Pro Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-redmi-k70-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Redmi K70.</u></a></li>
 </ul></div>
+
 

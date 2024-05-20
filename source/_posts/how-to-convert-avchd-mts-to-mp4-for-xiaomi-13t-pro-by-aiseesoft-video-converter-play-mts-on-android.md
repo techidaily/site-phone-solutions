@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD MTS to MP4 for Xiaomi 13T Pro?
-date: 2024-04-30T19:45:15.546Z
+date: 2024-05-19T17:46:52.960Z
 tags: 
   - mts video
   - mts android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-tips-for-canva-animated-elements/"><u>Updated In 2024, Tips for Canva Animated Elements</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-oppo-reno-11f-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Oppo Reno 11F 5G Phones</u></a></li>
 </ul></div>
+
 

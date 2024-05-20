@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on G24 Power
-date: 2024-04-30T19:40:08.934Z
+date: 2024-05-19T17:46:50.775Z
 tags: 
   - mov video
   - mov android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-nokia-c110-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Nokia C110 Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

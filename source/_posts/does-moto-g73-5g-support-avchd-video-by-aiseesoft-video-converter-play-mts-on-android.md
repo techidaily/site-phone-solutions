@@ -1,6 +1,6 @@
 ---
 title: Does Moto G73 5G support AVCHD video?
-date: 2024-04-30T19:42:10.164Z
+date: 2024-05-19T17:46:51.651Z
 tags: 
   - mts video
   - mts android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-shortcut-towards-timeline-template/"><u>Updated 2024 Approved Best Shortcut Towards Timeline Template</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From Apple iPhone 13 Pro Max</u></a></li>
 </ul></div>
+
 

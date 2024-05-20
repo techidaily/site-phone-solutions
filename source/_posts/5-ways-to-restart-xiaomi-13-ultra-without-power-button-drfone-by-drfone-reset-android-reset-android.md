@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi 13 Ultra Without Power Button | Dr.fone
-date: 2024-04-30T19:52:07.782Z
-updated: 2024-05-01T19:52:07.782Z
+date: 2024-05-19T17:46:57.767Z
+updated: 2024-05-20T17:46:57.767Z
 tags: 
   - reset
 categories:
@@ -580,4 +580,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-90-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor 90 FRP Bypass</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-reno-8t-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo Reno 8T Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi 13C has native MOV support?
-date: 2024-04-30T19:42:48.371Z
+date: 2024-05-19T17:46:51.892Z
 tags: 
   - mov video
   - mov android
@@ -227,4 +227,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-x100-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo X100 Pro</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-xr-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone XR when Phone is Broken? | Dr.fone</u></a></li>
 </ul></div>
+
 

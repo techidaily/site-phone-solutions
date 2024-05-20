@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor X9a Without Power Button | Dr.fone
-date: 2024-04-30T19:51:12.646Z
-updated: 2024-05-01T19:51:12.646Z
+date: 2024-05-19T17:46:56.982Z
+updated: 2024-05-20T17:46:56.982Z
 tags: 
   - reset
 categories:
@@ -433,4 +433,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 with a Mask On | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco X5 | Dr.fone</u></a></li>
 </ul></div>
+
 

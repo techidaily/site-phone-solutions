@@ -1,6 +1,6 @@
 ---
 title: How do I play MKV movies on Galaxy A05?
-date: 2024-04-30T19:44:08.170Z
+date: 2024-05-19T17:46:52.520Z
 tags: 
   - mkv video
   - mkv android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-magic-5-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor Magic 5 Pro</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-12-pro-max-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 12 Pro Max using find my iphone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T19:45:36.247Z
-updated: 2024-05-01T19:45:36.247Z
+date: 2024-05-19T17:46:53.173Z
+updated: 2024-05-20T17:46:53.173Z
 tags: 
   - reset
 categories:
@@ -462,4 +462,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-8-plus-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone 8 Plus without Apple ID?</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-apple-iphone-14-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from Apple iPhone 14</u></a></li>
 </ul></div>
+
 

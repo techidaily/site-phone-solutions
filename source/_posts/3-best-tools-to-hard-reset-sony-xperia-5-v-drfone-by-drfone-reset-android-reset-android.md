@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T19:46:09.067Z
-updated: 2024-05-01T19:46:09.067Z
+date: 2024-05-19T17:46:53.446Z
+updated: 2024-05-20T17:46:53.446Z
 tags: 
   - reset
 categories:
@@ -387,4 +387,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-s17-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo S17</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor X9a? | Dr.fone</u></a></li>
 </ul></div>
+
 

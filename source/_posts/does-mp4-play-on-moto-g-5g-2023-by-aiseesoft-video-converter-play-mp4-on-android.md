@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Moto G 5G (2023)?
-date: 2024-04-30T19:42:19.343Z
+date: 2024-05-19T17:46:51.699Z
 tags: 
   - mp4 video
   - mp4 android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy Z Flip 5</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-14-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 14 Data From iCloud? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Motorola Razr 40?
-date: 2024-04-30T19:40:56.685Z
+date: 2024-05-19T17:46:51.118Z
 tags: 
   - mp4 video
   - mp4 android
@@ -160,4 +160,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-unleash-your-creativity-top-free-video-editing-software-for-32-bit-windows/"><u>In 2024, Unleash Your Creativity Top Free Video Editing Software for 32-Bit Windows</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-tips-to-make-cinematic-color-grading/"><u>New Tips to Make Cinematic Color Grading</u></a></li>
 </ul></div>
+
 

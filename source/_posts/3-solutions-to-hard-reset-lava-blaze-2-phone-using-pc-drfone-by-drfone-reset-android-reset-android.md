@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Lava Blaze 2 Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:51.486Z
-updated: 2024-05-01T19:47:51.486Z
+date: 2024-05-19T17:46:54.627Z
+updated: 2024-05-20T17:46:54.627Z
 tags: 
   - reset
 categories:
@@ -425,4 +425,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-google-pixel-8-pro-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Google Pixel 8 Pro Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/how-to-fix-it-nubia-red-magic-8s-proplus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Nubia Red Magic 8S Pro+ Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

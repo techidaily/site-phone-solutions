@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD MTS to MP4 for Xiaomi Redmi 12 5G?
-date: 2024-04-30T19:45:16.298Z
+date: 2024-05-19T17:46:52.964Z
 tags: 
   - mts video
   - mts android
@@ -216,4 +216,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-create-slide-masking-effect-introfilmora/"><u>2024 Approved Create Slide Masking Effect Intro【Filmora】</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-magic-5-lite-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor Magic 5 Lite</u></a></li>
 </ul></div>
+
 

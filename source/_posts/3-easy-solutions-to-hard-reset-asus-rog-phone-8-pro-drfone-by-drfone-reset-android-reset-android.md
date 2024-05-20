@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Asus ROG Phone 8 Pro | Dr.fone
-date: 2024-04-30T19:46:29.087Z
-updated: 2024-05-01T19:46:29.087Z
+date: 2024-05-19T17:46:53.901Z
+updated: 2024-05-20T17:46:53.901Z
 tags: 
   - reset
 categories:
@@ -476,4 +476,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Yuva 3 Pro | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-poco-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Poco ?</u></a></li>
 </ul></div>
+
 

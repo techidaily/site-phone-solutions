@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Poco C50 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:31.323Z
-updated: 2024-05-01T19:50:31.323Z
+date: 2024-05-19T17:46:56.513Z
+updated: 2024-05-20T17:46:56.513Z
 tags: 
   - reset
 categories:
@@ -484,4 +484,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://ai-video-apps.techidaily.com/1714274530349-new-no-budget-no-problem-top-free-4k-video-editors-for-2024/"><u>New No Budget? No Problem! Top Free 4K Video Editors for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-windows-movie-maker-review/"><u>In 2024, Windows Movie Maker Review</u></a></li>
 </ul></div>
+
 

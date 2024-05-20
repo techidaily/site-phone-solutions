@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Huawei 
-date: 2024-04-30T19:40:16.162Z
+date: 2024-05-19T17:46:50.834Z
 tags: 
   - mov video
   - mov android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y27s-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y27s with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

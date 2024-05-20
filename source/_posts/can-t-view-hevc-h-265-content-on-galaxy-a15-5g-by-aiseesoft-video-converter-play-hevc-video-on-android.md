@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Galaxy A15 5G
-date: 2024-04-30T19:40:30.014Z
+date: 2024-05-19T17:46:50.947Z
 tags: 
   - hevc video
   - hevc android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A05 | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-x-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone X Without Previous Owner?</u></a></li>
 </ul></div>
+
 

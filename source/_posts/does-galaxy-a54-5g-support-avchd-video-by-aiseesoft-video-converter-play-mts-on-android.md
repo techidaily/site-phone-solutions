@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy A54 5G support AVCHD video?
-date: 2024-04-30T19:41:57.628Z
+date: 2024-05-19T17:46:51.578Z
 tags: 
   - mts video
   - mts android
@@ -212,4 +212,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-se-2022-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone SE (2022) Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x50-gt-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X50 GT</u></a></li>
 </ul></div>
+
 

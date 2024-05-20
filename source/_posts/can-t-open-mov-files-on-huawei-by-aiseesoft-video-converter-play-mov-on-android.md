@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Huawei 
-date: 2024-04-30T19:40:10.068Z
+date: 2024-05-19T17:46:50.781Z
 tags: 
   - mov video
   - mov android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-free-and-paid-video-editing-apps-for-kids-a-parents-guide-for-2024/"><u>Updated Free and Paid Video Editing Apps for Kids A Parents Guide for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y100-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y100 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T19:47:16.941Z
-updated: 2024-05-01T19:47:16.941Z
+date: 2024-05-19T17:46:54.296Z
+updated: 2024-05-20T17:46:54.296Z
 tags: 
   - reset
 categories:
@@ -489,4 +489,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-p55plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel P55+</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Meizu 21 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

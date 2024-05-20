@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G84 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:26.345Z
-updated: 2024-05-01T19:51:26.345Z
+date: 2024-05-19T17:46:57.217Z
+updated: 2024-05-20T17:46:57.217Z
 tags: 
   - reset
 categories:
@@ -438,4 +438,5 @@ The above given are multiple options that can be used for resetting your Motorol
 <li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-14-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 14 Making It Possible</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/2024-approved-top-10-solutions-for-movie-subtitle-translation-making-things-perfect/"><u>2024 Approved Top 10 Solutions for Movie Subtitle Translation Making Things Perfect</u></a></li>
 </ul></div>
+
 

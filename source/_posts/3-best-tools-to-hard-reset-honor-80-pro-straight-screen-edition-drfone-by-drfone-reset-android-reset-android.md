@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Honor 80 Pro Straight Screen Edition | Dr.fone
-date: 2024-04-30T19:45:22.526Z
-updated: 2024-05-01T19:45:22.526Z
+date: 2024-05-19T17:46:53.020Z
+updated: 2024-05-20T17:46:53.020Z
 tags: 
   - reset
 categories:
@@ -440,4 +440,5 @@ Resetting an Honor 80 Pro Straight Screen Edition phone can be tricky sometimes;
 <li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Motorola</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-m14-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy M14 5G To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

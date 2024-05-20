@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Galaxy A14 5G
-date: 2024-04-30T19:54:01.202Z
-updated: 2024-05-01T19:54:01.202Z
+date: 2024-05-19T17:46:59.057Z
+updated: 2024-05-20T17:46:59.057Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -175,4 +175,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-s18-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo S18 to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/is-your-samsung-galaxy-a24-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A24 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

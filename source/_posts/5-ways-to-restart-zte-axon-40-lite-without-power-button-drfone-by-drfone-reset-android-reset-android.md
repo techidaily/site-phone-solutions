@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart ZTE Axon 40 Lite Without Power Button | Dr.fone
-date: 2024-04-30T19:52:13.280Z
-updated: 2024-05-01T19:52:13.280Z
+date: 2024-05-19T17:46:57.807Z
+updated: 2024-05-20T17:46:57.807Z
 tags: 
   - reset
 categories:
@@ -461,4 +461,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://techidaily.com/how-to-factory-reset-sony-xperia-5-v-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Sony Xperia 5 V in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Edge 40 has native HEVC support?
-date: 2024-04-30T19:41:52.729Z
+date: 2024-05-19T17:46:51.513Z
 tags: 
   - hevc video
   - hevc android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-lava-yuva-2-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Lava Yuva 2</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-best-of-the-best-top-intro-making-websites/"><u>Updated Best of the Best Top Intro Making Websites</u></a></li>
 </ul></div>
+
 

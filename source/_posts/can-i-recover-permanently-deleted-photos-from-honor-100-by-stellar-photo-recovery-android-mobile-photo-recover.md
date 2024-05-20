@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Honor 100
-date: 2024-04-30T19:40:04.812Z
+date: 2024-05-19T17:46:50.434Z
 tags: 
   - recover
 categories: 
@@ -248,4 +248,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y17s-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y17s Phone Now with These Tips</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-7-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 7 Plus and iPad</u></a></li>
 </ul></div>
+
 

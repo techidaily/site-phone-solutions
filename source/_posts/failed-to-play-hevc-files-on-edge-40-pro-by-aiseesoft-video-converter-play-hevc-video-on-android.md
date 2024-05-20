@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Edge 40 Pro
-date: 2024-04-30T19:43:18.803Z
+date: 2024-05-19T17:46:52.130Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-camon-20-premier-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Camon 20 Premier 5G FRP Bypass</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-11-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 11 Pro Max Without a Passcode</u></a></li>
 </ul></div>
+
 

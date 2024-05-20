@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Defy 2?
-date: 2024-04-30T19:44:45.552Z
+date: 2024-05-19T17:46:52.749Z
 tags: 
   - mp4 video
   - mp4 android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/how-to-factory-reset-ipad-or-apple-iphone-12-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>How to Factory Reset iPad or Apple iPhone 12 Pro without iCloud Password or Apple ID?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-zero-30-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Zero 30 5G to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

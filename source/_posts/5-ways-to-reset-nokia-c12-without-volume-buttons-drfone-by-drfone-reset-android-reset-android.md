@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Nokia C12 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:20.061Z
-updated: 2024-05-01T19:50:20.061Z
+date: 2024-05-19T17:46:56.369Z
+updated: 2024-05-20T17:46:56.369Z
 tags: 
   - reset
 categories:
@@ -475,4 +475,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme 11 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Xiaomi 13 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

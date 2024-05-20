@@ -1,7 +1,7 @@
 ---
 title: How do you play HEVC/H.265 files on Galaxy A25 5G?
-date: 2024-04-30T19:44:26.896Z
-updated: 2024-05-01T19:44:26.896Z
+date: 2024-05-19T17:46:52.645Z
+updated: 2024-05-20T17:46:52.645Z
 tags: 
   - hevc video
   - hevc android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/top-9-lava-blaze-2-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Blaze 2 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-video-editing-apps-for-windows-11-free-paid-and-everything-in-between/"><u>Updated 2024 Approved Best Video Editing Apps for Windows 11 Free, Paid, and Everything In Between</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Samsung Galaxy S23+? 
-date: 2024-04-30T19:45:03.305Z
+date: 2024-05-19T17:46:52.891Z
 tags: 
   - mts video
   - mts android
@@ -209,4 +209,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-motorola-moto-g14-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Motorola Moto G14 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

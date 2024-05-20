@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T19:53:47.075Z
-updated: 2024-05-01T19:53:47.075Z
+date: 2024-05-19T17:46:58.911Z
+updated: 2024-05-20T17:46:58.911Z
 tags: 
   - reset
 categories:
@@ -386,4 +386,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-x100-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo X100 for Free? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-y17s-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo Y17s</u></a></li>
 </ul></div>
+
 

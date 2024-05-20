@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Moto G34 5G
-date: 2024-04-30T19:40:31.881Z
+date: 2024-05-19T17:46:50.957Z
 tags: 
   - hevc video
   - hevc android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/updated-vn-video-editor-templates-a-game-changer-for-your-videos/"><u>Updated VN Video Editor Templates A Game-Changer for Your Videos</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-10t-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme 10T 5G Users</u></a></li>
 </ul></div>
+
 

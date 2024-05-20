@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Huawei P60
-date: 2024-04-30T19:40:16.348Z
+date: 2024-05-19T17:46:50.835Z
 tags: 
   - mov video
   - mov android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone 12? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-narzo-n53-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme Narzo N53 Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

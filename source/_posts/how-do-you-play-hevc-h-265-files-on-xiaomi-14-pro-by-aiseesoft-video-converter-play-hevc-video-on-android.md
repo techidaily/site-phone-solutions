@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Xiaomi 14 Pro?
-date: 2024-04-30T19:44:24.836Z
+date: 2024-05-19T17:46:52.633Z
 tags: 
   - hevc video
   - hevc android
@@ -206,4 +206,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/are-you-aware-that-av1-has-the-potential-to-change-the-way-we-watch-videos-online-read-on-to-learn-more-about-av1-and-how-it-could-impact-your-life-for-2024/"><u>Are You Aware that AV1 Has the Potential to Change the Way We Watch Videos Online? Read on to Learn More About AV1 and How It Could Impact Your Life for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-8-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 8 Plus? 7 Mehtods You Cant-Miss</u></a></li>
 </ul></div>
+
 

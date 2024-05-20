@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Lava Blaze Pro 5G Hard Reset | Dr.fone
-date: 2024-04-30T19:49:00.299Z
-updated: 2024-05-01T19:49:00.299Z
+date: 2024-05-19T17:46:55.445Z
+updated: 2024-05-20T17:46:55.445Z
 tags: 
   - reset
 categories:
@@ -507,4 +507,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Itel P55 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-htc-u23-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on HTC U23, is it possible?</u></a></li>
 </ul></div>
+
 

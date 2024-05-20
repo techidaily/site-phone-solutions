@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy M34 5G has native HEVC support?
-date: 2024-04-30T19:41:59.436Z
+date: 2024-05-19T17:46:51.588Z
 tags: 
   - hevc video
   - hevc android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-6-pro-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 6 Pro 5G in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-pixel-perfect-mastering-ratio-calculations-for-displays/"><u>In 2024, Pixel Perfect Mastering Ratio Calculations for Displays</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does 13 Ultra has native MOV support?
-date: 2024-04-30T19:41:49.877Z
+date: 2024-05-19T17:46:51.499Z
 tags: 
   - mov video
   - mov android
@@ -159,4 +159,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-lava-blaze-2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Lava Blaze 2 Devices</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 90 Lite | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy A34 5G support AVCHD video?
-date: 2024-04-30T19:42:34.012Z
+date: 2024-05-19T17:46:51.821Z
 tags: 
   - mts video
   - mts android
@@ -189,4 +189,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/iphone-se-2022-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone SE (2022) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/every-compositor-should-know-the-trick-of-color-match-in-after-effects/"><u>Every Compositor Should Know The Trick of Color Match in After Effects</u></a></li>
 </ul></div>
+
 

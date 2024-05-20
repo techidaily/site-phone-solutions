@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Samsung Galaxy S24?
-date: 2024-04-30T19:44:23.898Z
+date: 2024-05-19T17:46:52.628Z
 tags: 
   - hevc video
   - hevc android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-poco-c55-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Poco C55 in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

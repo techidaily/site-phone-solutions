@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Nokia C12 Plus Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:19.678Z
-updated: 2024-05-01T19:50:19.678Z
+date: 2024-05-19T17:46:56.365Z
+updated: 2024-05-20T17:46:56.365Z
 tags: 
   - reset
 categories:
@@ -420,4 +420,5 @@ Let's end our guide for the easiest ways to **hard reset Nokia C12 Plus**. You c
 <li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Nokia C300 | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/game-on-best-free-video-editing-software-for-2024/"><u>Game On! Best Free Video Editing Software for 2024</u></a></li>
 </ul></div>
+
 

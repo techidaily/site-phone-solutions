@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Sony Xperia 1 V? | Dr.fone
-date: 2024-04-30T19:53:12.342Z
-updated: 2024-05-01T19:53:12.342Z
+date: 2024-05-19T17:46:58.366Z
+updated: 2024-05-20T17:46:58.366Z
 tags: 
   - reset
 categories:
@@ -421,4 +421,5 @@ The above given are multiple options that can be used for resetting your Sony Xp
 <li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-c50-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco C50</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-oppo-a59-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo A59 5G Phone Screen?</u></a></li>
 </ul></div>
+
 

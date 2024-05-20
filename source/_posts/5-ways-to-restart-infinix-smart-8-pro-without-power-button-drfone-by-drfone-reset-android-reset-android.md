@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Smart 8 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:17.059Z
-updated: 2024-05-01T19:51:17.059Z
+date: 2024-05-19T17:46:57.082Z
+updated: 2024-05-20T17:46:57.082Z
 tags: 
   - reset
 categories:
@@ -480,4 +480,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Lava Blaze 2 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-moto-g23-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Moto G23 Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

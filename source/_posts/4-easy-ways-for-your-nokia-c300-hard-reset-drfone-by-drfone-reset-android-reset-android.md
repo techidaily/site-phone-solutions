@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Nokia C300 Hard Reset | Dr.fone
-date: 2024-04-30T19:49:07.827Z
-updated: 2024-05-01T19:49:07.827Z
+date: 2024-05-19T17:46:55.535Z
+updated: 2024-05-20T17:46:55.535Z
 tags: 
   - reset
 categories:
@@ -410,4 +410,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-x9b-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor X9b Running Slow and Freezing | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus without Passcode or Face ID | Dr.fone</u></a></li>
 </ul></div>
+
 

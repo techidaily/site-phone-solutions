@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nubia Red Magic 9 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:30.173Z
-updated: 2024-05-01T19:51:30.173Z
+date: 2024-05-19T17:46:57.282Z
+updated: 2024-05-20T17:46:57.282Z
 tags: 
   - reset
 categories:
@@ -493,4 +493,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-7-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 7 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 </ul></div>
+
 

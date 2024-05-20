@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Huawei Nova Y71
-date: 2024-04-30T19:54:06.038Z
-updated: 2024-05-01T19:54:06.038Z
+date: 2024-05-19T17:46:59.099Z
+updated: 2024-05-20T17:46:59.099Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -178,4 +178,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-z-flip-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy Z Flip 5 to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
 </ul></div>
+
 

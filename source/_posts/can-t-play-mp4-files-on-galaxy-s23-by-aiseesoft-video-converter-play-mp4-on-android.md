@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Galaxy S23
-date: 2024-04-30T19:40:21.361Z
+date: 2024-05-19T17:46:50.856Z
 tags: 
   - mp4 video
   - mp4 android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-top-lyric-video-creation-tools-free-and-paid-options-compared-for-2024/"><u>New Top Lyric Video Creation Tools Free and Paid Options Compared for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Hot 40 Pro?</u></a></li>
 </ul></div>
+
 

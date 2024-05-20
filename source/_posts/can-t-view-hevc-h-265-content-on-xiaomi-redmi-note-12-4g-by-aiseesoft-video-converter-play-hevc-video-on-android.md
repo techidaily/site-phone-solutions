@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi Redmi Note 12 4G
-date: 2024-04-30T19:40:38.252Z
+date: 2024-05-19T17:46:50.994Z
 tags: 
   - hevc video
   - hevc android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-triggered-meme/"><u>New 2024 Approved How to Make a Triggered Meme?</u></a></li>
 </ul></div>
+
 

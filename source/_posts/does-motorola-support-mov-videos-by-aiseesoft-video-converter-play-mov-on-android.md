@@ -1,7 +1,7 @@
 ---
 title: Does Motorola support MOV videos ?
-date: 2024-04-30T19:42:16.712Z
-updated: 2024-05-01T19:42:16.712Z
+date: 2024-05-19T17:46:51.685Z
+updated: 2024-05-20T17:46:51.685Z
 tags: 
   - mov video
   - mov android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo A58 4G | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oneplus-ace-2-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass OnePlus Ace 2 Pro FRP</u></a></li>
 </ul></div>
+
 

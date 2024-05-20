@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y100i Without Power Button | Dr.fone
-date: 2024-04-30T19:52:04.225Z
-updated: 2024-05-01T19:52:04.225Z
+date: 2024-05-19T17:46:57.687Z
+updated: 2024-05-20T17:46:57.687Z
 tags: 
   - reset
 categories:
@@ -455,4 +455,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked On Apple iPhone SE (2020)?</u></a></li>
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-gt-10-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix GT 10 Pro to Enjoy More Fun | Dr.fone</u></a></li>
 </ul></div>
+
 

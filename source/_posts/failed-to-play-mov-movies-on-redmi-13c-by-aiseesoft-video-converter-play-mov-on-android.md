@@ -1,6 +1,6 @@
 ---
 title: Failed to play MOV movies on Redmi 13C
-date: 2024-04-30T19:43:42.043Z
+date: 2024-05-19T17:46:52.254Z
 tags: 
   - mov video
   - mov android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 11</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-razr-40-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola Razr 40 Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

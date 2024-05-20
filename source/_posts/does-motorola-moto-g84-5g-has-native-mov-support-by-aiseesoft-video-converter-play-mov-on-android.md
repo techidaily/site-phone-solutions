@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Moto G84 5G has native MOV support?
-date: 2024-04-30T19:42:15.186Z
+date: 2024-05-19T17:46:51.677Z
 tags: 
   - mov video
   - mov android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-note-12r-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi Note 12R Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-promote-tiktok-videos-in-2024/"><u>Updated How to Promote TikTok Videos, In 2024</u></a></li>
 </ul></div>
+
 

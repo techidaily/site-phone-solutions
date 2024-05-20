@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Pova 6 Pro 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:56.521Z
-updated: 2024-05-01T19:51:56.521Z
+date: 2024-05-19T17:46:57.615Z
+updated: 2024-05-20T17:46:57.615Z
 tags: 
   - reset
 categories:
@@ -509,4 +509,5 @@ The above given are multiple options that can be used for resetting your Tecno P
 <li><a href="https://techidaily.com/hard-resetting-an-vivo-y100-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100 5G Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-infinix-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Infinix</u></a></li>
 </ul></div>
+
 

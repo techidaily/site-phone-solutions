@@ -1,6 +1,6 @@
 ---
 title: Does Moto G 5G (2023) has native MOV support?
-date: 2024-04-30T19:42:07.888Z
+date: 2024-05-19T17:46:51.639Z
 tags: 
   - mov video
   - mov android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-itel-p40plus-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Itel P40+ Photos  An Easy Method Explained.</u></a></li>
 <li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-12-mini-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 12 mini</u></a></li>
 </ul></div>
+
 

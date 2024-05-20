@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Sony Xperia 10 V Phone Using PC | Dr.fone
-date: 2024-04-30T19:48:25.165Z
-updated: 2024-05-01T19:48:25.165Z
+date: 2024-05-19T17:46:54.998Z
+updated: 2024-05-20T17:46:54.998Z
 tags: 
   - reset
 categories:
@@ -465,4 +465,5 @@ Now that you know how to reset a Sony Xperia 10 V phone that is locked and how t
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-looking-for-the-steps-to-add-transitions-effects-in-premiere-pro-here-are-the-steps-to-add-and-edit-transitions-in-premiere-pro-and-an-alt/"><u>New 2024 Approved Looking for the Steps to Add Transitions Effects in Premiere Pro? Here Are the Steps to Add and Edit Transitions in Premiere Pro and an Alternative Way to Video Transitions</u></a></li>
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

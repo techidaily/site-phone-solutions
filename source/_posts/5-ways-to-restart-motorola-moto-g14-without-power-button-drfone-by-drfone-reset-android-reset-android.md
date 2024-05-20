@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G14 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:25.393Z
-updated: 2024-05-01T19:51:25.393Z
+date: 2024-05-19T17:46:57.210Z
+updated: 2024-05-20T17:46:57.210Z
 tags: 
   - reset
 categories:
@@ -543,4 +543,5 @@ Motorola Moto G14is a famous brand that serves a large number of consumers world
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo A1 5G? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 Pro Max Without Swiping Up? 6 Ways</u></a></li>
 </ul></div>
+
 

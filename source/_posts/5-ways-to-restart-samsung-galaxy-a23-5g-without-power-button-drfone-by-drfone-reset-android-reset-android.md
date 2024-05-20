@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy A23 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:48.474Z
-updated: 2024-05-01T19:51:48.474Z
+date: 2024-05-19T17:46:57.516Z
+updated: 2024-05-20T17:46:57.516Z
 tags: 
   - reset
 categories:
@@ -469,4 +469,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://ai-voice-clone.techidaily.com/6-best-voice-changers/"><u>6 Best Voice Changers</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-nokia-c32-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Nokia C32 Phones</u></a></li>
 </ul></div>
+
 

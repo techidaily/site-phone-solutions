@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Motorola Moto G73 5G?
-date: 2024-04-30T19:44:20.885Z
+date: 2024-05-19T17:46:52.612Z
 tags: 
   - hevc video
   - hevc android
@@ -213,4 +213,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-apple-iphone-13-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on Apple iPhone 13</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/using-track-matte-and-tracking-in-adobe-after-effects-reviewing-all-possibilities/"><u>Using Track Matte and Tracking in Adobe After Effects Reviewing All Possibilities</u></a></li>
 </ul></div>
+
 

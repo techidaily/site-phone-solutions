@@ -1,6 +1,6 @@
 ---
 title: How do I play MKV movies on Defy 2?
-date: 2024-04-30T19:44:07.600Z
+date: 2024-05-19T17:46:52.516Z
 tags: 
   - mkv video
   - mkv android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-tecno-spark-20c-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Tecno Spark 20C | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/are-you-ready-to-animate-game-character-from-scratch/"><u>Are You Ready to Animate Game Character From Scratch?</u></a></li>
 </ul></div>
+
 

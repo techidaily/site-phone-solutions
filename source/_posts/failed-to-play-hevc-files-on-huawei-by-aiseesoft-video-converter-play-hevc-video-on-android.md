@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Huawei 
-date: 2024-04-30T19:43:21.270Z
+date: 2024-05-19T17:46:52.144Z
 tags: 
   - hevc video
   - hevc android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-a05s-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel A05s Phone? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Motorola Moto G84 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

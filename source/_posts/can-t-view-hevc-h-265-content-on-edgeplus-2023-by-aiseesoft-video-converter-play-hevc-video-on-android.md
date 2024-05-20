@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Edge+ (2023)
-date: 2024-04-30T19:40:29.824Z
+date: 2024-05-19T17:46:50.946Z
 tags: 
   - hevc video
   - hevc android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-v27-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo V27 Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-honor-90-lite-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 90 Lite phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

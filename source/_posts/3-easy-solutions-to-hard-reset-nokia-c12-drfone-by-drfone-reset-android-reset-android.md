@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Nokia C12 | Dr.fone
-date: 2024-04-30T19:46:50.435Z
-updated: 2024-05-01T19:46:50.435Z
+date: 2024-05-19T17:46:54.084Z
+updated: 2024-05-20T17:46:54.084Z
 tags: 
   - reset
 categories:
@@ -427,4 +427,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-find-x6-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Find X6.</u></a></li>
 </ul></div>
+
 

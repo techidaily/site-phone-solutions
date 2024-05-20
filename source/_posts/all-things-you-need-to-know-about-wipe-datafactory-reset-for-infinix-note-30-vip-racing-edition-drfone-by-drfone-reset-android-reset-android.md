@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Infinix Note 30 VIP Racing Edition | Dr.fone
-date: 2024-04-30T19:53:42.224Z
-updated: 2024-05-01T19:53:42.224Z
+date: 2024-05-19T17:46:58.879Z
+updated: 2024-05-20T17:46:58.879Z
 tags: 
   - reset
 categories:
@@ -393,4 +393,5 @@ Now that you know how to reset a Infinix Note 30 VIP Racing Edition phone that i
 <li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-xr-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and iPhone XR</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-a78-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo A78</u></a></li>
 </ul></div>
+
 

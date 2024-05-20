@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Infinix GT 10 Pro
-date: 2024-04-30T19:54:06.787Z
+date: 2024-05-19T17:46:59.102Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -151,4 +151,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-nubia-z50s-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nubia Z50S Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-the-10-most-adorable-aesthetic-cartoon-characters-of-all-time/"><u>In 2024, The 10 Most Adorable Aesthetic Cartoon Characters of All Time</u></a></li>
 </ul></div>
+
 

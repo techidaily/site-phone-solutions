@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Infinix Smart 8 Pro Hard Reset | Dr.fone
-date: 2024-04-30T19:48:56.433Z
-updated: 2024-05-01T19:48:56.433Z
+date: 2024-05-19T17:46:55.378Z
+updated: 2024-05-20T17:46:55.378Z
 tags: 
   - reset
 categories:
@@ -381,4 +381,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Nokia G42 5G? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-pova-5-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Pova 5 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
+
 

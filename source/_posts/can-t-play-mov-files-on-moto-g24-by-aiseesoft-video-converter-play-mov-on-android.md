@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Moto G24
-date: 2024-04-30T19:40:16.721Z
+date: 2024-05-19T17:46:50.836Z
 tags: 
   - mov video
   - mov android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On OnePlus Ace 2? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo Y27 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

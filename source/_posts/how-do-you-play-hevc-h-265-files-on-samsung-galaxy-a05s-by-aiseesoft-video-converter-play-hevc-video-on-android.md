@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Samsung Galaxy A05s?
-date: 2024-04-30T19:44:22.583Z
+date: 2024-05-19T17:46:52.621Z
 tags: 
   - hevc video
   - hevc android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f04-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy F04 Phone without Google Account?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-motorola-moto-g24-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Motorola Moto G24 is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Redmi 12
-date: 2024-04-30T19:43:24.289Z
+date: 2024-05-19T17:46:52.160Z
 tags: 
   - hevc video
   - hevc android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-s18-prowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo S18 Prowith/without a PC</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-xr-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone XR without the Previous Owner?</u></a></li>
 </ul></div>
+
 

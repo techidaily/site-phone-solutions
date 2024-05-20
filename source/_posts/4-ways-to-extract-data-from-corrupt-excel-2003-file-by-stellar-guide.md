@@ -1,6 +1,6 @@
 ---
 title: 4 Ways to extract data from corrupt Excel 2003 file
-date: 2024-04-30T19:49:54.132Z
+date: 2024-05-19T17:46:56.090Z
 tags: 
   - repair
   - repair excel
@@ -162,4 +162,5 @@ Instead of giving up on corrupted Excel sheets, try repairing them with the simp
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-k70-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi K70 without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lenovo-thinkphone-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lenovo ThinkPhone without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Vivo Y100i Power 5G
-date: 2024-04-30T19:54:22.347Z
+date: 2024-05-19T17:46:59.230Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-note-30-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix Note 30 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-realme-c51-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme C51 Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

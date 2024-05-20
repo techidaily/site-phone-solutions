@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nubia Z50 Ultra Without Power Button | Dr.fone
-date: 2024-04-30T19:51:30.553Z
-updated: 2024-05-01T19:51:30.553Z
+date: 2024-05-19T17:46:57.297Z
+updated: 2024-05-20T17:46:57.297Z
 tags: 
   - reset
 categories:
@@ -583,4 +583,5 @@ Nubia Z50 Ultrais a famous brand that serves a large number of consumers worldwi
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-moto-g34-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Moto G34 5G Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-x-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone X</u></a></li>
 </ul></div>
+
 

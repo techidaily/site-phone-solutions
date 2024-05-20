@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Edge 2023 has native MOV support?
-date: 2024-04-30T19:42:11.220Z
+date: 2024-05-19T17:46:51.656Z
 tags: 
   - mov video
   - mov android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-f25-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo F25 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/1713954029962-updated-in-2024-zoom-in-and-zoom-out-on-youtube/"><u>Updated In 2024, | Zoom In and Zoom Out on YouTube</u></a></li>
 </ul></div>
+
 

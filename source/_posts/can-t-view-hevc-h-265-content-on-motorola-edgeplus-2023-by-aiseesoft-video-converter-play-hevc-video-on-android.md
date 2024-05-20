@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Motorola Edge+ (2023)
-date: 2024-04-30T19:40:32.440Z
+date: 2024-05-19T17:46:50.960Z
 tags: 
   - hevc video
   - hevc android
@@ -160,4 +160,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-se-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone SE</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro?</u></a></li>
 </ul></div>
+
 

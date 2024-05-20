@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Samsung Galaxy S23 FE ?
-date: 2024-04-30T19:44:41.307Z
+date: 2024-05-19T17:46:52.724Z
 tags: 
   - mov video
   - mov android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Infinix Hot 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 6s</u></a></li>
 </ul></div>
+
 

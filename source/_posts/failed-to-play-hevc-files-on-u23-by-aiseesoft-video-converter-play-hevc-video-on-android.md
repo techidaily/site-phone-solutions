@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on U23
-date: 2024-04-30T19:43:27.504Z
+date: 2024-05-19T17:46:52.177Z
 tags: 
   - hevc video
   - hevc android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-c33-2023-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme C33 2023</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12-4g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12 4G Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy F14 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:49.716Z
-updated: 2024-05-01T19:51:49.716Z
+date: 2024-05-19T17:46:57.525Z
+updated: 2024-05-20T17:46:57.525Z
 tags: 
   - reset
 categories:
@@ -439,4 +439,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-androids-finest-10-movie-making-apps-you-need/"><u>2024 Approved Androids Finest 10 Movie Making Apps You Need</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-find-x7-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Find X7? | Dr.fone</u></a></li>
 </ul></div>
+
 

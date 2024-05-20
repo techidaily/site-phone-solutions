@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Galaxy A25 5G
-date: 2024-04-30T19:54:01.392Z
+date: 2024-05-19T17:46:59.058Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -199,4 +199,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Oppo A78? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Honor X50 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

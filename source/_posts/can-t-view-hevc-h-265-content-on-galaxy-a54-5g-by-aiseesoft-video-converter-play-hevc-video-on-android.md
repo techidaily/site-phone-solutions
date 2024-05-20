@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Galaxy A54 5G
-date: 2024-04-30T19:40:30.201Z
+date: 2024-05-19T17:46:50.948Z
 tags: 
   - hevc video
   - hevc android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/top-10-nokia-c210-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia C210 Android SIM Unlock APK</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme GT 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

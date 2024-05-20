@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Galaxy M14 5G?
-date: 2024-04-30T19:44:17.218Z
+date: 2024-05-19T17:46:52.592Z
 tags: 
   - hevc video
   - hevc android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 7 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme C67 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on Moto G 5G (2023) ?
-date: 2024-04-30T19:44:02.346Z
+date: 2024-05-19T17:46:52.471Z
 tags: 
   - mov video
   - mov android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/15-camera-shake-preset-for-adobe-premiere-pro/"><u>15 Camera Shake Preset for Adobe Premiere Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-note-50-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Note 50 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
+
 

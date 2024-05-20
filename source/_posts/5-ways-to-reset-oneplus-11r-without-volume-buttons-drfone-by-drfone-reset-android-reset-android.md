@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset OnePlus 11R Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:23.097Z
-updated: 2024-05-01T19:50:23.097Z
+date: 2024-05-19T17:46:56.417Z
+updated: 2024-05-20T17:46:56.417Z
 tags: 
   - reset
 categories:
@@ -428,4 +428,5 @@ Resetting an OnePlus 11R phone can be tricky sometimes; therefore, it should be 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-lava-blaze-curve-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Lava Blaze Curve 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-top-ogg-conversion-software-our-key-takeaways/"><u>New Top OGG Conversion Software Our Key Takeaways</u></a></li>
 </ul></div>
+
 

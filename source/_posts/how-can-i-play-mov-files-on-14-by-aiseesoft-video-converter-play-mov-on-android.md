@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on 14 ?
-date: 2024-04-30T19:44:00.263Z
+date: 2024-05-19T17:46:52.459Z
 tags: 
   - mov video
   - mov android
@@ -189,4 +189,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-12-pro-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 12 Pro in Security Lockout? Proper Ways To Unlock</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/5-tips-for-faster-editing-in-filmora/"><u>5 Tips for Faster Editing in Filmora</u></a></li>
 </ul></div>
+
 

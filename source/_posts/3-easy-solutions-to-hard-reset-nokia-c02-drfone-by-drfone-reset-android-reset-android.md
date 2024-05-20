@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Nokia C02 | Dr.fone
-date: 2024-04-30T19:46:50.056Z
-updated: 2024-05-01T19:46:50.056Z
+date: 2024-05-19T17:46:54.081Z
+updated: 2024-05-20T17:46:54.081Z
 tags: 
   - reset
 categories:
@@ -468,4 +468,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-s17t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo S17t Fingerprint Lock</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

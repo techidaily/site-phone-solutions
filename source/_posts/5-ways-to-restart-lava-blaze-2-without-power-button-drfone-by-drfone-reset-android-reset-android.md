@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lava Blaze 2 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:20.688Z
-updated: 2024-05-01T19:51:20.688Z
+date: 2024-05-19T17:46:57.134Z
+updated: 2024-05-20T17:46:57.134Z
 tags: 
   - reset
 categories:
@@ -516,4 +516,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-f14-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy F14 5G? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

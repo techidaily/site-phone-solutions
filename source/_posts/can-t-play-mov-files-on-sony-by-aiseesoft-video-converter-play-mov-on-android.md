@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Sony 
-date: 2024-04-30T19:40:19.282Z
+date: 2024-05-19T17:46:50.848Z
 tags: 
   - mov video
   - mov android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone SE (2020)? How to Fix it?</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oppo-a56s-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Oppo A56s 5G – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
+
 

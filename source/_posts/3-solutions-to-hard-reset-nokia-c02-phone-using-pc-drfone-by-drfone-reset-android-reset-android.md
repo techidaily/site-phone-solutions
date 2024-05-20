@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Nokia C02 Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:58.255Z
-updated: 2024-05-01T19:47:58.255Z
+date: 2024-05-19T17:46:54.707Z
+updated: 2024-05-20T17:46:54.707Z
 tags: 
   - reset
 categories:
@@ -548,4 +548,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-6-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 6? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-liquid-water-reveal-intro/"><u>Updated 2024 Approved How to Create Liquid Water Reveal Intro?</u></a></li>
 </ul></div>
+
 

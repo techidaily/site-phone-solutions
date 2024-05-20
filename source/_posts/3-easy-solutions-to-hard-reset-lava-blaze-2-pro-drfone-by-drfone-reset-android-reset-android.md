@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T19:46:43.443Z
-updated: 2024-05-01T19:46:43.443Z
+date: 2024-05-19T17:46:54.029Z
+updated: 2024-05-20T17:46:54.029Z
 tags: 
   - reset
 categories:
@@ -475,4 +475,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://android-unlock.techidaily.com/lock-your-vivo-y100a-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo Y100A Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

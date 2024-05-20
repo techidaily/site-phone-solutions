@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Samsung Galaxy S23 FE?
-date: 2024-04-30T19:42:23.396Z
+date: 2024-05-19T17:46:51.726Z
 tags: 
   - mp4 video
   - mp4 android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11-proplus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11 Pro+ to Other Android Devices Devices? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

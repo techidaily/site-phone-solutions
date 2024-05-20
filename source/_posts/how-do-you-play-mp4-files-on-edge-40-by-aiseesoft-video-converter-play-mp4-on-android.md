@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Edge 40?
-date: 2024-04-30T19:44:45.741Z
+date: 2024-05-19T17:46:52.750Z
 tags: 
   - mp4 video
   - mp4 android
@@ -189,4 +189,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-8-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 8 Plus - 4 Easy Ways</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-12plus-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme 12+ 5G Lock Screen Password</u></a></li>
 </ul></div>
+
 

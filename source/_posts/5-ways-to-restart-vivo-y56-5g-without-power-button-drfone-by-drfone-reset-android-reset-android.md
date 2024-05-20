@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y56 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:06.651Z
-updated: 2024-05-01T19:52:06.651Z
+date: 2024-05-19T17:46:57.757Z
+updated: 2024-05-20T17:46:57.757Z
 tags: 
   - reset
 categories:
@@ -430,4 +430,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Sony Xperia 1 V? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-lava-blaze-curve-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Lava Blaze Curve 5G Phones</u></a></li>
 </ul></div>
+
 

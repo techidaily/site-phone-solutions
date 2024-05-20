@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Hot 40 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:14.772Z
-updated: 2024-05-01T19:51:14.772Z
+date: 2024-05-19T17:46:57.053Z
+updated: 2024-05-20T17:46:57.053Z
 tags: 
   - reset
 categories:
@@ -495,4 +495,5 @@ Now that you know how to hard reset Infinix Hot 40 it is time to implement all t
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y27s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo Y27s</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Honor 90 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

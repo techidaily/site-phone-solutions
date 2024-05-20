@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi 13T Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:52:07.970Z
-updated: 2024-05-01T19:52:07.970Z
+date: 2024-05-19T17:46:57.769Z
+updated: 2024-05-20T17:46:57.769Z
 tags: 
   - reset
 categories:
@@ -517,4 +517,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-hot-40i-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Hot 40i Fingerprint Lock</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-list-best-free-online-video-editing-software/"><u>New In 2024, The Ultimate List Best Free Online Video Editing Software</u></a></li>
 </ul></div>
+
 

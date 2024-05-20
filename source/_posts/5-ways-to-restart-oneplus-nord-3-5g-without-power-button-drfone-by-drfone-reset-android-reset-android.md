@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart OnePlus Nord 3 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:32.445Z
-updated: 2024-05-01T19:51:32.445Z
+date: 2024-05-19T17:46:57.311Z
+updated: 2024-05-20T17:46:57.311Z
 tags: 
   - reset
 categories:
@@ -455,4 +455,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-t2-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo T2 5G Phone Network-Ready</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On HTC U23 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy A25 5G has native HEVC support?
-date: 2024-04-30T19:42:33.262Z
+date: 2024-05-19T17:46:51.817Z
 tags: 
   - hevc video
   - hevc android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-14-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 14 Pro Max in Lost Mode</u></a></li>
 </ul></div>
+
 

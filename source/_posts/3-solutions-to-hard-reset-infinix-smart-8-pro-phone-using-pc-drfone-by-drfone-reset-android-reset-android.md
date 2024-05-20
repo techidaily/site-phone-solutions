@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Infinix Smart 8 Pro Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:48.232Z
-updated: 2024-05-01T19:47:48.232Z
+date: 2024-05-19T17:46:54.604Z
+updated: 2024-05-20T17:46:54.604Z
 tags: 
   - reset
 categories:
@@ -392,4 +392,5 @@ Above are some strategies with which you can do an **Infinix Smart 8 Pro hard re
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-samsung-galaxy-m34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Samsung Galaxy M34 5G to iPhone | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Moto E13? | Dr.fone</u></a></li>
 </ul></div>
+
 

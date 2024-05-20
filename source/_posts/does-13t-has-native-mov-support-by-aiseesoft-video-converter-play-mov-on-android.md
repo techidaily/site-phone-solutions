@@ -1,6 +1,6 @@
 ---
 title: Does 13T has native MOV support?
-date: 2024-04-30T19:41:50.068Z
+date: 2024-05-19T17:46:51.502Z
 tags: 
   - mov video
   - mov android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-uot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to insert sign in .uot file</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

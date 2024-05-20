@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi Redmi 12
-date: 2024-04-30T19:40:37.690Z
+date: 2024-05-19T17:46:50.991Z
 tags: 
   - hevc video
   - hevc android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-detailed-steps-to-rotate-videos-using-kdenlive/"><u>New In 2024, Detailed Steps to Rotate Videos Using Kdenlive</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-do-masking-in-after-effects-alternative-provided-for-2024/"><u>New How to Do Masking in After Effects Alternative Provided for 2024</u></a></li>
 </ul></div>
+
 

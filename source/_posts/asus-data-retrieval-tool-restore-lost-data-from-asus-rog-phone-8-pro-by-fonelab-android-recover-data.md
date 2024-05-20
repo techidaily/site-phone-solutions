@@ -1,6 +1,6 @@
 ---
 title: Asus Data Retrieval tool – restore lost data from Asus ROG Phone 8 Pro
-date: 2024-04-30T19:54:28.190Z
+date: 2024-05-19T17:46:59.262Z
 tags: 
   - android data recovery
   - android devices data recovery
@@ -177,4 +177,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-asus-rog-phone-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Asus ROG Phone 8? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-y100-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo Y100 Is Unlocked</u></a></li>
 </ul></div>
+
 

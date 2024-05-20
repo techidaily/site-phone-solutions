@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme 12 Pro+ 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:43.161Z
-updated: 2024-05-01T19:51:43.161Z
+date: 2024-05-19T17:46:57.429Z
+updated: 2024-05-20T17:46:57.429Z
 tags: 
   - reset
 categories:
@@ -429,4 +429,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-edge-40-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Edge 40</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-13c-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi Redmi 13C</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Redmi Note 13 5G?
-date: 2024-04-30T19:42:21.604Z
+date: 2024-05-19T17:46:51.711Z
 tags: 
   - mp4 video
   - mp4 android
@@ -156,4 +156,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-the-steadiest-of-them-all-best-video-stabilizer-apps-for-iphone-and-android/"><u>New The Steadiest of Them All Best Video Stabilizer Apps for iPhone and Android</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-2024-approved-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
 </ul></div>
+
 

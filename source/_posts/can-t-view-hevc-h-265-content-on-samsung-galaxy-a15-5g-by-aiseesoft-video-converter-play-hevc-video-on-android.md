@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Samsung Galaxy A15 5G
-date: 2024-04-30T19:40:35.078Z
+date: 2024-05-19T17:46:50.975Z
 tags: 
   - hevc video
   - hevc android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Nokia 130 Music? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

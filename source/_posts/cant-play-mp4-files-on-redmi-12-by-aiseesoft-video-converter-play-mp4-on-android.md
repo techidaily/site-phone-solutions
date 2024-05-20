@@ -1,7 +1,7 @@
 ---
 title: Can't play MP4 files on Redmi 12
-date: 2024-04-30T19:41:18.816Z
-updated: 2024-05-01T19:41:18.816Z
+date: 2024-05-19T17:46:51.255Z
+updated: 2024-05-20T17:46:51.255Z
 tags: 
   - mp4 video
   - mp4 android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/updated-slow-down-or-speed-up-videos-easily-on-pc-online-and-phone-for-2024/"><u>Updated Slow Down or Speed Up Videos Easily on PC, Online, and Phone for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713965675126-new-want-to-learn-how-to-trim-videos-in-premiere-pro-read-on-our-guide-will-help-you-trim-videos-with-this-timeline-based-video-editing-software-application/"><u>New Want to Learn How to Trim Videos in Premiere Pro. Read on; Our Guide Will Help You Trim Videos with This Timeline-Based Video Editing Software Application to Make Them Engaging to Viewers for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Motorola Moto G84 5G | Dr.fone
-date: 2024-04-30T19:46:48.979Z
-updated: 2024-05-01T19:46:48.979Z
+date: 2024-05-19T17:46:54.075Z
+updated: 2024-05-20T17:46:54.075Z
 tags: 
   - reset
 categories:
@@ -492,4 +492,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-motion-blur-on-capcut-iphone-and-android/"><u>New 2024 Approved How To Add Motion Blur On CapCut? (IPhone & Android)</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Without Passcode?</u></a></li>
 </ul></div>
+
 

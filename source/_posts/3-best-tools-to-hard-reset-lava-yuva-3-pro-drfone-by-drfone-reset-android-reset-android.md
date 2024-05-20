@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Lava Yuva 3 Pro | Dr.fone
-date: 2024-04-30T19:45:36.621Z
-updated: 2024-05-01T19:45:36.621Z
+date: 2024-05-19T17:46:53.176Z
+updated: 2024-05-20T17:46:53.176Z
 tags: 
   - reset
 categories:
@@ -421,4 +421,5 @@ Above are some strategies with which you can do an **Lava Yuva 3 Pro hard reset*
 <li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-know-all-about-video-frame-rates-and-speed-wondershare-filmora-will-help-you-to-get-more-information-on-this-matter/"><u>Do You Want to Know All About Video Frame Rates and Speed? Wondershare Filmora Will Help You to Get More Information on This Matter</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme 11 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:42.218Z
-updated: 2024-05-01T19:51:42.218Z
+date: 2024-05-19T17:46:57.422Z
+updated: 2024-05-20T17:46:57.422Z
 tags: 
   - reset
 categories:
@@ -456,4 +456,5 @@ The above given are multiple options that can be used for resetting your Realme 
 <li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A24 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-samsung-galaxy-m34-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Samsung Galaxy M34 5G</u></a></li>
 </ul></div>
+
 

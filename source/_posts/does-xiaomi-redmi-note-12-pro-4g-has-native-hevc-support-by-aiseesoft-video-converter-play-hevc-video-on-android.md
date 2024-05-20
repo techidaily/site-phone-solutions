@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi Note 12 Pro 4G has native HEVC support?
-date: 2024-04-30T19:42:50.647Z
+date: 2024-05-19T17:46:51.901Z
 tags: 
   - hevc video
   - hevc android
@@ -200,4 +200,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-live-streaming.techidaily.com/new-live-chat-with-woocommerce-your-gateway-to-successful-live-selling-for-2024/"><u>New Live Chat With WooCommerce Your Gateway to Successful Live Selling for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-tecno-camon-20-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Tecno Camon 20 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

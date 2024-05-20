@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Magic 6 Pro
-date: 2024-04-30T19:54:09.362Z
-updated: 2024-05-01T19:54:09.362Z
+date: 2024-05-19T17:46:59.148Z
+updated: 2024-05-20T17:46:59.148Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -174,4 +174,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-note-30-vip-racing-edition-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Note 30 VIP Racing Edition in Minutes | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-realme-v30-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Realme V30 Device</u></a></li>
 </ul></div>
+
 

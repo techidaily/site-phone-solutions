@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia C12 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:28.044Z
-updated: 2024-05-01T19:51:28.044Z
+date: 2024-05-19T17:46:57.238Z
+updated: 2024-05-20T17:46:57.238Z
 tags: 
   - reset
 categories:
@@ -587,4 +587,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo Y100 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y28-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y28 5G Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

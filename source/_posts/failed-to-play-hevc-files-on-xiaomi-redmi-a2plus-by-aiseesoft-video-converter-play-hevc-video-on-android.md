@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xiaomi Redmi A2+
-date: 2024-04-30T19:43:29.690Z
+date: 2024-05-19T17:46:52.188Z
 tags: 
   - hevc video
   - hevc android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 8 Plus?</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Passcode Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

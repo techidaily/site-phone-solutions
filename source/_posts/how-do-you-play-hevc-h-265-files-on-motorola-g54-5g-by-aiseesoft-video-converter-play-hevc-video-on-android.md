@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Motorola G54 5G?
-date: 2024-04-30T19:44:20.138Z
+date: 2024-05-19T17:46:52.608Z
 tags: 
   - hevc video
   - hevc android
@@ -181,4 +181,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-xiaomi-14-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Xiaomi 14 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/unlock-vivo-s17e-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo S17e Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
+
 

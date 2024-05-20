@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi 13C 5G support AVCHD video?
-date: 2024-04-30T19:42:47.851Z
+date: 2024-05-19T17:46:51.890Z
 tags: 
   - mts video
   - mts android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-vn-editor-a-prominent-option-for-adding-luts-for-video-editing/"><u>New In 2024, VN Editor A Prominent Option for Adding Luts for Video Editing</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo S17 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

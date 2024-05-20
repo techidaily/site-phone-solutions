@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Xiaomi Redmi Note 13 5G?
-date: 2024-04-30T19:41:01.019Z
+date: 2024-05-19T17:46:51.143Z
 tags: 
   - mp4 video
   - mp4 android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a25-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A25 5G Isnt Compatible | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-razr-40-ultra-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Razr 40 Ultra Location without Installing Software? | Dr.fone</u></a></li>
 </ul></div>
+
 

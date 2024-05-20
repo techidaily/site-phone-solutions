@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Razr 40 has native MOV support?
-date: 2024-04-30T19:42:15.576Z
+date: 2024-05-19T17:46:51.679Z
 tags: 
   - mov video
   - mov android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-22-free-video-editing-software-to-save-your-money-and-time/"><u>In 2024, 22 Free Video Editing Software to Save Your Money and Time</u></a></li>
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-f34-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy F34 5G FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

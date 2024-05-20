@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia C12 Plus Without Power Button | Dr.fone
-date: 2024-04-30T19:51:27.666Z
-updated: 2024-05-01T19:51:27.666Z
+date: 2024-05-19T17:46:57.227Z
+updated: 2024-05-20T17:46:57.227Z
 tags: 
   - reset
 categories:
@@ -454,4 +454,5 @@ Above are some strategies with which you can do an **Nokia C12 Plus hard reset**
 <li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco M6 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-best-gif-to-video-converters/"><u>Updated 2024 Approved Best GIF to Video Converters</u></a></li>
 </ul></div>
+
 

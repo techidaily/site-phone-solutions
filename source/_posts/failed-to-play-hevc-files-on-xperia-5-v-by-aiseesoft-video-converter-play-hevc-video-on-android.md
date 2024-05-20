@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xperia 5 V
-date: 2024-04-30T19:43:30.631Z
+date: 2024-05-19T17:46:52.193Z
 tags: 
   - hevc video
   - hevc android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-se-2022ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone SE (2022)/iPad Without Computer | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 12? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy S23 Tactical Edition has native HEVC support?
-date: 2024-04-30T19:42:01.133Z
+date: 2024-05-19T17:46:51.597Z
 tags: 
   - hevc video
   - hevc android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-want-to-loop-a-video-to-extend-its-duration-you-can-use-imovie-to-loop-a-video-on-your-mac-and-iphone-and-we-will-illustrate-how-to-loop-a-vid/"><u>2024 Approved Want to Loop a Video to Extend Its Duration? You Can Use iMovie to Loop a Video on Your Mac and iPhone and We Will Illustrate How to Loop a Video in iMovie</u></a></li>
 </ul></div>
+
 

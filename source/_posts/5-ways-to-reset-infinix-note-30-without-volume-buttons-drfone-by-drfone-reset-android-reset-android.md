@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Infinix Note 30 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:07.949Z
-updated: 2024-05-01T19:50:07.949Z
+date: 2024-05-19T17:46:56.268Z
+updated: 2024-05-20T17:46:56.268Z
 tags: 
   - reset
 categories:
@@ -452,4 +452,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-8-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 8 In Different Conditionsin</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-x90s-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo X90S to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

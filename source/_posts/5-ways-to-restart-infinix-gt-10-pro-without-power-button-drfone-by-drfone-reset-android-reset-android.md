@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix GT 10 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:13.966Z
-updated: 2024-05-01T19:51:13.966Z
+date: 2024-05-19T17:46:57.047Z
+updated: 2024-05-20T17:46:57.047Z
 tags: 
   - reset
 categories:
@@ -461,4 +461,5 @@ Now that you know how to reset a Infinix GT 10 Pro phone that is locked and how 
 <li><a href="https://screen-mirror.techidaily.com/best-3-oppo-a79-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo A79 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-motorola-moto-g34-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Motorola Moto G34 5G System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

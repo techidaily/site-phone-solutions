@@ -1,6 +1,6 @@
 ---
 title: Does 14 support AVCHD video?
-date: 2024-04-30T19:41:51.214Z
+date: 2024-05-19T17:46:51.507Z
 tags: 
   - mts video
   - mts android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/do-you-know-how-to-create-a-lol-montage-video-had-you-ever-tried-that-video-type-before-connect-with-this-article-to-study-the-tips-and-tricks-associated-wi/"><u>Do You Know How to Create a Lol Montage Video? Had You Ever Tried that Video Type Before? Connect with This Article to Study the Tips and Tricks Associated with the Making of Montage Videos</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Xiaomi Redmi Note 12 Pro 4G
-date: 2024-04-30T19:40:28.115Z
+date: 2024-05-19T17:46:50.937Z
 tags: 
   - mp4 video
   - mp4 android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 14 Pro Max Activation Lock</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-itel-a70-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Itel A70 Phones with/without a PC</u></a></li>
 </ul></div>
+
 

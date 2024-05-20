@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi A2+ support MKV video files?
-date: 2024-04-30T19:42:49.704Z
+date: 2024-05-19T17:46:51.897Z
 tags: 
   - mkv video
   - mkv android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-magic-6-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor Magic 6 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s18-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S18 Pro to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

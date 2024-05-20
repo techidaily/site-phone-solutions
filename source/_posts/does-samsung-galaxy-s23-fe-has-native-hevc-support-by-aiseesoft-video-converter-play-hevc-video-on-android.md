@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy S23 FE has native HEVC support?
-date: 2024-04-30T19:42:37.325Z
+date: 2024-05-19T17:46:51.838Z
 tags: 
   - hevc video
   - hevc android
@@ -208,4 +208,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-xcover-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy XCover 7 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-steps-to-make-a-neon-dance-effect-with-filmora/"><u>New In 2024, Steps to Make a Neon Dance Effect With Filmora</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Sony  support AVCHD video?
-date: 2024-04-30T19:42:42.542Z
+date: 2024-05-19T17:46:51.867Z
 tags: 
   - mts video
   - mts android
@@ -156,4 +156,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-8-plus-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone 8 Plus to iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-xr21-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia XR21 Phone Screen?</u></a></li>
 </ul></div>
+
 

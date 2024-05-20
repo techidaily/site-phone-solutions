@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Sony  ?
-date: 2024-04-30T19:44:42.057Z
+date: 2024-05-19T17:46:52.728Z
 tags: 
   - mov video
   - mov android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-12-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 12 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2010-online-with-digisigner-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2010 Online with DigiSigner</u></a></li>
 </ul></div>
+
 

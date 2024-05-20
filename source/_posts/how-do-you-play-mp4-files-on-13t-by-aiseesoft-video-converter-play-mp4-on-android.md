@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on 13T?
-date: 2024-04-30T19:44:44.885Z
+date: 2024-05-19T17:46:52.747Z
 tags: 
   - mp4 video
   - mp4 android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-infinix-smart-7-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Infinix Smart 7 | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/how-to-make-animation-talk-explained-with-easy-steps/"><u>How To Make Animation Talk? Explained with Easy Steps</u></a></li>
 </ul></div>
+
 

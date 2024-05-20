@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Edge 40 Pro? 
-date: 2024-04-30T19:44:56.375Z
+date: 2024-05-19T17:46:52.857Z
 tags: 
   - mts video
   - mts android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-t2-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo T2 5G Phone that is Locked?</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

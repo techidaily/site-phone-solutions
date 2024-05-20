@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo G2 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:58.597Z
-updated: 2024-05-01T19:51:58.597Z
+date: 2024-05-19T17:46:57.648Z
+updated: 2024-05-20T17:46:57.648Z
 tags: 
   - reset
 categories:
@@ -426,4 +426,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-add-subtitles-to-mkv-videos-on-all-platforms/"><u>New In 2024, How to Add Subtitles to MKV Videos on All Platforms</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-realme-gt-neo-5-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Realme GT Neo 5 Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

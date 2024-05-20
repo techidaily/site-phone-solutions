@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Sony Xperia 1 V?
-date: 2024-04-30T19:40:06.089Z
+date: 2024-05-19T17:46:50.758Z
 tags: 
   - mts video
   - mts android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 14 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/from-fast-to-slow-how-to-use-vlcs-slow-motion-feature-like-a-pro/"><u>From Fast to Slow How to Use VLCs Slow Motion Feature Like a Pro</u></a></li>
 </ul></div>
+
 

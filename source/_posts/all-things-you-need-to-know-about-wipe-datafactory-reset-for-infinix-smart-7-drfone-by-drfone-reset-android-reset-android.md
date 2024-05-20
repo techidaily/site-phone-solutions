@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 7 | Dr.fone
-date: 2024-04-30T19:53:42.603Z
-updated: 2024-05-01T19:53:42.603Z
+date: 2024-05-19T17:46:58.882Z
+updated: 2024-05-20T17:46:58.882Z
 tags: 
   - reset
 categories:
@@ -434,4 +434,5 @@ Now that you know how to reset a Infinix Smart 7 phone that is locked and how to
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-g2-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo G2 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 14 Pro?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xperia 1 V
-date: 2024-04-30T19:43:30.254Z
+date: 2024-05-19T17:46:52.191Z
 tags: 
   - hevc video
   - hevc android
@@ -189,4 +189,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 6s Plus</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-infinix-smart-7-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Infinix Smart 7 PC | Dr.fone</u></a></li>
 </ul></div>
+
 

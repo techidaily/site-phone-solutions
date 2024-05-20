@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lava Yuva 3 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:22.022Z
-updated: 2024-05-01T19:51:22.022Z
+date: 2024-05-19T17:46:57.165Z
+updated: 2024-05-20T17:46:57.165Z
 tags: 
   - reset
 categories:
@@ -487,4 +487,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://howto.techidaily.com/vivo-y02t-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y02T Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-apple-iphone-6s-plus-location-on-viber-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Fake Your Apple iPhone 6s Plus Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+
 

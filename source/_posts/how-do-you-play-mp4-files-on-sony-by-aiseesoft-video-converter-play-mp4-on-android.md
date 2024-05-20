@@ -1,7 +1,7 @@
 ---
 title: How do you play MP4 files on Sony ?
-date: 2024-04-30T19:44:52.192Z
-updated: 2024-05-01T19:44:52.192Z
+date: 2024-05-19T17:46:52.776Z
+updated: 2024-05-20T17:46:52.776Z
 tags: 
   - mp4 video
   - mp4 android
@@ -222,4 +222,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-6-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 6</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a79-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A79 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
+
 

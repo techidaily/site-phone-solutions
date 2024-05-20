@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme C51 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:43.727Z
-updated: 2024-05-01T19:51:43.727Z
+date: 2024-05-19T17:46:57.433Z
+updated: 2024-05-20T17:46:57.433Z
 tags: 
   - reset
 categories:
@@ -497,4 +497,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo Y36 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor X50 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Honor Magic V2
-date: 2024-04-30T19:54:03.968Z
+date: 2024-05-19T17:46:59.068Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -190,4 +190,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Honor X50 GT | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

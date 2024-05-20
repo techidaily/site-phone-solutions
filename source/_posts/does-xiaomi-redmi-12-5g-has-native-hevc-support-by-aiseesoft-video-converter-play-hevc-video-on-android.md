@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi 12 5G has native HEVC support?
-date: 2024-04-30T19:42:46.723Z
+date: 2024-05-19T17:46:51.886Z
 tags: 
   - hevc video
   - hevc android
@@ -197,4 +197,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-slowing-down-the-action-vlc-video-playback-tips/"><u>2024 Approved Slowing Down the Action VLC Video Playback Tips</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-x50iwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor X50iwith/without a PC</u></a></li>
 </ul></div>
+
 

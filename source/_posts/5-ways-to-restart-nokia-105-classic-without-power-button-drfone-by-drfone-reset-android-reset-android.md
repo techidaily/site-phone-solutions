@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia 105 Classic Without Power Button | Dr.fone
-date: 2024-04-30T19:51:26.912Z
-updated: 2024-05-01T19:51:26.912Z
+date: 2024-05-19T17:46:57.221Z
+updated: 2024-05-20T17:46:57.221Z
 tags: 
   - reset
 categories:
@@ -503,4 +503,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-honor-100-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Honor 100 to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-15-pro-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Pro with iTunes</u></a></li>
 </ul></div>
+
 

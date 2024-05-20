@@ -1,7 +1,7 @@
 ---
 title: Does Sony Xperia 5 V has native MOV support?
-date: 2024-04-30T19:42:43.128Z
-updated: 2024-05-01T19:42:43.128Z
+date: 2024-05-19T17:46:51.869Z
+updated: 2024-05-20T17:46:51.869Z
 tags: 
   - mov video
   - mov android
@@ -180,4 +180,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo Reno 10 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

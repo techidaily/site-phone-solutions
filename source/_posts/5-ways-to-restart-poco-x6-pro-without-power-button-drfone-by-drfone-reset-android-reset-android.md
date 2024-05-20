@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Poco X6 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:41.460Z
-updated: 2024-05-01T19:51:41.460Z
+date: 2024-05-19T17:46:57.416Z
+updated: 2024-05-20T17:46:57.416Z
 tags: 
   - reset
 categories:
@@ -425,4 +425,5 @@ Resetting an Poco X6 Pro phone can be tricky sometimes; therefore, it should be 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-infinix-note-30-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Infinix Note 30 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

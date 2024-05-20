@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme Note 50 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:46.776Z
-updated: 2024-05-01T19:51:46.776Z
+date: 2024-05-19T17:46:57.457Z
+updated: 2024-05-20T17:46:57.457Z
 tags: 
   - reset
 categories:
@@ -519,4 +519,5 @@ These are all methods for unlocking Realme Note 50 hard reset. It is possible to
 <li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Lava Agni 2 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-infinix-smart-8-plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 8 Plus Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
+
 

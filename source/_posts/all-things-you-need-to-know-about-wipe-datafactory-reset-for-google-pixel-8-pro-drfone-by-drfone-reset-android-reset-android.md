@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Google Pixel 8 Pro | Dr.fone
-date: 2024-04-30T19:53:33.499Z
-updated: 2024-05-01T19:53:33.499Z
+date: 2024-05-19T17:46:58.805Z
+updated: 2024-05-20T17:46:58.805Z
 tags: 
   - reset
 categories:
@@ -413,4 +413,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-poco-x6-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Poco X6? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-xiaomi-redmi-note-13-pro-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Xiaomi Redmi Note 13 Pro 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
+
 

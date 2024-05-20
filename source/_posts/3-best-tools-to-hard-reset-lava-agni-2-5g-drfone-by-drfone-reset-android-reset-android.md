@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T19:45:34.721Z
-updated: 2024-05-01T19:45:34.721Z
+date: 2024-05-19T17:46:53.159Z
+updated: 2024-05-20T17:46:53.159Z
 tags: 
   - reset
 categories:
@@ -444,4 +444,5 @@ Resetting an Lava Agni 2 5G phone can be tricky sometimes; therefore, it should 
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-v30-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo V30 to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-free-mov-video-cutting-software-top-recommendations/"><u>New Free MOV Video Cutting Software Top Recommendations</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi A2 Without Power Button | Dr.fone
-date: 2024-04-30T19:52:10.254Z
-updated: 2024-05-01T19:52:10.254Z
+date: 2024-05-19T17:46:57.785Z
+updated: 2024-05-20T17:46:57.785Z
 tags: 
   - reset
 categories:
@@ -435,4 +435,5 @@ Let's end our guide for the easiest ways to **hard reset Xiaomi Redmi A2**. You 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-without-itunes-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes</u></a></li>
 </ul></div>
+
 

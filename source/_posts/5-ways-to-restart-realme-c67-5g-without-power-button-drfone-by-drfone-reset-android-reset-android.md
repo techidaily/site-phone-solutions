@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme C67 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:44.474Z
-updated: 2024-05-01T19:51:44.474Z
+date: 2024-05-19T17:46:57.439Z
+updated: 2024-05-20T17:46:57.439Z
 tags: 
   - reset
 categories:
@@ -434,4 +434,5 @@ The above given are multiple options that can be used for resetting your Realme 
 <li><a href="https://animation-videos.techidaily.com/new-simple-shortcut-to-convert-videos-to-gifs-on-iphone-for-2024/"><u>New Simple Shortcut to Convert Videos to Gifs on iPhone for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-redmi-note-12r-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi Redmi Note 12R ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
+
 

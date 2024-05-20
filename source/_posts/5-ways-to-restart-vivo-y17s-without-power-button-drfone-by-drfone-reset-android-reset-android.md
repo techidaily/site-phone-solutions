@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y17s Without Power Button | Dr.fone
-date: 2024-04-30T19:52:04.602Z
-updated: 2024-05-01T19:52:04.602Z
+date: 2024-05-19T17:46:57.690Z
+updated: 2024-05-20T17:46:57.690Z
 tags: 
   - reset
 categories:
@@ -453,4 +453,5 @@ Now that you know how to reset a Vivo Y17s phone that is locked and how to use V
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Nokia C12? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-whats-the-best-laptops-for-video-editing/"><u>In 2024, Whats The Best Laptops For Video Editing</u></a></li>
 </ul></div>
+
 

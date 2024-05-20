@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Lava Blaze 2 Pro | Dr.fone
-date: 2024-04-30T19:45:35.306Z
-updated: 2024-05-01T19:45:35.306Z
+date: 2024-05-19T17:46:53.163Z
+updated: 2024-05-20T17:46:53.163Z
 tags: 
   - reset
 categories:
@@ -407,4 +407,5 @@ Resetting an Lava Blaze 2 Pro phone can be tricky sometimes; therefore, it shoul
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-long-does-it-take-to-edit-a-video/"><u>Updated How Long Does It Take To Edit A Video</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-infinix-zero-30-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Infinix Zero 30 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

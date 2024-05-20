@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on HTC
-date: 2024-04-30T19:40:31.135Z
+date: 2024-05-19T17:46:50.954Z
 tags: 
   - hevc video
   - hevc android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y02t-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y02T to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi 13C | Dr.fone</u></a></li>
 </ul></div>
+
 

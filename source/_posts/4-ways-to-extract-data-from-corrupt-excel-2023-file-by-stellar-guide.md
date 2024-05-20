@@ -1,6 +1,6 @@
 ---
 title: 4 Ways to extract data from corrupt Excel 2023 file
-date: 2024-04-30T19:49:56.791Z
+date: 2024-05-19T17:46:56.160Z
 tags: 
   - repair
   - repair excel
@@ -148,4 +148,5 @@ Instead of giving up on corrupted Excel sheets, try repairing them with the simp
 <li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Honor Magic 5 Lite? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-note-30-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Note 30 Pro.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Oppo K11 5G | Dr.fone
-date: 2024-04-30T19:46:59.911Z
-updated: 2024-05-01T19:46:59.911Z
+date: 2024-05-19T17:46:54.155Z
+updated: 2024-05-20T17:46:54.155Z
 tags: 
   - reset
 categories:
@@ -491,4 +491,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y78t-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y78t System Crash Issue | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-nokia-c02-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Nokia C02 Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart OnePlus Nord CE 3 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:32.634Z
-updated: 2024-05-01T19:51:32.634Z
+date: 2024-05-19T17:46:57.312Z
+updated: 2024-05-20T17:46:57.312Z
 tags: 
   - reset
 categories:
@@ -492,4 +492,5 @@ The above given are multiple options that can be used for resetting your OnePlus
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-a24-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy A24 – What Can I Do? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-x90s-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo X90S to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

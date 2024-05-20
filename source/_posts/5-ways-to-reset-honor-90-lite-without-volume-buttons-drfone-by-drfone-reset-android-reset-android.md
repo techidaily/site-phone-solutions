@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Honor 90 Lite Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:00.317Z
-updated: 2024-05-01T19:50:00.317Z
+date: 2024-05-19T17:46:56.197Z
+updated: 2024-05-20T17:46:56.197Z
 tags: 
   - reset
 categories:
@@ -472,4 +472,5 @@ Now that you know how to reset a Honor 90 Lite phone that is locked and how to u
 <li><a href="https://blog-min.techidaily.com/how-to-oppo-a1x-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Oppo A1x 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-realme-v30-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Realme V30 Phone</u></a></li>
 </ul></div>
+
 

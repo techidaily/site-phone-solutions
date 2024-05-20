@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy Z Flip 5 has native MOV support?
-date: 2024-04-30T19:42:40.661Z
+date: 2024-05-19T17:46:51.859Z
 tags: 
   - mov video
   - mov android
@@ -181,4 +181,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/turn-off-screen-lock-honor-90-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor 90 Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-redmi-13c-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi Redmi 13C to iPhone Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

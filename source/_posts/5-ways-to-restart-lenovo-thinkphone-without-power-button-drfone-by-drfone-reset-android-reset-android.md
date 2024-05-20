@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lenovo ThinkPhone Without Power Button | Dr.fone
-date: 2024-04-30T19:51:22.211Z
-updated: 2024-05-01T19:51:22.211Z
+date: 2024-05-19T17:46:57.166Z
+updated: 2024-05-20T17:46:57.166Z
 tags: 
   - reset
 categories:
@@ -502,4 +502,5 @@ Lenovo ThinkPhoneis a famous brand that serves a large number of consumers world
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-galaxy-a05s-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Galaxy A05s Phone?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Honor Magic 6? | Dr.fone</u></a></li>
 </ul></div>
+
 

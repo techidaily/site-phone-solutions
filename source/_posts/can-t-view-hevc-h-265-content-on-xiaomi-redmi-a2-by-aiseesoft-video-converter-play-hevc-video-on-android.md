@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi Redmi A2
-date: 2024-04-30T19:40:37.877Z
+date: 2024-05-19T17:46:50.992Z
 tags: 
   - hevc video
   - hevc android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s?</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Samsung Galaxy S24+ | Dr.fone</u></a></li>
 </ul></div>
+
 

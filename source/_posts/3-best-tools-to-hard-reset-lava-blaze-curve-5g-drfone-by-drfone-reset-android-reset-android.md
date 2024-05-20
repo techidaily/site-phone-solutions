@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T19:45:35.495Z
-updated: 2024-05-01T19:45:35.495Z
+date: 2024-05-19T17:46:53.164Z
+updated: 2024-05-20T17:46:53.164Z
 tags: 
   - reset
 categories:
@@ -462,4 +462,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-x-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone X Unavailable Issue With Ease | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/share-your-ps4-gaming-moments-online-sharing-made-easy/"><u>Share Your PS4 Gaming Moments Online Sharing Made Easy</u></a></li>
 </ul></div>
+
 

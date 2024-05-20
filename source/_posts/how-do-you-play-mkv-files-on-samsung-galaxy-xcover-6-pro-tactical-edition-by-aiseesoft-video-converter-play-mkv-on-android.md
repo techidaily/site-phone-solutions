@@ -1,6 +1,6 @@
 ---
 title: How do you play MKV files on Samsung Galaxy XCover 6 Pro Tactical Edition?
-date: 2024-04-30T19:44:34.541Z
+date: 2024-05-19T17:46:52.682Z
 tags: 
   - mkv video
   - mkv android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/something-that-you-should-know-about-mp4-video-format-for-2024/"><u>Something That You Should Know About MP4 Video Format for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-13t-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi 13T Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

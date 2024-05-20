@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme C55 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:44.100Z
-updated: 2024-05-01T19:51:44.100Z
+date: 2024-05-19T17:46:57.436Z
+updated: 2024-05-20T17:46:57.436Z
 tags: 
   - reset
 categories:
@@ -393,4 +393,5 @@ Resetting an Realme C55 phone can be tricky sometimes; therefore, it should be f
 <li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-15-pro-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 15 Pro Device from iCloud</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nokia-105-classic-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nokia 105 Classic Phone Hassle-Free</u></a></li>
 </ul></div>
+
 

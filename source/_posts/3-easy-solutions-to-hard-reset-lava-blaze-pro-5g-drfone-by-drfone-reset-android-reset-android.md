@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Lava Blaze Pro 5G | Dr.fone
-date: 2024-04-30T19:46:43.829Z
-updated: 2024-05-01T19:46:43.829Z
+date: 2024-05-19T17:46:54.031Z
+updated: 2024-05-20T17:46:54.031Z
 tags: 
   - reset
 categories:
@@ -407,4 +407,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-100-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 100 Pro to Outlook | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Motorola Defy 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

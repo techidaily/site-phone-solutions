@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Sony Xperia 5 V Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:46.393Z
-updated: 2024-05-01T19:50:46.393Z
+date: 2024-05-19T17:46:56.679Z
+updated: 2024-05-20T17:46:56.679Z
 tags: 
   - reset
 categories:
@@ -515,4 +515,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor Play 7T | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Google Pixel 7a | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For OnePlus 11R | Dr.fone
-date: 2024-04-30T19:53:57.423Z
-updated: 2024-05-01T19:53:57.423Z
+date: 2024-05-19T17:46:58.992Z
+updated: 2024-05-20T17:46:58.992Z
 tags: 
   - reset
 categories:
@@ -481,4 +481,5 @@ The above given are multiple options that can be used for resetting your OnePlus
 <li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-vivo-y77t-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y77t Fingerprint Lock</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

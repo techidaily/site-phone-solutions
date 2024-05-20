@@ -1,7 +1,7 @@
 ---
 title: How do I play MKV movies on Samsung ?
-date: 2024-04-30T19:44:12.504Z
-updated: 2024-05-01T19:44:12.504Z
+date: 2024-05-19T17:46:52.543Z
+updated: 2024-05-20T17:46:52.543Z
 tags: 
   - mkv video
   - mkv android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-vivo-v30-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Vivo V30 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-gt-5-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme GT 5 Fingerprint Lock</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Google Pixel Fold Without Power Button | Dr.fone
-date: 2024-04-30T19:51:07.222Z
-updated: 2024-05-01T19:51:07.222Z
+date: 2024-05-19T17:46:56.915Z
+updated: 2024-05-20T17:46:56.915Z
 tags: 
   - reset
 categories:
@@ -438,4 +438,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-15-pro-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 15 Pro</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pop-8-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pop 8 To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

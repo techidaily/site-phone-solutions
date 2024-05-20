@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Lava Yuva 2 Hard Reset | Dr.fone
-date: 2024-04-30T19:49:00.679Z
-updated: 2024-05-01T19:49:00.679Z
+date: 2024-05-19T17:46:55.467Z
+updated: 2024-05-20T17:46:55.467Z
 tags: 
   - reset
 categories:
@@ -407,4 +407,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-g24-power-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola G24 Power</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-hot-30-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Infinix Hot 30 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

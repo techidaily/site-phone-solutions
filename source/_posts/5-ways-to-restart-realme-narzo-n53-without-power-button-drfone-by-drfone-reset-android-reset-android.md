@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme Narzo N53 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:46.399Z
-updated: 2024-05-01T19:51:46.399Z
+date: 2024-05-19T17:46:57.455Z
+updated: 2024-05-20T17:46:57.455Z
 tags: 
   - reset
 categories:
@@ -430,4 +430,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on OnePlus 11R | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-13-proipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone 13 Pro/iPad/iPod</u></a></li>
 </ul></div>
+
 

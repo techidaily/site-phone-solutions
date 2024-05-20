@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Samsung Galaxy A05
-date: 2024-04-30T19:40:18.325Z
+date: 2024-05-19T17:46:50.843Z
 tags: 
   - mov video
   - mov android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-itel-a60s-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Itel A60s | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor Magic 6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

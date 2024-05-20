@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Samsung Galaxy A05s
-date: 2024-04-30T19:43:25.612Z
+date: 2024-05-19T17:46:52.167Z
 tags: 
   - hevc video
   - hevc android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/trim-and-cut-avi-videos-like-a-pro-top-16-software-solutions/"><u>Trim and Cut AVI Videos Like a Pro Top 16 Software Solutions</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-5g-2023-turbo-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
 </ul></div>
+
 

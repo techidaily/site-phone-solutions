@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi A2+ has native HEVC support?
-date: 2024-04-30T19:42:49.136Z
+date: 2024-05-19T17:46:51.895Z
 tags: 
   - hevc video
   - hevc android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-c50-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco C50 Phone Pattern Lock</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-crop-resize-and-rotate-mastering-video-shape-editing/"><u>In 2024, Crop, Resize, and Rotate Mastering Video Shape Editing</u></a></li>
 </ul></div>
+
 

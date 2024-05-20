@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Itel S23
-date: 2024-04-30T19:54:09.175Z
+date: 2024-05-19T17:46:59.147Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -162,4 +162,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Nokia C22 | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

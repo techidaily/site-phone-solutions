@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Motorola Moto G73 5G
-date: 2024-04-30T19:40:04.898Z
+date: 2024-05-19T17:46:50.520Z
 tags: 
   - recover
 categories: 
@@ -250,4 +250,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Poco C51 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nubia-z50-ultra-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nubia Z50 Ultra Phone</u></a></li>
 </ul></div>
+
 

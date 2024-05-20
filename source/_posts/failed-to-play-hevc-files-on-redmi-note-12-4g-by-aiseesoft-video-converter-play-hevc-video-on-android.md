@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Redmi Note 12 4G
-date: 2024-04-30T19:43:24.856Z
+date: 2024-05-19T17:46:52.163Z
 tags: 
   - hevc video
   - hevc android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/new-top-15-male-anime-characters-by-voting-for-2024/"><u>New Top 15 Male Anime Characters By Voting for 2024</u></a></li>
 <li><a href="https://techidaily.com/is-your-vivo-s17-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S17 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

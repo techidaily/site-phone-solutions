@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Motorola Moto G13 | Dr.fone
-date: 2024-04-30T19:46:47.849Z
-updated: 2024-05-01T19:46:47.849Z
+date: 2024-05-19T17:46:54.067Z
+updated: 2024-05-20T17:46:54.067Z
 tags: 
   - reset
 categories:
@@ -573,4 +573,5 @@ Motorola Moto G13is a famous brand that serves a large number of consumers world
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo S17t | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Xiaomi Redmi A2+.</u></a></li>
 </ul></div>
+
 

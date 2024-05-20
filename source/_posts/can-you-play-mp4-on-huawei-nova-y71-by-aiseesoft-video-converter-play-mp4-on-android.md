@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Huawei Nova Y71?
-date: 2024-04-30T19:40:55.935Z
+date: 2024-05-19T17:46:51.114Z
 tags: 
   - mp4 video
   - mp4 android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-complete-guide-to-video-editors-best-options-for-windows-mac-ios-android-and-linux/"><u>New 2024 Approved The Complete Guide to Video Editors Best Options for Windows, Mac, iOS, Android, and Linux</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-a15-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy A15 5G without App | Dr.fone</u></a></li>
 </ul></div>
+
 

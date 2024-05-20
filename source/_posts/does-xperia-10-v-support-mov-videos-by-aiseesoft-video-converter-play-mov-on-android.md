@@ -1,6 +1,6 @@
 ---
 title: Does Xperia 10 V support MOV videos ?
-date: 2024-04-30T19:42:52.722Z
+date: 2024-05-19T17:46:51.910Z
 tags: 
   - mov video
   - mov android
@@ -181,4 +181,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-do-you-want-to-use-luts-in-final-cut-pro-there-are-many-free-luts-for-fcpx-available-that-you-can-use-using-luts-you-can-create-professional-looking/"><u>In 2024, Do You Want to Use LUTs in Final Cut Pro? There Are Many Free LUTs for FCPX Available that You Can Use. Using LUTs, You Can Create Professional-Looking Content</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>Updated 2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Samsung Galaxy S23 Ultra
-date: 2024-04-30T19:40:19.094Z
+date: 2024-05-19T17:46:50.846Z
 tags: 
   - mov video
   - mov android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-oppo-a1x-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Oppo A1x 5G</u></a></li>
 <li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

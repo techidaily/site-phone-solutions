@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Sony Xperia 1 V Without Power Button | Dr.fone
-date: 2024-04-30T19:51:53.943Z
-updated: 2024-05-01T19:51:53.943Z
+date: 2024-05-19T17:46:57.556Z
+updated: 2024-05-20T17:46:57.556Z
 tags: 
   - reset
 categories:
@@ -429,4 +429,5 @@ Above are some strategies with which you can do an **Sony Xperia 1 V hard reset*
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo S18e | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-wondering-how-to-edit-a-video-to-slow-motion-on-iphone-and-android-devices-find-out-how-to-use-wondershare-filmora-to-create-and-edit-slo-mo-videos-/"><u>Updated Wondering How to Edit a Video to Slow Motion on iPhone and Android Devices? Find Out How to Use Wondershare Filmora to Create and Edit Slo Mo Videos in a Few Clicks</u></a></li>
 </ul></div>
+
 

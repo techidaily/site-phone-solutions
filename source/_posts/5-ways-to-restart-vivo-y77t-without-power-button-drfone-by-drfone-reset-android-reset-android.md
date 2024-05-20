@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y77t Without Power Button | Dr.fone
-date: 2024-04-30T19:52:06.840Z
-updated: 2024-05-01T19:52:06.840Z
+date: 2024-05-19T17:46:57.759Z
+updated: 2024-05-20T17:46:57.759Z
 tags: 
   - reset
 categories:
@@ -457,4 +457,5 @@ Resetting an Vivo Y77t phone can be tricky sometimes; therefore, it should be fi
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Camon 20? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi 12</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Samsung Galaxy S23+
-date: 2024-04-30T19:40:36.009Z
+date: 2024-05-19T17:46:50.980Z
 tags: 
   - hevc video
   - hevc android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 12 | Stellar</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-lava-blaze-pro-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Lava Blaze Pro 5G Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from OnePlus 11R
-date: 2024-04-30T19:54:13.428Z
-updated: 2024-05-01T19:54:13.428Z
+date: 2024-05-19T17:46:59.163Z
+updated: 2024-05-20T17:46:59.163Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -198,4 +198,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-basic-video-editing-solutions-for-everyone/"><u>Updated Basic Video Editing Solutions for Everyone</u></a></li>
 </ul></div>
+
 

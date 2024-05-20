@@ -1,6 +1,6 @@
 ---
 title: Can you watch MOV movies on U23 Pro ?
-date: 2024-04-30T19:41:07.377Z
+date: 2024-05-19T17:46:51.178Z
 tags: 
   - mov video
   - mov android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s18e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Vivo S18e</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

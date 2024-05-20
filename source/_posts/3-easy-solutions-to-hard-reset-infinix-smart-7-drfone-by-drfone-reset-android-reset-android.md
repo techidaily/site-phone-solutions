@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Infinix Smart 7 | Dr.fone
-date: 2024-04-30T19:46:38.920Z
-updated: 2024-05-01T19:46:38.920Z
+date: 2024-05-19T17:46:53.990Z
+updated: 2024-05-20T17:46:53.990Z
 tags: 
   - reset
 categories:
@@ -514,4 +514,5 @@ Infinix Smart 7is a famous brand that serves a large number of consumers worldwi
 <li><a href="https://ai-voice-clone.techidaily.com/updated-maximize-yandex-translate-in-video-translation-and-beyond/"><u>Updated Maximize Yandex Translate in Video Translation and Beyond</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 13 mini | Dr.fone</u></a></li>
 </ul></div>
+
 

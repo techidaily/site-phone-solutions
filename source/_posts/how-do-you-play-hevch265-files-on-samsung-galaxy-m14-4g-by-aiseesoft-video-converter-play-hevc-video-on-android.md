@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Samsung Galaxy M14 4G?
-date: 2024-04-30T19:44:28.222Z
+date: 2024-05-19T17:46:52.651Z
 tags: 
   - hevc video
   - hevc android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-s23-ultra-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy S23 Ultra FRP</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-honor-100-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Honor 100.</u></a></li>
 </ul></div>
+
 

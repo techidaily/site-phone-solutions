@@ -1,7 +1,7 @@
 ---
 title: How do you play HEVC/H.265 files on G24 Power?
-date: 2024-04-30T19:44:26.709Z
-updated: 2024-05-01T19:44:26.709Z
+date: 2024-05-19T17:46:52.644Z
+updated: 2024-05-20T17:46:52.644Z
 tags: 
   - hevc video
   - hevc android
@@ -224,4 +224,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-pova-6-pro-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Pova 6 Pro 5G – What Can I Do? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo X100 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

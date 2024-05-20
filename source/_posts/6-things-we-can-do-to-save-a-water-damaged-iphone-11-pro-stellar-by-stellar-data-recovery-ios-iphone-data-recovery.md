@@ -1,7 +1,7 @@
 ---
 title: 6 Things We Can Do To Save A Water Damaged iPhone 11 Pro | Stellar
-date: 2024-04-30T19:52:14.229Z
-updated: 2024-05-01T19:52:14.229Z
+date: 2024-05-19T17:46:57.813Z
+updated: 2024-05-20T17:46:57.813Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -414,4 +414,5 @@ When your iPhone is damaged, try the basics, i.e., restart it; if that works, ba
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-14-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Xiaomi 14 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/online-signatures-for-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for Excel</u></a></li>
 </ul></div>
+
 

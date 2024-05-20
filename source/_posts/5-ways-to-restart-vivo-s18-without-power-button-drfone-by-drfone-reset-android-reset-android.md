@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo S18 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:59.721Z
-updated: 2024-05-01T19:51:59.721Z
+date: 2024-05-19T17:46:57.656Z
+updated: 2024-05-20T17:46:57.656Z
 tags: 
   - reset
 categories:
@@ -453,4 +453,5 @@ Let's end our guide for the easiest ways to **hard reset Vivo S18**. You can do 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-iphone-12-mini-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab iPhone 12 mini Backup Unlocker Top 4 Alternatives</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-find-out-about-the-top-10-online-audio-waveform-video-generators-pick-one-that-suits-your-requirement-and-create-attractive-waveform-pattern/"><u>Updated In 2024, Find Out About the Top 10 Online Audio Waveform Video Generators. Pick One that Suits Your Requirement and Create Attractive Waveform Patterns</u></a></li>
 </ul></div>
+
 

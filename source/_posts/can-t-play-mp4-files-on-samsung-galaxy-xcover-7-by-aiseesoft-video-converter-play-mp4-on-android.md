@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Samsung Galaxy XCover 7
-date: 2024-04-30T19:40:26.656Z
+date: 2024-05-19T17:46:50.929Z
 tags: 
   - mp4 video
   - mp4 android
@@ -209,4 +209,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-artist-in-2024/"><u>Updated What Is an AI Artist, In 2024</u></a></li>
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-galaxy-s23-fe-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Galaxy S23 FE</u></a></li>
 </ul></div>
+
 

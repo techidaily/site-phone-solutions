@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Motorola ?
-date: 2024-04-30T19:44:27.269Z
+date: 2024-05-19T17:46:52.646Z
 tags: 
   - hevc video
   - hevc android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi 13 Ultra</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-ai-advertising-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is AI Advertising? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 

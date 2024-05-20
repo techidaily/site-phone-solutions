@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme 12+ 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:43.351Z
-updated: 2024-05-01T19:51:43.351Z
+date: 2024-05-19T17:46:57.430Z
+updated: 2024-05-20T17:46:57.430Z
 tags: 
   - reset
 categories:
@@ -490,4 +490,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-does-the-youtube-ai-algorithm-work-ai-explained/"><u>Updated In 2024, How Does the YouTube AI Algorithm Work - AI EXPLAINED</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nokia-c12-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nokia C12 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

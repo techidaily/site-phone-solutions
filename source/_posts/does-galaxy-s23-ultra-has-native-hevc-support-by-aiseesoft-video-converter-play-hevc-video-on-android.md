@@ -1,7 +1,7 @@
 ---
 title: Does Galaxy S23 Ultra has native HEVC support?
-date: 2024-04-30T19:42:01.509Z
-updated: 2024-05-01T19:42:01.509Z
+date: 2024-05-19T17:46:51.599Z
+updated: 2024-05-20T17:46:51.599Z
 tags: 
   - hevc video
   - hevc android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-7-best-whiteboard-explainer-videos-to-inspire-you/"><u>Updated 2024 Approved 7 Best Whiteboard Explainer Videos to Inspire You</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers in Windows 7</u></a></li>
 </ul></div>
+
 

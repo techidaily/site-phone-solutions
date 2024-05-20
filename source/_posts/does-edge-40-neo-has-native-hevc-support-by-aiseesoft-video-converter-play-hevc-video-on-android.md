@@ -1,6 +1,6 @@
 ---
 title: Does Edge 40 Neo has native HEVC support?
-date: 2024-04-30T19:41:52.916Z
+date: 2024-05-19T17:46:51.514Z
 tags: 
   - hevc video
   - hevc android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-nokia-g310-by-fonelab-android-recover-video/"><u>How to recover old videos from your Nokia G310</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-11-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 11 Pro - 4 Easy Ways</u></a></li>
 </ul></div>
+
 

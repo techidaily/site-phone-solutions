@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Lava Yuva 3 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:14.021Z
-updated: 2024-05-01T19:50:14.021Z
+date: 2024-05-19T17:46:56.322Z
+updated: 2024-05-20T17:46:56.322Z
 tags: 
   - reset
 categories:
@@ -471,4 +471,5 @@ Let's end our guide for the easiest ways to **hard reset Lava Yuva 3**. You can 
 <li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo X Fold 2 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-g54-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola G54 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

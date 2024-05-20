@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Hot 30i Without Power Button | Dr.fone
-date: 2024-04-30T19:51:14.376Z
-updated: 2024-05-01T19:51:14.376Z
+date: 2024-05-19T17:46:57.050Z
+updated: 2024-05-20T17:46:57.050Z
 tags: 
   - reset
 categories:
@@ -459,4 +459,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://ai-editing-video.techidaily.com/how-to-clone-yourself-in-videos-with-filmora-for-2024/"><u>How to Clone Yourself in Videos with Filmora for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-note-30-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Note 30 Pro Device</u></a></li>
 </ul></div>
+
 

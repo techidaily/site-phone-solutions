@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Sony ? 
-date: 2024-04-30T19:45:03.876Z
+date: 2024-05-19T17:46:52.894Z
 tags: 
   - mts video
   - mts android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-s24plus-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy S24+ to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-xs-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone XS and Android Phones</u></a></li>
 </ul></div>
+
 

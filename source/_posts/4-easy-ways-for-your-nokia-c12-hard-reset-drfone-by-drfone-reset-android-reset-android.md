@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Nokia C12 Hard Reset | Dr.fone
-date: 2024-04-30T19:49:06.851Z
-updated: 2024-05-01T19:49:06.851Z
+date: 2024-05-19T17:46:55.528Z
+updated: 2024-05-20T17:46:55.528Z
 tags: 
   - reset
 categories:
@@ -378,4 +378,5 @@ Now that you know how to reset a Nokia C12 phone that is locked and how to use N
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-150-2023-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia 150 (2023) | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-m14-4g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy M14 4G Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

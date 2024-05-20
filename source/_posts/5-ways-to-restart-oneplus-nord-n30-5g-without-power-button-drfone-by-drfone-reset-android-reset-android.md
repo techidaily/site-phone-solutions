@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart OnePlus Nord N30 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:33.014Z
-updated: 2024-05-01T19:51:33.014Z
+date: 2024-05-19T17:46:57.315Z
+updated: 2024-05-20T17:46:57.315Z
 tags: 
   - reset
 categories:
@@ -425,4 +425,5 @@ Now that you know how to hard reset OnePlus Nord N30 5G it is time to implement 
 <li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-motorola-moto-g14-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Motorola Moto G14 Easily & Safely | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-f15-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy F15 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 </ul></div>
+
 

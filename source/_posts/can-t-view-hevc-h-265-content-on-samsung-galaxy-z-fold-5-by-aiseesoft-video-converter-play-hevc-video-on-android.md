@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Samsung Galaxy Z Fold 5
-date: 2024-04-30T19:40:36.568Z
+date: 2024-05-19T17:46:50.983Z
 tags: 
   - hevc video
   - hevc android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Find X7 | Dr.fone</u></a></li>
 <li><a href="https://ai-video.techidaily.com/2024-approved-how-to-convert-video-voice-to-text-online-for-free/"><u>2024 Approved How To Convert Video Voice to Text Online for Free?</u></a></li>
 </ul></div>
+
 

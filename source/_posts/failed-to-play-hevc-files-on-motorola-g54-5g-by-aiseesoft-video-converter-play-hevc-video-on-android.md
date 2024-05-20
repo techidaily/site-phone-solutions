@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Motorola G54 5G
-date: 2024-04-30T19:43:22.776Z
+date: 2024-05-19T17:46:52.152Z
 tags: 
   - hevc video
   - hevc android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Poco M6 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/turn-off-screen-lock-nubia-red-magic-9-proplus-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Nubia Red Magic 9 Pro+</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Moto G Stylus (2023) has native HEVC support?
-date: 2024-04-30T19:42:08.076Z
+date: 2024-05-19T17:46:51.639Z
 tags: 
   - hevc video
   - hevc android
@@ -159,4 +159,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-z-fold-5-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy Z Fold 5 Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone 14 Plus</u></a></li>
 </ul></div>
+
 

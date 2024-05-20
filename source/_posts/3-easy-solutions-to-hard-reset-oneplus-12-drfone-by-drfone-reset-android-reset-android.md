@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset OnePlus 12 | Dr.fone
-date: 2024-04-30T19:46:54.159Z
-updated: 2024-05-01T19:46:54.159Z
+date: 2024-05-19T17:46:54.116Z
+updated: 2024-05-20T17:46:54.116Z
 tags: 
   - reset
 categories:
@@ -450,4 +450,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-discover-the-art-of-masking-in-after-effects-a-comprehensive-guide/"><u>2024 Approved Discover the Art of Masking in After Effects A Comprehensive Guide</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-x-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone X Lock Screen</u></a></li>
 </ul></div>
+
 

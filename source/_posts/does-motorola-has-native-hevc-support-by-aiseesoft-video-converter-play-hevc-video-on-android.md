@@ -1,7 +1,7 @@
 ---
 title: Does Motorola has native HEVC support?
-date: 2024-04-30T19:42:13.097Z
-updated: 2024-05-01T19:42:13.097Z
+date: 2024-05-19T17:46:51.666Z
+updated: 2024-05-20T17:46:51.666Z
 tags: 
   - hevc video
   - hevc android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-are-you-convincingly-fascinated-by-the-whole-idea-of-augmented-reality-and-want-to-level-up-your-marketing-skills-with-an-ar-integration-rest-assure/"><u>In 2024, Are You Convincingly Fascinated by the Whole Idea of Augmented Reality and Want to Level up Your Marketing Skills with an AR Integration? Rest Assured, Youve Found the Right Place</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-xcover-6-pro-tactical-edition-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy XCover 6 Pro Tactical Edition to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

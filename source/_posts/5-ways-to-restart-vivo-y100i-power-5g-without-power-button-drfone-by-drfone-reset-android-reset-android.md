@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y100i Power 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:04.037Z
-updated: 2024-05-01T19:52:04.037Z
+date: 2024-05-19T17:46:57.686Z
+updated: 2024-05-20T17:46:57.686Z
 tags: 
   - reset
 categories:
@@ -532,4 +532,5 @@ Above are some strategies with which you can do an **Vivo Y100i Power 5G hard re
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-what-is-the-best-mp4-cutter-for-youtuber-on-mac/"><u>Updated 2024 Approved What Is the Best MP4 Cutter for YouTuber on Mac?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Moto G24 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Itel A60 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:18.006Z
-updated: 2024-05-01T19:51:18.006Z
+date: 2024-05-19T17:46:57.087Z
+updated: 2024-05-20T17:46:57.087Z
 tags: 
   - reset
 categories:
@@ -439,4 +439,5 @@ Above are some strategies with which you can do an **Itel A60 hard reset**. Howe
 <li><a href="https://ai-vdieo-software.techidaily.com/new-best-free-video-dubbing-programs-for-pc-2024-update/"><u>New Best Free Video Dubbing Programs for PC 2024 Update</u></a></li>
 <li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo V27 | Dr.fone</u></a></li>
 </ul></div>
+
 

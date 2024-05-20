@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy XCover 6 Pro Tactical Edition support MKV video files?
-date: 2024-04-30T19:42:39.528Z
+date: 2024-05-19T17:46:51.849Z
 tags: 
   - mkv video
   - mkv android
@@ -217,4 +217,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Honor Magic 6 Pro? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-15-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Pro with iTunes | Dr.fone</u></a></li>
 </ul></div>
+
 

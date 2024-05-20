@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia C22 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:28.422Z
-updated: 2024-05-01T19:51:28.422Z
+date: 2024-05-19T17:46:57.268Z
+updated: 2024-05-20T17:46:57.268Z
 tags: 
   - reset
 categories:
@@ -527,4 +527,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-motorola-edge-2023-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Edge 2023 Fingerprint Not Working Solutions</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-easily-resize-images-online-top-tools-and-resources/"><u>In 2024, Easily Resize Images Online Top Tools and Resources</u></a></li>
 </ul></div>
+
 

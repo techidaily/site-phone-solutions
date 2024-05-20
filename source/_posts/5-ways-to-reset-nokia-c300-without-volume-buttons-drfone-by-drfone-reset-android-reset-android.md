@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Nokia C300 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:20.628Z
-updated: 2024-05-01T19:50:20.628Z
+date: 2024-05-19T17:46:56.372Z
+updated: 2024-05-20T17:46:56.372Z
 tags: 
   - reset
 categories:
@@ -478,4 +478,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-x-fold-2-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo X Fold 2 to Protect Your Individual Information</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-v29e-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo V29e Location Is Wrong | Dr.fone</u></a></li>
 </ul></div>
+
 

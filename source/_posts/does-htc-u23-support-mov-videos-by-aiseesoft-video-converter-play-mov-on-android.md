@@ -1,6 +1,6 @@
 ---
 title: Does HTC U23 support MOV videos ?
-date: 2024-04-30T19:42:05.452Z
+date: 2024-05-19T17:46:51.625Z
 tags: 
   - mov video
   - mov android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-note-30-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Note 30 to Roku | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-poco-f5-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Poco F5 5G in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

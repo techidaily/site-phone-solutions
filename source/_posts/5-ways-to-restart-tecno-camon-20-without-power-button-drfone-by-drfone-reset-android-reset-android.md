@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Camon 20 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:54.881Z
-updated: 2024-05-01T19:51:54.881Z
+date: 2024-05-19T17:46:57.563Z
+updated: 2024-05-20T17:46:57.563Z
 tags: 
   - reset
 categories:
@@ -424,4 +424,5 @@ This concludes our article on five ways to hard reset Tecno Camon 20 phones. You
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max with/without SIM Card</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-being-an-after-effects-editor-you-often-find-yourself-the-need-to-add-motion-blur-after-effects-this-guide-has-got-you-covered-follow-to-find-out-ho/"><u>Updated Being an After Effects Editor, You Often Find Yourself the Need to Add Motion Blur After Effects. This Guide Has Got You Covered. Follow to Find Out How to Add Motion Blur in After Effects</u></a></li>
 </ul></div>
+
 

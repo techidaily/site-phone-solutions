@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy F04 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:49.528Z
-updated: 2024-05-01T19:51:49.528Z
+date: 2024-05-19T17:46:57.524Z
+updated: 2024-05-20T17:46:57.524Z
 tags: 
   - reset
 categories:
@@ -476,4 +476,5 @@ Resetting an Samsung Galaxy F04 phone can be tricky sometimes; therefore, it sho
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-smart-7-hd-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Smart 7 HD Devices</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-oneplus-ace-2-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus Ace 2 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

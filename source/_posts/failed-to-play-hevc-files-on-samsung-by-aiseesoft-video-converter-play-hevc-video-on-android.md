@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Samsung
-date: 2024-04-30T19:43:25.424Z
+date: 2024-05-19T17:46:52.166Z
 tags: 
   - hevc video
   - hevc android
@@ -199,4 +199,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-final-cut-pro-tutorial-rotate-video-180-with-these-easy-steps/"><u>2024 Approved Final Cut Pro Tutorial Rotate Video 180° with These Easy Steps</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

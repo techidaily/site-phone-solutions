@@ -1,6 +1,6 @@
 ---
 title: Failed to play MOV movies on Motorola Moto G Stylus (2023)
-date: 2024-04-30T19:43:40.896Z
+date: 2024-05-19T17:46:52.249Z
 tags: 
   - mov video
   - mov android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-c32-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of C32 on Windows</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/5-methods-to-make-a-fake-facetime-call-video/"><u>5 Methods to Make a Fake Facetime Call Video</u></a></li>
 </ul></div>
+
 

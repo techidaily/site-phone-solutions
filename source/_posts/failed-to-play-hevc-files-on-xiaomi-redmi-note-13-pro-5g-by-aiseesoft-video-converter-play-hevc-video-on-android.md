@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xiaomi Redmi Note 13 Pro 5G
-date: 2024-04-30T19:43:30.066Z
+date: 2024-05-19T17:46:52.190Z
 tags: 
   - hevc video
   - hevc android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x100-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo X100 Phone without Any Data Loss</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone X? | Dr.fone</u></a></li>
 </ul></div>
+
 

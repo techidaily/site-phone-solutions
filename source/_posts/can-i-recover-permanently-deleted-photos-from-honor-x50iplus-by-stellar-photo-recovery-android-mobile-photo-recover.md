@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Honor X50i+
-date: 2024-04-30T19:40:04.823Z
+date: 2024-05-19T17:46:50.453Z
 tags: 
   - recover
 categories: 
@@ -250,4 +250,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X without Data Loss? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 15 | Dr.fone</u></a></li>
 </ul></div>
+
 

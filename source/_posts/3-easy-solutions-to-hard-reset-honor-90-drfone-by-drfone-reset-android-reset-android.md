@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Honor 90 | Dr.fone
-date: 2024-04-30T19:46:31.001Z
-updated: 2024-05-01T19:46:31.001Z
+date: 2024-05-19T17:46:53.915Z
+updated: 2024-05-20T17:46:53.915Z
 tags: 
   - reset
 categories:
@@ -458,4 +458,5 @@ Resetting an Honor 90 phone can be tricky sometimes; therefore, it should be fin
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-smart-7-hd-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Smart 7 HD Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-razr-40-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Razr 40</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi 12 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:09.496Z
-updated: 2024-05-01T19:52:09.496Z
+date: 2024-05-19T17:46:57.780Z
+updated: 2024-05-20T17:46:57.780Z
 tags: 
   - reset
 categories:
@@ -570,4 +570,5 @@ Xiaomi Redmi 12 5Gis a famous brand that serves a large number of consumers worl
 <li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE (2020) | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

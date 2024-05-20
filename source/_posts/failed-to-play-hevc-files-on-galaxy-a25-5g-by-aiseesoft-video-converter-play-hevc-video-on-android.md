@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Galaxy A25 5G
-date: 2024-04-30T19:43:19.185Z
+date: 2024-05-19T17:46:52.132Z
 tags: 
   - hevc video
   - hevc android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y77t | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-7-best-mp4-editors-for-mac-edit-mp4-in-mac/"><u>Updated 7 Best MP4 Editors for Mac Edit MP4 in Mac</u></a></li>
 </ul></div>
+
 

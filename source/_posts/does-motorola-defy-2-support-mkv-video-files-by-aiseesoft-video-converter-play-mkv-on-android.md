@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Defy 2 support MKV video files?
-date: 2024-04-30T19:42:11.033Z
+date: 2024-05-19T17:46:51.655Z
 tags: 
   - mkv video
   - mkv android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-motorola-g54-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Motorola G54 5G Quickly? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Losing Anything? | Dr.fone</u></a></li>
 </ul></div>
+
 

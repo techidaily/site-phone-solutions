@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy A05 has native HEVC support?
-date: 2024-04-30T19:42:31.176Z
+date: 2024-05-19T17:46:51.805Z
 tags: 
   - hevc video
   - hevc android
@@ -194,4 +194,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-infinix-note-30-5g-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Infinix Note 30 5G Get Deleted Phone Number Back with Ease and Safety</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Poco F5 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

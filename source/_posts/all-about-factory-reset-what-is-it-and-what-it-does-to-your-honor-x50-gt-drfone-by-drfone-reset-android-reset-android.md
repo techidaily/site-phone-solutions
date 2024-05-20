@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Honor X50 GT? | Dr.fone
-date: 2024-04-30T19:52:29.828Z
-updated: 2024-05-01T19:52:29.828Z
+date: 2024-05-19T17:46:58.033Z
+updated: 2024-05-20T17:46:58.033Z
 tags: 
   - reset
 categories:
@@ -425,4 +425,5 @@ This concludes our article on five ways to hard reset Honor X50 GT phones. You m
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y27s-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y27s Pattern Lock Screen</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-note-30-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Infinix Note 30 5G</u></a></li>
 </ul></div>
+
 

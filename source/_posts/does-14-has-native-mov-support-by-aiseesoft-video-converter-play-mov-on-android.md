@@ -1,6 +1,6 @@
 ---
 title: Does 14 has native MOV support?
-date: 2024-04-30T19:41:50.636Z
+date: 2024-05-19T17:46:51.505Z
 tags: 
   - mov video
   - mov android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-12-mini-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 12 mini and iPad</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/top-10-3d-slideshow-software-review-for-2024/"><u>Top 10 3D Slideshow Software Review for 2024</u></a></li>
 </ul></div>
+
 

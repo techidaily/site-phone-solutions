@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Infinix Hot 40i
-date: 2024-04-30T19:54:07.477Z
+date: 2024-05-19T17:46:59.106Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -199,4 +199,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-guide-to-time-lapse-video-editing-software/"><u>New 2024 Approved The Ultimate Guide to Time-Lapse Video Editing Software</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-90-lite-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor 90 Lite FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

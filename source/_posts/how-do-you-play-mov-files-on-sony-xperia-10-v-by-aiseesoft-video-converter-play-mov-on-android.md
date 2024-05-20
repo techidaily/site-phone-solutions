@@ -1,7 +1,7 @@
 ---
 title: How do you play .mov files on Sony Xperia 10 V ?
-date: 2024-04-30T19:44:42.432Z
-updated: 2024-05-01T19:44:42.432Z
+date: 2024-05-19T17:46:52.730Z
+updated: 2024-05-20T17:46:52.730Z
 tags: 
   - mov video
   - mov android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-neon-text-maker-top-picks-for-creating-eye-catching-designs/"><u>Updated 2024 Approved Neon Text Maker Top Picks for Creating Eye-Catching Designs</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/about-samsung-galaxy-a25-5g-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy A25 5G FRP Bypass</u></a></li>
 </ul></div>
+
 

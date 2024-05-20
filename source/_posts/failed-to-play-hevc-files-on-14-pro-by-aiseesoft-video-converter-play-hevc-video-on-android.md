@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on 14 Pro
-date: 2024-04-30T19:43:18.597Z
+date: 2024-05-19T17:46:52.129Z
 tags: 
   - hevc video
   - hevc android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-samsung-galaxy-f14-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Samsung Galaxy F14 5G Phone Now with These Tips</u></a></li>
 </ul></div>
+
 

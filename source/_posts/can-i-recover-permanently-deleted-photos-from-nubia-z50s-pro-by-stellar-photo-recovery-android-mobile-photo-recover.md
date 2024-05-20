@@ -1,7 +1,7 @@
 ---
 title: Can I recover permanently deleted photos from Nubia Z50S Pro
-date: 2024-04-30T19:40:04.911Z
-updated: 2024-05-01T19:40:04.911Z
+date: 2024-05-19T17:46:50.535Z
+updated: 2024-05-20T17:46:50.535Z
 tags: 
   - recover
 categories: 
@@ -270,4 +270,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y100mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y100Mirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c51-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

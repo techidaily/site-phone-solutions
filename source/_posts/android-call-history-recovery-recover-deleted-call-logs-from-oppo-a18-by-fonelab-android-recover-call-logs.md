@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Oppo A18
-date: 2024-04-30T19:54:13.623Z
+date: 2024-05-19T17:46:59.164Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -189,4 +189,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo Y100 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 11/10</u></a></li>
 </ul></div>
+
 

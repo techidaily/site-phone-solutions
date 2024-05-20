@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lava Blaze Curve 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:20.878Z
-updated: 2024-05-01T19:51:20.878Z
+date: 2024-05-19T17:46:57.135Z
+updated: 2024-05-20T17:46:57.135Z
 tags: 
   - reset
 categories:
@@ -416,4 +416,5 @@ Resetting an Lava Blaze Curve 5G phone can be tricky sometimes; therefore, it sh
 <li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 13 Pro Max Without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-tutorial-for-tecno-camon-20-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Camon 20 Pro 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

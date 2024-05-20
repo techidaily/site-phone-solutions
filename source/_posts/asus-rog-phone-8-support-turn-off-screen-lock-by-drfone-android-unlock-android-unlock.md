@@ -1,6 +1,6 @@
 ---
 title: Asus ROG Phone 8 support - Turn Off Screen Lock.
-date: 2024-04-30T19:54:29.714Z
+date: 2024-05-19T17:46:59.270Z
 tags: 
   - android unlock
   - android devices unlock
@@ -240,4 +240,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-c51-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme C51 Device</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-tecno-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Fingerprint Lock</u></a></li>
 </ul></div>
+
 

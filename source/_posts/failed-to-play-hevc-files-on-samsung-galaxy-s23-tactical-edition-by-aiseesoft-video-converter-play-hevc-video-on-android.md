@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Samsung Galaxy S23 Tactical Edition
-date: 2024-04-30T19:43:26.562Z
+date: 2024-05-19T17:46:52.172Z
 tags: 
   - hevc video
   - hevc android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Honor 100 Pro? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-s18-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo S18 Pro</u></a></li>
 </ul></div>
+
 

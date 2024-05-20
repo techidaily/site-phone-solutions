@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy Z Flip 5 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:53.567Z
-updated: 2024-05-01T19:51:53.567Z
+date: 2024-05-19T17:46:57.553Z
+updated: 2024-05-20T17:46:57.553Z
 tags: 
   - reset
 categories:
@@ -448,4 +448,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://apple-account.techidaily.com/how-to-unlock-iphone-14-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock iPhone 14 Plus When We Dont Have Apple ID or Password?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-poco-f5-pro-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Poco F5 Pro 5G Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme C33 2023 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:43.540Z
-updated: 2024-05-01T19:51:43.540Z
+date: 2024-05-19T17:46:57.431Z
+updated: 2024-05-20T17:46:57.431Z
 tags: 
   - reset
 categories:
@@ -571,4 +571,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-10-fantastic-online-tools-to-change-image-dimensions/"><u>2024 Approved 10 Fantastic Online Tools to Change Image Dimensions</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone XS to Android | Dr.fone</u></a></li>
 </ul></div>
+
 

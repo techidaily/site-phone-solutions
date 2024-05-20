@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Redmi Note 12 Pro 4G
-date: 2024-04-30T19:40:33.954Z
+date: 2024-05-19T17:46:50.969Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-11-pro-max-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 11 Pro Max</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-edge-40-neo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Edge 40 Neo Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

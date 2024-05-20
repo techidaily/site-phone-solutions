@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo S17 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:58.973Z
-updated: 2024-05-01T19:51:58.973Z
+date: 2024-05-19T17:46:57.651Z
+updated: 2024-05-20T17:46:57.651Z
 tags: 
   - reset
 categories:
@@ -439,4 +439,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-g24-power-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola G24 Power Screen Black But Still Works? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-note-13-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi Note 13 5G to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

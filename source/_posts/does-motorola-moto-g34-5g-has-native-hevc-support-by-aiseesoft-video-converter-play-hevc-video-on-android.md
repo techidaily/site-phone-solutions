@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Moto G34 5G has native HEVC support?
-date: 2024-04-30T19:42:14.595Z
+date: 2024-05-19T17:46:51.674Z
 tags: 
   - hevc video
   - hevc android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-t2-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo T2 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-zero-30-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Zero 30 5G Easily?</u></a></li>
 </ul></div>
+
 

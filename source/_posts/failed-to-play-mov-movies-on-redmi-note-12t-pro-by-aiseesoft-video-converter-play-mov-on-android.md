@@ -1,6 +1,6 @@
 ---
 title: Failed to play MOV movies on Redmi Note 12T Pro
-date: 2024-04-30T19:43:42.811Z
+date: 2024-05-19T17:46:52.258Z
 tags: 
   - mov video
   - mov android
@@ -204,4 +204,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 13 mini | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-nord-n30-se-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus Nord N30 SE? | Dr.fone</u></a></li>
 </ul></div>
+
 

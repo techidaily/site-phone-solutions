@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Google Pixel 8 Pro
-date: 2024-04-30T19:54:03.021Z
+date: 2024-05-19T17:46:59.064Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -174,4 +174,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c110-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C110 to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-zero-30-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Zero 30 5G Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

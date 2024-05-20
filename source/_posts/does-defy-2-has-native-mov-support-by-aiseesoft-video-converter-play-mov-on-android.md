@@ -1,6 +1,6 @@
 ---
 title: Does Defy 2 has native MOV support?
-date: 2024-04-30T19:41:52.165Z
+date: 2024-05-19T17:46:51.511Z
 tags: 
   - mov video
   - mov android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-change-motorola-edge-2023-lock-screen-password-by-drfone-android/"><u>How To Change Motorola Edge 2023 Lock Screen Password?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-13-mini-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 13 mini Passcode Change Itself? Unlock It Now</u></a></li>
 </ul></div>
+
 

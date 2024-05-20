@@ -1,7 +1,7 @@
 ---
 title: Can you play MP4 on Xiaomi ?
-date: 2024-04-30T19:40:59.889Z
-updated: 2024-05-01T19:40:59.889Z
+date: 2024-05-19T17:46:51.137Z
+updated: 2024-05-20T17:46:51.137Z
 tags: 
   - mp4 video
   - mp4 android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-12-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi 12 5G to Outlook | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-f04-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy F04 with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

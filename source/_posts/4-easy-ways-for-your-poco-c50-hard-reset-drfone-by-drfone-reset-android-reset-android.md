@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Poco C50 Hard Reset | Dr.fone
-date: 2024-04-30T19:49:18.364Z
-updated: 2024-05-01T19:49:18.364Z
+date: 2024-05-19T17:46:55.635Z
+updated: 2024-05-20T17:46:55.635Z
 tags: 
   - reset
 categories:
@@ -364,4 +364,5 @@ Let's end our guide for the easiest ways to **hard reset Poco C50**. You can do 
 <li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo V27e | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-p40plus-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel P40+ Phone that is Locked?</u></a></li>
 </ul></div>
+
 

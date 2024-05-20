@@ -1,6 +1,6 @@
 ---
 title: Does Huawei  has native HEVC support?
-date: 2024-04-30T19:42:05.639Z
+date: 2024-05-19T17:46:51.626Z
 tags: 
   - hevc video
   - hevc android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-x7b-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor X7b</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-how-to-make-3d-cartoon-of-yourself/"><u>In 2024, How to Make 3D Cartoon of Yourself</u></a></li>
 </ul></div>
+
 

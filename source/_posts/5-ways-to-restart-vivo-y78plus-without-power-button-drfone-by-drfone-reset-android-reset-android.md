@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y78+ Without Power Button | Dr.fone
-date: 2024-04-30T19:52:07.405Z
-updated: 2024-05-01T19:52:07.405Z
+date: 2024-05-19T17:46:57.764Z
+updated: 2024-05-20T17:46:57.764Z
 tags: 
   - reset
 categories:
@@ -518,4 +518,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://howto.techidaily.com/why-is-my-infinix-hot-40i-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Hot 40i Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/lock-your-tecno-spark-go-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Spark Go (2023) Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
+
 

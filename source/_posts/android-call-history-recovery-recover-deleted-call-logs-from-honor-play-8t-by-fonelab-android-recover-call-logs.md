@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Honor Play 8T
-date: 2024-04-30T19:54:04.535Z
+date: 2024-05-19T17:46:59.071Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -181,4 +181,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learn-topaz-video-enhance-ai-review-and-achieve-powerful-video-conversion/"><u>New 2024 Approved Learn Topaz Video Enhance AI Review and Achieve Powerful Video Conversion</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
+
 

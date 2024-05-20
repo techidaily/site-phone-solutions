@@ -1,6 +1,6 @@
 ---
 title: Does Xperia 10 V has native HEVC support?
-date: 2024-04-30T19:42:52.532Z
+date: 2024-05-19T17:46:51.910Z
 tags: 
   - hevc video
   - hevc android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-nubia-z50-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nubia Z50 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo T2x 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

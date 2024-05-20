@@ -1,7 +1,7 @@
 ---
 title: Does Samsung Galaxy S23 Tactical Edition support MOV videos ?
-date: 2024-04-30T19:42:38.581Z
-updated: 2024-05-01T19:42:38.581Z
+date: 2024-05-19T17:46:51.844Z
+updated: 2024-05-20T17:46:51.844Z
 tags: 
   - mov video
   - mov android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-draw-cartoons-step-by-step-with-this-guide/"><u>New In 2024, How to Draw Cartoons Step by Step with This Guide</u></a></li>
 <li><a href="https://techidaily.com/how-to-factory-reset-vivo-x-fold-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X Fold 2 without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

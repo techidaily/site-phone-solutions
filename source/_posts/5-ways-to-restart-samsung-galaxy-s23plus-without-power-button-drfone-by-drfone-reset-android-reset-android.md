@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy S23+ Without Power Button | Dr.fone
-date: 2024-04-30T19:51:52.416Z
-updated: 2024-05-01T19:51:52.416Z
+date: 2024-05-19T17:46:57.545Z
+updated: 2024-05-20T17:46:57.545Z
 tags: 
   - reset
 categories:
@@ -453,4 +453,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-camtasia-review-is-it-the-best-video-editor-in-2024/"><u>New Camtasia Review – Is It The Best Video Editor, In 2024</u></a></li>
 </ul></div>
+
 

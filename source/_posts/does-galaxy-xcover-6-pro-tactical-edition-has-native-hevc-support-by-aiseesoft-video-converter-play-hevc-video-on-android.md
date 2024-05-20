@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy XCover 6 Pro Tactical Edition has native HEVC support?
-date: 2024-04-30T19:42:03.191Z
+date: 2024-05-19T17:46:51.609Z
 tags: 
   - hevc video
   - hevc android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-13-pro-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 13 Pro 5G Bootloader Easily</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-your-recorded-video-footage-has-some-visible-grains-making-your-video-noisy-and-thus-hampering-the-overall-viewing-experience-no-worries-as-there-ai-vid/"><u>New Your Recorded Video Footage Has some Visible Grains Making Your Video Noisy and Thus Hampering the Overall Viewing Experience. No Worries, as There AI Video Denoiser and Other Software Available to Correct the Issue</u></a></li>
 </ul></div>
+
 

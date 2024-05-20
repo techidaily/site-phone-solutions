@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Poco X6 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:41.648Z
-updated: 2024-05-01T19:51:41.648Z
+date: 2024-05-19T17:46:57.418Z
+updated: 2024-05-20T17:46:57.418Z
 tags: 
   - reset
 categories:
@@ -497,4 +497,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-xr-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone XR</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-y100t-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo Y100t Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
+
 

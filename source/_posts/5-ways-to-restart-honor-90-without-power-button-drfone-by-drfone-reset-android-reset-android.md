@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor 90 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:08.727Z
-updated: 2024-05-01T19:51:08.727Z
+date: 2024-05-19T17:46:56.927Z
+updated: 2024-05-20T17:46:56.927Z
 tags: 
   - reset
 categories:
@@ -470,4 +470,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-y78-5g-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo Y78 5G.</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-best-gif-to-avi-converters/"><u>2024 Approved Best GIF to AVI Converters</u></a></li>
 </ul></div>
+
 

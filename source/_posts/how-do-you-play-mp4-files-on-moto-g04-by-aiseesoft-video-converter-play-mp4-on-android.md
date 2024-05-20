@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Moto G04?
-date: 2024-04-30T19:44:48.397Z
+date: 2024-05-19T17:46:52.760Z
 tags: 
   - mp4 video
   - mp4 android
@@ -180,4 +180,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Spark 10 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-tutorial-guides-for-video-maker-with-song/"><u>Updated In 2024, Tutorial Guides for Video Maker with Song</u></a></li>
 </ul></div>
+
 

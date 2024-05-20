@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Honor V Purse Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:42.099Z
-updated: 2024-05-01T19:47:42.099Z
+date: 2024-05-19T17:46:54.537Z
+updated: 2024-05-20T17:46:54.537Z
 tags: 
   - reset
 categories:
@@ -476,4 +476,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Moto G 5G (2023)</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-poco-x6-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco X6 Pro – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
+
 

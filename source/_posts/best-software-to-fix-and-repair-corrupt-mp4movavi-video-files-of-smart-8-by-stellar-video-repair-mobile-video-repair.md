@@ -1,7 +1,7 @@
 ---
 title: Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Smart 8
-date: 2024-04-30T19:40:04.642Z
-updated: 2024-05-01T19:40:04.642Z
+date: 2024-05-19T17:46:50.170Z
+updated: 2024-05-20T17:46:50.170Z
 tags: 
   - repair
 categories: 
@@ -171,4 +171,5 @@ To evaluate the performance of the <a href="https://tools.techidaily.com/stellar
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oneplus-nord-n30-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on OnePlus Nord N30 5G online without jailbreak</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-s24-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy S24 Pattern Lock Screen Everything You Need to Know</u></a></li>
 </ul></div>
+
 

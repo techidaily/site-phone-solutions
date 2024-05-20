@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Razr 40
-date: 2024-04-30T19:41:20.818Z
+date: 2024-05-19T17:46:51.266Z
 tags: 
   - hevc video
   - hevc android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-spark-20-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Spark 20 Bricked Devices | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-nokia-c110-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Nokia C110 Phones with/without a PC</u></a></li>
 </ul></div>
+
 

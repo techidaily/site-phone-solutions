@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T19:53:46.481Z
-updated: 2024-05-01T19:53:46.481Z
+date: 2024-05-19T17:46:58.907Z
+updated: 2024-05-20T17:46:58.907Z
 tags: 
   - reset
 categories:
@@ -443,4 +443,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a15-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A15 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-iphone-14-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 14 Plus Data From iCloud | Dr.fone</u></a></li>
 </ul></div>
+
 

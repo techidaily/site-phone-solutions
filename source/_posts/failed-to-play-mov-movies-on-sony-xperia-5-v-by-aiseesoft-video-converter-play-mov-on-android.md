@@ -1,6 +1,6 @@
 ---
 title: Failed to play MOV movies on Sony Xperia 5 V
-date: 2024-04-30T19:43:44.537Z
+date: 2024-05-19T17:46:52.278Z
 tags: 
   - mov video
   - mov android
@@ -193,4 +193,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-70-lite-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor 70 Lite 5G Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-nubia-red-magic-8s-proplus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Nubia Red Magic 8S Pro+ Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

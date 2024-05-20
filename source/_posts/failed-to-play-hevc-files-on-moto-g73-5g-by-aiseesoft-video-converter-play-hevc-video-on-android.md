@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Moto G73 5G
-date: 2024-04-30T19:43:22.210Z
+date: 2024-05-19T17:46:52.149Z
 tags: 
   - hevc video
   - hevc android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone XR | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme V30T | Dr.fone</u></a></li>
 </ul></div>
+
 

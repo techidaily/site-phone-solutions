@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Motorola Moto G73 5G?
-date: 2024-04-30T19:40:56.497Z
+date: 2024-05-19T17:46:51.117Z
 tags: 
   - mp4 video
   - mp4 android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/12plus-stunning-instagram-gif-stickers/"><u>12+ Stunning Instagram GIF Stickers</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
+
 

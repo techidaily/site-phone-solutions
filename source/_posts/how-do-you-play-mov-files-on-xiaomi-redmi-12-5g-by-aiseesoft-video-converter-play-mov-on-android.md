@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Xiaomi Redmi 12 5G ?
-date: 2024-04-30T19:44:43.571Z
+date: 2024-05-19T17:46:52.742Z
 tags: 
   - mov video
   - mov android
@@ -222,4 +222,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus iOS System Issues? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-huawei-nova-y91-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Huawei Nova Y91 to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

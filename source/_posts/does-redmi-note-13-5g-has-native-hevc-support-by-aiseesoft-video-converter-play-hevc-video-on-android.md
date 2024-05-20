@@ -1,6 +1,6 @@
 ---
 title: Does Redmi Note 13 5G has native HEVC support?
-date: 2024-04-30T19:42:30.210Z
+date: 2024-05-19T17:46:51.799Z
 tags: 
   - hevc video
   - hevc android
@@ -220,4 +220,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi Note 13 Pro 5G?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Xiaomi ? 
-date: 2024-04-30T19:45:04.633Z
+date: 2024-05-19T17:46:52.898Z
 tags: 
   - mts video
   - mts android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/new-are-you-looking-for-the-best-way-to-add-subtitles-to-your-video-the-top-srt-file-creators-can-help-you-do-that/"><u>New Are You Looking for the Best Way to Add Subtitles to Your Video? The Top SRT File Creators Can Help You Do That</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-t2-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo T2 5G Without PUK Codes</u></a></li>
 </ul></div>
+
 

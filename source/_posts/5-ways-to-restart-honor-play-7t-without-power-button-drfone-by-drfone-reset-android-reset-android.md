@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor Play 7T Without Power Button | Dr.fone
-date: 2024-04-30T19:51:10.948Z
-updated: 2024-05-01T19:51:10.948Z
+date: 2024-05-19T17:46:56.942Z
+updated: 2024-05-20T17:46:56.942Z
 tags: 
   - reset
 categories:
@@ -434,4 +434,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://ai-editing-video.techidaily.com/new-take-your-video-editing-to-the-next-level-with-video-scopes/"><u>New Take Your Video Editing to the Next Level with Video Scopes</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco M6 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

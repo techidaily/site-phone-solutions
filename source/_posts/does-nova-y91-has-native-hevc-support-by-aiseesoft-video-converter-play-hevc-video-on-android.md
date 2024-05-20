@@ -1,6 +1,6 @@
 ---
 title: Does Nova Y91 has native HEVC support?
-date: 2024-04-30T19:42:25.662Z
+date: 2024-05-19T17:46:51.774Z
 tags: 
   - hevc video
   - hevc android
@@ -221,4 +221,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
+
 

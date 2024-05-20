@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy Z Flip 5 has native HEVC support?
-date: 2024-04-30T19:42:40.472Z
+date: 2024-05-19T17:46:51.858Z
 tags: 
   - hevc video
   - hevc android
@@ -218,4 +218,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-13-ultra-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi 13 Ultra Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-honor-x9a-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Honor X9a to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

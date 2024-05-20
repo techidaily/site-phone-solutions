@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi 13C support AVCHD video?
-date: 2024-04-30T19:42:48.563Z
+date: 2024-05-19T17:46:51.893Z
 tags: 
   - mts video
   - mts android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/updated-minecraft-pixel-art-a-complete-guide-for-die-hard-fans-for-2024/"><u>Updated Minecraft Pixel Art A Complete Guide for Die-Hard Fans for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

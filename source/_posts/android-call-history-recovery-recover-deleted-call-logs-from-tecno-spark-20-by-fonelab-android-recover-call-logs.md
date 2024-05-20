@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Tecno Spark 20
-date: 2024-04-30T19:54:20.627Z
+date: 2024-05-19T17:46:59.221Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -179,4 +179,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-sony-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Sony FRP</u></a></li>
 </ul></div>
+
 

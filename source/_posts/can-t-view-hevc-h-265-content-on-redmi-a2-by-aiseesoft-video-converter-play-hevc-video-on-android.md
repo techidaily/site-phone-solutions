@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Redmi A2
-date: 2024-04-30T19:40:33.766Z
+date: 2024-05-19T17:46:50.968Z
 tags: 
   - hevc video
   - hevc android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-v30-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme V30 Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-google-pixel-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Google Pixel 8 Back to Operation | Dr.fone</u></a></li>
 </ul></div>
+
 

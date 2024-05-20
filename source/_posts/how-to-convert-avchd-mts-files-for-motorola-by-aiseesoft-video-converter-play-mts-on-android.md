@@ -1,7 +1,7 @@
 ---
 title: How to convert AVCHD .mts files for Motorola ?
-date: 2024-04-30T19:45:00.084Z
-updated: 2024-05-01T19:45:00.084Z
+date: 2024-05-19T17:46:52.874Z
+updated: 2024-05-20T17:46:52.874Z
 tags: 
   - mts video
   - mts android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-y36-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo Y36 to New Phone | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 6 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
 </ul></div>
+
 

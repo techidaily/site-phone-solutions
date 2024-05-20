@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Xiaomi Redmi Note 13 5G?
-date: 2024-04-30T19:40:07.989Z
+date: 2024-05-19T17:46:50.769Z
 tags: 
   - mts video
   - mts android
@@ -180,4 +180,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-realme-note-50-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Realme Note 50 Location | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo Y78t | Dr.fone</u></a></li>
 </ul></div>
+
 

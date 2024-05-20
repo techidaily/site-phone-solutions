@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor X50i Without Power Button | Dr.fone
-date: 2024-04-30T19:51:11.892Z
-updated: 2024-05-01T19:51:11.892Z
+date: 2024-05-19T17:46:56.975Z
+updated: 2024-05-20T17:46:56.975Z
 tags: 
   - reset
 categories:
@@ -411,4 +411,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://techidaily.com/samsung-galaxy-m34-5g-messages-recovery-recover-deleted-messages-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-messages/"><u>Samsung Galaxy M34 5G Messages Recovery - Recover Deleted Messages from Samsung Galaxy M34 5G</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-13-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 13 mini without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

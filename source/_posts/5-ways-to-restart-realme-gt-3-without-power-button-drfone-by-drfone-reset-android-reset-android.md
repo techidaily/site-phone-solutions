@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme GT 3 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:44.661Z
-updated: 2024-05-01T19:51:44.661Z
+date: 2024-05-19T17:46:57.440Z
+updated: 2024-05-20T17:46:57.440Z
 tags: 
   - reset
 categories:
@@ -511,4 +511,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-best-6-webm-to-gif-converters/"><u>New In 2024, Best 6 WebM to GIF Converters</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-11-pro-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 11 Pro SIM Lock?</u></a></li>
 </ul></div>
+
 

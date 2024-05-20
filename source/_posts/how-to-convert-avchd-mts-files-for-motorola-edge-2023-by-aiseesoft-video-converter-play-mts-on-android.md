@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Motorola Edge 2023? 
-date: 2024-04-30T19:45:00.272Z
+date: 2024-05-19T17:46:52.875Z
 tags: 
   - mts video
   - mts android
@@ -214,4 +214,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/updated-ll-about-gif-keyboard-that-you-want-to-know-for-2024/"><u>Updated Ll About GIF Keyboard That You Want to Know for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-s17-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo S17 Pro Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

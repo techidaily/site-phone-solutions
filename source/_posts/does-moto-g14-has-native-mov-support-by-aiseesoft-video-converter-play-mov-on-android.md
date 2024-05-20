@@ -1,6 +1,6 @@
 ---
 title: Does Moto G14 has native MOV support?
-date: 2024-04-30T19:42:08.825Z
+date: 2024-05-19T17:46:51.643Z
 tags: 
   - mov video
   - mov android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-meizu-21-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Meizu 21 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 <li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
 </ul></div>
+
 

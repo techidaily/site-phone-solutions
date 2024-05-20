@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi Note 12R Without Power Button | Dr.fone
-date: 2024-04-30T19:52:12.326Z
-updated: 2024-05-01T19:52:12.326Z
+date: 2024-05-19T17:46:57.799Z
+updated: 2024-05-20T17:46:57.799Z
 tags: 
   - reset
 categories:
@@ -546,4 +546,5 @@ Xiaomi Redmi Note 12Ris a famous brand that serves a large number of consumers w
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Oppo Reno 11F 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/five-thoughts-on-discord-create-accounts-how-to-questions-for-2024/"><u>Five Thoughts on Discord Create Accounts How-To Questions for 2024</u></a></li>
 </ul></div>
+
 

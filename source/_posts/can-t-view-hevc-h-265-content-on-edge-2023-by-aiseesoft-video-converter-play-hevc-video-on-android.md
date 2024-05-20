@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Edge 2023
-date: 2024-04-30T19:40:29.449Z
+date: 2024-05-19T17:46:50.944Z
 tags: 
   - hevc video
   - hevc android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-honor-v-purse-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Honor V Purse to Roku | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max When We Dont Have Apple ID or Password?</u></a></li>
 </ul></div>
+
 

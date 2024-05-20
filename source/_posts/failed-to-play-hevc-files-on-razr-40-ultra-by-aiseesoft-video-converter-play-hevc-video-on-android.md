@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Razr 40 Ultra
-date: 2024-04-30T19:43:23.905Z
+date: 2024-05-19T17:46:52.158Z
 tags: 
   - hevc video
   - hevc android
@@ -194,4 +194,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-top-movement-tracking-apps-for-mobile-devices/"><u>Updated Top Movement Tracking Apps for Mobile Devices</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-xiaomi-redmi-note-12-pro-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Xiaomi Redmi Note 12 Pro 5G Is Unlocked</u></a></li>
 </ul></div>
+
 

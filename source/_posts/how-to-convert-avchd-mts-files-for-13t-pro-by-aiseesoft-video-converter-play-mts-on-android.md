@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for 13T Pro? 
-date: 2024-04-30T19:44:55.811Z
+date: 2024-05-19T17:46:52.854Z
 tags: 
   - mts video
   - mts android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Vivo V27 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-streamline-your-workflow-the-top-8-video-editing-apps-for-4k-proxy-files/"><u>Updated 2024 Approved Streamline Your Workflow The Top 8 Video Editing Apps for 4K Proxy Files</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Redmi 13C 5G
-date: 2024-04-30T19:54:17.229Z
+date: 2024-05-19T17:46:59.202Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/realme-11x-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Realme 11X 5G support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
+
 

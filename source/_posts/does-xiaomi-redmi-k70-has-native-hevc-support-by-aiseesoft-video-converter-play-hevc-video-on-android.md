@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi K70 has native HEVC support?
-date: 2024-04-30T19:42:49.892Z
+date: 2024-05-19T17:46:51.898Z
 tags: 
   - hevc video
   - hevc android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-6-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 6 Plus</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Spark 20C | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi Note 13 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:12.707Z
-updated: 2024-05-01T19:52:12.707Z
+date: 2024-05-19T17:46:57.803Z
+updated: 2024-05-20T17:46:57.803Z
 tags: 
   - reset
 categories:
@@ -488,4 +488,5 @@ Now that you know how to hard reset Xiaomi Redmi Note 13 5G it is time to implem
 <li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nubia-red-magic-9-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nubia Red Magic 9 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11</u></a></li>
 </ul></div>
+
 

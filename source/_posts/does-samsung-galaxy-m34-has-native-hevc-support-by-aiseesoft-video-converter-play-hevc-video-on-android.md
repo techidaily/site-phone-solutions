@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy M34 has native HEVC support?
-date: 2024-04-30T19:42:36.575Z
+date: 2024-05-19T17:46:51.834Z
 tags: 
   - hevc video
   - hevc android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y27 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-11f-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 11F 5G to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

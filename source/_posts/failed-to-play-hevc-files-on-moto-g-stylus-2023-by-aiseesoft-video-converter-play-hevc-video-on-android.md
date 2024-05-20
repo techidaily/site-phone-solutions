@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Moto G Stylus (2023)
-date: 2024-04-30T19:43:21.646Z
+date: 2024-05-19T17:46:52.147Z
 tags: 
   - hevc video
   - hevc android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-zero-cost-video-editors-for-split-screen-effects-online-and-offline/"><u>In 2024, Best Zero-Cost Video Editors for Split-Screen Effects Online & Offline</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-infinix-note-30-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Infinix Note 30 to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

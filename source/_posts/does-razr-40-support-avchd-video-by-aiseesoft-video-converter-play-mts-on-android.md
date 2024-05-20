@@ -1,6 +1,6 @@
 ---
 title: Does Razr 40 support AVCHD video?
-date: 2024-04-30T19:42:26.039Z
+date: 2024-05-19T17:46:51.776Z
 tags: 
   - mts video
   - mts android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-note-12-proplus-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi Note 12 Pro+ 5G Device</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Asus ROG Phone 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

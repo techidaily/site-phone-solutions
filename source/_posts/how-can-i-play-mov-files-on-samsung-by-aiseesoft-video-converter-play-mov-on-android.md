@@ -1,7 +1,7 @@
 ---
 title: How can I play .mov files on Samsung ?
-date: 2024-04-30T19:44:04.223Z
-updated: 2024-05-01T19:44:04.223Z
+date: 2024-05-19T17:46:52.481Z
+updated: 2024-05-20T17:46:52.481Z
 tags: 
   - mov video
   - mov android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/how-to-change-vivo-y36i-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y36i Lock Screen Password?</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-reno-10-proplus-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo Reno 10 Pro+ 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

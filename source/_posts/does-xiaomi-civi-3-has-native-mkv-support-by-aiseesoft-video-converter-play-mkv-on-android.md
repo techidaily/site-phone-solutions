@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Civi 3 has native MKV support?
-date: 2024-04-30T19:42:45.595Z
+date: 2024-05-19T17:46:51.881Z
 tags: 
   - mkv video
   - mkv android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-redmi-13c-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi Redmi 13C 5G Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-magic5-ultimate-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor Magic5 Ultimate</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from X9b
-date: 2024-04-30T19:54:23.856Z
+date: 2024-05-19T17:46:59.239Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://review-topics.techidaily.com/infinix-data-recovery-recover-lost-data-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Infinix Data Recovery – recover lost data from Infinix Note 30</u></a></li>
 <li><a href="https://techidaily.com/tecno-spark-20-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Tecno Spark 20 Pro support - Forgotten screen lock.</u></a></li>
 </ul></div>
+
 

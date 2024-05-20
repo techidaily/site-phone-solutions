@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Samsung Galaxy S23 Tactical Edition?
-date: 2024-04-30T19:40:58.748Z
+date: 2024-05-19T17:46:51.130Z
 tags: 
   - mp4 video
   - mp4 android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-12-proplus-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme 12 Pro+ 5G Phone that is Locked?</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>Updated 2024 Approved Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
 </ul></div>
+
 

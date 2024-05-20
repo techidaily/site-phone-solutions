@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on 14 Pro?
-date: 2024-04-30T19:44:15.880Z
+date: 2024-05-19T17:46:52.574Z
 tags: 
   - hevc video
   - hevc android
@@ -213,4 +213,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-iphone-11-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My iPhone 11 After Forgetting my PIN Code?</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y77t | Dr.fone</u></a></li>
 </ul></div>
+
 

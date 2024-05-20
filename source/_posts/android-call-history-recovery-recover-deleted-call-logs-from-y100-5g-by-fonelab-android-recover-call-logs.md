@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Y100 5G
-date: 2024-04-30T19:54:25.879Z
-updated: 2024-05-01T19:54:25.879Z
+date: 2024-05-19T17:46:59.249Z
+updated: 2024-05-20T17:46:59.249Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -186,4 +186,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-xs-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone XS Max? Find the Best Solution Here</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Phones with/without a PC</u></a></li>
 </ul></div>
+
 

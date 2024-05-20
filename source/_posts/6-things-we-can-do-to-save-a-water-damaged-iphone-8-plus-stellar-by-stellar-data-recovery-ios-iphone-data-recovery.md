@@ -1,7 +1,7 @@
 ---
 title: 6 Things We Can Do To Save A Water Damaged iPhone 8 Plus | Stellar
-date: 2024-04-30T19:52:18.952Z
-updated: 2024-05-01T19:52:18.952Z
+date: 2024-05-19T17:46:57.862Z
+updated: 2024-05-20T17:46:57.862Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -461,4 +461,5 @@ You can view upcoming events as a list of one day, a week, a month, or a year at
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-13-mini-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 13 mini online without jailbreak</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-moto-g04-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Moto G04 Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy S23+ support MOV videos ?
-date: 2024-04-30T19:42:02.067Z
+date: 2024-05-19T17:46:51.602Z
 tags: 
   - mov video
   - mov android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-splice-video-editing-software-for-macos/"><u>Updated In 2024, Get Splice Video Editing Software for macOS</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-c22-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia C22 Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

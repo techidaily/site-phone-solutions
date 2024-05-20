@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Redmi Note 12R
-date: 2024-04-30T19:40:11.753Z
+date: 2024-05-19T17:46:50.791Z
 tags: 
   - mov video
   - mov android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone XS Max? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-zte-nubia-flip-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked ZTE Nubia Flip 5G Phone</u></a></li>
 </ul></div>
+
 

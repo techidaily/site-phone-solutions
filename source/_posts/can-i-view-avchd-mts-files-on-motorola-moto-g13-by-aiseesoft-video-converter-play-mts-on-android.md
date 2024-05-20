@@ -1,7 +1,7 @@
 ---
 title: Can I view AVCHD .mts files on Motorola Moto G13?
-date: 2024-04-30T19:40:05.122Z
-updated: 2024-05-01T19:40:05.122Z
+date: 2024-05-19T17:46:50.742Z
+updated: 2024-05-20T17:46:50.742Z
 tags: 
   - mts video
   - mts android
@@ -220,4 +220,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15 Pro Max</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 

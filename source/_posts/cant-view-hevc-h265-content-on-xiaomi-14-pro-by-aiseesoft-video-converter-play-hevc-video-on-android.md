@@ -1,7 +1,7 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi 14 Pro
-date: 2024-04-30T19:41:21.944Z
-updated: 2024-05-01T19:41:21.944Z
+date: 2024-05-19T17:46:51.272Z
+updated: 2024-05-20T17:46:51.272Z
 tags: 
   - hevc video
   - hevc android
@@ -222,4 +222,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-11-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 11? 5 Tips You Must Know</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-realme-c51-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Realme C51</u></a></li>
 </ul></div>
+
 

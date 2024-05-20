@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Huawei P60
-date: 2024-04-30T19:40:04.831Z
+date: 2024-05-19T17:46:50.464Z
 tags: 
   - recover
 categories: 
@@ -253,4 +253,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-oppo-k11-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Oppo K11 5G</u></a></li>
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-narzo-60x-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme Narzo 60x 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

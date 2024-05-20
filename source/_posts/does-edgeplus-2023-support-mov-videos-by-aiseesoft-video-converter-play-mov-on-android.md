@@ -1,6 +1,6 @@
 ---
 title: Does Edge+ (2023) support MOV videos ?
-date: 2024-04-30T19:41:54.042Z
+date: 2024-05-19T17:46:51.557Z
 tags: 
   - mov video
   - mov android
@@ -227,4 +227,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 13 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-ken-burns-effect-in-final-cut-pro-a-comprehensive-guide-with-examples-and-tutorials/"><u>Updated In 2024, Ken Burns Effect in Final Cut Pro A Comprehensive Guide with Examples and Tutorials</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Realme Note 50 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:38.851Z
-updated: 2024-05-01T19:50:38.851Z
+date: 2024-05-19T17:46:56.613Z
+updated: 2024-05-20T17:46:56.613Z
 tags: 
   - reset
 categories:
@@ -457,4 +457,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-oneplus-11r-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your OnePlus 11R FRP Locks</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi 14 | Dr.fone</u></a></li>
 </ul></div>
+
 

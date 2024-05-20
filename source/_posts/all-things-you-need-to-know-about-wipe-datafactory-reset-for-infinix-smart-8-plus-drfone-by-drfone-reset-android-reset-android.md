@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 Plus | Dr.fone
-date: 2024-04-30T19:53:43.361Z
-updated: 2024-05-01T19:53:43.361Z
+date: 2024-05-19T17:46:58.887Z
+updated: 2024-05-20T17:46:58.887Z
 tags: 
   - reset
 categories:
@@ -387,4 +387,5 @@ The above given are multiple options that can be used for resetting your Infinix
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-12-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

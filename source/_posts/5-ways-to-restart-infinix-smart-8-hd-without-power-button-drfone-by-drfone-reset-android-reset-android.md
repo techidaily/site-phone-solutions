@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Smart 8 HD Without Power Button | Dr.fone
-date: 2024-04-30T19:51:16.681Z
-updated: 2024-05-01T19:51:16.681Z
+date: 2024-05-19T17:46:57.067Z
+updated: 2024-05-20T17:46:57.067Z
 tags: 
   - reset
 categories:
@@ -509,4 +509,5 @@ The above given are multiple options that can be used for resetting your Infinix
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-v27-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo V27 Pro Location Settings | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-pro-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 15 Pro to New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

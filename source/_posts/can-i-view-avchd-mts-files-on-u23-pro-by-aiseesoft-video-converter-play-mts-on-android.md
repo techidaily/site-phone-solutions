@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on U23 Pro?
-date: 2024-04-30T19:40:06.281Z
+date: 2024-05-19T17:46:50.759Z
 tags: 
   - mts video
   - mts android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-10-most-popular-aspect-ratio-changer-tools/"><u>Updated 10 Most Popular Aspect Ratio Changer Tools</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-update-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to update drivers on Windows 11/10</u></a></li>
 </ul></div>
+
 

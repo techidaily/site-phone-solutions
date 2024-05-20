@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Samsung Galaxy S23
-date: 2024-04-30T19:43:26.176Z
+date: 2024-05-19T17:46:52.170Z
 tags: 
   - hevc video
   - hevc android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-spark-10-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Spark 10 Pro</u></a></li>
 <li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-6s-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 6s | Stellar</u></a></li>
 </ul></div>
+
 

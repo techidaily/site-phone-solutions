@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor Play 40C Without Power Button | Dr.fone
-date: 2024-04-30T19:51:10.759Z
-updated: 2024-05-01T19:51:10.759Z
+date: 2024-05-19T17:46:56.940Z
+updated: 2024-05-20T17:46:56.940Z
 tags: 
   - reset
 categories:
@@ -432,4 +432,5 @@ Resetting an Honor Play 40C phone can be tricky sometimes; therefore, it should 
 <li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone XS | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100i-power-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y100i Power 5G Phone Without Password?</u></a></li>
 </ul></div>
+
 

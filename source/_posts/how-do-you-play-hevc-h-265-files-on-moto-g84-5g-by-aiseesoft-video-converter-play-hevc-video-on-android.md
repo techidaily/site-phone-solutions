@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Moto G84 5G?
-date: 2024-04-30T19:44:19.467Z
+date: 2024-05-19T17:46:52.605Z
 tags: 
   - hevc video
   - hevc android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-motorola-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Motorola .</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-list-of-supported-whatsapp-video-format-you-may-want-to-know/"><u>New List of Supported Whatsapp Video Format You May Want to Know</u></a></li>
 </ul></div>
+
 

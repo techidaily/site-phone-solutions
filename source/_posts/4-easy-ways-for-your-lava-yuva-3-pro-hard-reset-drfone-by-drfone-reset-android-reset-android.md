@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Lava Yuva 3 Pro Hard Reset | Dr.fone
-date: 2024-04-30T19:49:01.352Z
-updated: 2024-05-01T19:49:01.352Z
+date: 2024-05-19T17:46:55.471Z
+updated: 2024-05-20T17:46:55.471Z
 tags: 
   - reset
 categories:
@@ -372,4 +372,5 @@ Resetting an Lava Yuva 3 Pro phone can be tricky sometimes; therefore, it should
 <li><a href="https://ai-voice-clone.techidaily.com/ai-avatars-online/"><u>AI Avatars | Online</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

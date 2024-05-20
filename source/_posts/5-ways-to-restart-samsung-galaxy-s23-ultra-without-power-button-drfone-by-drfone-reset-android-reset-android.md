@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy S23 Ultra Without Power Button | Dr.fone
-date: 2024-04-30T19:51:52.039Z
-updated: 2024-05-01T19:51:52.039Z
+date: 2024-05-19T17:46:57.542Z
+updated: 2024-05-20T17:46:57.542Z
 tags: 
   - reset
 categories:
@@ -488,4 +488,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo Y100A? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6-plus-5-ways-to-get-into-a-locked-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6 Plus? 5 Ways to get into a Locked Apple iPhone 6 Plus</u></a></li>
 </ul></div>
+
 

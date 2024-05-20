@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Infinix Note 30 Pro? | Dr.fone
-date: 2024-04-30T19:52:33.641Z
-updated: 2024-05-01T19:52:33.641Z
+date: 2024-05-19T17:46:58.063Z
+updated: 2024-05-20T17:46:58.063Z
 tags: 
   - reset
 categories:
@@ -411,4 +411,5 @@ The above given are multiple options that can be used for resetting your Infinix
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 with IMEI Code?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-adobe-premiere-pro-rec-709-luts-finding-the-best-options/"><u>New Adobe Premiere Pro Rec 709 LUTs Finding The Best Options</u></a></li>
 </ul></div>
+
 

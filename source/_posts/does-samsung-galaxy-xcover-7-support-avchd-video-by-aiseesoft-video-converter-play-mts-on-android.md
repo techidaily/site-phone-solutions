@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy XCover 7 support AVCHD video?
-date: 2024-04-30T19:42:40.096Z
+date: 2024-05-19T17:46:51.852Z
 tags: 
   - mts video
   - mts android
@@ -154,4 +154,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-14-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 14 Pro Max?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oneplus-nord-n30-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On OnePlus Nord N30 5G without Anyone Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

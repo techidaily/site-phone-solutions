@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Razr 40 Ultra support AVCHD video?
-date: 2024-04-30T19:42:16.144Z
+date: 2024-05-19T17:46:51.682Z
 tags: 
   - mts video
   - mts android
@@ -193,4 +193,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Vivo S17e | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-11-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 11 Lock Screen with Notifications?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor X50 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:11.703Z
-updated: 2024-05-01T19:51:11.703Z
+date: 2024-05-19T17:46:56.973Z
+updated: 2024-05-20T17:46:56.973Z
 tags: 
   - reset
 categories:
@@ -552,4 +552,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Huawei Nova Y91? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
+
 

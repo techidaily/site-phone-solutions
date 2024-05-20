@@ -1,7 +1,7 @@
 ---
 title: How to convert AVCHD .mts files for Samsung ?
-date: 2024-04-30T19:45:02.738Z
-updated: 2024-05-01T19:45:02.738Z
+date: 2024-05-19T17:46:52.888Z
+updated: 2024-05-20T17:46:52.888Z
 tags: 
   - mts video
   - mts android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/unlock-infinix-hot-40-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Infinix Hot 40 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-honor-90-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Honor 90 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+
 

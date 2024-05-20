@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8 Pro? | Dr.fone
-date: 2024-04-30T19:52:35.338Z
-updated: 2024-05-01T19:52:35.338Z
+date: 2024-05-19T17:46:58.072Z
+updated: 2024-05-20T17:46:58.072Z
 tags: 
   - reset
 categories:
@@ -378,4 +378,5 @@ Resetting an Infinix Smart 8 Pro phone can be tricky sometimes; therefore, it sh
 <li><a href="https://animation-videos.techidaily.com/how-to-make-your-own-gif-on-whatsapp-in-simple-ways-for-2024/"><u>How to Make Your Own GIF on WhatsApp in Simple Ways for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone XS Max | Stellar</u></a></li>
 </ul></div>
+
 

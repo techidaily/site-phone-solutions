@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Poco C50 Phone Using PC | Dr.fone
-date: 2024-04-30T19:48:10.228Z
-updated: 2024-05-01T19:48:10.228Z
+date: 2024-05-19T17:46:54.806Z
+updated: 2024-05-20T17:46:54.806Z
 tags: 
   - reset
 categories:
@@ -520,4 +520,5 @@ Poco C50is a famous brand that serves a large number of consumers worldwide. If 
 <li><a href="https://techidaily.com/things-you-dont-know-about-infinix-note-30-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Note 30 Pro Reset Code | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-13-pro-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 13 Pro in the Best Ways</u></a></li>
 </ul></div>
+
 

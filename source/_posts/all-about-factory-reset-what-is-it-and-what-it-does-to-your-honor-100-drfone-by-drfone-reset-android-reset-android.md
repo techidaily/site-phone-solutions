@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Honor 100? | Dr.fone
-date: 2024-04-30T19:52:25.476Z
-updated: 2024-05-01T19:52:25.476Z
+date: 2024-05-19T17:46:58.004Z
+updated: 2024-05-20T17:46:58.004Z
 tags: 
   - reset
 categories:
@@ -444,4 +444,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-pro-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 Pro System Issues? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-a54-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy A54 5G to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

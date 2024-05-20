@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Motorola Moto E13 | Dr.fone
-date: 2024-04-30T19:46:47.094Z
-updated: 2024-05-01T19:46:47.094Z
+date: 2024-05-19T17:46:54.061Z
+updated: 2024-05-20T17:46:54.061Z
 tags: 
   - reset
 categories:
@@ -517,4 +517,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo V29 Pro | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-how-to-make-pinterest-slideshow-in-simple-ways/"><u>New 2024 Approved How To Make Pinterest Slideshow in Simple Ways</u></a></li>
 </ul></div>
+
 

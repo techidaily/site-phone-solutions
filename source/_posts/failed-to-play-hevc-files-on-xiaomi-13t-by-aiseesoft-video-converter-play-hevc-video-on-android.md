@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xiaomi 13T
-date: 2024-04-30T19:43:27.879Z
+date: 2024-05-19T17:46:52.179Z
 tags: 
   - hevc video
   - hevc android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

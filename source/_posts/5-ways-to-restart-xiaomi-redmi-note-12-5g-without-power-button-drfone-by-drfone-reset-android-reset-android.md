@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi Note 12 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:11.561Z
-updated: 2024-05-01T19:52:11.561Z
+date: 2024-05-19T17:46:57.794Z
+updated: 2024-05-20T17:46:57.794Z
 tags: 
   - reset
 categories:
@@ -536,4 +536,5 @@ Xiaomi Redmi Note 12 5Gis a famous brand that serves a large number of consumers
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-90-lite-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 90 Lite Unlock Without Password</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo G2 | Dr.fone</u></a></li>
 </ul></div>
+
 

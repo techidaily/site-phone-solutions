@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Xiaomi Redmi Note 12 4G?
-date: 2024-04-30T19:44:25.960Z
+date: 2024-05-19T17:46:52.639Z
 tags: 
   - hevc video
   - hevc android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-hard-to-remove-black-background-in-after-effects/"><u>Updated 2024 Approved Hard to Remove Black Background in After Effects?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-y100a-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo Y100A without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

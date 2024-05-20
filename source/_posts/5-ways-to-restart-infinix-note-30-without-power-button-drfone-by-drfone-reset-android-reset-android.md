@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Note 30 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:15.923Z
-updated: 2024-05-01T19:51:15.923Z
+date: 2024-05-19T17:46:57.062Z
+updated: 2024-05-20T17:46:57.062Z
 tags: 
   - reset
 categories:
@@ -450,4 +450,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-12t-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Redmi Note 12T Pro Devices</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-here-are-10-best-trailer-makers-for-mac-and-windows-to-creating-attractive-movie-trailers/"><u>New In 2024, Here Are 10 Best Trailer Makers for Mac and Windows to Creating Attractive Movie Trailers</u></a></li>
 </ul></div>
+
 

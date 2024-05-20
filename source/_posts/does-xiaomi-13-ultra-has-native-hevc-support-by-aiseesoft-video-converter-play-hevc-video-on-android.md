@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi 13 Ultra has native HEVC support?
-date: 2024-04-30T19:42:43.706Z
+date: 2024-05-19T17:46:51.871Z
 tags: 
   - hevc video
   - hevc android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-adobe-lightroom-color-grading-tutorial/"><u>2024 Approved Adobe Lightroom Color Grading Tutorial</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-detailed-guides-to-calculate-find-and-adjust-image-ratio/"><u>In 2024, Detailed Guides to Calculate, Find, and Adjust Image Ratio</u></a></li>
 </ul></div>
+
 

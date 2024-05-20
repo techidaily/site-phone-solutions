@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi has native HEVC support?
-date: 2024-04-30T19:42:45.969Z
+date: 2024-05-19T17:46:51.883Z
 tags: 
   - hevc video
   - hevc android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nokia-xr21-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nokia XR21 to New Phone | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6 Without Losing Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

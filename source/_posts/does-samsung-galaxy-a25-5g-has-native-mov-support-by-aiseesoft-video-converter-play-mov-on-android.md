@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy A25 5G has native MOV support?
-date: 2024-04-30T19:42:33.449Z
+date: 2024-05-19T17:46:51.818Z
 tags: 
   - mov video
   - mov android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor X50 GT? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tips-and-tricks-to-tell-if-your-apple-iphone-se-2022-is-unlocked-by-drfone-ios/"><u>Tips And Tricks To Tell if Your Apple iPhone SE (2022) Is Unlocked</u></a></li>
 </ul></div>
+
 

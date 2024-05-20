@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Lava Yuva 2 Pro? | Dr.fone
-date: 2024-04-30T19:52:39.866Z
-updated: 2024-05-01T19:52:39.866Z
+date: 2024-05-19T17:46:58.095Z
+updated: 2024-05-20T17:46:58.095Z
 tags: 
   - reset
 categories:
@@ -418,4 +418,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-a05s-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel A05s</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/unbranded-video-combining-7-best-software-options/"><u>Unbranded Video Combining 7 Best Software Options</u></a></li>
 </ul></div>
+
 

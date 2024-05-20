@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Mix Fold 3? 
-date: 2024-04-30T19:44:59.145Z
+date: 2024-05-19T17:46:52.870Z
 tags: 
   - mts video
   - mts android
@@ -159,4 +159,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-magic-v2-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor Magic V2</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro without Passcode or Face ID</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Does Moto G24 has native HEVC support?
-date: 2024-04-30T19:42:09.013Z
-updated: 2024-05-01T19:42:09.013Z
+date: 2024-05-19T17:46:51.644Z
+updated: 2024-05-20T17:46:51.644Z
 tags: 
   - hevc video
   - hevc android
@@ -219,4 +219,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-galaxy-xcover-6-pro-tactical-edition-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Galaxy XCover 6 Pro Tactical Edition on Mac?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-6s-plus-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 6s Plus Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+
 

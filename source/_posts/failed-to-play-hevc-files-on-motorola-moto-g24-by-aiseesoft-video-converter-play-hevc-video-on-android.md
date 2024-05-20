@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Motorola Moto G24
-date: 2024-04-30T19:43:23.339Z
+date: 2024-05-19T17:46:52.155Z
 tags: 
   - hevc video
   - hevc android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-12-proplus-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 12 Pro+ 5G to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Honor 100 | Dr.fone</u></a></li>
 </ul></div>
+
 

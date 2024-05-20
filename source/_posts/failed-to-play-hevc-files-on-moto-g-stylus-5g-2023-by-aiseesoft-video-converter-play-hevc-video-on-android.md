@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Moto G Stylus 5G (2023)
-date: 2024-04-30T19:43:21.834Z
+date: 2024-05-19T17:46:52.148Z
 tags: 
   - hevc video
   - hevc android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-infinix-gt-10-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Infinix GT 10 Pro? </u></a></li>
 </ul></div>
+
 

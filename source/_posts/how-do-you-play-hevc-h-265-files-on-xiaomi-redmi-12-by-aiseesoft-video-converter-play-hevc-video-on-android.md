@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Xiaomi Redmi 12?
-date: 2024-04-30T19:44:25.210Z
+date: 2024-05-19T17:46:52.636Z
 tags: 
   - hevc video
   - hevc android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-macvideoeditor-for-2024/"><u>Updated MacVideoEditor for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-asus-rog-phone-7-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Asus ROG Phone 7 FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

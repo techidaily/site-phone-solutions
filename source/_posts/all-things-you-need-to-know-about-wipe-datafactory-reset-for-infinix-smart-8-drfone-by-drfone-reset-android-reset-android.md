@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 | Dr.fone
-date: 2024-04-30T19:53:42.984Z
-updated: 2024-05-01T19:53:42.984Z
+date: 2024-05-19T17:46:58.884Z
+updated: 2024-05-20T17:46:58.884Z
 tags: 
   - reset
 categories:
@@ -374,4 +374,5 @@ Above are some strategies with which you can do an **Infinix Smart 8 hard reset*
 <li><a href="https://android-frp.techidaily.com/about-oppo-reno-9a-frp-bypass-by-drfone-android/"><u>About Oppo Reno 9A FRP Bypass</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-watch-nba-live-stream-free-anywhere/"><u>Updated How To Watch NBA Live Stream Free Anywhere</u></a></li>
 </ul></div>
+
 

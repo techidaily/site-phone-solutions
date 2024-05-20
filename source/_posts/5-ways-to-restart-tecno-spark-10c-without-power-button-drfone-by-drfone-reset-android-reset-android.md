@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Spark 10C Without Power Button | Dr.fone
-date: 2024-04-30T19:51:57.278Z
-updated: 2024-05-01T19:51:57.278Z
+date: 2024-05-19T17:46:57.638Z
+updated: 2024-05-20T17:46:57.638Z
 tags: 
   - reset
 categories:
@@ -480,4 +480,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-itel-s23plus-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Itel S23+</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone XR | Dr.fone</u></a></li>
 </ul></div>
+
 

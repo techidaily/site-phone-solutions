@@ -1,6 +1,6 @@
 ---
 title: Does Edge 2023 has native HEVC support?
-date: 2024-04-30T19:41:52.353Z
+date: 2024-05-19T17:46:51.512Z
 tags: 
   - hevc video
   - hevc android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Without Passcode? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-top-rated-online-video-ad-makers/"><u>2024 Approved Top-Rated Online Video Ad Makers</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Redmi Note 12R has native MKV support?
-date: 2024-04-30T19:42:29.639Z
+date: 2024-05-19T17:46:51.796Z
 tags: 
   - mkv video
   - mkv android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-x50i-by-fonelab-android-recover-video/"><u>Undeleted lost videos from X50i</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-spark-20-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Spark 20 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

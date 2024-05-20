@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze 2 | Dr.fone
-date: 2024-04-30T19:53:46.886Z
-updated: 2024-05-01T19:53:46.886Z
+date: 2024-05-19T17:46:58.910Z
+updated: 2024-05-20T17:46:58.910Z
 tags: 
   - reset
 categories:
@@ -411,4 +411,5 @@ Above are some strategies with which you can do an **Lava Blaze 2 hard reset**. 
 <li><a href="https://animation-videos.techidaily.com/new-top-10-3d-text-animation-templates-for-2024/"><u>New Top 10 3D Text Animation Templates for 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Hot 40 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:14.579Z
-updated: 2024-05-01T19:51:14.579Z
+date: 2024-05-19T17:46:57.052Z
+updated: 2024-05-20T17:46:57.052Z
 tags: 
   - reset
 categories:
@@ -512,4 +512,5 @@ Infinix Hot 40 Prois a famous brand that serves a large number of consumers worl
 <li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 15 iCloud Activation Lock Bypass</u></a></li>
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-reno-9a-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Reno 9A on Mac?</u></a></li>
 </ul></div>
+
 

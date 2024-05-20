@@ -1,7 +1,7 @@
 ---
 title: How to convert AVCHD MTS to MP4 for P60?
-date: 2024-04-30T19:45:11.013Z
-updated: 2024-05-01T19:45:11.013Z
+date: 2024-05-19T17:46:52.936Z
+updated: 2024-05-20T17:46:52.936Z
 tags: 
   - mts video
   - mts android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-moto-g14-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Moto G14 on Windows</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-22-free-video-editing-software-to-save-your-money-and-time/"><u>Updated In 2024, 22 Free Video Editing Software to Save Your Money and Time</u></a></li>
 </ul></div>
+
 

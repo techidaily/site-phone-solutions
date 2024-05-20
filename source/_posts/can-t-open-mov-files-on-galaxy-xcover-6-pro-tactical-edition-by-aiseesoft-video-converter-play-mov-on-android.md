@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Galaxy XCover 6 Pro Tactical Edition
-date: 2024-04-30T19:40:09.688Z
+date: 2024-05-19T17:46:50.779Z
 tags: 
   - mov video
   - mov android
@@ -189,4 +189,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Spark 20 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/play-hevc-h265-on-14-ultra-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on 14 Ultra, is it possible?</u></a></li>
 </ul></div>
+
 

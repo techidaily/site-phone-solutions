@@ -1,7 +1,7 @@
 ---
 title: How do you play .mov files on Redmi A2 ?
-date: 2024-04-30T19:44:39.429Z
-updated: 2024-05-01T19:44:39.429Z
+date: 2024-05-19T17:46:52.715Z
+updated: 2024-05-20T17:46:52.715Z
 tags: 
   - mov video
   - mov android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Motorola Moto G24? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-asus-rog-phone-8-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Asus ROG Phone 8 Pro? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

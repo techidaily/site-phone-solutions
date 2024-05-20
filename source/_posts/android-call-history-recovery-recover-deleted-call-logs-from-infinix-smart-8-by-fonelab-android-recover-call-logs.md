@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Infinix Smart 8
-date: 2024-04-30T19:54:08.232Z
+date: 2024-05-19T17:46:59.129Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -190,4 +190,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Vivo Y78 5G | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Infinix Hot 30i | Dr.fone</u></a></li>
 </ul></div>
+
 

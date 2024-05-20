@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Lava Yuva 2 | Dr.fone
-date: 2024-04-30T19:46:44.240Z
-updated: 2024-05-01T19:46:44.240Z
+date: 2024-05-19T17:46:54.040Z
+updated: 2024-05-20T17:46:54.040Z
 tags: 
   - reset
 categories:
@@ -508,4 +508,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone X? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-k11x-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo K11x to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

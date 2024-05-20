@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Yuva 2 | Dr.fone
-date: 2024-04-30T19:53:47.827Z
-updated: 2024-05-01T19:53:47.827Z
+date: 2024-05-19T17:46:58.916Z
+updated: 2024-05-20T17:46:58.916Z
 tags: 
   - reset
 categories:
@@ -440,4 +440,5 @@ These are all methods for unlocking Lava Yuva 2 hard reset. It is possible to ap
 <li><a href="https://ai-video.techidaily.com/new-in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>new In 2024, Step-by-step Guide How to Translate TikTok Videos</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17t-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17t Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

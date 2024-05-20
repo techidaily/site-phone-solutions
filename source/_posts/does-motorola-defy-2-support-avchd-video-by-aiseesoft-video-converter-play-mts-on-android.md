@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Defy 2 support AVCHD video?
-date: 2024-04-30T19:42:10.845Z
+date: 2024-05-19T17:46:51.654Z
 tags: 
   - mts video
   - mts android
@@ -181,4 +181,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-itel-a60s-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Itel A60s FRP Without Computer</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-15-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 15 Pro Max Without Passcode Now | Dr.fone</u></a></li>
 </ul></div>
+
 

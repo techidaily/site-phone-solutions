@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy A05s has native HEVC support?
-date: 2024-04-30T19:41:55.567Z
+date: 2024-05-19T17:46:51.567Z
 tags: 
   - hevc video
   - hevc android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-7-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 7 without the Previous Owner?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-there-are-so-many-music-recording-software-in-the-market-today-free-and-paid-which-makes-it-tough-to-choose-therefore-we-gather-10-best-free-music-recor/"><u>New There Are so Many Music Recording Software in the Market Today, Free and Paid, Which Makes It Tough to Choose. Therefore, We Gather 10 Best Free Music Recording Software for You for 2024</u></a></li>
 </ul></div>
+
 

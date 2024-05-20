@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Edge 40 has native HEVC support?
-date: 2024-04-30T19:42:11.407Z
+date: 2024-05-19T17:46:51.657Z
 tags: 
   - hevc video
   - hevc android
@@ -178,4 +178,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-poco-f5-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Poco F5 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-fade-in-text-in-adobe-premiere-pro-for-2024/"><u>How to Fade in Text in Adobe Premiere Pro for 2024</u></a></li>
 </ul></div>
+
 

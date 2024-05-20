@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Yuva 3 Pro | Dr.fone
-date: 2024-04-30T19:53:48.390Z
-updated: 2024-05-01T19:53:48.390Z
+date: 2024-05-19T17:46:58.920Z
+updated: 2024-05-20T17:46:58.920Z
 tags: 
   - reset
 categories:
@@ -410,4 +410,5 @@ Now that you know how to reset a Lava Yuva 3 Pro phone that is locked and how to
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a79-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A79 5G</u></a></li>
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Moto G13 | Dr.fone</u></a></li>
 </ul></div>
+
 

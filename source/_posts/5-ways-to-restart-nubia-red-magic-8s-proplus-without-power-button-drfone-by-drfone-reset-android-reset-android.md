@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nubia Red Magic 8S Pro+ Without Power Button | Dr.fone
-date: 2024-04-30T19:51:29.982Z
-updated: 2024-05-01T19:51:29.982Z
+date: 2024-05-19T17:46:57.281Z
+updated: 2024-05-20T17:46:57.281Z
 tags: 
   - reset
 categories:
@@ -503,4 +503,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-s17-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Vivo S17 Pro?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-c50-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco C50 Device</u></a></li>
 </ul></div>
+
 

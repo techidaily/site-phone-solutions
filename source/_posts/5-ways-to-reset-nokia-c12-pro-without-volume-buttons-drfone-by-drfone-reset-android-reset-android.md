@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Nokia C12 Pro Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:19.870Z
-updated: 2024-05-01T19:50:19.870Z
+date: 2024-05-19T17:46:56.368Z
+updated: 2024-05-20T17:46:56.368Z
 tags: 
   - reset
 categories:
@@ -412,4 +412,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-14-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 14? How to Fix it?</u></a></li>
 <li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo X Fold 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset OnePlus 12R Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:23.496Z
-updated: 2024-05-01T19:50:23.496Z
+date: 2024-05-19T17:46:56.419Z
+updated: 2024-05-20T17:46:56.419Z
 tags: 
   - reset
 categories:
@@ -493,4 +493,5 @@ These are all methods for unlocking OnePlus 12R hard reset. It is possible to ap
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-xs-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone XS Max? 7 Mehtods You Cant-Miss</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-nubia-red-magic-8s-proplus-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Nubia Red Magic 8S Pro+</u></a></li>
 </ul></div>
+
 

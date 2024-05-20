@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia G42 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:29.386Z
-updated: 2024-05-01T19:51:29.386Z
+date: 2024-05-19T17:46:57.276Z
+updated: 2024-05-20T17:46:57.276Z
 tags: 
   - reset
 categories:
@@ -535,4 +535,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://animation-videos.techidaily.com/updated-2024-approved-15-best-video-to-gif-app-on-iphone-and-android/"><u>Updated 2024 Approved 15 Best Video to GIF App on iPhone and Android</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-civi-3-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Civi 3 Phone With/Without IMEI Number</u></a></li>
 </ul></div>
+
 

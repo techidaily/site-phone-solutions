@@ -1,6 +1,6 @@
 ---
 title: Does Redmi Note 13 Pro+ 5G has native MOV support?
-date: 2024-04-30T19:42:30.985Z
+date: 2024-05-19T17:46:51.804Z
 tags: 
   - mov video
   - mov android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-huawei-p60-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Huawei P60?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-g2-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo G2? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 

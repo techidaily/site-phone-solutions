@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Xiaomi 13T Pro
-date: 2024-04-30T19:54:24.044Z
+date: 2024-05-19T17:46:59.240Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -176,4 +176,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-effortless-video-organization-on-mac-top-8-metadata-editors/"><u>Updated Effortless Video Organization on Mac Top 8 Metadata Editors</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Hot 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

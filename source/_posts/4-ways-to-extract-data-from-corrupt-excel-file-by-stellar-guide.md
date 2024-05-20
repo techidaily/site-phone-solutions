@@ -1,6 +1,6 @@
 ---
 title: 4 Ways to extract data from corrupt Excel file
-date: 2024-04-30T19:49:57.168Z
+date: 2024-05-19T17:46:56.163Z
 tags: 
   - repair
   - repair excel
@@ -167,4 +167,5 @@ Instead of giving up on corrupted Excel sheets, try repairing them with the simp
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-reno-11-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo Reno 11 5G Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-easy-tutorial-how-to-make-a-talking-cartoon-video-step-by-step/"><u>New Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step</u></a></li>
 </ul></div>
+
 

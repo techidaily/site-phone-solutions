@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor 100 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:07.410Z
-updated: 2024-05-01T19:51:07.410Z
+date: 2024-05-19T17:46:56.916Z
+updated: 2024-05-20T17:46:56.916Z
 tags: 
   - reset
 categories:
@@ -449,4 +449,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-note-13-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi Note 13 5G FRP Android 10/11/12/13</u></a></li>
 <li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-iphone-7-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By iPhone 7 without the Previous Owner?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Redmi Note 13 Pro 5G?
-date: 2024-04-30T19:40:57.623Z
+date: 2024-05-19T17:46:51.123Z
 tags: 
   - mp4 video
   - mp4 android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme Narzo 60 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a78-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Oppo A78 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

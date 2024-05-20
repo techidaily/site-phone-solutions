@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Infinix Hot 30i
-date: 2024-04-30T19:54:07.080Z
+date: 2024-05-19T17:46:59.104Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -224,4 +224,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-c02-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia C02 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-blaze-2-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Blaze 2 Pro using Video Repair Utility on Mac?</u></a></li>
 </ul></div>
+
 

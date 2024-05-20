@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy A14 4G support MOV videos ?
-date: 2024-04-30T19:41:56.129Z
+date: 2024-05-19T17:46:51.570Z
 tags: 
   - mov video
   - mov android
@@ -199,4 +199,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-on-your-apple-iphone-se-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock on your Apple iPhone SE and iPad</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-nokia-c12-plus-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Nokia C12 Plus</u></a></li>
 </ul></div>
+
 

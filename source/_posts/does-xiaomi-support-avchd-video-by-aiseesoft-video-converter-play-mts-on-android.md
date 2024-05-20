@@ -1,7 +1,7 @@
 ---
 title: Does Xiaomi support AVCHD video?
-date: 2024-04-30T19:42:51.967Z
-updated: 2024-05-01T19:42:51.967Z
+date: 2024-05-19T17:46:51.907Z
+updated: 2024-05-20T17:46:51.907Z
 tags: 
   - mts video
   - mts android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-s23-tactical-edition-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy S23 Tactical Edition Lock Screen Password?</u></a></li>
 </ul></div>
+
 

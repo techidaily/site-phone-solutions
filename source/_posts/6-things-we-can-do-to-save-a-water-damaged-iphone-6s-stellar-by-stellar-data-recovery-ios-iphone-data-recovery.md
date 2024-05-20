@@ -1,7 +1,7 @@
 ---
 title: 6 Things We Can Do To Save A Water Damaged iPhone 6s | Stellar
-date: 2024-04-30T19:52:18.385Z
-updated: 2024-05-01T19:52:18.385Z
+date: 2024-05-19T17:46:57.858Z
+updated: 2024-05-20T17:46:57.858Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -468,4 +468,5 @@ Force restart of the device often resolves the _â€˜**attempting data recovery**â
 <li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-xr-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone XR with iTunes | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Easily?</u></a></li>
 </ul></div>
+
 

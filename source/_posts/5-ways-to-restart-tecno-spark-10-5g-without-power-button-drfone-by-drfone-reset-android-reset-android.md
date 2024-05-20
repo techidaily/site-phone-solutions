@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Spark 10 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:56.902Z
-updated: 2024-05-01T19:51:56.902Z
+date: 2024-05-19T17:46:57.618Z
+updated: 2024-05-20T17:46:57.618Z
 tags: 
   - reset
 categories:
@@ -454,4 +454,5 @@ The above given are multiple options that can be used for resetting your Tecno S
 <li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo Y17s | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c53-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme C53 PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

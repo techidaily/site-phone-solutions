@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Honor Play 7T
-date: 2024-04-30T19:54:04.346Z
+date: 2024-05-19T17:46:59.070Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -176,4 +176,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-x100-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo X100 Like A Pro 5 Easy Ways</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-bypass-apple-iphone-x-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass Apple iPhone X Passcode Easily Video Inside</u></a></li>
 </ul></div>
+
 

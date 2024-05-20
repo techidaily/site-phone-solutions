@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Sony Xperia 1 V?
-date: 2024-04-30T19:42:24.144Z
+date: 2024-05-19T17:46:51.765Z
 tags: 
   - mp4 video
   - mp4 android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-pro-4g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Xiaomi Redmi Note 12 Pro 4G Phone that is Locked?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-fix-damage-to-the-file-was-so-extensive-pdf-error-stellar-by-stellar-guide/"><u>How to fix damage to the file was so extensive PDF error? | Stellar</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Cannot play MKV files on Galaxy XCover 7
-date: 2024-04-30T19:41:10.446Z
+date: 2024-05-19T17:46:51.208Z
 tags: 
   - mkv video
   - mkv android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/resolve-your-apple-iphone-14-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your Apple iPhone 14 Keeps Asking for Outlook Password</u></a></li>
 </ul></div>
+
 

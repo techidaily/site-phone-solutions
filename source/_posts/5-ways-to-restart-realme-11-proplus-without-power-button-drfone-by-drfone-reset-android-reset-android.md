@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme 11 Pro+ Without Power Button | Dr.fone
-date: 2024-04-30T19:51:42.407Z
-updated: 2024-05-01T19:51:42.407Z
+date: 2024-05-19T17:46:57.423Z
+updated: 2024-05-20T17:46:57.423Z
 tags: 
   - reset
 categories:
@@ -533,4 +533,5 @@ These are all methods for unlocking Realme 11 Pro+ hard reset. It is possible to
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo A18? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-c55-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme C55 | Dr.fone</u></a></li>
 </ul></div>
+
 

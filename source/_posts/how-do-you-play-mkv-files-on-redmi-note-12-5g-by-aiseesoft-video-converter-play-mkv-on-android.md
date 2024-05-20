@@ -1,7 +1,7 @@
 ---
 title: How do you play MKV files on Redmi Note 12 5G?
-date: 2024-04-30T19:44:33.038Z
-updated: 2024-05-01T19:44:33.038Z
+date: 2024-05-19T17:46:52.676Z
+updated: 2024-05-20T17:46:52.676Z
 tags: 
   - mkv video
   - mkv android
@@ -197,4 +197,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/fix-xiaomi-redmi-note-12-4g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi Redmi Note 12 4G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Motorola Edge 40 Neo | Dr.fone</u></a></li>
 </ul></div>
+
 

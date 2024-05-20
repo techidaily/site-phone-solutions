@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Tecno Spark Go (2024) | Dr.fone
-date: 2024-04-30T19:47:21.038Z
-updated: 2024-05-01T19:47:21.038Z
+date: 2024-05-19T17:46:54.345Z
+updated: 2024-05-20T17:46:54.345Z
 tags: 
   - reset
 categories:
@@ -411,4 +411,5 @@ Resetting an Tecno Spark Go (2024) phone can be tricky sometimes; therefore, it 
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-honor-play-40c-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Honor Play 40C</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-k70-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi K70 Devices</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Huawei Nova Y71 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:13.399Z
-updated: 2024-05-01T19:51:13.399Z
+date: 2024-05-19T17:46:57.042Z
+updated: 2024-05-20T17:46:57.042Z
 tags: 
   - reset
 categories:
@@ -501,4 +501,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-a38-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo A38 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-imovie-text-effects/"><u>Updated How to Use iMovie Text Effects</u></a></li>
 </ul></div>
+
 

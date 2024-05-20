@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia C32 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:28.813Z
-updated: 2024-05-01T19:51:28.813Z
+date: 2024-05-19T17:46:57.272Z
+updated: 2024-05-20T17:46:57.272Z
 tags: 
   - reset
 categories:
@@ -506,4 +506,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone 11 Pro?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

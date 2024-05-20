@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Motorola G54 5G
-date: 2024-04-30T19:54:10.301Z
+date: 2024-05-19T17:46:59.151Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-10t-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 10T 5G</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-deleting-white-background-in-photoshop-is-hard/"><u>New Deleting White Background in Photoshop Is Hard?</u></a></li>
 </ul></div>
+
 

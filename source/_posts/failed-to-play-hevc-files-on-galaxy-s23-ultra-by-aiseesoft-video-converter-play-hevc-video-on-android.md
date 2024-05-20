@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Galaxy S23 Ultra
-date: 2024-04-30T19:43:19.945Z
+date: 2024-05-19T17:46:52.137Z
 tags: 
   - hevc video
   - hevc android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-free-sound-effects-for-final-cut-pro-a-step-by-step-guide-for-2024/"><u>New Free Sound Effects for Final Cut Pro A Step-by-Step Guide for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-g2-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo G2 FRP</u></a></li>
 </ul></div>
+
 

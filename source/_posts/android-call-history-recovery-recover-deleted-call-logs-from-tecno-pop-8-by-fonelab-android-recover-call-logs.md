@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Tecno Pop 8
-date: 2024-04-30T19:54:20.437Z
-updated: 2024-05-01T19:54:20.437Z
+date: 2024-05-19T17:46:59.220Z
+updated: 2024-05-20T17:46:59.220Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Passcode Screen? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-camon-20-premier-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Camon 20 Premier 5G Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Civi 3?
-date: 2024-04-30T19:44:16.073Z
+date: 2024-05-19T17:46:52.575Z
 tags: 
   - hevc video
   - hevc android
@@ -200,4 +200,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 14 Plus</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Nubia Z50S Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

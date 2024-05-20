@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Yuva 3 | Dr.fone
-date: 2024-04-30T19:53:48.202Z
-updated: 2024-05-01T19:53:48.202Z
+date: 2024-05-19T17:46:58.919Z
+updated: 2024-05-20T17:46:58.919Z
 tags: 
   - reset
 categories:
@@ -429,4 +429,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-itel-p55t-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Itel P55T Bricked Devices | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
 </ul></div>
+
 

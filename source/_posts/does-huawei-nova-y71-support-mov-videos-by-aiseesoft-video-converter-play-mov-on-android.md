@@ -1,6 +1,6 @@
 ---
 title: Does Huawei Nova Y71 support MOV videos ?
-date: 2024-04-30T19:42:06.389Z
+date: 2024-05-19T17:46:51.630Z
 tags: 
   - mov video
   - mov android
@@ -224,4 +224,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-gt-neo-5-se-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme GT Neo 5 SE? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-5-ai-music-video-examples-and-makers-to-make-them/"><u>Updated 2024 Approved Best 5 AI Music Video Examples and Makers to Make Them</u></a></li>
 </ul></div>
+
 

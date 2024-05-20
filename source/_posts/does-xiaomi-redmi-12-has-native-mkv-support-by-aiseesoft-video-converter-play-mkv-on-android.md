@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi 12 has native MKV support?
-date: 2024-04-30T19:42:47.100Z
+date: 2024-05-19T17:46:51.887Z
 tags: 
   - mkv video
   - mkv android
@@ -210,4 +210,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y36 | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-play-40c-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor Play 40C?</u></a></li>
 </ul></div>
+
 

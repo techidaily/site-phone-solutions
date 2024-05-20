@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T19:45:34.925Z
-updated: 2024-05-01T19:45:34.925Z
+date: 2024-05-19T17:46:53.161Z
+updated: 2024-05-20T17:46:53.161Z
 tags: 
   - reset
 categories:
@@ -554,4 +554,5 @@ Lava Blaze 2 5Gis a famous brand that serves a large number of consumers worldwi
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-gt-10-pro-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix GT 10 Pro to iPad Easily | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Hot 40? | Dr.fone</u></a></li>
 </ul></div>
+
 

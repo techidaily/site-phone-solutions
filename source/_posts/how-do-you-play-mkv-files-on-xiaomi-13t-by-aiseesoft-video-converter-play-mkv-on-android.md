@@ -1,6 +1,6 @@
 ---
 title: How do you play MKV files on Xiaomi 13T?
-date: 2024-04-30T19:44:35.293Z
+date: 2024-05-19T17:46:52.693Z
 tags: 
   - mkv video
   - mkv android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-a-custom-transition-to-obs-for-2024/"><u>How to Add a Custom Transition to OBS for 2024</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a23-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme GT 5 (240W) Without Power Button | Dr.fone
-date: 2024-04-30T19:51:44.850Z
-updated: 2024-05-01T19:51:44.850Z
+date: 2024-05-19T17:46:57.441Z
+updated: 2024-05-20T17:46:57.441Z
 tags: 
   - reset
 categories:
@@ -493,4 +493,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Samsung Galaxy F04 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-windows-online-movie-maker-complete-guide/"><u>2024 Approved How to Windows Online Movie Maker Complete Guide</u></a></li>
 </ul></div>
+
 

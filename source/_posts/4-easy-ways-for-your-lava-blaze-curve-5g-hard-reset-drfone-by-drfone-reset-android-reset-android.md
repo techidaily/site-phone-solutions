@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Lava Blaze Curve 5G Hard Reset | Dr.fone
-date: 2024-04-30T19:49:00.108Z
-updated: 2024-05-01T19:49:00.108Z
+date: 2024-05-19T17:46:55.412Z
+updated: 2024-05-20T17:46:55.412Z
 tags: 
   - reset
 categories:
@@ -456,4 +456,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-get-the-perfect-drone-footage-with-free-drone-luts/"><u>Updated In 2024, Get The Perfect Drone Footage With Free Drone LUTs</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-10t-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme 10T 5G PIN Code/Pattern Lock/Password</u></a></li>
 </ul></div>
+
 

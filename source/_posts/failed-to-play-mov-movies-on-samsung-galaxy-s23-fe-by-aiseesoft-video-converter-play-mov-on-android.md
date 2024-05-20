@@ -1,6 +1,6 @@
 ---
 title: Failed to play MOV movies on Samsung Galaxy S23 FE
-date: 2024-04-30T19:43:43.961Z
+date: 2024-05-19T17:46:52.265Z
 tags: 
   - mov video
   - mov android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-film-a-slow-motion-video/"><u>Updated How To Film a Slow Motion Video</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from HTC U23 Pro
-date: 2024-04-30T19:54:05.850Z
-updated: 2024-05-01T19:54:05.850Z
+date: 2024-05-19T17:46:59.098Z
+updated: 2024-05-20T17:46:59.098Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -203,4 +203,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g73-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G73 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oneplus-ace-3-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From OnePlus Ace 3 to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

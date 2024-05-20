@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Sony Xperia 1 V Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:46.017Z
-updated: 2024-05-01T19:50:46.017Z
+date: 2024-05-19T17:46:56.676Z
+updated: 2024-05-20T17:46:56.676Z
 tags: 
   - reset
 categories:
@@ -556,4 +556,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://techidaily.com/unlock-a-disable-iphone-15-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 15 using itunes</u></a></li>
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Honor X7b
-date: 2024-04-30T19:54:04.911Z
+date: 2024-05-19T17:46:59.073Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -162,4 +162,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/poco-f5-pro-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 Pro 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo V30 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

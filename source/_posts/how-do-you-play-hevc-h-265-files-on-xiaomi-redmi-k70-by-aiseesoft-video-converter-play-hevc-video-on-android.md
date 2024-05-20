@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Xiaomi Redmi K70?
-date: 2024-04-30T19:44:25.585Z
+date: 2024-05-19T17:46:52.638Z
 tags: 
   - hevc video
   - hevc android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-motorola-edge-2023-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Motorola Edge 2023 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-x-flip-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo X Flip FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

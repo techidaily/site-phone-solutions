@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme 10T 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:41.839Z
-updated: 2024-05-01T19:51:41.839Z
+date: 2024-05-19T17:46:57.419Z
+updated: 2024-05-20T17:46:57.419Z
 tags: 
   - reset
 categories:
@@ -438,4 +438,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-windows-movie-maker-save-mp4-file/"><u>New 2024 Approved How Windows Movie Maker Save MP4 File</u></a></li>
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-find-x6-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo Find X6 FRP</u></a></li>
 </ul></div>
+
 

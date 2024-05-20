@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Galaxy A05
-date: 2024-04-30T19:40:20.232Z
+date: 2024-05-19T17:46:50.852Z
 tags: 
   - mp4 video
   - mp4 android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p55-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P55 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

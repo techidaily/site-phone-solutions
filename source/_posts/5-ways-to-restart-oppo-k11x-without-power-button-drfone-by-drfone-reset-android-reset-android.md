@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Oppo K11x Without Power Button | Dr.fone
-date: 2024-04-30T19:51:37.431Z
-updated: 2024-05-01T19:51:37.431Z
+date: 2024-05-19T17:46:57.349Z
+updated: 2024-05-20T17:46:57.349Z
 tags: 
   - reset
 categories:
@@ -485,4 +485,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://ai-voice.techidaily.com/new-update-6-best-voice-changers-you-cant-miss-for-2024/"><u>New Update 6 Best Voice Changers You Cant Miss for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo V29e? | Dr.fone</u></a></li>
 </ul></div>
+
 

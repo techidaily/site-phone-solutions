@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi A2 support MKV video files?
-date: 2024-04-30T19:42:48.753Z
+date: 2024-05-19T17:46:51.893Z
 tags: 
   - mkv video
   - mkv android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-f23-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo F23 5G to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy S24+ | Dr.fone</u></a></li>
 </ul></div>
+
 

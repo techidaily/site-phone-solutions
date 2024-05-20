@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Galaxy XCover 7
-date: 2024-04-30T19:40:30.949Z
+date: 2024-05-19T17:46:50.953Z
 tags: 
   - hevc video
   - hevc android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-in-2024/"><u>Updated What Is AI API, In 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-a05s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel A05s to Other Android Devices Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

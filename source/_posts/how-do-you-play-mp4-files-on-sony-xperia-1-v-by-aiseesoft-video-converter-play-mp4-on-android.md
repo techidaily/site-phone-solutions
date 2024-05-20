@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Sony Xperia 1 V?
-date: 2024-04-30T19:44:52.381Z
+date: 2024-05-19T17:46:52.777Z
 tags: 
   - mp4 video
   - mp4 android
@@ -199,4 +199,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-14-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 14 Pro Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-s23-tactical-edition-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy S23 Tactical Edition Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

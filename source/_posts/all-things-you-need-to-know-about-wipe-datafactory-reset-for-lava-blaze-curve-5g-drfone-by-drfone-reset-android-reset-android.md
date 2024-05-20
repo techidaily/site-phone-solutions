@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T19:53:47.262Z
-updated: 2024-05-01T19:53:47.262Z
+date: 2024-05-19T17:46:58.913Z
+updated: 2024-05-20T17:46:58.913Z
 tags: 
   - reset
 categories:
@@ -437,4 +437,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-15-pro-max-without-a-home-button-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 15 Pro Max Without a Home Button</u></a></li>
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

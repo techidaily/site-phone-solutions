@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Huawei Nova Y71
-date: 2024-04-30T19:40:22.687Z
+date: 2024-05-19T17:46:50.905Z
 tags: 
   - mp4 video
   - mp4 android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y77t-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y77t Phone Now with These Tips</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/how-to-use-korean-to-english-video-translators-for-creators-for-2024/"><u>How To Use Korean to English Video Translators for Creators for 2024</u></a></li>
 </ul></div>
+
 

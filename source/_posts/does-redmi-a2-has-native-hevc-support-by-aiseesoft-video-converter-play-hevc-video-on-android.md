@@ -1,6 +1,6 @@
 ---
 title: Does Redmi A2 has native HEVC support?
-date: 2024-04-30T19:42:27.741Z
+date: 2024-05-19T17:46:51.786Z
 tags: 
   - hevc video
   - hevc android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-a2plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi A2+ without App | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-7-plus-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 7 Plus? 5 Best Solutions | Stellar</u></a></li>
 </ul></div>
+
 

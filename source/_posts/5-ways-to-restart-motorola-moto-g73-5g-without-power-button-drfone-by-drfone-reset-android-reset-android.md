@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G73 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:26.156Z
-updated: 2024-05-01T19:51:26.156Z
+date: 2024-05-19T17:46:57.215Z
+updated: 2024-05-20T17:46:57.215Z
 tags: 
   - reset
 categories:
@@ -428,4 +428,5 @@ Resetting an Motorola Moto G73 5G phone can be tricky sometimes; therefore, it s
 <li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme 11 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

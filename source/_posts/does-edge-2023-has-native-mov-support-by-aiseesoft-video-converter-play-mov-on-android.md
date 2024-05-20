@@ -1,6 +1,6 @@
 ---
 title: Does Edge 2023 has native MOV support?
-date: 2024-04-30T19:41:52.541Z
+date: 2024-05-19T17:46:51.512Z
 tags: 
   - mov video
   - mov android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-magic-6-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor Magic 6 Pro Location Is Wrong | Dr.fone</u></a></li>
 </ul></div>
+
 

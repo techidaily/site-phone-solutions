@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Xiaomi Civi 3?
-date: 2024-04-30T19:40:07.044Z
+date: 2024-05-19T17:46:50.764Z
 tags: 
   - mts video
   - mts android
@@ -160,4 +160,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/what-to-do-if-iphone-8-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 8 is not listed when I run the software? | Stellar</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-oppo-a59-5g-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Oppo A59 5G.</u></a></li>
 </ul></div>
+
 

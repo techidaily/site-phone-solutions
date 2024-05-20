@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Infinix Smart 8 Hard Reset | Dr.fone
-date: 2024-04-30T19:48:55.860Z
-updated: 2024-05-01T19:48:55.860Z
+date: 2024-05-19T17:46:55.374Z
+updated: 2024-05-20T17:46:55.374Z
 tags: 
   - reset
 categories:
@@ -474,4 +474,5 @@ Let's end our guide for the easiest ways to **hard reset Infinix Smart 8**. You 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-v30-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo V30 Pro Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-xiaomi-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Xiaomi? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 

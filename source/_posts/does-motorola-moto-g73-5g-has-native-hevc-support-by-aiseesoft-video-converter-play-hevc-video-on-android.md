@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Moto G73 5G has native HEVC support?
-date: 2024-04-30T19:42:14.987Z
+date: 2024-05-19T17:46:51.676Z
 tags: 
   - hevc video
   - hevc android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A2 | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-infinix-smart-7-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Infinix Smart 7 FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

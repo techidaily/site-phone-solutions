@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Sony Xperia 5 V
-date: 2024-04-30T19:43:27.316Z
+date: 2024-05-19T17:46:52.176Z
 tags: 
   - hevc video
   - hevc android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/updated-finest-approach-to-slow-down-a-video-capcut-all-in-one-video-editor-for-2024/"><u>Updated Finest Approach to Slow Down a Video CapCut All-in-One Video Editor for 2024</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-google-pixel-8-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Google Pixel 8 FRP</u></a></li>
 </ul></div>
+
 

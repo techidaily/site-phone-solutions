@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme GT 5 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:45.066Z
-updated: 2024-05-01T19:51:45.066Z
+date: 2024-05-19T17:46:57.443Z
+updated: 2024-05-20T17:46:57.443Z
 tags: 
   - reset
 categories:
@@ -485,4 +485,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-8s-proplus-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 8S Pro+ to Outlook | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-x5-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco X5 Pro Phone</u></a></li>
 </ul></div>
+
 

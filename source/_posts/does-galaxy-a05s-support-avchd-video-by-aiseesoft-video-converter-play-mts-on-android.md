@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy A05s support AVCHD video?
-date: 2024-04-30T19:41:55.942Z
+date: 2024-05-19T17:46:51.569Z
 tags: 
   - mts video
   - mts android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-a1-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo A1 5G IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-13-ultra-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi 13 Ultra</u></a></li>
 </ul></div>
+
 

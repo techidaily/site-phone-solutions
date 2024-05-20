@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Civi 3 Disney 100th Anniversary Edition Without Power Button | Dr.fone
-date: 2024-04-30T19:52:08.929Z
-updated: 2024-05-01T19:52:08.929Z
+date: 2024-05-19T17:46:57.776Z
+updated: 2024-05-20T17:46:57.776Z
 tags: 
   - reset
 categories:
@@ -424,4 +424,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-filters-on-imovie/"><u>Updated In 2024, How to Add Filters on iMovie</u></a></li>
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS Max iOS? | Dr.fone</u></a></li>
 </ul></div>
+
 

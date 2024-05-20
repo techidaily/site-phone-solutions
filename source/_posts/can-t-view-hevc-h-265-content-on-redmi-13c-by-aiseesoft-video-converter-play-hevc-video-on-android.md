@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Redmi 13C
-date: 2024-04-30T19:40:33.579Z
+date: 2024-05-19T17:46:50.967Z
 tags: 
   - hevc video
   - hevc android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-change-your-honor-x8b-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Honor X8b Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo A38 | Dr.fone</u></a></li>
 </ul></div>
+
 

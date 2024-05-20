@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD MTS to MP4 for Huawei P60?
-date: 2024-04-30T19:45:08.797Z
+date: 2024-05-19T17:46:52.926Z
 tags: 
   - mts video
   - mts android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy A05 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-z-flip-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy Z Flip 5 Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

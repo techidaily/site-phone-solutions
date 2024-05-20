@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi Note 12R support AVCHD video?
-date: 2024-04-30T19:42:50.835Z
+date: 2024-05-19T17:46:51.902Z
 tags: 
   - mts video
   - mts android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-15-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 15 Passcode not Working? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
+
 

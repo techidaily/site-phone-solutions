@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Infinix Smart 8 Pro
-date: 2024-04-30T19:54:08.611Z
+date: 2024-05-19T17:46:59.131Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -204,4 +204,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-vdieo-software.techidaily.com/unleash-speed-how-to-add-realistic-motion-blur-in-final-cut-pro/"><u>Unleash Speed How to Add Realistic Motion Blur in Final Cut Pro</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-how-to-create-video-from-text-easily-step-by-step/"><u>Updated 2024 Approved How To Create Video From Text Easily Step-by-Step</u></a></li>
 </ul></div>
+
 

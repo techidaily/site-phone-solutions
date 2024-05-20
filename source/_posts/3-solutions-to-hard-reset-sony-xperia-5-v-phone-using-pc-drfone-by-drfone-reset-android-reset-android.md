@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Sony Xperia 5 V Phone Using PC | Dr.fone
-date: 2024-04-30T19:48:25.353Z
-updated: 2024-05-01T19:48:25.353Z
+date: 2024-05-19T17:46:54.999Z
+updated: 2024-05-20T17:46:54.999Z
 tags: 
   - reset
 categories:
@@ -516,4 +516,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y78-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y78 5G Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y100t? | Dr.fone</u></a></li>
 </ul></div>
+
 

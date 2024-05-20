@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Pova 5 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:56.141Z
-updated: 2024-05-01T19:51:56.141Z
+date: 2024-05-19T17:46:57.578Z
+updated: 2024-05-20T17:46:57.578Z
 tags: 
   - reset
 categories:
@@ -499,4 +499,5 @@ Tecno Pova 5 Prois a famous brand that serves a large number of consumers worldw
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-k11-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo K11 5G Phone and Remove Locked Screen</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-music-from-asus-rog-phone-7-by-fonelab-android-recover-music/"><u>Undelete lost music from Asus ROG Phone 7</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi Note 12 4G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:11.361Z
-updated: 2024-05-01T19:52:11.361Z
+date: 2024-05-19T17:46:57.792Z
+updated: 2024-05-20T17:46:57.792Z
 tags: 
   - reset
 categories:
@@ -528,4 +528,5 @@ The above given are multiple options that can be used for resetting your Xiaomi 
 <li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Asus ROG Phone 7 | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme 12 Pro+ 5G</u></a></li>
 </ul></div>
+
 

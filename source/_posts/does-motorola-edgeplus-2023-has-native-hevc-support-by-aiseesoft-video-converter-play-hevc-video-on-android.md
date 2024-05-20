@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Edge+ (2023) has native HEVC support?
-date: 2024-04-30T19:42:12.536Z
+date: 2024-05-19T17:46:51.663Z
 tags: 
   - hevc video
   - hevc android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme Narzo 60 5G? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

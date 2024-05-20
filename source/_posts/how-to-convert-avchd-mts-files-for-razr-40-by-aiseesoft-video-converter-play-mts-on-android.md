@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Razr 40?
-date: 2024-04-30T19:45:01.586Z
+date: 2024-05-19T17:46:52.882Z
 tags: 
   - mts video
   - mts android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-x-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone X without Apple ID?</u></a></li>
 </ul></div>
+
 

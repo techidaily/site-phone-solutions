@@ -1,6 +1,6 @@
 ---
 title: Does Huawei Nova Y71 support AVCHD video?
-date: 2024-04-30T19:42:06.201Z
+date: 2024-05-19T17:46:51.629Z
 tags: 
   - mts video
   - mts android
@@ -216,4 +216,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nubia-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Nubia</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

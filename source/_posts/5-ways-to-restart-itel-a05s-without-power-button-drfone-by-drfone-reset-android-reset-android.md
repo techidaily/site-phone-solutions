@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Itel A05s Without Power Button | Dr.fone
-date: 2024-04-30T19:51:17.818Z
-updated: 2024-05-01T19:51:17.818Z
+date: 2024-05-19T17:46:57.086Z
+updated: 2024-05-20T17:46:57.086Z
 tags: 
   - reset
 categories:
@@ -487,4 +487,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 6s Plus</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-huawei-nova-y91-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Huawei Nova Y91 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

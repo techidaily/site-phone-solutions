@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme C67 4G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:44.287Z
-updated: 2024-05-01T19:51:44.287Z
+date: 2024-05-19T17:46:57.437Z
+updated: 2024-05-20T17:46:57.437Z
 tags: 
   - reset
 categories:
@@ -566,4 +566,5 @@ The above given are multiple options that can be used for resetting your Realme 
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a05s-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A05s Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-find-x6-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Find X6 Pro</u></a></li>
 </ul></div>
+
 

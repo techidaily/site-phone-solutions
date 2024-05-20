@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Galaxy S23?
-date: 2024-04-30T19:44:17.970Z
+date: 2024-05-19T17:46:52.596Z
 tags: 
   - hevc video
   - hevc android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 14? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-your-zte-lock-screen-password-by-drfone-android/"><u>How to Reset your ZTE Lock Screen Password</u></a></li>
 </ul></div>
+
 

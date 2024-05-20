@@ -1,7 +1,7 @@
 ---
 title: Does Moto G84 5G support MOV videos ?
-date: 2024-04-30T19:42:10.657Z
-updated: 2024-05-01T19:42:10.657Z
+date: 2024-05-19T17:46:51.653Z
+updated: 2024-05-20T17:46:51.653Z
 tags: 
   - mov video
   - mov android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/aspect-ratio-mastery-the-secret-to-making-your-facebook-videos-stand-out-for-2024/"><u>Aspect Ratio Mastery The Secret to Making Your Facebook Videos Stand Out for 2024</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-are-you-ready-to-animate-game-character-from-scratch/"><u>In 2024, Are You Ready to Animate Game Character From Scratch?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy A05 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:47.342Z
-updated: 2024-05-01T19:51:47.342Z
+date: 2024-05-19T17:46:57.485Z
+updated: 2024-05-20T17:46:57.485Z
 tags: 
   - reset
 categories:
@@ -542,4 +542,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-11-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 11 to Other iPhone? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-best-8-ar-apps-for-android-and-ios-help-you-see-the-world-of-ar-for-2024/"><u>New Best 8 AR Apps for Android and iOS | Help You See the World of AR for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y02T Without Power Button | Dr.fone
-date: 2024-04-30T19:52:03.279Z
-updated: 2024-05-01T19:52:03.279Z
+date: 2024-05-19T17:46:57.680Z
+updated: 2024-05-20T17:46:57.680Z
 tags: 
   - reset
 categories:
@@ -467,4 +467,5 @@ Now that you know how to hard reset Vivo Y02T it is time to implement all the po
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-redmi-note-12-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi Redmi Note 12 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-12-prominent-vivo-y28-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y28 5G Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
+
 

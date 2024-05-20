@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Xiaomi Redmi A2 ?
-date: 2024-04-30T19:44:43.945Z
+date: 2024-05-19T17:46:52.743Z
 tags: 
   - mov video
   - mov android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-oneplus-11r-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your OnePlus 11R Screen | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-x-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone X to Windows PC With Ease? | Dr.fone</u></a></li>
 </ul></div>
+
 

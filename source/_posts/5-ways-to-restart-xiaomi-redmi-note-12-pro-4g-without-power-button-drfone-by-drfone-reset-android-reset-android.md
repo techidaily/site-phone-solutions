@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi Note 12 Pro 4G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:11.754Z
-updated: 2024-05-01T19:52:11.754Z
+date: 2024-05-19T17:46:57.795Z
+updated: 2024-05-20T17:46:57.795Z
 tags: 
   - reset
 categories:
@@ -495,4 +495,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Realme C67 4G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-do-you-want-to-use-a-professional-tool-to-add-subtitles-read-this-article-to-discover-the-best-reliable-tool-to-create-subtitles-in-your-desired-manner./"><u>New Do You Want to Use a Professional Tool to Add Subtitles? Read This Article to Discover the Best Reliable Tool to Create Subtitles in Your Desired Manner</u></a></li>
 </ul></div>
+
 

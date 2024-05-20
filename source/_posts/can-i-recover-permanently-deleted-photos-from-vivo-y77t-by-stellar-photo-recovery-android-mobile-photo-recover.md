@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Vivo Y77t
-date: 2024-04-30T19:40:05.056Z
+date: 2024-05-19T17:46:50.691Z
 tags: 
   - recover
 categories: 
@@ -256,4 +256,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-k11-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo K11 5G Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 6? | Dr.fone</u></a></li>
 </ul></div>
+
 

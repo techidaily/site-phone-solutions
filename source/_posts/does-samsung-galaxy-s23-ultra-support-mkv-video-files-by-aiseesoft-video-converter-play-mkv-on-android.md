@@ -1,7 +1,7 @@
 ---
 title: Does Samsung Galaxy S23 Ultra support MKV video files?
-date: 2024-04-30T19:42:38.961Z
-updated: 2024-05-01T19:42:38.961Z
+date: 2024-05-19T17:46:51.846Z
+updated: 2024-05-20T17:46:51.846Z
 tags: 
   - mkv video
   - mkv android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-v29withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo V29with/without a PC</u></a></li>
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-pova-5-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno Pova 5.</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Edge+ (2023)?
-date: 2024-04-30T19:44:16.450Z
+date: 2024-05-19T17:46:52.578Z
 tags: 
   - hevc video
   - hevc android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oppo-reno-10-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Oppo Reno 10 5G Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo X Flip? | Dr.fone</u></a></li>
 </ul></div>
+
 

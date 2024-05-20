@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Redmi 12?
-date: 2024-04-30T19:40:57.062Z
+date: 2024-05-19T17:46:51.120Z
 tags: 
   - mp4 video
   - mp4 android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-5-easy-ways-to-transfer-contacts-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Easy Ways to Transfer Contacts from Apple iPhone 14 Pro to Android | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on U23 ?
-date: 2024-04-30T19:44:42.818Z
+date: 2024-05-19T17:46:52.731Z
 tags: 
   - mov video
   - mov android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-here-is-a-step-by-step-guide-to-color-correct-and-color-grade-a-video-professionally-with-wondershare-filmora-lets-get-going/"><u>In 2024, Here Is a Step-by-Step Guide to Color Correct and Color Grade a Video Professionally with Wondershare Filmora. Lets Get Going</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-itel-p55-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Itel P55 5G</u></a></li>
 </ul></div>
+
 

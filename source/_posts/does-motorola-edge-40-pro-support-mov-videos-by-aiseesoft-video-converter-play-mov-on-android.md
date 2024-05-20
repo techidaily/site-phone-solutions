@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Edge 40 Pro support MOV videos ?
-date: 2024-04-30T19:42:12.163Z
+date: 2024-05-19T17:46:51.661Z
 tags: 
   - mov video
   - mov android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-oppo-reno-11f-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Oppo Reno 11F 5G Phone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-music-after-oppo-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Oppo has been deleted</u></a></li>
 </ul></div>
+
 

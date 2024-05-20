@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T19:46:48.792Z
-updated: 2024-05-01T19:46:48.792Z
+date: 2024-05-19T17:46:54.073Z
+updated: 2024-05-20T17:46:54.073Z
 tags: 
   - reset
 categories:
@@ -392,4 +392,5 @@ Resetting an Motorola Moto G73 5G phone can be tricky sometimes; therefore, it s
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14 Plus | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-apple-iphone-14-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your Apple iPhone 14 Plus Apple ID and Apple Pay</u></a></li>
 </ul></div>
+
 

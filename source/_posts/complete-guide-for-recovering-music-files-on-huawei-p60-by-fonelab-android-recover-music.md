@@ -1,6 +1,6 @@
 ---
 title: Complete guide for recovering music files on Huawei P60
-date: 2024-04-30T19:41:31.177Z
+date: 2024-05-19T17:46:51.358Z
 tags: 
   - android data recovery
   - android devices music recovery
@@ -149,4 +149,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-moto-g23-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Moto G23 Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

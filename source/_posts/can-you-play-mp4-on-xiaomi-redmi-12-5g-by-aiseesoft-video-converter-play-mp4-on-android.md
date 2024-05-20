@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Xiaomi Redmi 12 5G?
-date: 2024-04-30T19:41:00.266Z
+date: 2024-05-19T17:46:51.138Z
 tags: 
   - mp4 video
   - mp4 android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-14-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 14 Pro Max</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

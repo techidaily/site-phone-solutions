@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Note 30 VIP Racing Edition Without Power Button | Dr.fone
-date: 2024-04-30T19:51:15.542Z
-updated: 2024-05-01T19:51:15.542Z
+date: 2024-05-19T17:46:57.059Z
+updated: 2024-05-20T17:46:57.059Z
 tags: 
   - reset
 categories:
@@ -456,4 +456,5 @@ Resetting an Infinix Note 30 VIP Racing Edition phone can be tricky sometimes; t
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Gionee F3 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713950530912-its-always-a-cool-thing-to-use-a-3d-intro-maker-to-create-intro-videos-for-your-clips-this-post-will-introduce-you-4-of-the-best-intro-video-makers-to-help-/"><u>Its Always a Cool Thing to Use a 3D Intro Maker to Create Intro Videos for Your Clips. This Post Will Introduce You 4 of the Best Intro Video Makers to Help You Improve Your Video for 2024</u></a></li>
 </ul></div>
+
 

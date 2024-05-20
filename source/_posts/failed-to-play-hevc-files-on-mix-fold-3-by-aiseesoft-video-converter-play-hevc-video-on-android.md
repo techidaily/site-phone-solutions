@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Mix Fold 3
-date: 2024-04-30T19:43:21.458Z
+date: 2024-05-19T17:46:52.145Z
 tags: 
   - hevc video
   - hevc android
@@ -221,4 +221,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-a15-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy A15 5G Devices</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor X8b? | Dr.fone</u></a></li>
 </ul></div>
+
 

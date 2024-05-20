@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T19:46:43.033Z
-updated: 2024-05-01T19:46:43.033Z
+date: 2024-05-19T17:46:54.027Z
+updated: 2024-05-20T17:46:54.027Z
 tags: 
   - reset
 categories:
@@ -467,4 +467,5 @@ Now that you know how to reset a Lava Blaze 2 5G phone that is locked and how to
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme GT 5 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 With or Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

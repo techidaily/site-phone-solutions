@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Edge 40 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:23.347Z
-updated: 2024-05-01T19:51:23.347Z
+date: 2024-05-19T17:46:57.173Z
+updated: 2024-05-20T17:46:57.173Z
 tags: 
   - reset
 categories:
@@ -469,4 +469,5 @@ The above given are multiple options that can be used for resetting your Motorol
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-7-plusipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 7 Plus/iPad/iPod</u></a></li>
 </ul></div>
+
 

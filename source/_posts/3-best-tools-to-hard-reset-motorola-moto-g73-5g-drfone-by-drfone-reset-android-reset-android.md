@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T19:45:40.773Z
-updated: 2024-05-01T19:45:40.773Z
+date: 2024-05-19T17:46:53.202Z
+updated: 2024-05-20T17:46:53.202Z
 tags: 
   - reset
 categories:
@@ -470,4 +470,5 @@ Resetting an Motorola Moto G73 5G phone can be tricky sometimes; therefore, it s
 <li><a href="https://meme-emoji.techidaily.com/new-what-is-emoji-in-2024/"><u>New What Is Emoji, In 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 14 Plus? | Stellar</u></a></li>
 </ul></div>
+
 

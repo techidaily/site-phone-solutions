@@ -1,7 +1,7 @@
 ---
 title: Can't play .mov files on 14
-date: 2024-04-30T19:41:16.358Z
-updated: 2024-05-01T19:41:16.358Z
+date: 2024-05-19T17:46:51.242Z
+updated: 2024-05-20T17:46:51.242Z
 tags: 
   - mov video
   - mov android
@@ -230,4 +230,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-voice-cloning-in-descript-features-guide-and-alternatives/"><u>In 2024, Voice Cloning in Descript Features, Guide & Alternatives</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-infinix-zero-30-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Infinix Zero 30 5G Phone</u></a></li>
 </ul></div>
+
 

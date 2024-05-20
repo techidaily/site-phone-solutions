@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Edge 2023 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:22.970Z
-updated: 2024-05-01T19:51:22.970Z
+date: 2024-05-19T17:46:57.171Z
+updated: 2024-05-20T17:46:57.171Z
 tags: 
   - reset
 categories:
@@ -539,4 +539,5 @@ Let's end our guide for the easiest ways to **hard reset Motorola Edge 2023**. Y
 <li><a href="https://sim-unlock.techidaily.com/all-about-iphone-xs-max-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone XS Max Unlock Chip You Need to Know</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/best-solutions-for-samsung-network-unlock-by-drfone-android/"><u>Best Solutions for Samsung Network Unlock</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo T2 Pro 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:00.314Z
-updated: 2024-05-01T19:52:00.314Z
+date: 2024-05-19T17:46:57.660Z
+updated: 2024-05-20T17:46:57.660Z
 tags: 
   - reset
 categories:
@@ -434,4 +434,5 @@ Now that you know how to reset a Vivo T2 Pro 5G phone that is locked and how to 
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-gif-to-jpg-is-as-simple-as-a-blink-of-an-eye/"><u>Updated 2024 Approved GIF to JPG Is as Simple as a Blink of an Eye</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-m14-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy M14 5G for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

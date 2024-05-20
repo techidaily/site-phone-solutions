@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Asus ROG Phone 8 Pro Hard Reset | Dr.fone
-date: 2024-04-30T19:48:45.364Z
-updated: 2024-05-01T19:48:45.364Z
+date: 2024-05-19T17:46:55.232Z
+updated: 2024-05-20T17:46:55.232Z
 tags: 
   - reset
 categories:
@@ -478,4 +478,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-11-proplus-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 11 Pro+</u></a></li>
 <li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-honor-x50i-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Honor X50i</u></a></li>
 </ul></div>
+
 

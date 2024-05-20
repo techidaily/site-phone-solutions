@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on HTC U23
-date: 2024-04-30T19:43:21.080Z
+date: 2024-05-19T17:46:52.143Z
 tags: 
   - hevc video
   - hevc android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-are-ai-tools/"><u>Updated 2024 Approved What Are AI Tools?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-c12-plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia C12 Plus Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

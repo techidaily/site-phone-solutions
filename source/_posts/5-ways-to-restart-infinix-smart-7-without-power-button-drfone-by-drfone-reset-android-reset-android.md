@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Smart 7 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:16.491Z
-updated: 2024-05-01T19:51:16.491Z
+date: 2024-05-19T17:46:57.066Z
+updated: 2024-05-20T17:46:57.066Z
 tags: 
   - reset
 categories:
@@ -413,4 +413,5 @@ Now that you know how to reset a Infinix Smart 7 phone that is locked and how to
 <li><a href="https://ai-video-editing.techidaily.com/new-best-4-love-video-maker-with-music/"><u>New Best 4 Love Video Maker with Music</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) Online? Here are 6 Easy Ways</u></a></li>
 </ul></div>
+
 

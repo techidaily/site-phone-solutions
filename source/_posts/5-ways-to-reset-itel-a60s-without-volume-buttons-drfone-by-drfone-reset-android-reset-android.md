@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Itel A60s Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:10.221Z
-updated: 2024-05-01T19:50:10.221Z
+date: 2024-05-19T17:46:56.285Z
+updated: 2024-05-20T17:46:56.285Z
 tags: 
   - reset
 categories:
@@ -478,4 +478,5 @@ Above are some strategies with which you can do an **Itel A60s hard reset**. How
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nubia-red-magic-9-pro-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nubia Red Magic 9 Pro Phone?</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oppo-reno-11-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Oppo Reno 11 5G without backup.</u></a></li>
 </ul></div>
+
 

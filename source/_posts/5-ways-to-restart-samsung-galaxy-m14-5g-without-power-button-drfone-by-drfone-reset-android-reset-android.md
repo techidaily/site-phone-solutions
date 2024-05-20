@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy M14 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:50.715Z
-updated: 2024-05-01T19:51:50.715Z
+date: 2024-05-19T17:46:57.532Z
+updated: 2024-05-20T17:46:57.532Z
 tags: 
   - reset
 categories:
@@ -493,4 +493,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60x-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60x 5G to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-12-mini-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 12 mini Without Previous Owner?</u></a></li>
 </ul></div>
+
 

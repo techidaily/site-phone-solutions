@@ -1,7 +1,7 @@
 ---
 title: Does Edge+ (2023) support AVCHD video?
-date: 2024-04-30T19:41:53.854Z
-updated: 2024-05-01T19:41:53.854Z
+date: 2024-05-19T17:46:51.518Z
+updated: 2024-05-20T17:46:51.518Z
 tags: 
   - mts video
   - mts android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-v29-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V29 Pro to Protect Your Individual Information</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-13-mini-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 13 mini Passcode not Working?</u></a></li>
 </ul></div>
+
 

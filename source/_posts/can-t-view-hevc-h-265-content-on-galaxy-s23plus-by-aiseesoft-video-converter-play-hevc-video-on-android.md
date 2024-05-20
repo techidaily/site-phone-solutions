@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Galaxy S23+
-date: 2024-04-30T19:40:30.575Z
+date: 2024-05-19T17:46:50.951Z
 tags: 
   - hevc video
   - hevc android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Nokia G310? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55t-phone-without-google-account-by-drfone-android/"><u>How to Unlock Itel P55T Phone without Google Account?</u></a></li>
 </ul></div>
+
 

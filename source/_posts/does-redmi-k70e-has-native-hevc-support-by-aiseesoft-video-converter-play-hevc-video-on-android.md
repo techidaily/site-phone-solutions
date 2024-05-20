@@ -1,6 +1,6 @@
 ---
 title: Does Redmi K70E has native HEVC support?
-date: 2024-04-30T19:42:28.879Z
+date: 2024-05-19T17:46:51.792Z
 tags: 
   - hevc video
   - hevc android
@@ -181,4 +181,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Tecno Phantom V Flip? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo A78 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

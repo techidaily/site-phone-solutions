@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Razr 40
-date: 2024-04-30T19:40:32.998Z
+date: 2024-05-19T17:46:50.964Z
 tags: 
   - hevc video
   - hevc android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-12-pro-without-apple-id-password-by-drfone-ios/"><u>How To Erase an iPhone 12 Pro Without Apple ID Password?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-note-12-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi Note 12 5G? Fix Now | Dr.fone</u></a></li>
 </ul></div>
+
 

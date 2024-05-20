@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo S17t Without Power Button | Dr.fone
-date: 2024-04-30T19:51:59.351Z
-updated: 2024-05-01T19:51:59.351Z
+date: 2024-05-19T17:46:57.653Z
+updated: 2024-05-20T17:46:57.653Z
 tags: 
   - reset
 categories:
@@ -420,4 +420,5 @@ Resetting an Vivo S17t phone can be tricky sometimes; therefore, it should be fi
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-itel-p55-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Itel P55 to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-10t-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 10T 5G to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

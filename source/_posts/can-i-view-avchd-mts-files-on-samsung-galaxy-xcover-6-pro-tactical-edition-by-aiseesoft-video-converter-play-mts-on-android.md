@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Samsung Galaxy XCover 6 Pro Tactical Edition?
-date: 2024-04-30T19:40:05.705Z
+date: 2024-05-19T17:46:50.756Z
 tags: 
   - mts video
   - mts android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-final-cut-pro-offers-users-multiple-options-to-adjust-video-speed-easily-including-timelapse/"><u>In 2024, Final Cut Pro Offers Users Multiple Options to Adjust Video Speed Easily, Including Timelapse</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-unlock-your-creativity-how-to-edit-mp4-videos-on-mac-and-windows-computers/"><u>Updated Unlock Your Creativity How to Edit MP4 Videos on Mac and Windows Computers</u></a></li>
 </ul></div>
+
 

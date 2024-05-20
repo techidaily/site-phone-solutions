@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Xiaomi Redmi Note 12 Pro 4G?
-date: 2024-04-30T19:42:24.895Z
+date: 2024-05-19T17:46:51.769Z
 tags: 
   - mp4 video
   - mp4 android
@@ -154,4 +154,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oppo-find-n3-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Oppo Find N3 IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://techidaily.com/will-samsung-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Samsung play AVCHD mts files?</u></a></li>
 </ul></div>
+
 

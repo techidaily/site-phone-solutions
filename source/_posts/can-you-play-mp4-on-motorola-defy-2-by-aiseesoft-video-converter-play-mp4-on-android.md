@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Motorola Defy 2?
-date: 2024-04-30T19:40:56.310Z
+date: 2024-05-19T17:46:51.116Z
 tags: 
   - mp4 video
   - mp4 android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-iphone-6-pluswindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your iPhone 6 Plus/Windows/Mac</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-vivo-y78plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y78+ Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

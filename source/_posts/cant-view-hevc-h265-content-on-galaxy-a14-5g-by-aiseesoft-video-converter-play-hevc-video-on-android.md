@@ -1,7 +1,7 @@
 ---
 title: Can’t view HEVC H.265 content on Galaxy A14 5G
-date: 2024-04-30T19:41:20.257Z
-updated: 2024-05-01T19:41:20.257Z
+date: 2024-05-19T17:46:51.262Z
+updated: 2024-05-20T17:46:51.262Z
 tags: 
   - hevc video
   - hevc android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-infinix-zero-30-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Infinix Zero 30 5G Phone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-voice-over-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Voice Over? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
+
 

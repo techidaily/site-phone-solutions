@@ -1,6 +1,6 @@
 ---
 title: How do I play MKV movies on Galaxy A05s?
-date: 2024-04-30T19:44:08.361Z
+date: 2024-05-19T17:46:52.521Z
 tags: 
   - mkv video
   - mkv android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Without Passcode?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-slideshow-gif-in-2024/"><u>Updated How to Make a Slideshow GIF, In 2024</u></a></li>
 </ul></div>
+
 

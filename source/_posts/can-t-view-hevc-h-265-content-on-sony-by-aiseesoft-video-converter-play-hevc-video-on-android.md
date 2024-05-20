@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Sony 
-date: 2024-04-30T19:40:36.755Z
+date: 2024-05-19T17:46:50.985Z
 tags: 
   - hevc video
   - hevc android
@@ -200,4 +200,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/new-the-secret-sauce-for-making-gif-instagram-story-more-aesthetic-for-2024/"><u>New The Secret Sauce for Making GIF Instagram Story More Aesthetic for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Lava Blaze 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

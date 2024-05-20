@@ -1,6 +1,6 @@
 ---
 title: Best Android Data Recovery - undelete lost call logs from Lava Yuva 2 Pro
-date: 2024-04-30T19:55:52.576Z
+date: 2024-05-19T17:46:59.764Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -206,4 +206,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-google-meet-green-screen/"><u>New How to Google Meet Green Screen</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 </ul></div>
+
 

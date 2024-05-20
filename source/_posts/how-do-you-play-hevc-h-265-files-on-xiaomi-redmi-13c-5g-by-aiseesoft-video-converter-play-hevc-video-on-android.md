@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Xiaomi Redmi 13C 5G?
-date: 2024-04-30T19:44:25.397Z
+date: 2024-05-19T17:46:52.637Z
 tags: 
   - hevc video
   - hevc android
@@ -212,4 +212,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-8-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 8 and iPad Securely</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y36i-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y36i to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on Moto G84 5G ?
-date: 2024-04-30T19:44:02.534Z
+date: 2024-05-19T17:46:52.472Z
 tags: 
   - mov video
   - mov android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-13-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 13 If Youve Tried Everything</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo A18 | Dr.fone</u></a></li>
 </ul></div>
+
 

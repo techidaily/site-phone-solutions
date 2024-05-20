@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G13 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:25.202Z
-updated: 2024-05-01T19:51:25.202Z
+date: 2024-05-19T17:46:57.209Z
+updated: 2024-05-20T17:46:57.209Z
 tags: 
   - reset
 categories:
@@ -573,4 +573,5 @@ Motorola Moto G13is a famous brand that serves a large number of consumers world
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-poco-f5-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Poco F5 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-youtube-intro-by-filmora/"><u>Updated How to Make a YouTube Intro by Filmora</u></a></li>
 </ul></div>
+
 

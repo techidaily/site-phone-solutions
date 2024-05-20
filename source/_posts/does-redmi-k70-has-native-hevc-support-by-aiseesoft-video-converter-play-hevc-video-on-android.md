@@ -1,6 +1,6 @@
 ---
 title: Does Redmi K70 has native HEVC support?
-date: 2024-04-30T19:42:28.122Z
+date: 2024-05-19T17:46:51.788Z
 tags: 
   - hevc video
   - hevc android
@@ -234,4 +234,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 15 Plus? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Without Passcode Now</u></a></li>
 </ul></div>
+
 

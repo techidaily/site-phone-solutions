@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy S23 Tactical Edition? | Dr.fone
-date: 2024-04-30T19:53:10.416Z
-updated: 2024-05-01T19:53:10.416Z
+date: 2024-05-19T17:46:58.330Z
+updated: 2024-05-20T17:46:58.330Z
 tags: 
   - reset
 categories:
@@ -432,4 +432,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-xiaomi-redmi-note-12-proplus-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Xiaomi Redmi Note 12 Pro+ 5G Phone?</u></a></li>
 <li><a href="https://techidaily.com/some-mp4-wont-play-on-my-razr-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Razr 40</u></a></li>
 </ul></div>
+
 

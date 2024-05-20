@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme 12 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:42.784Z
-updated: 2024-05-01T19:51:42.784Z
+date: 2024-05-19T17:46:57.426Z
+updated: 2024-05-20T17:46:57.426Z
 tags: 
   - reset
 categories:
@@ -500,4 +500,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-camon-20-premier-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Camon 20 Premier 5G FRP</u></a></li>
 <li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-tecno-pova-5-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Tecno Pova 5 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Tecno Pova 6 Pro 5G? | Dr.fone
-date: 2024-04-30T19:53:14.804Z
-updated: 2024-05-01T19:53:14.804Z
+date: 2024-05-19T17:46:58.383Z
+updated: 2024-05-20T17:46:58.383Z
 tags: 
   - reset
 categories:
@@ -492,4 +492,5 @@ Above are some strategies with which you can do an **Tecno Pova 6 Pro 5G hard re
 <li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-oneplus-11-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on OnePlus 11 5G</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For OnePlus Nord N30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

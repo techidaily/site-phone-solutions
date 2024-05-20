@@ -1,6 +1,6 @@
 ---
 title: Can you watch MOV movies on HTC U23 Pro ?
-date: 2024-04-30T19:41:03.289Z
+date: 2024-05-19T17:46:51.156Z
 tags: 
   - mov video
   - mov android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/new-10-leading-open-source-video-editors-you-can-use-for-free/"><u>New 10 Leading Open-Source Video Editors You Can Use for Free</u></a></li>
 <li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oneplus-open-frp-by-drfone-android/"><u>5 Quick Methods to Bypass OnePlus Open FRP</u></a></li>
 </ul></div>
+
 

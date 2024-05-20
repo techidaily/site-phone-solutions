@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on 13T Pro?
-date: 2024-04-30T19:44:26.522Z
+date: 2024-05-19T17:46:52.643Z
 tags: 
   - hevc video
   - hevc android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo A78 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 

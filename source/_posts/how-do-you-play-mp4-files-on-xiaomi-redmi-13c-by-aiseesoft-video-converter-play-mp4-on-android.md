@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Xiaomi Redmi 13C?
-date: 2024-04-30T19:44:53.897Z
+date: 2024-05-19T17:46:52.837Z
 tags: 
   - mp4 video
   - mp4 android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-smart-7-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Smart 7 Phones with/without a PC</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-nokia-c12-plus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Nokia C12 Plus</u></a></li>
 </ul></div>
+
 

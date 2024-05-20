@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Huawei Nova Y71?
-date: 2024-04-30T19:44:18.906Z
+date: 2024-05-19T17:46:52.601Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-save-money-get-creative-free-commercial-use-image-sites/"><u>Updated Save Money, Get Creative Free Commercial-Use Image Sites</u></a></li>
 </ul></div>
+
 

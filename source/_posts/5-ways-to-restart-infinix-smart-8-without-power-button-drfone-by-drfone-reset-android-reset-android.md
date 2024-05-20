@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Smart 8 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:17.248Z
-updated: 2024-05-01T19:51:17.248Z
+date: 2024-05-19T17:46:57.083Z
+updated: 2024-05-20T17:46:57.083Z
 tags: 
   - reset
 categories:
@@ -428,4 +428,5 @@ Resetting an Infinix Smart 8 phone can be tricky sometimes; therefore, it should
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-phantom-v-flip-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Phantom V Flip Step-by-Step Solutions | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo X100 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

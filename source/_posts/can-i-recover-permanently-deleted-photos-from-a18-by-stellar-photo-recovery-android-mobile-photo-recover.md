@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from A18
-date: 2024-04-30T19:40:04.790Z
+date: 2024-05-19T17:46:50.401Z
 tags: 
   - recover
 categories: 
@@ -251,4 +251,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-realme-c33-2023-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Realme C33 2023 System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

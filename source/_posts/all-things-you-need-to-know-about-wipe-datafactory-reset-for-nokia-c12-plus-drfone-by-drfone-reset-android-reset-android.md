@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Nokia C12 Plus | Dr.fone
-date: 2024-04-30T19:53:54.069Z
-updated: 2024-05-01T19:53:54.069Z
+date: 2024-05-19T17:46:58.970Z
+updated: 2024-05-20T17:46:58.970Z
 tags: 
   - reset
 categories:
@@ -427,4 +427,5 @@ Now that you know how to reset a Nokia C12 Plus phone that is locked and how to 
 <li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Data Permanently | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-animated-text-video-on-computeriphoneandroidonline/"><u>Updated How to Make Animated Text Video on Computer/iPhone/Android/Online</u></a></li>
 </ul></div>
+
 

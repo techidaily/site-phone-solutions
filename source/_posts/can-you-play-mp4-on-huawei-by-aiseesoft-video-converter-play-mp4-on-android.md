@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Huawei ?
-date: 2024-04-30T19:40:55.748Z
+date: 2024-05-19T17:46:51.113Z
 tags: 
   - mp4 video
   - mp4 android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/camtasia-vs-final-cut-pro/"><u>Camtasia Vs. Final Cut Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-samsung-galaxy-z-fold-5-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Samsung Galaxy Z Fold 5 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

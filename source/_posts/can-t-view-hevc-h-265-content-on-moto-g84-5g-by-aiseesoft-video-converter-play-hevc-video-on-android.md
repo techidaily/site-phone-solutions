@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Moto G84 5G
-date: 2024-04-30T19:40:32.068Z
+date: 2024-05-19T17:46:50.958Z
 tags: 
   - hevc video
   - hevc android
@@ -212,4 +212,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Nokia C12 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nubia-z50-ultra-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nubia Z50 Ultra? | Dr.fone</u></a></li>
 </ul></div>
+
 

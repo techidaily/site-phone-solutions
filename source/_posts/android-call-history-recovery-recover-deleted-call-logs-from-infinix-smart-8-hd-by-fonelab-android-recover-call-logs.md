@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Infinix Smart 8 HD
-date: 2024-04-30T19:54:08.420Z
+date: 2024-05-19T17:46:59.130Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/what-to-do-when-vivo-t2x-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo T2x 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-music-from-galaxy-a23-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Galaxy A23 5G</u></a></li>
 </ul></div>
+
 

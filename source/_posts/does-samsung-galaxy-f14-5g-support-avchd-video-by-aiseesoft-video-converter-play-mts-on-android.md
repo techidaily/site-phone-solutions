@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy F14 5G support AVCHD video?
-date: 2024-04-30T19:42:34.776Z
+date: 2024-05-19T17:46:51.825Z
 tags: 
   - mts video
   - mts android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-find-x7-ultra-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Find X7 Ultra</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-word-2000-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for Word 2000</u></a></li>
 </ul></div>
+
 

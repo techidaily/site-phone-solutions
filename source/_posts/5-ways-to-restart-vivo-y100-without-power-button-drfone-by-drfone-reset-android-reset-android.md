@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y100 Without Power Button | Dr.fone
-date: 2024-04-30T19:52:03.656Z
-updated: 2024-05-01T19:52:03.657Z
+date: 2024-05-19T17:46:57.683Z
+updated: 2024-05-20T17:46:57.683Z
 tags: 
   - reset
 categories:
@@ -427,4 +427,5 @@ Now that you know how to hard reset Vivo Y100 it is time to implement all the po
 <li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 12 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-poco-m6-pro-4g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Poco M6 Pro 4G has been deleted.</u></a></li>
 </ul></div>
+
 

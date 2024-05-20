@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 Pro | Dr.fone
-date: 2024-04-30T19:53:43.549Z
-updated: 2024-05-01T19:53:43.549Z
+date: 2024-05-19T17:46:58.888Z
+updated: 2024-05-20T17:46:58.888Z
 tags: 
   - reset
 categories:
@@ -435,4 +435,5 @@ Now that you know how to reset a Infinix Smart 8 Pro phone that is locked and ho
 <li><a href="https://ai-vdieo-software.techidaily.com/mac-video-editing-made-easy-download-splice/"><u>Mac Video Editing Made Easy Download Splice</u></a></li>
 <li><a href="https://howto.techidaily.com/calls-on-xiaomi-redmi-12-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Xiaomi Redmi 12 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

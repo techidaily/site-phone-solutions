@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Redmi 12
-date: 2024-04-30T19:40:17.657Z
+date: 2024-05-19T17:46:50.841Z
 tags: 
   - mov video
   - mov android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo A59 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/solved-excel-2010-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2010 Spreadsheet Disappears after Opening</u></a></li>
 </ul></div>
+
 

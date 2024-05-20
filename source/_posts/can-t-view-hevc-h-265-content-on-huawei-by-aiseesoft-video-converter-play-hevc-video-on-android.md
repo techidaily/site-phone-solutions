@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Huawei 
-date: 2024-04-30T19:40:31.508Z
+date: 2024-05-19T17:46:50.956Z
 tags: 
   - hevc video
   - hevc android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-8-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 8 Plus/iPad Without Computer | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-follow-the-steps-we-are-about-to-outline-and-you-will-have-no-issues-with-your-3gp-video-cutting-experience/"><u>In 2024, Follow the Steps We Are About to Outline and You Will Have No Issues with Your 3GP Video Cutting Experience</u></a></li>
 </ul></div>
+
 

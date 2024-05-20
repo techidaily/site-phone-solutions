@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme V30 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:46.965Z
-updated: 2024-05-01T19:51:46.965Z
+date: 2024-05-19T17:46:57.459Z
+updated: 2024-05-20T17:46:57.459Z
 tags: 
   - reset
 categories:
@@ -429,4 +429,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Itel P40 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How To Simulate GPS Movement With Location Spoofer On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Vivo Y36? | Dr.fone
-date: 2024-04-30T19:53:24.245Z
-updated: 2024-05-01T19:53:24.245Z
+date: 2024-05-19T17:46:58.505Z
+updated: 2024-05-20T17:46:58.505Z
 tags: 
   - reset
 categories:
@@ -392,4 +392,5 @@ The above given are multiple options that can be used for resetting your Vivo Y3
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-vivo-y100t-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Vivo Y100t To iPhone 15/14/13? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-galaxy-a15-4g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Galaxy A15 4G?</u></a></li>
 </ul></div>
+
 

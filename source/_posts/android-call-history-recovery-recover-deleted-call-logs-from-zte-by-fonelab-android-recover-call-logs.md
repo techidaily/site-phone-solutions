@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from ZTE
-date: 2024-04-30T19:54:26.069Z
+date: 2024-05-19T17:46:59.250Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -169,4 +169,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-y77t-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo Y77t without backup.</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g13-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G13 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

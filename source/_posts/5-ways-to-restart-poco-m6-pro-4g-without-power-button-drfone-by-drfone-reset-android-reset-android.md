@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Poco M6 Pro 4G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:40.688Z
-updated: 2024-05-01T19:51:40.688Z
+date: 2024-05-19T17:46:57.410Z
+updated: 2024-05-20T17:46:57.411Z
 tags: 
   - reset
 categories:
@@ -453,4 +453,5 @@ Now that you know how to hard reset Poco M6 Pro 4G it is time to implement all t
 <li><a href="https://techidaily.com/things-you-dont-know-about-asus-rog-phone-8-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Asus ROG Phone 8 Reset Code | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone X Without iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 

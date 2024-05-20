@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor X50 GT Without Power Button | Dr.fone
-date: 2024-04-30T19:51:11.515Z
-updated: 2024-05-01T19:51:11.515Z
+date: 2024-05-19T17:46:56.945Z
+updated: 2024-05-20T17:46:56.945Z
 tags: 
   - reset
 categories:
@@ -417,4 +417,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-13c-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi 13C PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme Narzo 60 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

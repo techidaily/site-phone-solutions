@@ -1,6 +1,6 @@
 ---
 title: Does Motorola  support AVCHD video?
-date: 2024-04-30T19:42:16.333Z
+date: 2024-05-19T17:46:51.683Z
 tags: 
   - mts video
   - mts android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Nokia G22 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-g2-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo G2</u></a></li>
 </ul></div>
+
 

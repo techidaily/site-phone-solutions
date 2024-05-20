@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xiaomi Redmi Note 12 Pro 4G
-date: 2024-04-30T19:43:29.878Z
+date: 2024-05-19T17:46:52.189Z
 tags: 
   - hevc video
   - hevc android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oneplus-12-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your OnePlus 12 to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone XS | Dr.fone</u></a></li>
 </ul></div>
+
 

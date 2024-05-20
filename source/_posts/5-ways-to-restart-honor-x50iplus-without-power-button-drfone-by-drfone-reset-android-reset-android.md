@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor X50i+ Without Power Button | Dr.fone
-date: 2024-04-30T19:51:12.081Z
-updated: 2024-05-01T19:51:12.081Z
+date: 2024-05-19T17:46:56.979Z
+updated: 2024-05-20T17:46:56.979Z
 tags: 
   - reset
 categories:
@@ -512,4 +512,5 @@ Honor X50i+is a famous brand that serves a large number of consumers worldwide. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-honor-magic5-ultimate-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Honor Magic5 Ultimate via a USB Cable | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-magic-v2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor Magic V2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

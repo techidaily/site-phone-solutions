@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Tecno Spark 10C Hard Reset | Dr.fone
-date: 2024-04-30T19:49:36.247Z
-updated: 2024-05-01T19:49:36.247Z
+date: 2024-05-19T17:46:55.880Z
+updated: 2024-05-20T17:46:55.880Z
 tags: 
   - reset
 categories:
@@ -370,4 +370,5 @@ The above given are multiple options that can be used for resetting your Tecno S
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-tecno-spark-10c-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Tecno Spark 10C? Look No Further | Dr.fone</u></a></li>
 <li><a href="https://ai-video.techidaily.com/2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
 </ul></div>
+
 

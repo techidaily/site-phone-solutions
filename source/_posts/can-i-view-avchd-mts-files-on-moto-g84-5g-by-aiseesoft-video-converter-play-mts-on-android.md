@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Moto G84 5G?
-date: 2024-04-30T19:40:05.118Z
+date: 2024-05-19T17:46:50.739Z
 tags: 
   - mts video
   - mts android
@@ -200,4 +200,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/bricked-your-poco-f5-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco F5 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-nokia-105-classic-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Nokia 105 Classic FRP</u></a></li>
 </ul></div>
+
 

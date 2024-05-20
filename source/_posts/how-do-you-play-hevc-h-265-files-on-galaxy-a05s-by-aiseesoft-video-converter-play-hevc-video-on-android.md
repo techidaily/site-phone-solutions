@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Galaxy A05s?
-date: 2024-04-30T19:44:16.638Z
+date: 2024-05-19T17:46:52.589Z
 tags: 
   - hevc video
   - hevc android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Phantom V Flip | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme 11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

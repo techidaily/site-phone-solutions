@@ -1,6 +1,6 @@
 ---
 title: Does 14 Pro support AVCHD video?
-date: 2024-04-30T19:41:51.021Z
+date: 2024-05-19T17:46:51.506Z
 tags: 
   - mts video
   - mts android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Without Passcode Now</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-note-12-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi Note 12 5G to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

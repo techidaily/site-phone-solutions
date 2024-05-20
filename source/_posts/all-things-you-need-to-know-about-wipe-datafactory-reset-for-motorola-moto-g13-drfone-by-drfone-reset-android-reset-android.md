@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Motorola Moto G13 | Dr.fone
-date: 2024-04-30T19:53:51.393Z
-updated: 2024-05-01T19:53:51.393Z
+date: 2024-05-19T17:46:58.951Z
+updated: 2024-05-20T17:46:58.951Z
 tags: 
   - reset
 categories:
@@ -353,4 +353,5 @@ This concludes our article on five ways to hard reset Motorola Moto G13 phones. 
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 12 mini | Dr.fone</u></a></li>
 </ul></div>
+
 

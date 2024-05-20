@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Realme 11 5G Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:34.115Z
-updated: 2024-05-01T19:50:34.115Z
+date: 2024-05-19T17:46:56.529Z
+updated: 2024-05-20T17:46:56.529Z
 tags: 
   - reset
 categories:
@@ -464,4 +464,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For OnePlus Open? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Sony Xperia 10 V Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:46.205Z
-updated: 2024-05-01T19:50:46.205Z
+date: 2024-05-19T17:46:56.677Z
+updated: 2024-05-20T17:46:56.677Z
 tags: 
   - reset
 categories:
@@ -402,4 +402,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Pop 7 Pro | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme Narzo N53 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Infinix Smart 8 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:09.280Z
-updated: 2024-05-01T19:50:09.280Z
+date: 2024-05-19T17:46:56.278Z
+updated: 2024-05-20T17:46:56.278Z
 tags: 
   - reset
 categories:
@@ -556,4 +556,5 @@ The above given are multiple options that can be used for resetting your Infinix
 <li><a href="https://ai-editing-video.techidaily.com/new-want-to-sync-separate-audio-with-video-check-out-this-guide-to-do-it-in-the-simplest-way-using-the-video-editor-wondershare-filmora/"><u>New Want to Sync Separate Audio with Video? Check Out This Guide to Do It in the Simplest Way Using the Video Editor - Wondershare Filmora</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

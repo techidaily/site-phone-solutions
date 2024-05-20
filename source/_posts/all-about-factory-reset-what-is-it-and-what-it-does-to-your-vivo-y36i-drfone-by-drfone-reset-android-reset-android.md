@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Vivo Y36i? | Dr.fone
-date: 2024-04-30T19:53:24.434Z
-updated: 2024-05-01T19:53:24.434Z
+date: 2024-05-19T17:46:58.506Z
+updated: 2024-05-20T17:46:58.506Z
 tags: 
   - reset
 categories:
@@ -470,4 +470,5 @@ Vivo Y36iis a famous brand that serves a large number of consumers worldwide. If
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-free-online-video-editing-top-10-trimming-tools/"><u>Updated 2024 Approved Free Online Video Editing Top 10 Trimming Tools</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-detailed-steps-to-rotate-videos-in-lightworks-for-2024/"><u>New Detailed Steps to Rotate Videos in Lightworks for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Huawei P60
-date: 2024-04-30T19:54:06.412Z
+date: 2024-05-19T17:46:59.100Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-13-pro-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone 13 Pro Smoothly</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100i-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100i Device</u></a></li>
 </ul></div>
+
 

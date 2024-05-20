@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8? | Dr.fone
-date: 2024-04-30T19:52:34.774Z
-updated: 2024-05-01T19:52:34.774Z
+date: 2024-05-19T17:46:58.069Z
+updated: 2024-05-20T17:46:58.069Z
 tags: 
   - reset
 categories:
@@ -512,4 +512,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://ai-video-editing.techidaily.com/new-add-background-to-video-withwithout-a-green-screen/"><u>New Add Background to Video With/Without a Green Screen</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-m14-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy M14 5G to iPad | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Itel P40 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:18.572Z
-updated: 2024-05-01T19:51:18.572Z
+date: 2024-05-19T17:46:57.090Z
+updated: 2024-05-20T17:46:57.090Z
 tags: 
   - reset
 categories:
@@ -450,4 +450,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-basic-to-brilliant-advanced-title-techniques-in-fcpx/"><u>2024 Approved From Basic to Brilliant Advanced Title Techniques in FCPX</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-redmi-a2-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi Redmi A2 Users</u></a></li>
 </ul></div>
+
 

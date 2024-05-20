@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Redmi 13C
-date: 2024-04-30T19:40:24.579Z
+date: 2024-05-19T17:46:50.916Z
 tags: 
   - mp4 video
   - mp4 android
@@ -217,4 +217,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-13-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 13 Pro - 4 Easy Ways</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-xiaomi-redmi-12-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Xiaomi Redmi 12?</u></a></li>
 </ul></div>
+
 

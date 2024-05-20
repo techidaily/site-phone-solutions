@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi Note 12 Pro+ 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:12.135Z
-updated: 2024-05-01T19:52:12.135Z
+date: 2024-05-19T17:46:57.798Z
+updated: 2024-05-20T17:46:57.798Z
 tags: 
   - reset
 categories:
@@ -519,4 +519,5 @@ Xiaomi Redmi Note 12 Pro+ 5Gis a famous brand that serves a large number of cons
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oneplus-nord-n30-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From OnePlus Nord N30 5G to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-this-article-we-will-cover-the-stages-of-film-production-you-need-to-keep-in-mindwithout-further-ado-lets-get-started-for-2024/"><u>In This Article, We Will Cover the Stages of Film Production You Need to Keep in Mind.Without Further Ado, Lets Get Started for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How do you play HEVC/H.265 files on Samsung ?
-date: 2024-04-30T19:44:28.035Z
-updated: 2024-05-01T19:44:28.035Z
+date: 2024-05-19T17:46:52.650Z
+updated: 2024-05-20T17:46:52.650Z
 tags: 
   - hevc video
   - hevc android
@@ -208,4 +208,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-11-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 11 5G Phone FRP Lock</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone XS Max | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi 12 Without Power Button | Dr.fone
-date: 2024-04-30T19:52:09.686Z
-updated: 2024-05-01T19:52:09.686Z
+date: 2024-05-19T17:46:57.781Z
+updated: 2024-05-20T17:46:57.781Z
 tags: 
   - reset
 categories:
@@ -438,4 +438,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-v30-lite-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo V30 Lite 5G FRP Locks</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-does-oppo-a1x-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo A1x 5G Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Redmi 12 5G
-date: 2024-04-30T19:40:33.185Z
+date: 2024-05-19T17:46:50.965Z
 tags: 
   - hevc video
   - hevc android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-huawei-nova-y91-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Huawei Nova Y91 online without jailbreak</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-sony-xperia-5-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Sony Xperia 5 V Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

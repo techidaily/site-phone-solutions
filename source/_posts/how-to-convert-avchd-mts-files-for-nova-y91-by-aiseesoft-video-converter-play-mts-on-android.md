@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Nova Y91? 
-date: 2024-04-30T19:45:01.398Z
+date: 2024-05-19T17:46:52.881Z
 tags: 
   - mts video
   - mts android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-pova-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Pova 5 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
+
 

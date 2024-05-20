@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Sony ?
-date: 2024-04-30T19:42:23.956Z
+date: 2024-05-19T17:46:51.764Z
 tags: 
   - mp4 video
   - mp4 android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-magic-5-lite-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Magic 5 Lite Screen | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-s18-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S18 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
+
 

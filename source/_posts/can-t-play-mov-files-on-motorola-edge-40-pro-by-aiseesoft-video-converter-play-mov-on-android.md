@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Motorola Edge 40 Pro
-date: 2024-04-30T19:40:17.283Z
+date: 2024-05-19T17:46:50.839Z
 tags: 
   - mov video
   - mov android
@@ -212,4 +212,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y200-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y200 To Phone | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-honor-x7b-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Honor X7b Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

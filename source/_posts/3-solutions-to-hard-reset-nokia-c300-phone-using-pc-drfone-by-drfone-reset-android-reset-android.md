@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Nokia C300 Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:59.572Z
-updated: 2024-05-01T19:47:59.572Z
+date: 2024-05-19T17:46:54.716Z
+updated: 2024-05-20T17:46:54.716Z
 tags: 
   - reset
 categories:
@@ -450,4 +450,5 @@ This concludes our article on five ways to hard reset Nokia C300 phones. You mig
 <li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-edge-40-neo-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Edge 40 Neo</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-how-to-easily-use-korean-to-english-video-translators/"><u>New 2024 Approved How To Easily Use Korean to English Video Translators</u></a></li>
 </ul></div>
+
 

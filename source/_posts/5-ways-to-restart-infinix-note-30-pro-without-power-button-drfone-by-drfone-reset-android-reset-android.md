@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Note 30 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:15.350Z
-updated: 2024-05-01T19:51:15.350Z
+date: 2024-05-19T17:46:57.058Z
+updated: 2024-05-20T17:46:57.058Z
 tags: 
   - reset
 categories:
@@ -476,4 +476,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
+
 

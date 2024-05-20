@@ -1,7 +1,7 @@
 ---
 title: Failed to play MOV movies on Sony
-date: 2024-04-30T19:43:44.346Z
-updated: 2024-05-01T19:43:44.346Z
+date: 2024-05-19T17:46:52.267Z
+updated: 2024-05-20T17:46:52.267Z
 tags: 
   - mov video
   - mov android
@@ -194,4 +194,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-iphone-6s-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on iPhone 6s Plus or iPad?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-narzo-60x-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme Narzo 60x 5G Unlock Without Password</u></a></li>
 </ul></div>
+
 

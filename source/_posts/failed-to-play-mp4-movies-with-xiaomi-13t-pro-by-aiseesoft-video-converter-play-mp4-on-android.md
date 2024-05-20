@@ -1,7 +1,7 @@
 ---
 title: Failed to play MP4 movies with Xiaomi 13T Pro
-date: 2024-04-30T19:43:54.140Z
-updated: 2024-05-01T19:43:54.140Z
+date: 2024-05-19T17:46:52.343Z
+updated: 2024-05-20T17:46:52.343Z
 tags: 
   - mp4 video
   - mp4 android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-gionee-f3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Gionee F3 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-7-plus-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 7 Plus Devices Entirely | Dr.fone</u></a></li>
 </ul></div>
+
 

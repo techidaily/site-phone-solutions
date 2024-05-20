@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Edge 40 Pro?
-date: 2024-04-30T19:40:53.140Z
+date: 2024-05-19T17:46:51.094Z
 tags: 
   - mp4 video
   - mp4 android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-note-30-vip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Note 30 VIP</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-long-does-it-take-to-edit-a-video/"><u>How Long Does It Take To Edit A Video</u></a></li>
 </ul></div>
+
 

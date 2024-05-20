@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Infinix Smart 8 HD | Dr.fone
-date: 2024-04-30T19:45:31.489Z
-updated: 2024-05-01T19:45:31.489Z
+date: 2024-05-19T17:46:53.106Z
+updated: 2024-05-20T17:46:53.106Z
 tags: 
   - reset
 categories:
@@ -405,4 +405,5 @@ Now that you know how to reset a Infinix Smart 8 HD phone that is locked and how
 <li><a href="https://fix-guide.techidaily.com/how-to-resolve-oneplus-nord-n30-se-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus Nord N30 SE Screen Not Working | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

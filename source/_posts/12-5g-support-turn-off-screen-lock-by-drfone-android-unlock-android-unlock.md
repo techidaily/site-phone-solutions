@@ -1,6 +1,6 @@
 ---
 title: 12 5G support - Turn Off Screen Lock.
-date: 2024-04-30T19:45:18.936Z
+date: 2024-05-19T17:46:52.998Z
 tags: 
   - android unlock
   - android devices unlock
@@ -245,4 +245,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-oppo-a1-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Oppo A1 5G Is Unlocked</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-xiaomi-14-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Xiaomi 14 Pro Devices</u></a></li>
 </ul></div>
+
 

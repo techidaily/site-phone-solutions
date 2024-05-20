@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Motorola
-date: 2024-04-30T19:40:10.441Z
+date: 2024-05-19T17:46:50.784Z
 tags: 
   - mov video
   - mov android
@@ -206,4 +206,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/oppo-find-n3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Find N3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-breaking-down-the-footage-how-to-split-videos-into-smaller-clips-in-windows-live-movie-maker/"><u>In 2024, Breaking Down the Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker</u></a></li>
 </ul></div>
+
 

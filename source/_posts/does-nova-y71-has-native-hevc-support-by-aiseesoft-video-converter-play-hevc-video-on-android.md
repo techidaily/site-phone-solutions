@@ -1,6 +1,6 @@
 ---
 title: Does Nova Y71 has native HEVC support?
-date: 2024-04-30T19:42:25.083Z
+date: 2024-05-19T17:46:51.771Z
 tags: 
   - hevc video
   - hevc android
@@ -210,4 +210,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-translation.techidaily.com/best-9-french-video-translators-online-and-download-options-for-2024/"><u>Best 9 French Video Translators Online and Download Options for 2024</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/2024-approved-translate-video-from-japanese-to-english-online-for-free/"><u>2024 Approved Translate Video From Japanese to English Online for Free</u></a></li>
 </ul></div>
+
 

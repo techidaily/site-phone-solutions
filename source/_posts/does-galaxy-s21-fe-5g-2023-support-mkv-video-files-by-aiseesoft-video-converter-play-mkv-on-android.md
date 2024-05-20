@@ -1,7 +1,7 @@
 ---
 title: Does Galaxy S21 FE 5G (2023) support MKV video files?
-date: 2024-04-30T19:42:00.386Z
-updated: 2024-05-01T19:42:00.386Z
+date: 2024-05-19T17:46:51.593Z
+updated: 2024-05-20T17:46:51.593Z
 tags: 
   - mkv video
   - mkv android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo F23 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-trim-cut-an/"><u>In 2024, Trim, Cut, An</u></a></li>
 </ul></div>
+
 

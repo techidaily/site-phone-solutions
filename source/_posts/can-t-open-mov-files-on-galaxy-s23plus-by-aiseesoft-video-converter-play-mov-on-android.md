@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Galaxy S23+
-date: 2024-04-30T19:40:09.311Z
+date: 2024-05-19T17:46:50.777Z
 tags: 
   - mov video
   - mov android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 11? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-iphone-14-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from iPhone 14 Plus</u></a></li>
 </ul></div>
+
 

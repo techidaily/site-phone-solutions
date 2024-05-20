@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy F14 5G has native HEVC support?
-date: 2024-04-30T19:42:34.393Z
+date: 2024-05-19T17:46:51.823Z
 tags: 
   - hevc video
   - hevc android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-huawei-nova-y71-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Huawei Nova Y71 to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on P60
-date: 2024-04-30T19:40:17.470Z
+date: 2024-05-19T17:46:50.840Z
 tags: 
   - mov video
   - mov android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-8-plus-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 8 Plus Unavailable Issue With Ease</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-zte-nubia-flip-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from ZTE Nubia Flip 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

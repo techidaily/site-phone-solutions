@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on HTC 
-date: 2024-04-30T19:43:20.891Z
+date: 2024-05-19T17:46:52.142Z
 tags: 
   - hevc video
   - hevc android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nokia C22? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-iphone-11-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your iPhone 11 has bad ESN or blacklisted IMEI?</u></a></li>
 </ul></div>
+
 

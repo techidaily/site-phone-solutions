@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Asus ROG Phone 7
-date: 2024-04-30T19:54:00.435Z
+date: 2024-05-19T17:46:59.046Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco M6 5G? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-create-cooking-video-intro-and-end-screen-for-youtube-channel/"><u>New In 2024, How to Create Cooking Video Intro and End Screen for YouTube Channel?</u></a></li>
 </ul></div>
+
 

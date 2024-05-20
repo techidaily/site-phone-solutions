@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Vivo Y36
-date: 2024-04-30T19:54:22.537Z
+date: 2024-05-19T17:46:59.231Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -168,4 +168,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-y17s-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo Y17s to Mac? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-mastering-audio-video-sync-in-fcpx-2024-tips-and-tricks/"><u>Updated Mastering Audio-Video Sync in FCPX 2024 Tips and Tricks</u></a></li>
 </ul></div>
+
 

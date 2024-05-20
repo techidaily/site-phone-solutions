@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Google Pixel 8 Pro? | Dr.fone
-date: 2024-04-30T19:52:25.093Z
-updated: 2024-05-01T19:52:25.093Z
+date: 2024-05-19T17:46:58.001Z
+updated: 2024-05-20T17:46:58.001Z
 tags: 
   - reset
 categories:
@@ -416,4 +416,5 @@ Resetting an Google Pixel 8 Pro phone can be tricky sometimes; therefore, it sho
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-xs-max-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone XS Max Is Unlocked</u></a></li>
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-m34-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy M34 Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

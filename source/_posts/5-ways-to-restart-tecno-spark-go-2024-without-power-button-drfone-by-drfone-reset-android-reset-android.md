@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Spark Go (2024) Without Power Button | Dr.fone
-date: 2024-04-30T19:51:58.408Z
-updated: 2024-05-01T19:51:58.408Z
+date: 2024-05-19T17:46:57.647Z
+updated: 2024-05-20T17:46:57.647Z
 tags: 
   - reset
 categories:
@@ -522,4 +522,5 @@ Now that you know how to reset a Tecno Spark Go (2024) phone that is locked and 
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-sony-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Sony online without jailbreak</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-motorola-edge-40-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola Edge 40 Phone</u></a></li>
 </ul></div>
+
 

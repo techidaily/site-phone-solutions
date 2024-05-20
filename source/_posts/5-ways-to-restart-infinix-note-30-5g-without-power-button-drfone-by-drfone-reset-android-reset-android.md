@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Note 30 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:15.154Z
-updated: 2024-05-01T19:51:15.154Z
+date: 2024-05-19T17:46:57.056Z
+updated: 2024-05-20T17:46:57.056Z
 tags: 
   - reset
 categories:
@@ -447,4 +447,5 @@ Above are some strategies with which you can do an **Infinix Note 30 5G hard res
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y200e-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y200e 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo A78 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

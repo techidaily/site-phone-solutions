@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Motorola Moto G14
-date: 2024-04-30T19:54:10.867Z
+date: 2024-05-19T17:46:59.154Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -175,4 +175,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-v30-pro-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo V30 Pro Device</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-lava-blaze-2-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Lava Blaze 2 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Samsung Galaxy S23+?
-date: 2024-04-30T19:40:05.311Z
+date: 2024-05-19T17:46:50.754Z
 tags: 
   - mts video
   - mts android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-xr-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone XR For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-6s-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 6s Plus Without Passcode Now | Dr.fone</u></a></li>
 </ul></div>
+
 

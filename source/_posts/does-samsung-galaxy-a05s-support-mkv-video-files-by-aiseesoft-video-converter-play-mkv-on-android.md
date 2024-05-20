@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy A05s support MKV video files?
-date: 2024-04-30T19:42:31.933Z
+date: 2024-05-19T17:46:51.810Z
 tags: 
   - mkv video
   - mkv android
@@ -200,4 +200,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On OnePlus 11 5G? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone SE (2020)? | Dr.fone</u></a></li>
 </ul></div>
+
 

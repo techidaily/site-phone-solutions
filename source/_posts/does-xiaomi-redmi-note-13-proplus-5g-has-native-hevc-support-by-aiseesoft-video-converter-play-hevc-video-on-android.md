@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi Note 13 Pro+ 5G has native HEVC support?
-date: 2024-04-30T19:42:51.779Z
+date: 2024-05-19T17:46:51.906Z
 tags: 
   - hevc video
   - hevc android
@@ -220,4 +220,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Samsung Galaxy M34 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-12-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi 12 Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

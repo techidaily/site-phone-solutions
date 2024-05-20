@@ -1,7 +1,7 @@
 ---
 title: Failed to play HEVC files on Motorola Edge 40 Pro
-date: 2024-04-30T19:43:22.588Z
-updated: 2024-05-01T19:43:22.588Z
+date: 2024-05-19T17:46:52.151Z
+updated: 2024-05-20T17:46:52.151Z
 tags: 
   - hevc video
   - hevc android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone XS Max</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-asus-rog-phone-8-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Asus ROG Phone 8 Pro to iPhone Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

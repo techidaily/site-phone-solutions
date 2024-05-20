@@ -1,6 +1,6 @@
 ---
 title: Can I play MKV movies on Samsung Galaxy XCover 7?
-date: 2024-04-30T19:40:04.779Z
+date: 2024-05-19T17:46:50.387Z
 tags: 
   - mkv video
   - mkv android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Smart 8 HD | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-do-i-reset-my-zte-nubia-flip-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my ZTE Nubia Flip 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
+
 

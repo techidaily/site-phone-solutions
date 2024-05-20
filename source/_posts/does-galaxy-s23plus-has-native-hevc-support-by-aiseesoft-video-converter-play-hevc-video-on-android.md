@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy S23+ has native HEVC support?
-date: 2024-04-30T19:42:01.880Z
+date: 2024-05-19T17:46:51.601Z
 tags: 
   - hevc video
   - hevc android
@@ -217,4 +217,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 20C? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-narzo-n53-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme Narzo N53 Device SIM</u></a></li>
 </ul></div>
+
 

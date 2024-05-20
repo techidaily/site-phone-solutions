@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Motorola Edge+ (2023)?
-date: 2024-04-30T19:45:00.460Z
+date: 2024-05-19T17:46:52.876Z
 tags: 
   - mts video
   - mts android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-reno-8t-5g-by-drfone-android/"><u>How to Bypass FRP from Oppo Reno 8T 5G?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-the-top-10-effective-srt-editors-online/"><u>In 2024, The Top 10 Effective SRT Editors Online</u></a></li>
 </ul></div>
+
 

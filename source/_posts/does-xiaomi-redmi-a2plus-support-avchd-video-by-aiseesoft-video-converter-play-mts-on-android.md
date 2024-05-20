@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi A2+ support AVCHD video?
-date: 2024-04-30T19:42:49.515Z
+date: 2024-05-19T17:46:51.896Z
 tags: 
   - mts video
   - mts android
@@ -178,4 +178,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-want-to-immediately-know-all-about-discord-gif/"><u>New 2024 Approved Want to Immediately Know All About Discord GIF?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-a34-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy A34 5G FRP Bypass With Best Methods</u></a></li>
 </ul></div>
+
 

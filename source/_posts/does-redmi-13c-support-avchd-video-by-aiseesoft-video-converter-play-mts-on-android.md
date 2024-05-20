@@ -1,6 +1,6 @@
 ---
 title: Does Redmi 13C support AVCHD video?
-date: 2024-04-30T19:42:27.551Z
+date: 2024-05-19T17:46:51.785Z
 tags: 
   - mts video
   - mts android
@@ -181,4 +181,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-your-creativity-best-free-3d-animation-apps-for-android-and-ios/"><u>Updated 2024 Approved Unleash Your Creativity Best Free 3D Animation Apps for Android & iOS</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-12-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 12 Pro iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
+
 

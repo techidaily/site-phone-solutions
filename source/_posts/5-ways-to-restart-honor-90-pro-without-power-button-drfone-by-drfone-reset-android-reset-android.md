@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor 90 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:08.539Z
-updated: 2024-05-01T19:51:08.539Z
+date: 2024-05-19T17:46:56.925Z
+updated: 2024-05-20T17:46:56.925Z
 tags: 
   - reset
 categories:
@@ -482,4 +482,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://iphone-transfer.techidaily.com/5-tutorials-on-how-to-transfer-photos-from-apple-iphone-13-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>5 Tutorials on How to Transfer Photos From Apple iPhone 13 to New iPhone | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-script-wondershare-virbo-online/"><u>2024 Approved AI Script | Wondershare Virbo Online</u></a></li>
 </ul></div>
+
 

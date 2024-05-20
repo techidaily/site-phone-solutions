@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Honor 80 Pro Straight Screen Edition | Dr.fone
-date: 2024-04-30T19:46:30.809Z
-updated: 2024-05-01T19:46:30.809Z
+date: 2024-05-19T17:46:53.913Z
+updated: 2024-05-20T17:46:53.913Z
 tags: 
   - reset
 categories:
@@ -513,4 +513,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://ai-video-apps.techidaily.com/updated-top-movement-tracking-apps-for-mobile-devices/"><u>Updated Top Movement Tracking Apps for Mobile Devices</u></a></li>
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-meizu-21-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Meizu 21 Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: 4 Quick Ways to Recover Unsaved Excel File on Windows
-date: 2024-04-30T19:49:53.342Z
+date: 2024-05-19T17:46:56.084Z
 tags: 
   - repair
   - repair excel
@@ -229,4 +229,5 @@ Errors such as ‘the file is corrupt and cannot be opened’, ‘Excel cannot o
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-redmi-a2plus-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Redmi A2+ to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
 </ul></div>
+
 

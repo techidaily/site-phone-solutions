@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy S23 Tactical Edition Without Power Button | Dr.fone
-date: 2024-04-30T19:51:51.851Z
-updated: 2024-05-01T19:51:51.851Z
+date: 2024-05-19T17:46:57.540Z
+updated: 2024-05-20T17:46:57.540Z
 tags: 
   - reset
 categories:
@@ -500,4 +500,5 @@ Samsung Galaxy S23 Tactical Editionis a famous brand that serves a large number 
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-tecno-camon-20-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Tecno Camon 20 Pro 5G Screen Sharing | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

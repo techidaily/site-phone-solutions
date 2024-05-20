@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Redmi 13C 5G
-date: 2024-04-30T19:43:24.479Z
+date: 2024-05-19T17:46:52.161Z
 tags: 
   - hevc video
   - hevc android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-one-click-video-reverse-effect-in-filmora/"><u>2024 Approved How to Create One Click Video Reverse Effect in Filmora</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-8-apps-to-custom-your-gif-stickers/"><u>In 2024, 8 Apps to Custom Your GIF Stickers</u></a></li>
 </ul></div>
+
 

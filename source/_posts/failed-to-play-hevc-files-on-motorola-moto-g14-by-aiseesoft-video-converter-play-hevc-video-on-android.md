@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Motorola Moto G14
-date: 2024-04-30T19:43:23.152Z
+date: 2024-05-19T17:46:52.153Z
 tags: 
   - hevc video
   - hevc android
@@ -206,4 +206,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/best-3-realme-v30t-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme V30T Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Plus</u></a></li>
 </ul></div>
+
 

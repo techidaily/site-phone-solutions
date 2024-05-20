@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi 13C Without Power Button | Dr.fone
-date: 2024-04-30T19:52:10.065Z
-updated: 2024-05-01T19:52:10.065Z
+date: 2024-05-19T17:46:57.784Z
+updated: 2024-05-20T17:46:57.784Z
 tags: 
   - reset
 categories:
@@ -505,4 +505,5 @@ The above given are multiple options that can be used for resetting your Xiaomi 
 <li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-y27-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Y27 5G.</u></a></li>
 </ul></div>
+
 

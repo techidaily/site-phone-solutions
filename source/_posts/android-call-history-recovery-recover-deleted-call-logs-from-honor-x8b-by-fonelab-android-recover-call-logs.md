@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Honor X8b
-date: 2024-04-30T19:54:05.099Z
+date: 2024-05-19T17:46:59.073Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-realme-11-proplus-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Realme 11 Pro+?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-hot-30-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Hot 30 5G to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

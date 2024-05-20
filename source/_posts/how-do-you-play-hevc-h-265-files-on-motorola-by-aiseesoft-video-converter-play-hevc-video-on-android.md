@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Motorola ?
-date: 2024-04-30T19:44:19.762Z
+date: 2024-05-19T17:46:52.606Z
 tags: 
   - hevc video
   - hevc android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C12 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p40plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P40+ to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Civi 3 Disney 100th Anniversary Edition support MOV videos ?
-date: 2024-04-30T19:42:45.407Z
+date: 2024-05-19T17:46:51.880Z
 tags: 
   - mov video
   - mov android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-a38-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo A38 without Anyone Knowing | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Honor X50 GT | Dr.fone</u></a></li>
 </ul></div>
+
 

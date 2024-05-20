@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Lava Blaze 2 | Dr.fone
-date: 2024-04-30T19:46:43.232Z
-updated: 2024-05-01T19:46:43.232Z
+date: 2024-05-19T17:46:54.028Z
+updated: 2024-05-20T17:46:54.028Z
 tags: 
   - reset
 categories:
@@ -464,4 +464,5 @@ Resetting an Lava Blaze 2 phone can be tricky sometimes; therefore, it should be
 <li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2010-document-with-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign Excel 2010 document with Digital Signature - (Tutorial)</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y200-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y200</u></a></li>
 </ul></div>
+
 

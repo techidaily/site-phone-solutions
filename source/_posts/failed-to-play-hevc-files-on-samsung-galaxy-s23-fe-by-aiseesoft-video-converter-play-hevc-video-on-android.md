@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Samsung Galaxy S23 FE
-date: 2024-04-30T19:43:26.372Z
+date: 2024-05-19T17:46:52.171Z
 tags: 
   - hevc video
   - hevc android
@@ -213,4 +213,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo V29 Pro? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-smart-8-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Smart 8? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Samsung
-date: 2024-04-30T19:41:21.195Z
+date: 2024-05-19T17:46:51.267Z
 tags: 
   - hevc video
   - hevc android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-v30-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme V30? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-htc-u23-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your HTC U23</u></a></li>
 </ul></div>
+
 

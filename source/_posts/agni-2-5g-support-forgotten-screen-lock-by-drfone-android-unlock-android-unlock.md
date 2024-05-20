@@ -1,6 +1,6 @@
 ---
 title: Agni 2 5G support - Forgotten screen lock.
-date: 2024-04-30T19:52:23.565Z
+date: 2024-05-19T17:46:57.988Z
 tags: 
   - android unlock
   - android devices unlock
@@ -256,4 +256,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-zero-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Zero 30 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-a34-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy A34 5G Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

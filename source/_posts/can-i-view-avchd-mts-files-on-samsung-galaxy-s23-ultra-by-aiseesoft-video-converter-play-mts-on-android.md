@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Samsung Galaxy S23 Ultra?
-date: 2024-04-30T19:40:05.139Z
+date: 2024-05-19T17:46:50.753Z
 tags: 
   - mts video
   - mts android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/5-solutions-for-vivo-v30-lite-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo V30 Lite 5G Unlock Without Password</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno</u></a></li>
 </ul></div>
+
 

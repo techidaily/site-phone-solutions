@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Lava Yuva 3? | Dr.fone
-date: 2024-04-30T19:52:40.057Z
-updated: 2024-05-01T19:52:40.057Z
+date: 2024-05-19T17:46:58.096Z
+updated: 2024-05-20T17:46:58.096Z
 tags: 
   - reset
 categories:
@@ -462,4 +462,5 @@ The above given are multiple options that can be used for resetting your Lava Yu
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-huawei-nova-y91-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Huawei Nova Y91 to Other Android devices | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-v29-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo V29 Pro Phone Screen?</u></a></li>
 </ul></div>
+
 

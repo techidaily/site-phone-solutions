@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Vivo Y02T Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:55.176Z
-updated: 2024-05-01T19:50:55.176Z
+date: 2024-05-19T17:46:56.774Z
+updated: 2024-05-20T17:46:56.774Z
 tags: 
   - reset
 categories:
@@ -488,4 +488,5 @@ This concludes our article on five ways to hard reset Vivo Y02T phones. You migh
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Realme C33 2023? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-13-pro-max-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 13 Pro Max</u></a></li>
 </ul></div>
+
 

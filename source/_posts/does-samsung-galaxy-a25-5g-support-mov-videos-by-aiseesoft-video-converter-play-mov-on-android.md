@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy A25 5G support MOV videos ?
-date: 2024-04-30T19:42:33.824Z
+date: 2024-05-19T17:46:51.820Z
 tags: 
   - mov video
   - mov android
@@ -212,4 +212,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 11 | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-a59-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo A59 5G</u></a></li>
 </ul></div>
+
 

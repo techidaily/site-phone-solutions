@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Tecno Spark 10 5G | Dr.fone
-date: 2024-04-30T19:47:19.488Z
-updated: 2024-05-01T19:47:19.488Z
+date: 2024-05-19T17:46:54.334Z
+updated: 2024-05-20T17:46:54.334Z
 tags: 
   - reset
 categories:
@@ -431,4 +431,5 @@ Now that you know how to reset a Tecno Spark 10 5G phone that is locked and how 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s18e-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S18e to Other Android Devices Devices? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-c12-plus-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia C12 Plus Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

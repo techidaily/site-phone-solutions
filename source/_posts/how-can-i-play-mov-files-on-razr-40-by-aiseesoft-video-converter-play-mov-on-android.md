@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on Razr 40 ?
-date: 2024-04-30T19:44:03.659Z
+date: 2024-05-19T17:46:52.478Z
 tags: 
   - mov video
   - mov android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-15-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 15 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

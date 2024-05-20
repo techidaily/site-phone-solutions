@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Xiaomi Redmi 13C? 
-date: 2024-04-30T19:45:05.007Z
+date: 2024-05-19T17:46:52.900Z
 tags: 
   - mts video
   - mts android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M14 5G Phone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-8t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 8T To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

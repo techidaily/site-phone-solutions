@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Galaxy A05s
-date: 2024-04-30T19:40:09.123Z
+date: 2024-05-19T17:46:50.776Z
 tags: 
   - mov video
   - mov android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-itel-s23plus-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Itel S23+</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi Redmi 12 | Dr.fone</u></a></li>
 </ul></div>
+
 

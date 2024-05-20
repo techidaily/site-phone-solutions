@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lava Blaze 2 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:20.497Z
-updated: 2024-05-01T19:51:20.497Z
+date: 2024-05-19T17:46:57.133Z
+updated: 2024-05-20T17:46:57.133Z
 tags: 
   - reset
 categories:
@@ -461,4 +461,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://ai-video.techidaily.com/2024-approved-how-to-use-korean-to-english-video-translators-for-creators/"><u>2024 Approved How To Use Korean to English Video Translators for Creators</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Can't play MP4 files on Motorola Defy 2
-date: 2024-04-30T19:41:18.248Z
-updated: 2024-05-01T19:41:18.248Z
+date: 2024-05-19T17:46:51.252Z
+updated: 2024-05-20T17:46:51.252Z
 tags: 
   - mp4 video
   - mp4 android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-oppo-a2-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo A2 Unlock Without Password</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-cartoon-fundamentals-how-to-learn-cartoon-characters-sketch-quickly/"><u>New 2024 Approved Cartoon Fundamentals How to Learn Cartoon Characters Sketch Quickly</u></a></li>
 </ul></div>
+
 

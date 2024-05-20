@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Honor X9a Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:04.586Z
-updated: 2024-05-01T19:50:04.586Z
+date: 2024-05-19T17:46:56.244Z
+updated: 2024-05-20T17:46:56.244Z
 tags: 
   - reset
 categories:
@@ -483,4 +483,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-moto-g-stylus-2023-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Moto G Stylus (2023) Is Unlocked</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

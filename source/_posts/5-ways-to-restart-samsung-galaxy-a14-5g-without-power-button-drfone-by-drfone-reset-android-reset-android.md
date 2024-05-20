@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy A14 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:47.909Z
-updated: 2024-05-01T19:51:47.909Z
+date: 2024-05-19T17:46:57.489Z
+updated: 2024-05-20T17:46:57.489Z
 tags: 
   - reset
 categories:
@@ -403,4 +403,5 @@ Resetting an Samsung Galaxy A14 5G phone can be tricky sometimes; therefore, it 
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-a25-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy A25 5G Phone?</u></a></li>
 <li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Honor Play 40C | Dr.fone</u></a></li>
 </ul></div>
+
 

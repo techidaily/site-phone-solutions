@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lava Yuva 2 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:21.642Z
-updated: 2024-05-01T19:51:21.642Z
+date: 2024-05-19T17:46:57.161Z
+updated: 2024-05-20T17:46:57.161Z
 tags: 
   - reset
 categories:
@@ -529,4 +529,5 @@ Now that you know how to hard reset Lava Yuva 2 it is time to implement all the 
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-realme-gt-neo-5-se-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Realme GT Neo 5 SE by Name | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-export-video-in-filmora/"><u>2024 Approved How To Export Video in Filmora</u></a></li>
 </ul></div>
+
 

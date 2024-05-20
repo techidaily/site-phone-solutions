@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Smart 8 Plus Without Power Button | Dr.fone
-date: 2024-04-30T19:51:16.870Z
-updated: 2024-05-01T19:51:16.870Z
+date: 2024-05-19T17:46:57.069Z
+updated: 2024-05-20T17:46:57.069Z
 tags: 
   - reset
 categories:
@@ -394,4 +394,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-reno-11-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo Reno 11 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-7-plus-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 7 Plus to Samsung Galaxy S20? | Dr.fone</u></a></li>
 </ul></div>
+
 

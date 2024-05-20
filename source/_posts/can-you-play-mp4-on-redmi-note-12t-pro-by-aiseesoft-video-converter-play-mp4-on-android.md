@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Redmi Note 12T Pro?
-date: 2024-04-30T19:40:57.436Z
+date: 2024-05-19T17:46:51.122Z
 tags: 
   - mp4 video
   - mp4 android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-art-of-attention-grabbing-thumbnails-youtube-size-guide-and-more/"><u>Updated The Art of Attention-Grabbing Thumbnails YouTube Size Guide and More</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo X100 Without Power Button | Dr.fone
-date: 2024-04-30T19:52:02.901Z
-updated: 2024-05-01T19:52:02.901Z
+date: 2024-05-19T17:46:57.678Z
+updated: 2024-05-20T17:46:57.678Z
 tags: 
   - reset
 categories:
@@ -483,4 +483,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-moto-g84-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Moto G84 5G FRP Without Computer</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-k11x-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo K11x Device SIM</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your OnePlus 11R? | Dr.fone
-date: 2024-04-30T19:52:49.318Z
-updated: 2024-05-01T19:52:49.318Z
+date: 2024-05-19T17:46:58.187Z
+updated: 2024-05-20T17:46:58.187Z
 tags: 
   - reset
 categories:
@@ -478,4 +478,5 @@ Resetting an OnePlus 11R phone can be tricky sometimes; therefore, it should be 
 <li><a href="https://screen-mirror.techidaily.com/how-can-realme-gt-neo-5-semirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Realme GT Neo 5 SEMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-fcpx-hacks-smooth-skin-without-breaking-the-bank-or-using-plugins-for-2024/"><u>Updated FCPX Hacks Smooth Skin without Breaking the Bank (or Using Plugins) for 2024</u></a></li>
 </ul></div>
+
 

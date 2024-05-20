@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Redmi A2+?
-date: 2024-04-30T19:44:21.448Z
+date: 2024-05-19T17:46:52.615Z
 tags: 
   - hevc video
   - hevc android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-xr-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone XR Data Completely | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

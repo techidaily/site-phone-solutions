@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy A05 has native HEVC support?
-date: 2024-04-30T19:41:54.810Z
+date: 2024-05-19T17:46:51.562Z
 tags: 
   - hevc video
   - hevc android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-nokia-c12-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Nokia C12 Phone</u></a></li>
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
 </ul></div>
+
 

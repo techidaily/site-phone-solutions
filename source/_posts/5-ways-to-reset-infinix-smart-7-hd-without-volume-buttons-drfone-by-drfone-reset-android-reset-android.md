@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Infinix Smart 7 HD Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:08.343Z
-updated: 2024-05-01T19:50:08.343Z
+date: 2024-05-19T17:46:56.271Z
+updated: 2024-05-20T17:46:56.271Z
 tags: 
   - reset
 categories:
@@ -429,4 +429,5 @@ Now that you know how to hard reset Infinix Smart 7 HD it is time to implement a
 <li><a href="https://howto.techidaily.com/what-to-do-when-realme-gt-5-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme GT 5 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 14 Pro</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Redmi Note 12T Pro?
-date: 2024-04-30T19:44:22.009Z
+date: 2024-05-19T17:46:52.618Z
 tags: 
   - hevc video
   - hevc android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-lava-yuva-3-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Lava Yuva 3 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/best-3-honor-magic-v2-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor Magic V2 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

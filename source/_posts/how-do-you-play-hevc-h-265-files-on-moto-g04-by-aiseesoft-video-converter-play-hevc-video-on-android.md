@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Moto G04?
-date: 2024-04-30T19:44:19.280Z
+date: 2024-05-19T17:46:52.604Z
 tags: 
   - hevc video
   - hevc android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c12-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C12 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

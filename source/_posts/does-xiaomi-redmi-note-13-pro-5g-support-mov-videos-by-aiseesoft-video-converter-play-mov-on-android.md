@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi Note 13 Pro 5G support MOV videos ?
-date: 2024-04-30T19:42:51.591Z
+date: 2024-05-19T17:46:51.906Z
 tags: 
   - mov video
   - mov android
@@ -158,4 +158,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-6s-plus-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 6s Plus</u></a></li>
 <li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

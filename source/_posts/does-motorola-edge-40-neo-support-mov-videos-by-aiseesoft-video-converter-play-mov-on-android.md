@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Edge 40 Neo support MOV videos ?
-date: 2024-04-30T19:42:11.975Z
+date: 2024-05-19T17:46:51.660Z
 tags: 
   - mov video
   - mov android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-camtasia-vs-captivate-which-is-better/"><u>New 2024 Approved Camtasia Vs Captivate Which Is Better</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-c55-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme C55 | Dr.fone</u></a></li>
 </ul></div>
+
 

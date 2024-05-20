@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Infinix Smart 8 HD Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:47.643Z
-updated: 2024-05-01T19:47:47.643Z
+date: 2024-05-19T17:46:54.600Z
+updated: 2024-05-20T17:46:54.600Z
 tags: 
   - reset
 categories:
@@ -404,4 +404,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-magic-5-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic 5 Pro Black and White | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-nord-3-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Nord 3 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
+
 

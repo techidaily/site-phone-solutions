@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Lava Yuva 3 | Dr.fone
-date: 2024-04-30T19:46:44.625Z
-updated: 2024-05-01T19:46:44.625Z
+date: 2024-05-19T17:46:54.043Z
+updated: 2024-05-20T17:46:54.043Z
 tags: 
   - reset
 categories:
@@ -422,4 +422,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-and-fabulous-top-video-editors-for-ubuntu-users/"><u>New 2024 Approved Free and Fabulous Top Video Editors for Ubuntu Users</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Hacks to do pokemon go trainer battles For Apple iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

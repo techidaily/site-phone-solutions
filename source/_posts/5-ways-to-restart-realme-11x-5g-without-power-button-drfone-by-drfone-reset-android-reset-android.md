@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme 11X 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:42.597Z
-updated: 2024-05-01T19:51:42.597Z
+date: 2024-05-19T17:46:57.425Z
+updated: 2024-05-20T17:46:57.425Z
 tags: 
   - reset
 categories:
@@ -503,4 +503,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Itel P55+ | Dr.fone</u></a></li>
 <li><a href="https://ai-video-translation.techidaily.com/new-in-2024-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>New In 2024, 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
 </ul></div>
+
 

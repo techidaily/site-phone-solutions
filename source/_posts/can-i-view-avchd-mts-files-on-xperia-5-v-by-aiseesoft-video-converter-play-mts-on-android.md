@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Xperia 5 V?
-date: 2024-04-30T19:40:08.369Z
+date: 2024-05-19T17:46:50.772Z
 tags: 
   - mts video
   - mts android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Motorola Moto G13 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-the-lowdown-on-the-best-ogg-audio-converters/"><u>Updated In 2024, The Lowdown on the Best OGG Audio Converters</u></a></li>
 </ul></div>
+
 

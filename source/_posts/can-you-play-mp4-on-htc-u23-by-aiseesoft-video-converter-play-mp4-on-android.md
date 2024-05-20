@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on HTC U23?
-date: 2024-04-30T19:40:55.560Z
+date: 2024-05-19T17:46:51.112Z
 tags: 
   - mp4 video
   - mp4 android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-online-vertical-video-editors-for-2024/"><u>Updated The Ultimate Guide to Online Vertical Video Editors for 2024</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-8-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 8 Plus In Different Conditionsin | Dr.fone</u></a></li>
 </ul></div>
+
 

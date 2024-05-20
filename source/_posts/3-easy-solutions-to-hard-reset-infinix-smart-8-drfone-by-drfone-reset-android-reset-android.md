@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Infinix Smart 8 | Dr.fone
-date: 2024-04-30T19:46:39.328Z
-updated: 2024-05-01T19:46:39.328Z
+date: 2024-05-19T17:46:53.993Z
+updated: 2024-05-20T17:46:53.993Z
 tags: 
   - reset
 categories:
@@ -397,4 +397,5 @@ Let's end our guide for the easiest ways to **hard reset Infinix Smart 8**. You 
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Google Pixel 7a? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
 </ul></div>
+
 

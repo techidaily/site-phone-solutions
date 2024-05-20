@@ -1,6 +1,6 @@
 ---
 title: How do you play MKV files on Galaxy A05s?
-date: 2024-04-30T19:44:29.726Z
+date: 2024-05-19T17:46:52.659Z
 tags: 
   - mkv video
   - mkv android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-honor-70-lite-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Honor 70 Lite 5G PC | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
+
 

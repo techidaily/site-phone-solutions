@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Sony Xperia 5 V Without Power Button | Dr.fone
-date: 2024-04-30T19:51:54.319Z
-updated: 2024-05-01T19:51:54.319Z
+date: 2024-05-19T17:46:57.559Z
+updated: 2024-05-20T17:46:57.559Z
 tags: 
   - reset
 categories:
@@ -442,4 +442,5 @@ Resetting an Sony Xperia 5 V phone can be tricky sometimes; therefore, it should
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco X6 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6</u></a></li>
 </ul></div>
+
 

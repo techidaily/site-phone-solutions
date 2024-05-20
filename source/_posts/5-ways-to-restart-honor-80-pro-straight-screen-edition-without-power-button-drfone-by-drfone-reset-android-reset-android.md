@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor 80 Pro Straight Screen Edition Without Power Button | Dr.fone
-date: 2024-04-30T19:51:07.976Z
-updated: 2024-05-01T19:51:07.976Z
+date: 2024-05-19T17:46:56.921Z
+updated: 2024-05-20T17:46:56.921Z
 tags: 
   - reset
 categories:
@@ -530,4 +530,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g34-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G34 5G Phone</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

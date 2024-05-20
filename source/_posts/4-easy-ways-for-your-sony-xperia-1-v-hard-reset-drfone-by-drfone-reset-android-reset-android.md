@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Sony Xperia 1 V Hard Reset | Dr.fone
-date: 2024-04-30T19:49:33.017Z
-updated: 2024-05-01T19:49:33.017Z
+date: 2024-05-19T17:46:55.857Z
+updated: 2024-05-20T17:46:55.857Z
 tags: 
   - reset
 categories:
@@ -456,4 +456,5 @@ These are all methods for unlocking Sony Xperia 1 V hard reset. It is possible t
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-xcover-7-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy XCover 7 FRP</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Nokia C12 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

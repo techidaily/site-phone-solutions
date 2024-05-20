@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y100t Without Power Button | Dr.fone
-date: 2024-04-30T19:52:04.413Z
-updated: 2024-05-01T19:52:04.413Z
+date: 2024-05-19T17:46:57.688Z
+updated: 2024-05-20T17:46:57.688Z
 tags: 
   - reset
 categories:
@@ -484,4 +484,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://ai-voice.techidaily.com/top-10-robotic-voice-generators-with-comparison-table/"><u>Top 10 Robotic Voice Generators (with Comparison Table)</u></a></li>
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Xiaomi 14
-date: 2024-04-30T19:40:05.070Z
+date: 2024-05-19T17:46:50.700Z
 tags: 
   - recover
 categories: 
@@ -265,4 +265,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-poco-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Poco Lock Screen Password</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode Screen? | Dr.fone</u></a></li>
 </ul></div>
+
 

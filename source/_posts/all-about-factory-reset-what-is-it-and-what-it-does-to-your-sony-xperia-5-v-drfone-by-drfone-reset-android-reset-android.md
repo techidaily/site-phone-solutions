@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Sony Xperia 5 V? | Dr.fone
-date: 2024-04-30T19:53:12.723Z
-updated: 2024-05-01T19:53:12.723Z
+date: 2024-05-19T17:46:58.369Z
+updated: 2024-05-20T17:46:58.369Z
 tags: 
   - reset
 categories:
@@ -473,4 +473,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-ace-2-pro-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Ace 2 Pro?</u></a></li>
 <li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

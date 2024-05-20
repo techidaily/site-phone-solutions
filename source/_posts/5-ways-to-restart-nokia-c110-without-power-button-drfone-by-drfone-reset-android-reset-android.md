@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia C110 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:27.477Z
-updated: 2024-05-01T19:51:27.477Z
+date: 2024-05-19T17:46:57.225Z
+updated: 2024-05-20T17:46:57.225Z
 tags: 
   - reset
 categories:
@@ -466,4 +466,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-vertical-video-editing-on-mobile-devices-for-2024/"><u>New The Ultimate Guide to Vertical Video Editing on Mobile Devices for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y78 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

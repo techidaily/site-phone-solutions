@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Lava Blaze Curve 5G Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:51.867Z
-updated: 2024-05-01T19:47:51.867Z
+date: 2024-05-19T17:46:54.629Z
+updated: 2024-05-20T17:46:54.629Z
 tags: 
   - reset
 categories:
@@ -479,4 +479,5 @@ Now that you know how to reset a Lava Blaze Curve 5G phone that is locked and ho
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo Y55s 5G (2023) Phone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
+
 

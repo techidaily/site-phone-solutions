@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy S23 support AVCHD video?
-date: 2024-04-30T19:42:00.946Z
+date: 2024-05-19T17:46:51.596Z
 tags: 
   - mts video
   - mts android
@@ -208,4 +208,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/unlock-a-disable-iphone-12-mini-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 12 mini using find my iphone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-realme-11-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Realme 11 Pro Phone</u></a></li>
 </ul></div>
+
 

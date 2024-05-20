@@ -1,6 +1,6 @@
 ---
 title: AVCHD MTS Converter for Samsung Galaxy A15 5G
-date: 2024-04-30T19:40:04.255Z
+date: 2024-05-19T17:46:49.932Z
 tags: 
   - mts video
   - mts android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
+
 

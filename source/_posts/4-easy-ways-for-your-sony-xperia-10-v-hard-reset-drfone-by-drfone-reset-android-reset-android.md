@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Sony Xperia 10 V Hard Reset | Dr.fone
-date: 2024-04-30T19:49:33.209Z
-updated: 2024-05-01T19:49:33.209Z
+date: 2024-05-19T17:46:55.859Z
+updated: 2024-05-20T17:46:55.859Z
 tags: 
   - reset
 categories:
@@ -377,4 +377,5 @@ Above are some strategies with which you can do an **Sony Xperia 10 V hard reset
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-sony-xperia-10-v-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Sony Xperia 10 V Quickly? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-x-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone X? Find the Best Solution Here</u></a></li>
 </ul></div>
+
 

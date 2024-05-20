@@ -1,6 +1,6 @@
 ---
 title: Does U23 support MOV videos ?
-date: 2024-04-30T19:42:43.513Z
+date: 2024-05-19T17:46:51.871Z
 tags: 
   - mov video
   - mov android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo X100 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Tecno Spark 10 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

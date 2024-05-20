@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Lava Agni 2 5G Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:12.101Z
-updated: 2024-05-01T19:50:12.101Z
+date: 2024-05-19T17:46:56.308Z
+updated: 2024-05-20T17:46:56.308Z
 tags: 
   - reset
 categories:
@@ -498,4 +498,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a05s-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A05s without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y78-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y78 5G</u></a></li>
 </ul></div>
+
 

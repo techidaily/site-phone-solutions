@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Xiaomi ?
-date: 2024-04-30T19:44:25.023Z
+date: 2024-05-19T17:46:52.634Z
 tags: 
   - hevc video
   - hevc android
@@ -197,4 +197,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Pop 8? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/in-2024-some-must-know-useful-lego-animation-ideas-for-you/"><u>In 2024, Some Must-Know Useful Lego Animation Ideas for You</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Xiaomi 13T?
-date: 2024-04-30T19:44:24.648Z
+date: 2024-05-19T17:46:52.632Z
 tags: 
   - hevc video
   - hevc android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord 3 5G | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-music-from-apple-iphone-12-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Music from Apple iPhone 12 to iPod touch | Dr.fone</u></a></li>
 </ul></div>
+
 

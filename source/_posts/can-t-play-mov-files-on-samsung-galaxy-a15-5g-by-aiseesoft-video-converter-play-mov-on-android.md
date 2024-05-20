@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Samsung Galaxy A15 5G
-date: 2024-04-30T19:40:18.529Z
+date: 2024-05-19T17:46:50.844Z
 tags: 
   - mov video
   - mov android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi A2 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-open-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus Open to New Android Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

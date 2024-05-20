@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Galaxy S23+?
-date: 2024-04-30T19:40:54.805Z
+date: 2024-05-19T17:46:51.107Z
 tags: 
   - mp4 video
   - mp4 android
@@ -157,4 +157,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-spark-10-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Spark 10 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo Reno 10 Pro 5G</u></a></li>
 </ul></div>
+
 

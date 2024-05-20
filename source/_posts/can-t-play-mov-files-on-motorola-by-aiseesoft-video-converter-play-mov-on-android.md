@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Motorola
-date: 2024-04-30T19:40:16.908Z
+date: 2024-05-19T17:46:50.837Z
 tags: 
   - mov video
   - mov android
@@ -205,4 +205,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE Without Passcode?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-what-is-the-best-frame-rate-for-4k-videos/"><u>Updated What Is the Best Frame Rate for 4K Videos?</u></a></li>
 </ul></div>
+
 

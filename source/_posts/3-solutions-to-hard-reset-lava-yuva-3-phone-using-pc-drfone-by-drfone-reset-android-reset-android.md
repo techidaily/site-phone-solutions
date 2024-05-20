@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Lava Yuva 3 Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:52.811Z
-updated: 2024-05-01T19:47:52.811Z
+date: 2024-05-19T17:46:54.636Z
+updated: 2024-05-20T17:46:54.636Z
 tags: 
   - reset
 categories:
@@ -424,4 +424,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-moto-g14-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Moto G14</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/there-are-a-few-ways-to-remove-or-mute-audio-in-a-video-but-how-read-this-article-and-learn-how-to-do-it-using-recommended-android-apps/"><u>There Are a Few Ways to Remove or Mute Audio in a Video, but How? Read This Article and Learn How to Do It Using Recommended Android Apps</u></a></li>
 </ul></div>
+
 

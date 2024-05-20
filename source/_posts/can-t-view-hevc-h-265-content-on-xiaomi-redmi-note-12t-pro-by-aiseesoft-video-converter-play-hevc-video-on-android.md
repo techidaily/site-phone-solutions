@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi Redmi Note 12T Pro
-date: 2024-04-30T19:40:38.455Z
+date: 2024-05-19T17:46:50.995Z
 tags: 
   - hevc video
   - hevc android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-note-12-proplus-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi Note 12 Pro+ 5G without App | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo X90S | Dr.fone</u></a></li>
 </ul></div>
+
 

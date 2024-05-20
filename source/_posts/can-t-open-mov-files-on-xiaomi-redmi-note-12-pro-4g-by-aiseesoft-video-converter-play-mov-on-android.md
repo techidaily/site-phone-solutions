@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Xiaomi Redmi Note 12 Pro 4G
-date: 2024-04-30T19:40:14.669Z
+date: 2024-05-19T17:46:50.825Z
 tags: 
   - mov video
   - mov android
@@ -206,4 +206,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/how-to-fix-it-tecno-spark-10-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Spark 10 Pro Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/new-what-is-an-ai-script-generator/"><u>New What Is an AI Script Generator?</u></a></li>
 </ul></div>
+
 

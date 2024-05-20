@@ -1,7 +1,7 @@
 ---
 title: How do you play HEVC/H.265 files on Sony ?
-date: 2024-04-30T19:44:28.600Z
-updated: 2024-05-01T19:44:28.600Z
+date: 2024-05-19T17:46:52.653Z
+updated: 2024-05-20T17:46:52.653Z
 tags: 
   - hevc video
   - hevc android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-quick-answer-what-is-a-transparent-logo-and-why-do-you-need-it/"><u>2024 Approved Quick Answer What Is a Transparent Logo and Why Do You Need It</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-neo-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Neo Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

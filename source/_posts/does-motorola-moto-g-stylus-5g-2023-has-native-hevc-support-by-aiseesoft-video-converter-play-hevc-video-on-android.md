@@ -1,7 +1,7 @@
 ---
 title: Does Motorola Moto G Stylus 5G (2023) has native HEVC support?
-date: 2024-04-30T19:42:14.034Z
-updated: 2024-05-01T19:42:14.034Z
+date: 2024-05-19T17:46:51.672Z
+updated: 2024-05-20T17:46:51.672Z
 tags: 
   - hevc video
   - hevc android
@@ -224,4 +224,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo Reno 9A | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On OnePlus Open? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Vivo Y36i | Dr.fone
-date: 2024-04-30T19:47:28.627Z
-updated: 2024-05-01T19:47:28.627Z
+date: 2024-05-19T17:46:54.407Z
+updated: 2024-05-20T17:46:54.407Z
 tags: 
   - reset
 categories:
@@ -454,4 +454,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A2 | Dr.fone</u></a></li>
 </ul></div>
+
 

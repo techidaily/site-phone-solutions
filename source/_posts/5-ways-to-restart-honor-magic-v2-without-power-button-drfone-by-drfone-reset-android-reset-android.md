@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor Magic V2 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:10.085Z
-updated: 2024-05-01T19:51:10.085Z
+date: 2024-05-19T17:46:56.936Z
+updated: 2024-05-20T17:46:56.936Z
 tags: 
   - reset
 categories:
@@ -412,4 +412,5 @@ Now that you know how to reset a Honor Magic V2 phone that is locked and how to 
 <li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-mini-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 mini</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 14? | Dr.fone</u></a></li>
 </ul></div>
+
 

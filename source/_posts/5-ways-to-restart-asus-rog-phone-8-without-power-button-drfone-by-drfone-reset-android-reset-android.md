@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Asus ROG Phone 8 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:06.280Z
-updated: 2024-05-01T19:51:06.280Z
+date: 2024-05-19T17:46:56.908Z
+updated: 2024-05-20T17:46:56.908Z
 tags: 
   - reset
 categories:
@@ -516,4 +516,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y78+ | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Sony Xperia 1 V | Dr.fone
-date: 2024-04-30T19:46:08.665Z
-updated: 2024-05-01T19:46:08.665Z
+date: 2024-05-19T17:46:53.421Z
+updated: 2024-05-20T17:46:53.421Z
 tags: 
   - reset
 categories:
@@ -436,4 +436,5 @@ This concludes our article on five ways to hard reset Sony Xperia 1 V phones. Yo
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Itel P55+ | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-itel-a05s-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Itel A05s to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

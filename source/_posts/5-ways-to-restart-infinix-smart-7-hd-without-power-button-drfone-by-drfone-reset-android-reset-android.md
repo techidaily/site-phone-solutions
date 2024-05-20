@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Smart 7 HD Without Power Button | Dr.fone
-date: 2024-04-30T19:51:16.302Z
-updated: 2024-05-01T19:51:16.302Z
+date: 2024-05-19T17:46:57.065Z
+updated: 2024-05-20T17:46:57.065Z
 tags: 
   - reset
 categories:
@@ -504,4 +504,5 @@ Resetting an Infinix Smart 7 HD phone can be tricky sometimes; therefore, it sho
 <li><a href="https://techidaily.com/recover-apple-iphone-14-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Data From iOS iTunes | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Poco C50? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Redmi 12 5G
-date: 2024-04-30T19:43:24.099Z
+date: 2024-05-19T17:46:52.159Z
 tags: 
   - hevc video
   - hevc android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-nokia-g42-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Nokia G42 5G Phone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-video-enhancement-software-boost-clarity-and-detail-instantly-for-2024/"><u>Updated Video Enhancement Software Boost Clarity and Detail Instantly for 2024</u></a></li>
 </ul></div>
+
 

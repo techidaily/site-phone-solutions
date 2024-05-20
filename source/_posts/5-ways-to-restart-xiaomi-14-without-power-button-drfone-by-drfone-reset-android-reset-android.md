@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi 14 Without Power Button | Dr.fone
-date: 2024-04-30T19:52:08.741Z
-updated: 2024-05-01T19:52:08.741Z
+date: 2024-05-19T17:46:57.774Z
+updated: 2024-05-20T17:46:57.774Z
 tags: 
   - reset
 categories:
@@ -510,4 +510,5 @@ These are all methods for unlocking Xiaomi 14 hard reset. It is possible to appl
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-smart-7-hd-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Smart 7 HD to iPad Easily | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/exploring-the-best-text-to-speech-online-tools-to-use/"><u>Exploring The Best Text-to-Speech Online Tools To Use</u></a></li>
 </ul></div>
+
 

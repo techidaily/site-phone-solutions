@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Spark 10 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:57.090Z
-updated: 2024-05-01T19:51:57.090Z
+date: 2024-05-19T17:46:57.636Z
+updated: 2024-05-20T17:46:57.636Z
 tags: 
   - reset
 categories:
@@ -532,4 +532,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Lenovo ThinkPhone? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/speed-updown-videos-in-vlc/"><u>Speed Up/Down Videos in VLC</u></a></li>
 </ul></div>
+
 

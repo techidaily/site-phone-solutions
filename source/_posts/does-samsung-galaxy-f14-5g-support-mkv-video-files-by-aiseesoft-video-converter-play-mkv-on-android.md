@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy F14 5G support MKV video files?
-date: 2024-04-30T19:42:34.967Z
+date: 2024-05-19T17:46:51.826Z
 tags: 
   - mkv video
   - mkv android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 11 & 10</u></a></li>
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-realme-c51-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Realme C51 without Anyone Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

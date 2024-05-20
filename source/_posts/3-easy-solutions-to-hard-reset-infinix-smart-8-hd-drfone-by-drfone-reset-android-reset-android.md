@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Infinix Smart 8 HD | Dr.fone
-date: 2024-04-30T19:46:39.519Z
-updated: 2024-05-01T19:46:39.519Z
+date: 2024-05-19T17:46:53.994Z
+updated: 2024-05-20T17:46:53.994Z
 tags: 
   - reset
 categories:
@@ -453,4 +453,5 @@ This concludes our article on five ways to hard reset Infinix Smart 8 HD phones.
 <li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-galaxy-a24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Galaxy A24 ?</u></a></li>
 </ul></div>
+
 

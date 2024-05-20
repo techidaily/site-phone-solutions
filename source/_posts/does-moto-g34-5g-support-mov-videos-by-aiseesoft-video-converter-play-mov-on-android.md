@@ -1,6 +1,6 @@
 ---
 title: Does Moto G34 5G support MOV videos ?
-date: 2024-04-30T19:42:09.764Z
+date: 2024-05-19T17:46:51.649Z
 tags: 
   - mov video
   - mov android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-reset-a-vivo-v29e-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo V29e Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-13-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 13 Pro Max When You Forget the Passcode?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Honor X50 GT Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:03.430Z
-updated: 2024-05-01T19:50:03.430Z
+date: 2024-05-19T17:46:56.236Z
+updated: 2024-05-20T17:46:56.236Z
 tags: 
   - reset
 categories:
@@ -477,4 +477,5 @@ Resetting an Honor X50 GT phone can be tricky sometimes; therefore, it should be
 <li><a href="https://ai-vdieo-software.techidaily.com/new-edit-your-way-to-viral-best-vlog-video-editing-software-for-hot-platforms/"><u>New Edit Your Way to Viral Best Vlog Video Editing Software for Hot Platforms</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-c12-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia C12 Pro Phone</u></a></li>
 </ul></div>
+
 

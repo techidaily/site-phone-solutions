@@ -1,6 +1,6 @@
 ---
 title: Does Nova Y71 support AVCHD video?
-date: 2024-04-30T19:42:25.475Z
+date: 2024-05-19T17:46:51.773Z
 tags: 
   - mts video
   - mts android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-6s-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 6s Plus Lock Screen</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On OnePlus Open | Dr.fone</u></a></li>
 </ul></div>
+
 

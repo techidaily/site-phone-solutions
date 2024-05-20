@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Xiaomi Redmi Note 12T Pro ?
-date: 2024-04-30T19:44:44.509Z
+date: 2024-05-19T17:46:52.745Z
 tags: 
   - mov video
   - mov android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel A05s? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-g2-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo G2?</u></a></li>
 </ul></div>
+
 

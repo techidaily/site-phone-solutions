@@ -1,6 +1,6 @@
 ---
 title: A79 5G support - Forgotten screen lock.
-date: 2024-04-30T19:52:22.006Z
+date: 2024-05-19T17:46:57.897Z
 tags: 
   - android unlock
   - android devices unlock
@@ -223,4 +223,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://unlock-android.techidaily.com/best-xiaomi-redmi-a2plus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Redmi A2+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme C67 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

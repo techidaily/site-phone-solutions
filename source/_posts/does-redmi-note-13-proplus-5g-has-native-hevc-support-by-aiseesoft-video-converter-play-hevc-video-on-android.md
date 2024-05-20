@@ -1,6 +1,6 @@
 ---
 title: Does Redmi Note 13 Pro+ 5G has native HEVC support?
-date: 2024-04-30T19:42:30.796Z
+date: 2024-05-19T17:46:51.803Z
 tags: 
   - hevc video
   - hevc android
@@ -199,4 +199,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-online-vertical-video-editing-made-easy-top-tools/"><u>Updated In 2024, Online Vertical Video Editing Made Easy Top Tools</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone SE (2022)</u></a></li>
 </ul></div>
+
 

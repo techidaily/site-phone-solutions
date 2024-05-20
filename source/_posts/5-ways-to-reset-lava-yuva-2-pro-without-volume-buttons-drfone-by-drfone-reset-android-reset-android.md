@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Lava Yuva 2 Pro Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:13.449Z
-updated: 2024-05-01T19:50:13.449Z
+date: 2024-05-19T17:46:56.318Z
+updated: 2024-05-20T17:46:56.318Z
 tags: 
   - reset
 categories:
@@ -456,4 +456,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-vivo-v29-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Vivo V29 Pro</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-a78-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo A78? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo X90S Without Power Button | Dr.fone
-date: 2024-04-30T19:52:03.090Z
-updated: 2024-05-01T19:52:03.090Z
+date: 2024-05-19T17:46:57.679Z
+updated: 2024-05-20T17:46:57.679Z
 tags: 
   - reset
 categories:
@@ -411,4 +411,5 @@ Let's end our guide for the easiest ways to **hard reset Vivo X90S**. You can do
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-poco-x5-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Poco X5</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-12-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 12 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
 </ul></div>
+
 

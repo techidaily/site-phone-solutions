@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Infinix Smart 8 Pro Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:09.092Z
-updated: 2024-05-01T19:50:09.092Z
+date: 2024-05-19T17:46:56.277Z
+updated: 2024-05-20T17:46:56.277Z
 tags: 
   - reset
 categories:
@@ -443,4 +443,5 @@ Above are some strategies with which you can do an **Infinix Smart 8 Pro hard re
 <li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-2020-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone SE (2020) | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-7-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 7 Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
 </ul></div>
+
 

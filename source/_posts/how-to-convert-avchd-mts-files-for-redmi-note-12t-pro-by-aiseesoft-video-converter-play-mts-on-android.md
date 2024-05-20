@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Redmi Note 12T Pro?
-date: 2024-04-30T19:45:02.362Z
+date: 2024-05-19T17:46:52.886Z
 tags: 
   - mts video
   - mts android
@@ -155,4 +155,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-top-list-best-vhs-sound-effect-that-you-can-use-in-video-making/"><u>Updated In 2024, Top List Best VHS Sound Effect That You Can Use in Video Making</u></a></li>
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lenovo-frp-by-drfone-android/"><u>Full Guide to Bypass Lenovo FRP</u></a></li>
 </ul></div>
+
 

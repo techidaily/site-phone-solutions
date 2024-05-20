@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset OnePlus 11R | Dr.fone
-date: 2024-04-30T19:45:45.723Z
-updated: 2024-05-01T19:45:45.723Z
+date: 2024-05-19T17:46:53.238Z
+updated: 2024-05-20T17:46:53.238Z
 tags: 
   - reset
 categories:
@@ -387,4 +387,5 @@ Now that you know how to reset a OnePlus 11R phone that is locked and how to use
 <li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-14-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi 14 Pro</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-mac-users-learn-how-to-install-kinemaster-with-ease/"><u>2024 Approved Mac Users Learn How to Install KineMaster with Ease</u></a></li>
 </ul></div>
+
 

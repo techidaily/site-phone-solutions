@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y100A Without Power Button | Dr.fone
-date: 2024-04-30T19:52:03.846Z
-updated: 2024-05-01T19:52:03.846Z
+date: 2024-05-19T17:46:57.684Z
+updated: 2024-05-20T17:46:57.684Z
 tags: 
   - reset
 categories:
@@ -535,4 +535,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-realme-gt-neo-5-se-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Realme GT Neo 5 SE Activity | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-itel-s23plus-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Itel S23+ FRP?</u></a></li>
 </ul></div>
+
 

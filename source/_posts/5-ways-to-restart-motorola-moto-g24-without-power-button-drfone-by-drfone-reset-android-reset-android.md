@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G24 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:25.775Z
-updated: 2024-05-01T19:51:25.775Z
+date: 2024-05-19T17:46:57.213Z
+updated: 2024-05-20T17:46:57.213Z
 tags: 
   - reset
 categories:
@@ -445,4 +445,5 @@ Resetting an Motorola Moto G24 phone can be tricky sometimes; therefore, it shou
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-gt-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix GT 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y100a-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y100A Phone that is Locked?</u></a></li>
 </ul></div>
+
 

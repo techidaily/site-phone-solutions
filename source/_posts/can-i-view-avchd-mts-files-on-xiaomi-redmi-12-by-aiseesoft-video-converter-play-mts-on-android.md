@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Xiaomi Redmi 12?
-date: 2024-04-30T19:40:07.233Z
+date: 2024-05-19T17:46:50.765Z
 tags: 
   - mts video
   - mts android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-iphone-15-plus-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your iPhone 15 Plus and iPad?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-infinix-note-30i-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Infinix Note 30i to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

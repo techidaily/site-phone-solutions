@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia C02 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:27.288Z
-updated: 2024-05-01T19:51:27.288Z
+date: 2024-05-19T17:46:57.224Z
+updated: 2024-05-20T17:46:57.224Z
 tags: 
   - reset
 categories:
@@ -466,4 +466,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-11-pro-by-drfone-ios/"><u>How To Unlock A Found iPhone 11 Pro?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-spark-20-proplus-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Spark 20 Pro+?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze Pro 5G | Dr.fone
-date: 2024-04-30T19:53:47.451Z
-updated: 2024-05-01T19:53:47.451Z
+date: 2024-05-19T17:46:58.914Z
+updated: 2024-05-20T17:46:58.914Z
 tags: 
   - reset
 categories:
@@ -382,4 +382,5 @@ This concludes our article on five ways to hard reset Lava Blaze Pro 5G phones. 
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-motorola-edge-40-neo-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Motorola Edge 40 Neo PC | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-s18e-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo S18e Phones with/without a PC</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Can't open MOV files on Xiaomi 13 Ultra
-date: 2024-04-30T19:41:15.981Z
-updated: 2024-05-01T19:41:15.981Z
+date: 2024-05-19T17:46:51.240Z
+updated: 2024-05-20T17:46:51.240Z
 tags: 
   - mov video
   - mov android
@@ -197,4 +197,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-top-5-final-cut-pro-editing-tips-you-should-know-for-2024/"><u>New Top 5 Final Cut Pro Editing Tips You Should Know for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Infinix GT 10 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

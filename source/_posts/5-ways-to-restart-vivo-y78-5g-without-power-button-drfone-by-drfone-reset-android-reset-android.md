@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y78 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:07.029Z
-updated: 2024-05-01T19:52:07.029Z
+date: 2024-05-19T17:46:57.761Z
+updated: 2024-05-20T17:46:57.761Z
 tags: 
   - reset
 categories:
@@ -495,4 +495,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus Nord N30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

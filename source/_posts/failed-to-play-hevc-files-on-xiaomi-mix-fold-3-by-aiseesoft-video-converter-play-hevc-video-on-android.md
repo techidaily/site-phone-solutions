@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xiaomi Mix Fold 3
-date: 2024-04-30T19:43:29.134Z
+date: 2024-05-19T17:46:52.185Z
 tags: 
   - hevc video
   - hevc android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-frp.techidaily.com/in-2024-about-htc-frp-bypass-by-drfone-android/"><u>In 2024, About HTC FRP Bypass</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo A38 | Dr.fone</u></a></li>
 </ul></div>
+
 

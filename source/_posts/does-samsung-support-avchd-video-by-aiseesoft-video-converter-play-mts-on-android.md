@@ -1,7 +1,7 @@
 ---
 title: Does Samsung support AVCHD video?
-date: 2024-04-30T19:42:41.791Z
-updated: 2024-05-01T19:42:41.791Z
+date: 2024-05-19T17:46:51.864Z
+updated: 2024-05-20T17:46:51.864Z
 tags: 
   - mts video
   - mts android
@@ -194,4 +194,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 13 mini</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-11-pro-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 11 Pro?</u></a></li>
 </ul></div>
+
 

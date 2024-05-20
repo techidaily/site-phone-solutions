@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For OnePlus 12R | Dr.fone
-date: 2024-04-30T19:53:57.805Z
-updated: 2024-05-01T19:53:57.805Z
+date: 2024-05-19T17:46:58.994Z
+updated: 2024-05-20T17:46:58.994Z
 tags: 
   - reset
 categories:
@@ -460,4 +460,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y27 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Poco F5 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

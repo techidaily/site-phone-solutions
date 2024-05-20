@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lava Agni 2 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:20.116Z
-updated: 2024-05-01T19:51:20.116Z
+date: 2024-05-19T17:46:57.131Z
+updated: 2024-05-20T17:46:57.131Z
 tags: 
   - reset
 categories:
@@ -422,4 +422,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-14-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 14 Pro and iPad</u></a></li>
 </ul></div>
+
 

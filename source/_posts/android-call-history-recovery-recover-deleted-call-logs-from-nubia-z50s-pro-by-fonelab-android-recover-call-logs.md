@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Nubia Z50S Pro
-date: 2024-04-30T19:54:13.236Z
+date: 2024-05-19T17:46:59.163Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -185,4 +185,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-12-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 12?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus with/without SIM Card</u></a></li>
 </ul></div>
+
 

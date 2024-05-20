@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on U23 Pro?
-date: 2024-04-30T19:44:24.461Z
+date: 2024-05-19T17:46:52.631Z
 tags: 
   - hevc video
   - hevc android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Realme 11 Pro+? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-make-discord-gif-pfp/"><u>How to Make Discord GIF PFP</u></a></li>
 </ul></div>
+
 

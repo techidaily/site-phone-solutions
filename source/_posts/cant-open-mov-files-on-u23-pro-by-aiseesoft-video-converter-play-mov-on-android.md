@@ -1,7 +1,7 @@
 ---
 title: Can't open MOV files on U23 Pro
-date: 2024-04-30T19:41:15.791Z
-updated: 2024-05-01T19:41:15.791Z
+date: 2024-05-19T17:46:51.239Z
+updated: 2024-05-20T17:46:51.239Z
 tags: 
   - mov video
   - mov android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor X9a | Dr.fone</u></a></li>
 </ul></div>
+
 

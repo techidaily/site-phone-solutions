@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme GT 5 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:45.258Z
-updated: 2024-05-01T19:51:45.258Z
+date: 2024-05-19T17:46:57.444Z
+updated: 2024-05-20T17:46:57.444Z
 tags: 
   - reset
 categories:
@@ -526,4 +526,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-6-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 6 | Stellar</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Nokia G42 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

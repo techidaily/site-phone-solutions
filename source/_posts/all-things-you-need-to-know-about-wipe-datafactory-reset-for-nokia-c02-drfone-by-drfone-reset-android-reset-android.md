@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Nokia C02 | Dr.fone
-date: 2024-04-30T19:53:53.504Z
-updated: 2024-05-01T19:53:53.504Z
+date: 2024-05-19T17:46:58.966Z
+updated: 2024-05-20T17:46:58.966Z
 tags: 
   - reset
 categories:
@@ -468,4 +468,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-8-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 8 Pro in 5 Easy Ways | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

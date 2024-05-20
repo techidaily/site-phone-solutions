@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Defy 2 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:22.780Z
-updated: 2024-05-01T19:51:22.780Z
+date: 2024-05-19T17:46:57.169Z
+updated: 2024-05-20T17:46:57.169Z
 tags: 
   - reset
 categories:
@@ -472,4 +472,5 @@ Now that you know how to hard reset Motorola Defy 2 it is time to implement all 
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-samsung-galaxy-s23-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Samsung Galaxy S23.</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-zte-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on ZTE</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on 14 Pro?
-date: 2024-04-30T19:40:05.094Z
+date: 2024-05-19T17:46:50.726Z
 tags: 
   - mts video
   - mts android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-y27-4g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Y27 4G</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
+
 

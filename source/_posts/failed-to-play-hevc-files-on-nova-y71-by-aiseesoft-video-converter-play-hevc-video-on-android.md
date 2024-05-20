@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Nova Y71
-date: 2024-04-30T19:43:23.716Z
+date: 2024-05-19T17:46:52.157Z
 tags: 
   - hevc video
   - hevc android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-y100i-power-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo Y100i Power 5G FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-moto-g84-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Moto G84 5G</u></a></li>
 </ul></div>
+
 

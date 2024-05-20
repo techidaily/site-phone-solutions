@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8 HD? | Dr.fone
-date: 2024-04-30T19:52:34.961Z
-updated: 2024-05-01T19:52:34.961Z
+date: 2024-05-19T17:46:58.070Z
+updated: 2024-05-20T17:46:58.070Z
 tags: 
   - reset
 categories:
@@ -424,4 +424,5 @@ This concludes our article on five ways to hard reset Infinix Smart 8 HD phones.
 <li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-a38-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo A38</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-get-moving-how-to-accelerate-video-playback-in-quicktime-player-for-2024/"><u>Updated Get Moving How to Accelerate Video Playback in QuickTime Player for 2024</u></a></li>
 </ul></div>
+
 

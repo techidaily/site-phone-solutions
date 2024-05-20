@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Nokia C12 Plus
-date: 2024-04-30T19:54:11.915Z
+date: 2024-05-19T17:46:59.158Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -174,4 +174,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-sony-xperia-10-v-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Sony Xperia 10 V Phones with/without a PC</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 mini</u></a></li>
 </ul></div>
+
 

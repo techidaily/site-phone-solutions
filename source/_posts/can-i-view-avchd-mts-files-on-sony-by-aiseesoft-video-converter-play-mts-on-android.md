@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Sony ?
-date: 2024-04-30T19:40:05.896Z
+date: 2024-05-19T17:46:50.757Z
 tags: 
   - mts video
   - mts android
@@ -152,4 +152,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 15 Pro</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-google-pixel-8-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Google Pixel 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

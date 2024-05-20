@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Xiaomi Redmi 13C 5G?
-date: 2024-04-30T19:41:00.453Z
+date: 2024-05-19T17:46:51.140Z
 tags: 
   - mp4 video
   - mp4 android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-top-6-end-screen-makers/"><u>In 2024, Top 6 End Screen Makers</u></a></li>
 </ul></div>
+
 

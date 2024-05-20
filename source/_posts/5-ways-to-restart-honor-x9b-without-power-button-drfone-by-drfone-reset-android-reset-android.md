@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor X9b Without Power Button | Dr.fone
-date: 2024-04-30T19:51:12.834Z
-updated: 2024-05-01T19:51:12.834Z
+date: 2024-05-19T17:46:56.983Z
+updated: 2024-05-20T17:46:56.983Z
 tags: 
   - reset
 categories:
@@ -512,4 +512,5 @@ These are all methods for unlocking Honor X9b hard reset. It is possible to appl
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-stop-motion-animation-101-a-beginners-guide-to-software-and-techniques/"><u>Updated In 2024, Stop Motion Animation 101 A Beginners Guide to Software and Techniques</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-pop-8-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Pop 8 FRP Without Computer</u></a></li>
 </ul></div>
+
 

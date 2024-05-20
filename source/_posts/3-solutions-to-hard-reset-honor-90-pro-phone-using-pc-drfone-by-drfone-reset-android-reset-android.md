@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Honor 90 Pro Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:39.602Z
-updated: 2024-05-01T19:47:39.602Z
+date: 2024-05-19T17:46:54.518Z
+updated: 2024-05-20T17:46:54.518Z
 tags: 
   - reset
 categories:
@@ -425,4 +425,5 @@ Resetting an Honor 90 Pro phone can be tricky sometimes; therefore, it should be
 <li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Tecno Pop 8 | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-tecno-phantom-v-fold-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Tecno Phantom V Fold</u></a></li>
 </ul></div>
+
 

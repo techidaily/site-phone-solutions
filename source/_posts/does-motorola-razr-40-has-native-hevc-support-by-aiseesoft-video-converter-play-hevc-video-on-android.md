@@ -1,7 +1,7 @@
 ---
 title: Does Motorola Razr 40 has native HEVC support?
-date: 2024-04-30T19:42:15.383Z
-updated: 2024-05-01T19:42:15.383Z
+date: 2024-05-19T17:46:51.678Z
+updated: 2024-05-20T17:46:51.678Z
 tags: 
   - hevc video
   - hevc android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Lenovo ThinkPhone | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Honor Magic V2?</u></a></li>
 </ul></div>
+
 

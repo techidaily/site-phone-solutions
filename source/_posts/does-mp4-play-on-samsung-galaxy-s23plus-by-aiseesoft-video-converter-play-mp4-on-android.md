@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Samsung Galaxy S23+?
-date: 2024-04-30T19:42:23.585Z
+date: 2024-05-19T17:46:51.726Z
 tags: 
   - mp4 video
   - mp4 android
@@ -158,4 +158,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-change-your-nubia-z50s-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nubia Z50S Pro Location on Twitter | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-90-lite-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 90 Lite to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 </ul></div>
+
 

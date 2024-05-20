@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart OnePlus 11R Without Power Button | Dr.fone
-date: 2024-04-30T19:51:31.124Z
-updated: 2024-05-01T19:51:31.124Z
+date: 2024-05-19T17:46:57.302Z
+updated: 2024-05-20T17:46:57.302Z
 tags: 
   - reset
 categories:
@@ -459,4 +459,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-infinix-note-30-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Infinix Note 30 Pro FRP Bypass With Best Methods</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-srt-file-creator/"><u>Updated Srt File Creator</u></a></li>
 </ul></div>
+
 

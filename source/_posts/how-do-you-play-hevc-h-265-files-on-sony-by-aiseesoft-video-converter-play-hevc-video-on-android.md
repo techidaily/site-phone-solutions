@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Sony ?
-date: 2024-04-30T19:44:24.273Z
+date: 2024-05-19T17:46:52.630Z
 tags: 
   - hevc video
   - hevc android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-moto-g14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola Moto G14? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Vivo Y100A | Dr.fone</u></a></li>
 </ul></div>
+
 

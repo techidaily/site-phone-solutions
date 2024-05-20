@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Lava Blaze Curve 5G Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:12.853Z
-updated: 2024-05-01T19:50:12.853Z
+date: 2024-05-19T17:46:56.314Z
+updated: 2024-05-20T17:46:56.314Z
 tags: 
   - reset
 categories:
@@ -459,4 +459,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi 13C 5G</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-top-6-end-screen-makers/"><u>Updated Top 6 End Screen Makers</u></a></li>
 </ul></div>
+
 

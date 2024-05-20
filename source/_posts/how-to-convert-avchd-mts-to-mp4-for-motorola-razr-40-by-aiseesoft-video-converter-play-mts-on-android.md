@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD MTS to MP4 for Motorola Razr 40?
-date: 2024-04-30T19:45:10.679Z
+date: 2024-05-19T17:46:52.935Z
 tags: 
   - mts video
   - mts android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Nokia G42 5G | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-honor-x7b-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor X7b – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
+
 

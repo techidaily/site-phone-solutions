@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T19:53:48.015Z
-updated: 2024-05-01T19:53:48.015Z
+date: 2024-05-19T17:46:58.918Z
+updated: 2024-05-20T17:46:58.918Z
 tags: 
   - reset
 categories:
@@ -467,4 +467,5 @@ Above are some strategies with which you can do an **Lava Yuva 2 Pro hard reset*
 <li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a14-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A14 5G by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-mp3-cutter-download-for-computer-and-mobile/"><u>In 2024, MP3 Cutter Download for Computer and Mobile</u></a></li>
 </ul></div>
+
 

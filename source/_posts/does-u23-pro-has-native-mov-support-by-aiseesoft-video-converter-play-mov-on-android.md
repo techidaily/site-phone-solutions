@@ -1,6 +1,6 @@
 ---
 title: Does U23 Pro has native MOV support?
-date: 2024-04-30T19:42:43.322Z
+date: 2024-05-19T17:46:51.870Z
 tags: 
   - mov video
   - mov android
@@ -208,4 +208,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-infinix-note-30-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Infinix Note 30 5G Phone? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme V30 | Dr.fone</u></a></li>
 </ul></div>
+
 

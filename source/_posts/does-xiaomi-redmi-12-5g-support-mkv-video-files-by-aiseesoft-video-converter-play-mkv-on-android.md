@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi 12 5G support MKV video files?
-date: 2024-04-30T19:42:46.912Z
+date: 2024-05-19T17:46:51.887Z
 tags: 
   - mkv video
   - mkv android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-y28-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Y28 5G Device</u></a></li>
 <li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-xcover-6-pro-tactical-edition-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy XCover 6 Pro Tactical Edition? Heres A Full Solution | Dr.fone</u></a></li>
 </ul></div>
+
 

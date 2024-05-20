@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Xperia 1 V
-date: 2024-04-30T19:40:15.042Z
+date: 2024-05-19T17:46:50.827Z
 tags: 
   - mov video
   - mov android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-moto-g24-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Moto G24? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-android-video-editing-top-10-free-and-paid-apps-for-2024/"><u>Updated The Ultimate Guide to Android Video Editing Top 10 Free and Paid Apps for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nubia Red Magic 8S Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:29.788Z
-updated: 2024-05-01T19:51:29.788Z
+date: 2024-05-19T17:46:57.279Z
+updated: 2024-05-20T17:46:57.279Z
 tags: 
   - reset
 categories:
@@ -445,4 +445,5 @@ Now that you know how to reset a Nubia Red Magic 8S Pro phone that is locked and
 <li><a href="https://review-topics.techidaily.com/oppo-a38-music-recovery-recover-deleted-music-from-oppo-a38-by-fonelab-android-recover-music/"><u>Oppo A38 Music Recovery - Recover Deleted Music from Oppo A38</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-c51-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme C51 | Dr.fone</u></a></li>
 </ul></div>
+
 

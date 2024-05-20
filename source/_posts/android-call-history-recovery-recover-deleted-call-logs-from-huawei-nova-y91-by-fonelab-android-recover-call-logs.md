@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Huawei Nova Y91
-date: 2024-04-30T19:54:06.225Z
+date: 2024-05-19T17:46:59.099Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -203,4 +203,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-x-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone X?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-moto-e13-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola Moto E13 Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

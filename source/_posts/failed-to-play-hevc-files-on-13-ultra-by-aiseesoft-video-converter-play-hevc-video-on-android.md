@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on 13 Ultra
-date: 2024-04-30T19:43:18.205Z
+date: 2024-05-19T17:46:52.126Z
 tags: 
   - hevc video
   - hevc android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-12-pro-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 12 Pro Location | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-12-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone 12 and iPad?</u></a></li>
 </ul></div>
+
 

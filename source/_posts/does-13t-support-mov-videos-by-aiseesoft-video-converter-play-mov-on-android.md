@@ -1,6 +1,6 @@
 ---
 title: Does 13T support MOV videos ?
-date: 2024-04-30T19:41:50.447Z
+date: 2024-05-19T17:46:51.504Z
 tags: 
   - mov video
   - mov android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 14 Pro Max</u></a></li>
 </ul></div>
+
 

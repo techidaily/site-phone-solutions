@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme 12 Pro 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:42.972Z
-updated: 2024-05-01T19:51:42.972Z
+date: 2024-05-19T17:46:57.427Z
+updated: 2024-05-20T17:46:57.427Z
 tags: 
   - reset
 categories:
@@ -486,4 +486,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-edge-40-neo-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola Edge 40 Neo with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-moto-g73-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola Moto G73 5G IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

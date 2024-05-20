@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Honor X9b
-date: 2024-04-30T19:54:05.287Z
+date: 2024-05-19T17:46:59.074Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -165,4 +165,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-13-mini-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 13 mini Smoothly</u></a></li>
 <li><a href="https://android-frp.techidaily.com/top-5-samsung-galaxy-s23-fe-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Samsung Galaxy S23 FE Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

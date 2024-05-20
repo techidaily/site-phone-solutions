@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Samsung Galaxy Z Flip 5
-date: 2024-04-30T19:43:26.939Z
+date: 2024-05-19T17:46:52.174Z
 tags: 
   - hevc video
   - hevc android
@@ -194,4 +194,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-itel-p55-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Itel P55 Quickly? | Dr.fone</u></a></li>
 </ul></div>
+
 

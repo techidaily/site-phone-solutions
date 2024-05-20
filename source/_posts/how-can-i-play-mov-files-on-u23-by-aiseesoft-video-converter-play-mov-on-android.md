@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on U23 ?
-date: 2024-04-30T19:44:05.721Z
+date: 2024-05-19T17:46:52.490Z
 tags: 
   - mov video
   - mov android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Nokia G42 5G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-s24plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy S24+ without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

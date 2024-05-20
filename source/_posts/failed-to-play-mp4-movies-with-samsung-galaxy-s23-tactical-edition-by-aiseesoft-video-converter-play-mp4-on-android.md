@@ -1,6 +1,6 @@
 ---
 title: Failed to play MP4 movies with Samsung Galaxy S23 Tactical Edition
-date: 2024-04-30T19:43:51.954Z
+date: 2024-05-19T17:46:52.334Z
 tags: 
   - mp4 video
   - mp4 android
@@ -206,4 +206,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-gt-10-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix GT 10 Pro Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

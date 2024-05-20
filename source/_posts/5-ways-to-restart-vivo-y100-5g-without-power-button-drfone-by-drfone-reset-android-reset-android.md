@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y100 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:03.469Z
-updated: 2024-05-01T19:52:03.469Z
+date: 2024-05-19T17:46:57.682Z
+updated: 2024-05-20T17:46:57.682Z
 tags: 
   - reset
 categories:
@@ -402,4 +402,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-replace-sony-vegas-with-these-powerful-windows-video-editing-tools/"><u>2024 Approved Replace Sony Vegas with These Powerful Windows Video Editing Tools</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-reno-10-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo Reno 10 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
 </ul></div>
+
 

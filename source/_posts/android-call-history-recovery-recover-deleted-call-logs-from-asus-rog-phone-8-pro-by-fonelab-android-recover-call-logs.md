@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Asus ROG Phone 8 Pro
-date: 2024-04-30T19:54:00.819Z
+date: 2024-05-19T17:46:59.048Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -194,4 +194,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 8 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
+
 

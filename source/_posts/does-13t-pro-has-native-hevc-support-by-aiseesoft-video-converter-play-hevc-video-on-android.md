@@ -1,6 +1,6 @@
 ---
 title: Does 13T Pro has native HEVC support?
-date: 2024-04-30T19:41:50.259Z
+date: 2024-05-19T17:46:51.503Z
 tags: 
   - hevc video
   - hevc android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-xr-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone XR? Learn All 4 Methods | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y77t-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y77t | Dr.fone</u></a></li>
 </ul></div>
+
 

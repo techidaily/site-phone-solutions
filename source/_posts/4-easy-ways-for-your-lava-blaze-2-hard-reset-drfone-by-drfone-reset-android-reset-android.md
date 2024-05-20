@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Lava Blaze 2 Hard Reset | Dr.fone
-date: 2024-04-30T19:48:59.724Z
-updated: 2024-05-01T19:48:59.724Z
+date: 2024-05-19T17:46:55.410Z
+updated: 2024-05-20T17:46:55.410Z
 tags: 
   - reset
 categories:
@@ -372,4 +372,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lava-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lava FRP Bypass</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-s17t-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo S17t</u></a></li>
 </ul></div>
+
 

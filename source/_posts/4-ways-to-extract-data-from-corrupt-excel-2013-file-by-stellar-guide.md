@@ -1,6 +1,6 @@
 ---
 title: 4 Ways to extract data from corrupt Excel 2013 file
-date: 2024-04-30T19:49:55.284Z
+date: 2024-05-19T17:46:56.141Z
 tags: 
   - repair
   - repair excel
@@ -169,4 +169,5 @@ Instead of giving up on corrupted Excel sheets, try repairing them with the simp
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-a-custom-transition-to-obs/"><u>How to Add a Custom Transition to OBS</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-is-there-any-video-editor-without-watermark-here-we-have-collected-some-of-the-free-video-editors-with-no-watermark-that-you-can-use-on-windows-pc-and-m/"><u>New Is There Any Video Editor without Watermark? Here We Have Collected some of the Free Video Editors with No Watermark that You Can Use on Windows PC and Mac Computers</u></a></li>
 </ul></div>
+
 

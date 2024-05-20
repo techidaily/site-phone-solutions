@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Motorola Razr 40 Ultra
-date: 2024-04-30T19:40:11.377Z
+date: 2024-05-19T17:46:50.789Z
 tags: 
   - mov video
   - mov android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/top-picks-windows-movie-maker-replacements-youll-love/"><u>Top Picks Windows Movie Maker Replacements Youll Love</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-x-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone X</u></a></li>
 </ul></div>
+
 

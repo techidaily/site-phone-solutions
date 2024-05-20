@@ -1,6 +1,6 @@
 ---
 title: Failed to play MOV movies on Xiaomi Redmi 13C 5G
-date: 2024-04-30T19:43:45.495Z
+date: 2024-05-19T17:46:52.288Z
 tags: 
   - mov video
   - mov android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Hot 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-vivo-y17s-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo Y17s? Try These Fixes</u></a></li>
 </ul></div>
+
 

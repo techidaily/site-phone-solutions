@@ -1,6 +1,6 @@
 ---
 title: Can I play MKV movies on Galaxy A15 5G?
-date: 2024-04-30T19:40:04.760Z
+date: 2024-05-19T17:46:50.330Z
 tags: 
   - mkv video
   - mkv android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S24 Ultra</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-v29-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo V29 Bypass FRP Tools for PC That Actually Work</u></a></li>
 </ul></div>
+
 

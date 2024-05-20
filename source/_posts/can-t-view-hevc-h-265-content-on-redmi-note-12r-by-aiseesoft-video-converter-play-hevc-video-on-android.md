@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Redmi Note 12R
-date: 2024-04-30T19:40:34.141Z
+date: 2024-05-19T17:46:50.970Z
 tags: 
   - hevc video
   - hevc android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-a2-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi A2?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Note 30i Without Power Button | Dr.fone
-date: 2024-04-30T19:51:16.113Z
-updated: 2024-05-01T19:51:16.113Z
+date: 2024-05-19T17:46:57.063Z
+updated: 2024-05-20T17:46:57.063Z
 tags: 
   - reset
 categories:
@@ -549,4 +549,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://ai-video-translation.techidaily.com/new-in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco M6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

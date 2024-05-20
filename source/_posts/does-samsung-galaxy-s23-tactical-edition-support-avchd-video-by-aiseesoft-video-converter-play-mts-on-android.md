@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy S23 Tactical Edition support AVCHD video?
-date: 2024-04-30T19:42:38.392Z
+date: 2024-05-19T17:46:51.843Z
 tags: 
   - mts video
   - mts android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/new-best-15-instant-classics-animated-cartoon-movies/"><u>New Best 15 Instant Classics Animated Cartoon Movies</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/premiere-pro-is-a-powerful-video-editing-software-in-this-article-you-will-learn-about-how-to-use-save-and-export-luts-in-adobe-premiere-pro/"><u>Premiere Pro Is a Powerful Video Editing Software. In This Article, You Will Learn About How to Use, Save and Export LUTs in Adobe Premiere Pro</u></a></li>
 </ul></div>
+
 

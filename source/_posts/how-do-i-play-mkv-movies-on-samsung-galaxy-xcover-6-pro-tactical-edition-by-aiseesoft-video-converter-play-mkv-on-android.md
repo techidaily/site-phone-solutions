@@ -1,6 +1,6 @@
 ---
 title: How do I play MKV movies on Samsung Galaxy XCover 6 Pro Tactical Edition?
-date: 2024-04-30T19:44:13.815Z
+date: 2024-05-19T17:46:52.550Z
 tags: 
   - mkv video
   - mkv android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-vivo-v30-lite-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Vivo V30 Lite 5G in Minutes | Dr.fone</u></a></li>
 </ul></div>
+
 

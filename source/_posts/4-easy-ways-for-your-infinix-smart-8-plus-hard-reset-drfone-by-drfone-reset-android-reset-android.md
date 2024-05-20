@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Infinix Smart 8 Plus Hard Reset | Dr.fone
-date: 2024-04-30T19:48:56.243Z
-updated: 2024-05-01T19:48:56.243Z
+date: 2024-05-19T17:46:55.376Z
+updated: 2024-05-20T17:46:55.376Z
 tags: 
   - reset
 categories:
@@ -486,4 +486,5 @@ Now that you know how to reset a Infinix Smart 8 Plus phone that is locked and h
 <li><a href="https://techidaily.com/how-to-reset-oneplus-ace-2-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 2 Pro Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo S18 | Dr.fone</u></a></li>
 </ul></div>
+
 

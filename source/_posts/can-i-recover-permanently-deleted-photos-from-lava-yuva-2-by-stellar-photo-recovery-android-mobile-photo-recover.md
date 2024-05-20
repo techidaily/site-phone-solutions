@@ -1,7 +1,7 @@
 ---
 title: Can I recover permanently deleted photos from Lava Yuva 2
-date: 2024-04-30T19:40:04.854Z
-updated: 2024-05-01T19:40:04.854Z
+date: 2024-05-19T17:46:50.495Z
+updated: 2024-05-20T17:46:50.495Z
 tags: 
   - recover
 categories: 
@@ -281,4 +281,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-reno-8t-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Reno 8T 5G Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-11-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 11? How to Fix it?</u></a></li>
 </ul></div>
+
 

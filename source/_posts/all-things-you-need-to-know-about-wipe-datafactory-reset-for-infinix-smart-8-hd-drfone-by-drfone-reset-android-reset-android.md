@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 HD | Dr.fone
-date: 2024-04-30T19:53:43.172Z
-updated: 2024-05-01T19:53:43.172Z
+date: 2024-05-19T17:46:58.885Z
+updated: 2024-05-20T17:46:58.885Z
 tags: 
   - reset
 categories:
@@ -449,4 +449,5 @@ This concludes our article on five ways to hard reset Infinix Smart 8 HD phones.
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-poco-x5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Poco X5 | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-play-40c-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Play 40C? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Xiaomi 13T Pro?
-date: 2024-04-30T19:40:06.472Z
+date: 2024-05-19T17:46:50.760Z
 tags: 
   - mts video
   - mts android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c53-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Realme C53 Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-10t-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme 10T 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
+
 

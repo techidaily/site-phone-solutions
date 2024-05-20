@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Sony Xperia 10 V?
-date: 2024-04-30T19:40:59.513Z
+date: 2024-05-19T17:46:51.134Z
 tags: 
   - mp4 video
   - mp4 android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-gt-neo-5-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme GT Neo 5 Step-by-Step Solutions | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-despite-the-aforementioned-restrictions-cartoon-video-makers-still-offer-a-sea-of-possibilities-to-their-users-so-lets-dive-into-the-magical-world-of-an/"><u>New Despite the Aforementioned Restrictions, Cartoon Video Makers Still Offer a Sea of Possibilities to Their Users, so Lets Dive Into the Magical World of Animated Videos</u></a></li>
 </ul></div>
+
 

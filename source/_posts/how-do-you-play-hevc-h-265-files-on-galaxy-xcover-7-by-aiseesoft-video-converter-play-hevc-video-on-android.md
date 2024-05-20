@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Galaxy XCover 7?
-date: 2024-04-30T19:44:18.344Z
+date: 2024-05-19T17:46:52.598Z
 tags: 
   - hevc video
   - hevc android
@@ -180,4 +180,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A1 5G? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-a-xltm-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xltm file document online</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy F14 5G has native MOV support?
-date: 2024-04-30T19:41:58.118Z
+date: 2024-05-19T17:46:51.580Z
 tags: 
   - mov video
   - mov android
@@ -217,4 +217,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-x90s-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo X90S Back to Operation | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-using-the-best-templates-to-create-slow-motion-videos-on-capcut-for-2024/"><u>Updated Using the Best Templates to Create Slow Motion Videos on CapCut for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Razr 40 Ultra has native HEVC support?
-date: 2024-04-30T19:42:15.765Z
+date: 2024-05-19T17:46:51.680Z
 tags: 
   - hevc video
   - hevc android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/top-10-nokia-c12-pro-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Nokia C12 Pro Android SIM Unlock APK</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y02T | Dr.fone</u></a></li>
 </ul></div>
+
 

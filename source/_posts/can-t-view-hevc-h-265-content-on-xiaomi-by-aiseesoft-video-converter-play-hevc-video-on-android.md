@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi 
-date: 2024-04-30T19:40:37.503Z
+date: 2024-05-19T17:46:50.990Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Motorola Edge 40 Neo?</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor Magic 6 Lite? | Dr.fone</u></a></li>
 </ul></div>
+
 

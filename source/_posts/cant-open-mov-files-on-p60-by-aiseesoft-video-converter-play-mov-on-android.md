@@ -1,7 +1,7 @@
 ---
 title: Can't open MOV files on P60
-date: 2024-04-30T19:41:15.222Z
-updated: 2024-05-01T19:41:15.222Z
+date: 2024-05-19T17:46:51.235Z
+updated: 2024-05-20T17:46:51.235Z
 tags: 
   - mov video
   - mov android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-play-mov-files-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to play MOV files on Samsung Galaxy S24 ?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-xs-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone XS In Different Conditionsin</u></a></li>
 </ul></div>
+
 

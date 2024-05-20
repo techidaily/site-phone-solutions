@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD MTS to MP4 for Sony ?
-date: 2024-04-30T19:45:15.171Z
+date: 2024-05-19T17:46:52.958Z
 tags: 
   - mts video
   - mts android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-lenovo-thinkphone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Lenovo ThinkPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

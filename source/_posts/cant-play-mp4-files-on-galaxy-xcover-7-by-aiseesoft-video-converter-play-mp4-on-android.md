@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Galaxy XCover 7
-date: 2024-04-30T19:41:18.059Z
+date: 2024-05-19T17:46:51.251Z
 tags: 
   - mp4 video
   - mp4 android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-14-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 14 Backup Password? Heres What to Do | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8, Apples New iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Edge 40 Neo support AVCHD video?
-date: 2024-04-30T19:41:53.104Z
+date: 2024-05-19T17:46:51.514Z
 tags: 
   - mts video
   - mts android
@@ -155,4 +155,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-7-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 7 with a Broken Screen?</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic Vs 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

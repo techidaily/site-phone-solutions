@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD MTS to MP4 for Redmi Note 12 4G?
-date: 2024-04-30T19:45:11.767Z
+date: 2024-05-19T17:46:52.940Z
 tags: 
   - mts video
   - mts android
@@ -209,4 +209,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-xr-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone XR</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-realme-12-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme 12 5G Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

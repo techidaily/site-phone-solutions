@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Lava Blaze 2 5G | Dr.fone
-date: 2024-04-30T19:53:46.696Z
-updated: 2024-05-01T19:53:46.696Z
+date: 2024-05-19T17:46:58.909Z
+updated: 2024-05-20T17:46:58.909Z
 tags: 
   - reset
 categories:
@@ -447,4 +447,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-asus-rog-phone-8-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Asus ROG Phone 8 Pro to Mac? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-g310-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Nokia G310 | Dr.fone</u></a></li>
 </ul></div>
+
 

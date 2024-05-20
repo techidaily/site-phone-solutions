@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Motorola Moto G13 Hard Reset | Dr.fone
-date: 2024-04-30T19:49:04.395Z
-updated: 2024-05-01T19:49:04.395Z
+date: 2024-05-19T17:46:55.511Z
+updated: 2024-05-20T17:46:55.511Z
 tags: 
   - reset
 categories:
@@ -430,4 +430,5 @@ This concludes our article on five ways to hard reset Motorola Moto G13 phones. 
 <li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-11-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 11 Pro Blacklist Removal Tips and Tools</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-a79-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo A79 5G to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

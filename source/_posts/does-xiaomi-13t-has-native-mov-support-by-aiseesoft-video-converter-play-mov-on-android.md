@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi 13T has native MOV support?
-date: 2024-04-30T19:42:43.897Z
+date: 2024-05-19T17:46:51.872Z
 tags: 
   - mov video
   - mov android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-x-flip-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo X Flip Device Top 5 Picks to Remove Android Locks</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-s24-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy S24? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 

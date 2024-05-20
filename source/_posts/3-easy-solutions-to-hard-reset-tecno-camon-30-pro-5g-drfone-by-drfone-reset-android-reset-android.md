@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Tecno Camon 30 Pro 5G | Dr.fone
-date: 2024-04-30T19:47:17.692Z
-updated: 2024-05-01T19:47:17.692Z
+date: 2024-05-19T17:46:54.301Z
+updated: 2024-05-20T17:46:54.301Z
 tags: 
   - reset
 categories:
@@ -444,4 +444,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-note-30-vip-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Note 30 VIP FRP</u></a></li>
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-poco-c50-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Poco C50 Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Xperia 5 V?
-date: 2024-04-30T19:41:01.399Z
+date: 2024-05-19T17:46:51.145Z
 tags: 
   - mp4 video
   - mp4 android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-pova-5-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Pova 5 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-converting-conversations-to-written-content-a-beginners-guide/"><u>Updated In 2024, Converting Conversations to Written Content A Beginners Guide</u></a></li>
 </ul></div>
+
 

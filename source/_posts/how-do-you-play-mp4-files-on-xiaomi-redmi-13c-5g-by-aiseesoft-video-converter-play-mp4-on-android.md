@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Xiaomi Redmi 13C 5G?
-date: 2024-04-30T19:44:53.707Z
+date: 2024-05-19T17:46:52.836Z
 tags: 
   - mp4 video
   - mp4 android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-edge-2023-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Edge 2023 on Windows</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-13-mini-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 13 mini to PC | Dr.fone</u></a></li>
 </ul></div>
+
 

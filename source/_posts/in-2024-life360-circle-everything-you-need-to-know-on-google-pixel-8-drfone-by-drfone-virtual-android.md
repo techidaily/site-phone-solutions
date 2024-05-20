@@ -733,3 +733,4 @@ Step 3: Enter a digit for how many times you want to take route and click “Mar
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-note-30-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Note 30</u></a></li>
 </ul></div>
 
+

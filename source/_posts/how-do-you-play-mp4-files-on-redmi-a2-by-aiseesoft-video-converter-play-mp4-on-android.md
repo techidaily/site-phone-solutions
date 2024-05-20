@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Redmi A2?
-date: 2024-04-30T19:44:50.481Z
+date: 2024-05-19T17:46:52.769Z
 tags: 
   - mp4 video
   - mp4 android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-what-are-the-best-15-slideshow-presentation-examples-your-audience-will-love/"><u>New In 2024, What Are the Best 15 Slideshow Presentation Examples Your Audience Will Love</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-use-frame-blending-in-premiere-pro/"><u>How to Use Frame Blending in Premiere Pro</u></a></li>
 </ul></div>
+
 

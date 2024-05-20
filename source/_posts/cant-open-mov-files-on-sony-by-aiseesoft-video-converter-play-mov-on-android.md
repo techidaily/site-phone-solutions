@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Sony
-date: 2024-04-30T19:41:15.602Z
+date: 2024-05-19T17:46:51.237Z
 tags: 
   - mov video
   - mov android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-x100-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo X100 to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-14-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 14 Pro Max Randomly Asking for Apple ID Password</u></a></li>
 </ul></div>
+
 

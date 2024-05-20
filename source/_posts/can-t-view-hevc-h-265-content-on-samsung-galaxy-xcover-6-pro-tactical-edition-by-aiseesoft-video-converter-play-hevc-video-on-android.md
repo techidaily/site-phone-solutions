@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Samsung Galaxy XCover 6 Pro Tactical Edition
-date: 2024-04-30T19:40:36.195Z
+date: 2024-05-19T17:46:50.981Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Samsung Galaxy A34 5G</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-play-40c-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Play 40C Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Sony Xperia 1 V Phone Using PC | Dr.fone
-date: 2024-04-30T19:48:24.975Z
-updated: 2024-05-01T19:48:24.975Z
+date: 2024-05-19T17:46:54.987Z
+updated: 2024-05-20T17:46:54.987Z
 tags: 
   - reset
 categories:
@@ -420,4 +420,5 @@ Resetting an Sony Xperia 1 V phone can be tricky sometimes; therefore, it should
 <li><a href="https://animation-videos.techidaily.com/2024-approved-step-by-step-guide-to-send-gif-whatsapp-on-android/"><u>2024 Approved Step-by-Step Guide to Send Gif WhatsApp on Android</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-proplus-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro+ Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
+
 

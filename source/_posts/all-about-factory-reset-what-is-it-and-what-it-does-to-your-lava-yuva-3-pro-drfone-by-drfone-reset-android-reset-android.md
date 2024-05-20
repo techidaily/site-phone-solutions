@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Lava Yuva 3 Pro? | Dr.fone
-date: 2024-04-30T19:52:40.249Z
-updated: 2024-05-01T19:52:40.249Z
+date: 2024-05-19T17:46:58.097Z
+updated: 2024-05-20T17:46:58.097Z
 tags: 
   - reset
 categories:
@@ -433,4 +433,5 @@ Above are some strategies with which you can do an **Lava Yuva 3 Pro hard reset*
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-s17t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo S17t Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

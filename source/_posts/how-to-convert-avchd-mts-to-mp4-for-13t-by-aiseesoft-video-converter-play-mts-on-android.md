@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD MTS to MP4 for 13T?
-date: 2024-04-30T19:45:06.138Z
+date: 2024-05-19T17:46:52.906Z
 tags: 
   - mts video
   - mts android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nokia-c12-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nokia C12 Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

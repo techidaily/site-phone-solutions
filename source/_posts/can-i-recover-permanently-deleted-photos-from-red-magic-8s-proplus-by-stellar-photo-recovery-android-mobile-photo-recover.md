@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Red Magic 8S Pro+
-date: 2024-04-30T19:40:04.965Z
+date: 2024-05-19T17:46:50.591Z
 tags: 
   - recover
 categories: 
@@ -255,4 +255,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-c67-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme C67 5G</u></a></li>
 </ul></div>
+
 

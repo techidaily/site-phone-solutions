@@ -1,7 +1,7 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi
-date: 2024-04-30T19:41:22.131Z
-updated: 2024-05-01T19:41:22.131Z
+date: 2024-05-19T17:46:51.273Z
+updated: 2024-05-20T17:46:51.273Z
 tags: 
   - hevc video
   - hevc android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-11x-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme 11X 5G</u></a></li>
 <li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro to the Previous iOS System Version? | Dr.fone</u></a></li>
 </ul></div>
+
 

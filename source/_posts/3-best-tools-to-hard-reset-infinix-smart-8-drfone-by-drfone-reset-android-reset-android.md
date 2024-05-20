@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Infinix Smart 8 | Dr.fone
-date: 2024-04-30T19:45:31.301Z
-updated: 2024-05-01T19:45:31.301Z
+date: 2024-05-19T17:46:53.105Z
+updated: 2024-05-20T17:46:53.105Z
 tags: 
   - reset
 categories:
@@ -513,4 +513,5 @@ Infinix Smart 8is a famous brand that serves a large number of consumers worldwi
 <li><a href="https://meme-emoji.techidaily.com/new-in-2024-best-photo-slideshow-maker-how-to-make-a-photo-slideshow-2023-update/"><u>New In 2024, Best Photo Slideshow Maker How to Make a Photo Slideshow 2023 Update</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-job-search-top-video-resume-makers-and-free-templates/"><u>Revolutionize Your Job Search Top Video Resume Makers and Free Templates</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi Note 12T Pro has native HEVC support?
-date: 2024-04-30T19:42:51.023Z
+date: 2024-05-19T17:46:51.903Z
 tags: 
   - hevc video
   - hevc android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Smart 8 Plus
-date: 2024-04-30T19:54:19.682Z
+date: 2024-05-19T17:46:59.216Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -152,4 +152,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-sony-xperia-10-v-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Sony Xperia 10 V Phone? Unlock It Now</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-realme-note-50-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme Note 50 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

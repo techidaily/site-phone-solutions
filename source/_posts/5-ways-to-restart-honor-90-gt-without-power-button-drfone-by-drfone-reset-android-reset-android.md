@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor 90 GT Without Power Button | Dr.fone
-date: 2024-04-30T19:51:08.163Z
-updated: 2024-05-01T19:51:08.163Z
+date: 2024-05-19T17:46:56.922Z
+updated: 2024-05-20T17:46:56.922Z
 tags: 
   - reset
 categories:
@@ -534,4 +534,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-reno-10-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo Reno 10 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo A1x 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

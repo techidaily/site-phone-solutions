@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Nubia Red Magic 8S Pro
-date: 2024-04-30T19:54:13.038Z
+date: 2024-05-19T17:46:59.162Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -220,4 +220,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-get-zoom-on-tv-easy-solutions/"><u>2024 Approved How to Get Zoom on TV Easy Solutions</u></a></li>
 <li><a href="https://techidaily.com/is-your-infinix-hot-30i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Hot 30i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+
 

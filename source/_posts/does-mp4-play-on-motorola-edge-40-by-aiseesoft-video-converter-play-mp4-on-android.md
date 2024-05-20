@@ -1,7 +1,7 @@
 ---
 title: Does MP4 play on Motorola Edge 40?
-date: 2024-04-30T19:42:19.905Z
-updated: 2024-05-01T19:42:19.905Z
+date: 2024-05-19T17:46:51.702Z
+updated: 2024-05-20T17:46:51.702Z
 tags: 
   - mp4 video
   - mp4 android
@@ -193,4 +193,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-fold-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel Fold to Any iOS Devices | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-magic-5-lite-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor Magic 5 Lite to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Redmi Note 12T Pro has native HEVC support?
-date: 2024-04-30T19:42:29.829Z
+date: 2024-05-19T17:46:51.797Z
 tags: 
   - hevc video
   - hevc android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-se-2020-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone SE (2020)</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-nubia-red-magic-9-proplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Nubia Red Magic 9 Pro+</u></a></li>
 </ul></div>
+
 

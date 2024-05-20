@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to extract data from corrupt Excel 2000 file | Stellar
-date: 2024-04-30T19:49:53.927Z
-updated: 2024-05-01T19:49:53.927Z
+date: 2024-05-19T17:46:56.088Z
+updated: 2024-05-20T17:46:56.088Z
 tags: 
   - repair
   - repair excel
@@ -821,4 +821,5 @@ Excel is one of the most powerful tools which can easily reduce your workload by
 <li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-f14-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy F14 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Huawei Nova Y91? | Dr.fone</u></a></li>
 </ul></div>
+
 

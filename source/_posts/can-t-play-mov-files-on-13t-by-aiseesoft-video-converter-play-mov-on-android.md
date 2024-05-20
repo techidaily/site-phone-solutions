@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on 13T
-date: 2024-04-30T19:40:15.229Z
+date: 2024-05-19T17:46:50.828Z
 tags: 
   - mov video
   - mov android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-14-pro-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 14 Pro to Roku? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13</u></a></li>
 </ul></div>
+
 

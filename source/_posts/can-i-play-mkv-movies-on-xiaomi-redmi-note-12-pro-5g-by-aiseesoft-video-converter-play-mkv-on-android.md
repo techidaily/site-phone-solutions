@@ -1,7 +1,7 @@
 ---
 title: Can I play MKV movies on Xiaomi Redmi Note 12 Pro 5G?
-date: 2024-04-30T19:40:04.784Z
-updated: 2024-05-01T19:40:04.784Z
+date: 2024-05-19T17:46:50.395Z
+updated: 2024-05-20T17:46:50.395Z
 tags: 
   - mkv video
   - mkv android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-find-n3-flip-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Find N3 Flip 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-razr-40-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Razr 40 Phone? Unlock It Now</u></a></li>
 </ul></div>
+
 

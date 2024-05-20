@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Xiaomi 
-date: 2024-04-30T19:40:14.104Z
+date: 2024-05-19T17:46:50.804Z
 tags: 
   - mov video
   - mov android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/how-windows-movie-maker-save-mp4-file/"><u>How Windows Movie Maker Save MP4 File</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-realme-10t-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Realme 10T 5G Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

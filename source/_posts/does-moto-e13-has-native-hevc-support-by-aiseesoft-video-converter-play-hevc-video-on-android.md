@@ -1,7 +1,7 @@
 ---
 title: Does Moto E13 has native HEVC support?
-date: 2024-04-30T19:42:07.701Z
-updated: 2024-05-01T19:42:07.701Z
+date: 2024-05-19T17:46:51.638Z
+updated: 2024-05-20T17:46:51.638Z
 tags: 
   - hevc video
   - hevc android
@@ -200,4 +200,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/how-to-speed-up-video-with-canva-online-tool-in-2024/"><u>How to Speed Up Video with Canva Online Tool, In 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

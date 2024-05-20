@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Asus ROG Phone 8 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:06.091Z
-updated: 2024-05-01T19:51:06.091Z
+date: 2024-05-19T17:46:56.906Z
+updated: 2024-05-20T17:46:56.906Z
 tags: 
   - reset
 categories:
@@ -470,4 +470,5 @@ These are all methods for unlocking Asus ROG Phone 8 Pro hard reset. It is possi
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your Apple iPhone X?</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-vivo-y100i-power-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Vivo Y100i Power 5G FRP Without Computer</u></a></li>
 </ul></div>
+
 

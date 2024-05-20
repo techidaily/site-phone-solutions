@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on G54 5G ?
-date: 2024-04-30T19:44:00.639Z
+date: 2024-05-19T17:46:52.461Z
 tags: 
   - mov video
   - mov android
@@ -194,4 +194,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-merge-audio-and-video-using-ffmpeg/"><u>New In 2024, How to Merge Audio and Video Using FFmpeg</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-meizu-21-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Meizu 21 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G 5G (2023) Without Power Button | Dr.fone
-date: 2024-04-30T19:51:24.628Z
-updated: 2024-05-01T19:51:24.628Z
+date: 2024-05-19T17:46:57.204Z
+updated: 2024-05-20T17:46:57.204Z
 tags: 
   - reset
 categories:
@@ -528,4 +528,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-learn-how-to-do-velocity-edits-on-pc-to-enhance-your-videos-adjusting-speed-for-dynamic-and-visually-engaging-results/"><u>New In 2024, Learn How to Do Velocity Edits on PC to Enhance Your Videos, Adjusting Speed for Dynamic and Visually Engaging Results</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-razr-40-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Razr 40 Ultra for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

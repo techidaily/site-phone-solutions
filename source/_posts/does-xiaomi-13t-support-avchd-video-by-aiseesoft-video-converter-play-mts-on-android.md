@@ -1,7 +1,7 @@
 ---
 title: Does Xiaomi 13T support AVCHD video?
-date: 2024-04-30T19:42:44.086Z
-updated: 2024-05-01T19:42:44.086Z
+date: 2024-05-19T17:46:51.873Z
+updated: 2024-05-20T17:46:51.873Z
 tags: 
   - mts video
   - mts android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-mac-video-editing-software-top-vsdc-alternatives/"><u>2024 Approved Mac Video Editing Software Top VSDC Alternatives</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo K11 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

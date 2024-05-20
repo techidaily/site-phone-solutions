@@ -1,7 +1,7 @@
 ---
 title: Does MP4 play on Galaxy A23 5G?
-date: 2024-04-30T19:42:17.842Z
-updated: 2024-05-01T19:42:17.842Z
+date: 2024-05-19T17:46:51.691Z
+updated: 2024-05-20T17:46:51.691Z
 tags: 
   - mp4 video
   - mp4 android
@@ -165,4 +165,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/new-adding-shake-effects-to-your-video-with-alight-motion/"><u>New Adding Shake Effects to Your Video With Alight Motion</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

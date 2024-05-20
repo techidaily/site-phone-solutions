@@ -1,6 +1,6 @@
 ---
 title: Does Redmi Note 12 4G has native HEVC support?
-date: 2024-04-30T19:42:29.259Z
+date: 2024-05-19T17:46:51.794Z
 tags: 
   - hevc video
   - hevc android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-confused-about-deciding-the-next-destination-for-your-trip-this-article-features-some-of-the-best-vloggers-you-can-find-for-gaining-inspir/"><u>New 2024 Approved Confused About Deciding the Next Destination for Your Trip? This Article Features some of the Best Vloggers You Can Find for Gaining Inspiration for Traveling</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-s18-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo S18 Pro Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

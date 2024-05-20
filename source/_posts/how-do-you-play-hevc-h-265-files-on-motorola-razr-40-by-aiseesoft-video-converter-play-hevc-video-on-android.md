@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Motorola Razr 40?
-date: 2024-04-30T19:44:21.073Z
+date: 2024-05-19T17:46:52.613Z
 tags: 
   - hevc video
   - hevc android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Smart 7 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-v30-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo V30 Lite 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

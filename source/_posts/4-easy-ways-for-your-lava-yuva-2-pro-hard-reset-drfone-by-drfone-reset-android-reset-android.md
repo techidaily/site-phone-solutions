@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Lava Yuva 2 Pro Hard Reset | Dr.fone
-date: 2024-04-30T19:49:00.870Z
-updated: 2024-05-01T19:49:00.870Z
+date: 2024-05-19T17:46:55.469Z
+updated: 2024-05-20T17:46:55.469Z
 tags: 
   - reset
 categories:
@@ -478,4 +478,5 @@ Lava Yuva 2 Prois a famous brand that serves a large number of consumers worldwi
 <li><a href="https://review-topics.techidaily.com/recover-your-messages-after-magic-6-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Magic 6 has been deleted</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos-for-2024/"><u>Updated Easy Steps to Make a Talking Avatar with AI From Any Photos for 2024</u></a></li>
 </ul></div>
+
 

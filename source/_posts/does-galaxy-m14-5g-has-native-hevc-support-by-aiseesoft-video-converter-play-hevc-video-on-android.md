@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy M14 5G has native HEVC support?
-date: 2024-04-30T19:41:59.063Z
+date: 2024-05-19T17:46:51.586Z
 tags: 
   - hevc video
   - hevc android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo X Flip | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-6s-plus-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 6s Plus Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+
 

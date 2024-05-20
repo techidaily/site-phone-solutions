@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on Sony  ?
-date: 2024-04-30T19:44:05.347Z
+date: 2024-05-19T17:46:52.487Z
 tags: 
   - mov video
   - mov android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oneplus-nord-n30-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset OnePlus Nord N30 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/super-tips-on-converting-text-to-mp3/"><u>Super Tips on Converting Text to MP3</u></a></li>
 </ul></div>
+
 

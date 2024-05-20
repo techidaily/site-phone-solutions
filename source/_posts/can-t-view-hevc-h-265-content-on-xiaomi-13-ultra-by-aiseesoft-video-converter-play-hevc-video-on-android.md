@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi 13 Ultra
-date: 2024-04-30T19:40:37.129Z
+date: 2024-05-19T17:46:50.987Z
 tags: 
   - hevc video
   - hevc android
@@ -210,4 +210,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme GT Neo 5 SE | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-powerpoint-supported-video-format-and-advanced-user-tips/"><u>2024 Approved Powerpoint Supported Video Format and Advanced User Tips</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How can I play .mov files on Motorola Edge+ (2023) ?
-date: 2024-04-30T19:44:03.097Z
-updated: 2024-05-01T19:44:03.097Z
+date: 2024-05-19T17:46:52.475Z
+updated: 2024-05-20T17:46:52.475Z
 tags: 
   - mov video
   - mov android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-infinix-hot-40-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Infinix Hot 40 Pro</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-14-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 14? How to Fix it?</u></a></li>
 </ul></div>
+
 

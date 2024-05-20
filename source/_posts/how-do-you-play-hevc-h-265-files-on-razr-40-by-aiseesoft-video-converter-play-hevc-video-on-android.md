@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Razr 40?
-date: 2024-04-30T19:44:21.260Z
+date: 2024-05-19T17:46:52.614Z
 tags: 
   - hevc video
   - hevc android
@@ -180,4 +180,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Motorola Edge 2023? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-11x-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme 11X 5G Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

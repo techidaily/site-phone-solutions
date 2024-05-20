@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lava Yuva 2 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:21.451Z
-updated: 2024-05-01T19:51:21.451Z
+date: 2024-05-19T17:46:57.138Z
+updated: 2024-05-20T17:46:57.138Z
 tags: 
   - reset
 categories:
@@ -454,4 +454,5 @@ Above are some strategies with which you can do an **Lava Yuva 2 Pro hard reset*
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor X9a | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-xiaomi-13t-pro-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Xiaomi 13T Pro Users</u></a></li>
 </ul></div>
+
 

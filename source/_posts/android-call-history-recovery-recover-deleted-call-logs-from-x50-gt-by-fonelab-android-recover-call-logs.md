@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from X50 GT
-date: 2024-04-30T19:54:23.480Z
-updated: 2024-05-01T19:54:23.480Z
+date: 2024-05-19T17:46:59.236Z
+updated: 2024-05-20T17:46:59.236Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -192,4 +192,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 Pro without Passcode or Face ID</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro Max</u></a></li>
 </ul></div>
+
 

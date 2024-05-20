@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Samsung Galaxy XCover 6 Pro Tactical Edition
-date: 2024-04-30T19:40:26.466Z
+date: 2024-05-19T17:46:50.928Z
 tags: 
   - mp4 video
   - mp4 android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-x-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone X to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-realme-12-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Realme 12 5G Phone</u></a></li>
 </ul></div>
+
 

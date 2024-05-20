@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Tecno Pova 5 Pro? | Dr.fone
-date: 2024-04-30T19:53:14.616Z
-updated: 2024-05-01T19:53:14.616Z
+date: 2024-05-19T17:46:58.381Z
+updated: 2024-05-20T17:46:58.381Z
 tags: 
   - reset
 categories:
@@ -379,4 +379,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-12-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 12 Pro Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-create-a-freeze-frame-sequence-in-your-videos/"><u>In 2024, Create A Freeze Frame Sequence In Your Videos</u></a></li>
 </ul></div>
+
 

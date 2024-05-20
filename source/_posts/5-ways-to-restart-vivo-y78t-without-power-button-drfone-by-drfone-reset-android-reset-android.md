@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y78t Without Power Button | Dr.fone
-date: 2024-04-30T19:52:07.594Z
-updated: 2024-05-01T19:52:07.594Z
+date: 2024-05-19T17:46:57.766Z
+updated: 2024-05-20T17:46:57.766Z
 tags: 
   - reset
 categories:
@@ -509,4 +509,5 @@ These are all methods for unlocking Vivo Y78t hard reset. It is possible to appl
 <li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-z-flip-5-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy Z Flip 5 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 

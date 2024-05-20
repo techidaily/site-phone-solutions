@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Infinix Smart 8 HD Hard Reset | Dr.fone
-date: 2024-04-30T19:48:56.052Z
-updated: 2024-05-01T19:48:56.052Z
+date: 2024-05-19T17:46:55.375Z
+updated: 2024-05-20T17:46:55.375Z
 tags: 
   - reset
 categories:
@@ -386,4 +386,5 @@ Resetting an Infinix Smart 8 HD phone can be tricky sometimes; therefore, it sho
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 6s</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-merging-videos-like-a-pro-a-step-by-step-guide-to-use-ffmpeg/"><u>Updated 2024 Approved Merging Videos Like a Pro A Step-by-Step Guide to Use FFmpeg</u></a></li>
 </ul></div>
+
 

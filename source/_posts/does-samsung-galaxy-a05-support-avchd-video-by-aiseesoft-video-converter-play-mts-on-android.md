@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy A05 support AVCHD video?
-date: 2024-04-30T19:42:31.365Z
+date: 2024-05-19T17:46:51.806Z
 tags: 
   - mts video
   - mts android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-note-30i-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Note 30i FRP</u></a></li>
 <li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

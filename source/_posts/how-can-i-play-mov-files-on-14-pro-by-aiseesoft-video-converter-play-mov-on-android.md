@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on 14 Pro ?
-date: 2024-04-30T19:44:00.451Z
+date: 2024-05-19T17:46:52.460Z
 tags: 
   - mov video
   - mov android
@@ -158,4 +158,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-motorola-moto-g24-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Motorola Moto G24 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes</u></a></li>
 </ul></div>
+
 

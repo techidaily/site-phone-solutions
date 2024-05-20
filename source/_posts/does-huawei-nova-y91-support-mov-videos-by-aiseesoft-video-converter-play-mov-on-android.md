@@ -1,6 +1,6 @@
 ---
 title: Does Huawei Nova Y91 support MOV videos ?
-date: 2024-04-30T19:42:06.764Z
+date: 2024-05-19T17:46:51.633Z
 tags: 
   - mov video
   - mov android
@@ -180,4 +180,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27-4g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27 4G To Phone | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17-pro-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Vivo S17 Pro Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

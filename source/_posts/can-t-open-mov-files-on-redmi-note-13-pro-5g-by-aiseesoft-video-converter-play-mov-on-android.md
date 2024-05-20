@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Redmi Note 13 Pro 5G
-date: 2024-04-30T19:40:12.127Z
+date: 2024-05-19T17:46:50.793Z
 tags: 
   - mov video
   - mov android
@@ -222,4 +222,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 mini Without iTunes? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-your-honor-90-lite-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Honor 90 Lite Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

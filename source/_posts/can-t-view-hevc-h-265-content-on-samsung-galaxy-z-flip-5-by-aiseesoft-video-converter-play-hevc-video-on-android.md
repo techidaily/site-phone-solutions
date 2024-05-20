@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Samsung Galaxy Z Flip 5
-date: 2024-04-30T19:40:36.381Z
+date: 2024-05-19T17:46:50.982Z
 tags: 
   - hevc video
   - hevc android
@@ -193,4 +193,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Tecno Spark 10C | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Moto G23 | Dr.fone</u></a></li>
 </ul></div>
+
 

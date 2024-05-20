@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Samsung Galaxy M54 5G
-date: 2024-04-30T19:40:18.905Z
+date: 2024-05-19T17:46:50.845Z
 tags: 
   - mov video
   - mov android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-infinix-note-30i-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Infinix Note 30i Phone that is Locked?</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/top-10-video-to-gif-converters-top-picks/"><u>Top 10 Video to GIF Converters Top Picks</u></a></li>
 </ul></div>
+
 

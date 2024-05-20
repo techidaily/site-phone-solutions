@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Honor 90 Pro
-date: 2024-04-30T19:54:03.590Z
+date: 2024-05-19T17:46:59.067Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -210,4 +210,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/how-do-i-reset-my-vivo-t2x-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo T2x 5G Phone without technical knowledge? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-detailed-guide-to-crop-video-in-sony-vegas-pro/"><u>New 2024 Approved Detailed Guide to Crop Video in Sony Vegas Pro</u></a></li>
 </ul></div>
+
 

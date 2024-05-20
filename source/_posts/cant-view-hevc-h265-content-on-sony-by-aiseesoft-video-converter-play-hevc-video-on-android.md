@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Sony
-date: 2024-04-30T19:41:21.757Z
+date: 2024-05-19T17:46:51.271Z
 tags: 
   - hevc video
   - hevc android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-sony-xperia-5-v-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Sony Xperia 5 V Location Is Wrong | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-find-x7-ultra-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo Find X7 Ultra Phone</u></a></li>
 </ul></div>
+
 

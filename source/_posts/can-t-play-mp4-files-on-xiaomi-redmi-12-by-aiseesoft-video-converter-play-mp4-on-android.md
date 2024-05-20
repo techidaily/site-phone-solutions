@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Xiaomi Redmi 12
-date: 2024-04-30T19:40:27.373Z
+date: 2024-05-19T17:46:50.932Z
 tags: 
   - mp4 video
   - mp4 android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-15-best-pics-collage-apps-top-picks/"><u>Updated In 2024, 15 Best Pics Collage Apps Top Picks</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-v29e-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo V29e Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

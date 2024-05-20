@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy A15 5G support MKV video files?
-date: 2024-04-30T19:41:56.692Z
+date: 2024-05-19T17:46:51.573Z
 tags: 
   - mkv video
   - mkv android
@@ -228,4 +228,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Phone Pattern Lock</u></a></li>
 </ul></div>
+
 

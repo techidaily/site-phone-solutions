@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Poco C51 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:39.518Z
-updated: 2024-05-01T19:51:39.518Z
+date: 2024-05-19T17:46:57.389Z
+updated: 2024-05-20T17:46:57.389Z
 tags: 
   - reset
 categories:
@@ -432,4 +432,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 14 Pro to Android | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-xs-max-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone XS Max Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi Note 12 Pro 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:11.944Z
-updated: 2024-05-01T19:52:11.944Z
+date: 2024-05-19T17:46:57.797Z
+updated: 2024-05-20T17:46:57.797Z
 tags: 
   - reset
 categories:
@@ -543,4 +543,5 @@ These are all methods for unlocking Xiaomi Redmi Note 12 Pro 5G hard reset. It i
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola G54 5G? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-f54-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy F54 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

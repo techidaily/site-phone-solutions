@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Vivo Y100i | Dr.fone
-date: 2024-04-30T19:47:26.555Z
-updated: 2024-05-01T19:47:26.555Z
+date: 2024-05-19T17:46:54.384Z
+updated: 2024-05-20T17:46:54.384Z
 tags: 
   - reset
 categories:
@@ -439,4 +439,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-12-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 12 Pro?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-c33-2023-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme C33 2023 Through Google Earth?</u></a></li>
 </ul></div>
+
 

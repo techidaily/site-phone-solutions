@@ -360,3 +360,4 @@ It is as simple as that with [Dr.Fone - Virtual Location](https://tools.techidai
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic 6 Lite | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Redmi Note 12 Pro 4G?
-date: 2024-04-30T19:42:21.417Z
+date: 2024-05-19T17:46:51.711Z
 tags: 
   - mp4 video
   - mp4 android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-edge-40-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Edge 40 to Outlook | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Huawei Nova Y71 | Dr.fone</u></a></li>
 </ul></div>
+
 

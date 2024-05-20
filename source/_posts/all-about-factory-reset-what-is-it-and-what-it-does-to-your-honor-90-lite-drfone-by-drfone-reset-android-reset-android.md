@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Honor 90 Lite? | Dr.fone
-date: 2024-04-30T19:52:26.679Z
-updated: 2024-05-01T19:52:26.679Z
+date: 2024-05-19T17:46:58.012Z
+updated: 2024-05-20T17:46:58.012Z
 tags: 
   - reset
 categories:
@@ -371,4 +371,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-14-pro-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 14 Pro online without jailbreak</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-make-me-laugh-best-video-dubbing-apps-for-comedy-clips/"><u>In 2024, Make Me Laugh Best Video Dubbing Apps for Comedy Clips</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Failed to play MOV movies on 13T
-date: 2024-04-30T19:43:37.757Z
+date: 2024-05-19T17:46:52.232Z
 tags: 
   - mov video
   - mov android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-13-ultra-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi 13 Ultra Phone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12R</u></a></li>
 </ul></div>
+
 

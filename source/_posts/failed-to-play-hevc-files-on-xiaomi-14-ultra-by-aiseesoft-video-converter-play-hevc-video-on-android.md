@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xiaomi 14 Ultra
-date: 2024-04-30T19:43:28.256Z
+date: 2024-05-19T17:46:52.181Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-x9b-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor X9b? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia 130 Music | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Can I view AVCHD .mts files on Samsung ?
-date: 2024-04-30T19:40:05.128Z
-updated: 2024-05-01T19:40:05.128Z
+date: 2024-05-19T17:46:50.749Z
+updated: 2024-05-20T17:46:50.749Z
 tags: 
   - mts video
   - mts android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-11-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme 11 Pro to Protect Your Individual Information</u></a></li>
 </ul></div>
+
 

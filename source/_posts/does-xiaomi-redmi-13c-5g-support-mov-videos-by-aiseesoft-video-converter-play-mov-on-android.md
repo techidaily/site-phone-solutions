@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi 13C 5G support MOV videos ?
-date: 2024-04-30T19:42:48.039Z
+date: 2024-05-19T17:46:51.891Z
 tags: 
   - mov video
   - mov android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/choosing-the-best-video-editor-sony-vegas-vs-adobe-premiere-pro-2023-analysis-for-2024/"><u>Choosing the Best Video Editor Sony Vegas vs Adobe Premiere Pro 2023 Analysis for 2024</u></a></li>
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-redmi-note-13-proplus-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Redmi Note 13 Pro+ 5G without backup.</u></a></li>
 </ul></div>
+
 

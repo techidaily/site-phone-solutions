@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme GT Neo 5 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:45.637Z
-updated: 2024-05-01T19:51:45.637Z
+date: 2024-05-19T17:46:57.451Z
+updated: 2024-05-20T17:46:57.451Z
 tags: 
   - reset
 categories:
@@ -447,4 +447,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://animation-videos.techidaily.com/5-recommended-websites-for-text-gif-maker-for-2024/"><u>5 Recommended Websites for Text GIF Maker for 2024</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme 11 Pro</u></a></li>
 </ul></div>
+
 

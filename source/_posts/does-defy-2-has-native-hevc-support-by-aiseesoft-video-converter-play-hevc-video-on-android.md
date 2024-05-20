@@ -1,6 +1,6 @@
 ---
 title: Does Defy 2 has native HEVC support?
-date: 2024-04-30T19:41:51.977Z
+date: 2024-05-19T17:46:51.510Z
 tags: 
   - hevc video
   - hevc android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-11-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 11</u></a></li>
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-realme-10t-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Realme 10T 5G</u></a></li>
 </ul></div>
+
 

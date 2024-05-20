@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Samsung Galaxy M14 5G?
-date: 2024-04-30T19:44:23.145Z
+date: 2024-05-19T17:46:52.624Z
 tags: 
   - hevc video
   - hevc android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Motorola Edge 40 | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-template-wondershare-virbo/"><u>Updated 2024 Approved Template | Wondershare Virbo</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Samsung Galaxy A23 5G | Dr.fone
-date: 2024-04-30T19:47:11.280Z
-updated: 2024-05-01T19:47:11.280Z
+date: 2024-05-19T17:46:54.255Z
+updated: 2024-05-20T17:46:54.255Z
 tags: 
   - reset
 categories:
@@ -530,4 +530,5 @@ Now that you know how to reset a Samsung Galaxy A23 5G phone that is locked and 
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-11-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 11</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-12-pro-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 12 Pro? Heres the Best Fixes</u></a></li>
 </ul></div>
+
 

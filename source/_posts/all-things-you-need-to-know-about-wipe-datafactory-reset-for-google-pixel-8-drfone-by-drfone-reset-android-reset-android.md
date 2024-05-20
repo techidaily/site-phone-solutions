@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Google Pixel 8 | Dr.fone
-date: 2024-04-30T19:53:33.169Z
-updated: 2024-05-01T19:53:33.169Z
+date: 2024-05-19T17:46:58.804Z
+updated: 2024-05-20T17:46:58.804Z
 tags: 
   - reset
 categories:
@@ -418,4 +418,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Edge 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
+
 

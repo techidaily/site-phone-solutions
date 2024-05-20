@@ -1,6 +1,6 @@
 ---
 title: Does Samsung has native HEVC support?
-date: 2024-04-30T19:42:41.414Z
+date: 2024-05-19T17:46:51.862Z
 tags: 
   - hevc video
   - hevc android
@@ -224,4 +224,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-from-iphone-12-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account From iPhone 12 Pro Max</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-6s-plus-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 6s Plus</u></a></li>
 </ul></div>
+
 

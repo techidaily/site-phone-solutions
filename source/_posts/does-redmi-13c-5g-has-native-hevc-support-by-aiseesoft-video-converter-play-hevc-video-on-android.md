@@ -1,6 +1,6 @@
 ---
 title: Does Redmi 13C 5G has native HEVC support?
-date: 2024-04-30T19:42:27.174Z
+date: 2024-05-19T17:46:51.782Z
 tags: 
   - hevc video
   - hevc android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-n3-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Find N3 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo S17 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

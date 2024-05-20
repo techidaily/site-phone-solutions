@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Infinix GT 10 Pro | Dr.fone
-date: 2024-04-30T19:46:36.666Z
-updated: 2024-05-01T19:46:36.666Z
+date: 2024-05-19T17:46:53.975Z
+updated: 2024-05-20T17:46:53.975Z
 tags: 
   - reset
 categories:
@@ -405,4 +405,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Plus Passcode not Working?</u></a></li>
 <li><a href="https://howto.techidaily.com/calls-on-infinix-hot-30-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Infinix Hot 30 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

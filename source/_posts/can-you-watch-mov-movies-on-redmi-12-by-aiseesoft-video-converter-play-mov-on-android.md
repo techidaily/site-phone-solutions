@@ -1,6 +1,6 @@
 ---
 title: Can you watch MOV movies on Redmi 12 ?
-date: 2024-04-30T19:41:04.421Z
+date: 2024-05-19T17:46:51.162Z
 tags: 
   - mov video
   - mov android
@@ -178,4 +178,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On OnePlus Nord 3 5G | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
 </ul></div>
+
 

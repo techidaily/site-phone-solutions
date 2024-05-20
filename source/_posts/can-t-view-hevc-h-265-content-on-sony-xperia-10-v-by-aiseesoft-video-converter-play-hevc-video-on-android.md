@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Sony Xperia 10 V
-date: 2024-04-30T19:40:36.942Z
+date: 2024-05-19T17:46:50.986Z
 tags: 
   - hevc video
   - hevc android
@@ -211,4 +211,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor Play 40C | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-lava-yuva-3-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Lava Yuva 3 to Roku | Dr.fone</u></a></li>
 </ul></div>
+
 

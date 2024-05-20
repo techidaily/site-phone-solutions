@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Infinix Smart 8 Plus Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:08.905Z
-updated: 2024-05-01T19:50:08.905Z
+date: 2024-05-19T17:46:56.275Z
+updated: 2024-05-20T17:46:56.275Z
 tags: 
   - reset
 categories:
@@ -530,4 +530,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme Narzo 60x 5G | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-6-plus-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 6 Plus</u></a></li>
 </ul></div>
+
 

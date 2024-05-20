@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Google Pixel Fold
-date: 2024-04-30T19:40:04.811Z
+date: 2024-05-19T17:46:50.433Z
 tags: 
   - recover
 categories: 
@@ -272,4 +272,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy M14 5G</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/realme-note-50-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Note 50 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
+
 

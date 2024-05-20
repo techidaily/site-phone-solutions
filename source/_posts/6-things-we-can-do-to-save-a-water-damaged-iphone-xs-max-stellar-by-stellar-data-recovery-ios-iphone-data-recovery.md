@@ -1,7 +1,7 @@
 ---
 title: 6 Things We Can Do To Save A Water Damaged iPhone XS Max | Stellar
-date: 2024-04-30T19:52:20.474Z
-updated: 2024-05-01T19:52:20.474Z
+date: 2024-05-19T17:46:57.874Z
+updated: 2024-05-20T17:46:57.874Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -420,4 +420,5 @@ You can reset your iPhone without any computer by using the settings app of your
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-note-12-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi Note 12 Pro 5G Devices</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x7-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X7</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Xiaomi Redmi 13C
-date: 2024-04-30T19:40:19.851Z
+date: 2024-05-19T17:46:50.850Z
 tags: 
   - mov video
   - mov android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo K11x | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/easy-step-by-step-tutorial-on-creating-a-lightroom-collage-for-2024/"><u>Easy Step by Step Tutorial on Creating a Lightroom Collage for 2024</u></a></li>
 </ul></div>
+
 

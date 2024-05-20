@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from V30
-date: 2024-04-30T19:54:21.196Z
+date: 2024-05-19T17:46:59.224Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -161,4 +161,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fake-location.techidaily.com/how-to-fix-gionee-f3-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Gionee F3 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On OnePlus 11 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

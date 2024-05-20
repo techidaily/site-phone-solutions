@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi Civi 3 Disney 100th Anniversary Edition
-date: 2024-04-30T19:41:22.318Z
+date: 2024-05-19T17:46:51.274Z
 tags: 
   - hevc video
   - hevc android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-v29s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo V29s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Civi 3 Phone Without Password?</u></a></li>
 </ul></div>
+
 

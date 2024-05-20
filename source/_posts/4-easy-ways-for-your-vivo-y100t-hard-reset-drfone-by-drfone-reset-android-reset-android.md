@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Vivo Y100t Hard Reset | Dr.fone
-date: 2024-04-30T19:49:43.585Z
-updated: 2024-05-01T19:49:43.585Z
+date: 2024-05-19T17:46:55.972Z
+updated: 2024-05-20T17:46:55.972Z
 tags: 
   - reset
 categories:
@@ -396,4 +396,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to reinstall hardware drivers on Windows 11</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-14-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi 14 Pro Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

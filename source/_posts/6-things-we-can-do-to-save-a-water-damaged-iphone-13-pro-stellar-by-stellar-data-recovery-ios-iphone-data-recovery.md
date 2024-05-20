@@ -1,7 +1,7 @@
 ---
 title: 6 Things We Can Do To Save A Water Damaged iPhone 13 Pro | Stellar
-date: 2024-04-30T19:52:15.901Z
-updated: 2024-05-01T19:52:15.901Z
+date: 2024-05-19T17:46:57.831Z
+updated: 2024-05-20T17:46:57.831Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -447,4 +447,5 @@ When your iPhone is damaged, try the basics, i.e., restart it; if that works, ba
 <li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone SE (2020) | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-want-to-immediately-know-something-about-discord-gif/"><u>2024 Approved Want to Immediately Know Something About Discord GIF?</u></a></li>
 </ul></div>
+
 

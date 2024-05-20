@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy XCover 7 has native HEVC support?
-date: 2024-04-30T19:42:39.719Z
+date: 2024-05-19T17:46:51.850Z
 tags: 
   - hevc video
   - hevc android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-smart-8-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Smart 8 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone SE (2022) | Dr.fone</u></a></li>
 </ul></div>
+
 

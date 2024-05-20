@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nubia Red Magic 9 Pro+ Without Power Button | Dr.fone
-date: 2024-04-30T19:51:30.363Z
-updated: 2024-05-01T19:51:30.363Z
+date: 2024-05-19T17:46:57.283Z
+updated: 2024-05-20T17:46:57.283Z
 tags: 
   - reset
 categories:
@@ -476,4 +476,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-redmi-a2plus-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi Redmi A2+ for Streaming | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-iphone-14-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your iPhone 14 Pro and iPad</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Moto G34 5G support AVCHD video?
-date: 2024-04-30T19:42:09.577Z
+date: 2024-05-19T17:46:51.648Z
 tags: 
   - mts video
   - mts android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nokia XR21 | Dr.fone</u></a></li>
 </ul></div>
+
 

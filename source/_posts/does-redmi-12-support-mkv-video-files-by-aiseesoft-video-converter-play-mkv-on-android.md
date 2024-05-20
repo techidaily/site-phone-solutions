@@ -1,6 +1,6 @@
 ---
 title: Does Redmi 12 support MKV video files?
-date: 2024-04-30T19:42:26.986Z
+date: 2024-05-19T17:46:51.781Z
 tags: 
   - mkv video
   - mkv android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/how-to-split-a-video-into-parts-on-all-platforms/"><u>How to Split a Video Into Parts on All Platforms</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/10-best-free-gif-background-remover-for-pc-and-online-for-2024/"><u>10 Best Free GIF Background Remover for PC and Online for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy S23 Tactical Edition support MKV video files?
-date: 2024-04-30T19:42:01.321Z
+date: 2024-05-19T17:46:51.598Z
 tags: 
   - mkv video
   - mkv android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/new-10-best-websites-to-discover-free-premiere-pro-video-templates-for-2024/"><u>New 10 Best Websites to Discover Free Premiere Pro Video Templates for 2024</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Google Pixel 8 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

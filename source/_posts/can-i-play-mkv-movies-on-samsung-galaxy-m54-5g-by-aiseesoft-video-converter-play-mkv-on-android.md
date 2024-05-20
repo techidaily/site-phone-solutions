@@ -1,6 +1,6 @@
 ---
 title: Can I play MKV movies on Samsung Galaxy M54 5G?
-date: 2024-04-30T19:40:04.776Z
+date: 2024-05-19T17:46:50.381Z
 tags: 
   - mkv video
   - mkv android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-pova-5-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Pova 5 Pro to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-itel-p55t-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Itel P55T</u></a></li>
 </ul></div>
+
 

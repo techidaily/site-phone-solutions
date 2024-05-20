@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Camon 30 Pro 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:55.070Z
-updated: 2024-05-01T19:51:55.070Z
+date: 2024-05-19T17:46:57.564Z
+updated: 2024-05-20T17:46:57.564Z
 tags: 
   - reset
 categories:
@@ -439,4 +439,5 @@ Now that you know how to hard reset Tecno Camon 30 Pro 5G it is time to implemen
 <li><a href="https://animation-videos.techidaily.com/new-how-to-make-gif-instagram-quick-tips-for-2024/"><u>New How to Make GIF Instagram | Quick Tips for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-m34-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy M34 5G Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

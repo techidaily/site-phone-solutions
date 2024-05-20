@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Samsung Galaxy S23+ ?
-date: 2024-04-30T19:44:41.495Z
+date: 2024-05-19T17:46:52.725Z
 tags: 
   - mov video
   - mov android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-f25-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo F25 Pro 5G Phone Pattern Lock</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Oppo Find X6 | Dr.fone</u></a></li>
 </ul></div>
+
 

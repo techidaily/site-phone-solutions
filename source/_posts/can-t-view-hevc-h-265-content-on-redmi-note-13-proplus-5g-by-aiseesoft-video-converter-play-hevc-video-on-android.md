@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Redmi Note 13 Pro+ 5G
-date: 2024-04-30T19:40:34.516Z
+date: 2024-05-19T17:46:50.972Z
 tags: 
   - hevc video
   - hevc android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-y02t-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo Y02T IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

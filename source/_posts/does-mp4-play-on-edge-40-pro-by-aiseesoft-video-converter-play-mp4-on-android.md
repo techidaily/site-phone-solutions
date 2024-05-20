@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Edge 40 Pro?
-date: 2024-04-30T19:42:17.277Z
+date: 2024-05-19T17:46:51.688Z
 tags: 
   - mp4 video
   - mp4 android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-8-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 8</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
 </ul></div>
+
 

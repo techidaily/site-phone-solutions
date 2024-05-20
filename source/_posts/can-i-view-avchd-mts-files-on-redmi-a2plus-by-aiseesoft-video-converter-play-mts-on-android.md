@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Redmi A2+?
-date: 2024-04-30T19:40:05.126Z
+date: 2024-05-19T17:46:50.747Z
 tags: 
   - mts video
   - mts android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y27-4g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y27 4G</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-12-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 12 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
+
 

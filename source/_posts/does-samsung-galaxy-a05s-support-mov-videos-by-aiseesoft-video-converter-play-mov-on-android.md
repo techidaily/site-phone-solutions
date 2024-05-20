@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy A05s support MOV videos ?
-date: 2024-04-30T19:42:32.124Z
+date: 2024-05-19T17:46:51.811Z
 tags: 
   - mov video
   - mov android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Infinix Smart 7 HD.</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-x-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone X</u></a></li>
 </ul></div>
+
 

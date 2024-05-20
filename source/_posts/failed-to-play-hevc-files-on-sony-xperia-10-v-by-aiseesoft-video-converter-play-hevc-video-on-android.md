@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Sony Xperia 10 V
-date: 2024-04-30T19:43:27.127Z
+date: 2024-05-19T17:46:52.175Z
 tags: 
   - hevc video
   - hevc android
@@ -162,4 +162,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo V29? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-nord-n30-se-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus Nord N30 SE without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

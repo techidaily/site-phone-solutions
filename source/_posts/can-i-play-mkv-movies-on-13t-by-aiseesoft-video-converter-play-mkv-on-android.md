@@ -1,6 +1,6 @@
 ---
 title: Can I play MKV movies on 13T?
-date: 2024-04-30T19:40:04.749Z
+date: 2024-05-19T17:46:50.327Z
 tags: 
   - mkv video
   - mkv android
@@ -226,4 +226,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-13-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 13 Pro without iCloud Password or Apple ID?</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-motorola-razr-40-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Motorola Razr 40 Devices</u></a></li>
 </ul></div>
+
 

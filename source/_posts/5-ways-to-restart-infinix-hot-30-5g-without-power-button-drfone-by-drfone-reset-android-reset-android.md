@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Hot 30 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:14.155Z
-updated: 2024-05-01T19:51:14.155Z
+date: 2024-05-19T17:46:57.049Z
+updated: 2024-05-20T17:46:57.049Z
 tags: 
   - reset
 categories:
@@ -471,4 +471,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-itel-p55-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Itel P55 5G PC | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
+
 

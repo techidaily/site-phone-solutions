@@ -1,6 +1,6 @@
 ---
 title: Does G54 5G has native HEVC support?
-date: 2024-04-30T19:41:54.229Z
+date: 2024-05-19T17:46:51.559Z
 tags: 
   - hevc video
   - hevc android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-mix-fold-3-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Mix Fold 3?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/this-review-post-introduces-you-to-easyhdr-to-review-and-customize-your-hdr-photos-youll-also-learn-the-best-desktop-application-to-edit-your-hdr-videos-eff/"><u>This Review Post Introduces You to EasyHDR to Review and Customize Your HDR Photos. Youll Also Learn the Best Desktop Application to Edit Your HDR Videos Effortlessly</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Redmi Note 12T Pro
-date: 2024-04-30T19:40:04.970Z
+date: 2024-05-19T17:46:50.596Z
 tags: 
   - recover
 categories: 
@@ -269,4 +269,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-honor-100-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Honor 100 Pro to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-vivo-y27s-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Vivo Y27s online without jailbreak</u></a></li>
 </ul></div>
+
 

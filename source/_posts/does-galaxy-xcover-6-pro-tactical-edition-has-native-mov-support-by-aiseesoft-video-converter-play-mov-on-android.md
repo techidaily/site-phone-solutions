@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy XCover 6 Pro Tactical Edition has native MOV support?
-date: 2024-04-30T19:42:03.566Z
+date: 2024-05-19T17:46:51.611Z
 tags: 
   - mov video
   - mov android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-hot-40is-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Hot 40is Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-motorola-moto-g73-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Motorola Moto G73 5G?</u></a></li>
 </ul></div>
+
 

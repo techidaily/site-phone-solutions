@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Vivo Y78t? | Dr.fone
-date: 2024-04-30T19:53:25.753Z
-updated: 2024-05-01T19:53:25.753Z
+date: 2024-05-19T17:46:58.727Z
+updated: 2024-05-20T17:46:58.727Z
 tags: 
   - reset
 categories:
@@ -402,4 +402,5 @@ This concludes our article on five ways to hard reset Vivo Y78t phones. You migh
 <li><a href="https://blog-min.techidaily.com/how-to-sign-a-txt-file-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .txt file document online</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-pictures-from-nokia-c12-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Nokia C12.</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Failed to play HEVC files on Galaxy A23 5G
-date: 2024-04-30T19:43:18.996Z
-updated: 2024-05-01T19:43:18.996Z
+date: 2024-05-19T17:46:52.131Z
+updated: 2024-05-20T17:46:52.131Z
 tags: 
   - hevc video
   - hevc android
@@ -175,4 +175,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-t2-pro-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo T2 Pro 5G FRP Android 10/11/12/13</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-filmora-13-download-free-unleash-your-creativity/"><u>New Filmora 13 Download Free Unleash Your Creativity</u></a></li>
 </ul></div>
+
 

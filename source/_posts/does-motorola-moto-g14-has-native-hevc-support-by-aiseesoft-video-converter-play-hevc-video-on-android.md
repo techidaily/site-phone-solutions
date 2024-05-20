@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Moto G14 has native HEVC support?
-date: 2024-04-30T19:42:14.408Z
+date: 2024-05-19T17:46:51.673Z
 tags: 
   - hevc video
   - hevc android
@@ -164,4 +164,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-meizu-21-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Meizu 21 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-best-free-luts-to-use-in-shotcut/"><u>Updated 2024 Approved Best Free LUTs To Use in Shotcut</u></a></li>
 </ul></div>
+
 

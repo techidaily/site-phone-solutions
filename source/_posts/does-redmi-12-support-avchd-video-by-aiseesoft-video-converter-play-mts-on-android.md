@@ -1,6 +1,6 @@
 ---
 title: Does Redmi 12 support AVCHD video?
-date: 2024-04-30T19:42:26.796Z
+date: 2024-05-19T17:46:51.780Z
 tags: 
   - mts video
   - mts android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-itel-a05s-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Itel A05s</u></a></li>
 </ul></div>
+
 

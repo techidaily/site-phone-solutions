@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Oppo K11x | Dr.fone
-date: 2024-04-30T19:47:00.101Z
-updated: 2024-05-01T19:47:00.101Z
+date: 2024-05-19T17:46:54.156Z
+updated: 2024-05-20T17:46:54.156Z
 tags: 
   - reset
 categories:
@@ -426,4 +426,5 @@ Now that you know how to reset a Oppo K11x phone that is locked and how to use O
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro with a Mask On | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

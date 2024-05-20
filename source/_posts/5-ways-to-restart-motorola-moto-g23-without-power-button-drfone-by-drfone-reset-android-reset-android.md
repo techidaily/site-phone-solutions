@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G23 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:25.584Z
-updated: 2024-05-01T19:51:25.584Z
+date: 2024-05-19T17:46:57.211Z
+updated: 2024-05-20T17:46:57.211Z
 tags: 
   - reset
 categories:
@@ -484,4 +484,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-11-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 11 SIM Lock?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Find N3? | Dr.fone</u></a></li>
 </ul></div>
+
 

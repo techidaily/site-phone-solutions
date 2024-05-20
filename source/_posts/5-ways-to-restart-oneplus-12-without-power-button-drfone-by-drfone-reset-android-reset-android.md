@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart OnePlus 12 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:31.314Z
-updated: 2024-05-01T19:51:31.314Z
+date: 2024-05-19T17:46:57.303Z
+updated: 2024-05-20T17:46:57.303Z
 tags: 
   - reset
 categories:
@@ -505,4 +505,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

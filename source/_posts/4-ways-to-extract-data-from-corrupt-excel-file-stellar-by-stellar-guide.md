@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to extract data from corrupt Excel file | Stellar
-date: 2024-04-30T19:49:57.357Z
-updated: 2024-05-01T19:49:57.357Z
+date: 2024-05-19T17:46:56.164Z
+updated: 2024-05-20T17:46:56.164Z
 tags: 
   - repair
   - repair excel
@@ -706,4 +706,5 @@ You might encounter the “Cannot insert object” error when embedding or inser
 <li><a href="https://ios-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How does the stardust trade cost In pokemon go On Apple iPhone XR? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/chromebook-linux-installation-a-simple-step-by-step-process-updated/"><u>Chromebook Linux Installation A Simple, Step-by-Step Process (Updated )</u></a></li>
 </ul></div>
+
 

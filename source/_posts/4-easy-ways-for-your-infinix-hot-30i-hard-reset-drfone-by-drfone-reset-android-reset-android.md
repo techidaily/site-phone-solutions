@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Infinix Hot 30i Hard Reset | Dr.fone
-date: 2024-04-30T19:48:53.550Z
-updated: 2024-05-01T19:48:53.550Z
+date: 2024-05-19T17:46:55.358Z
+updated: 2024-05-20T17:46:55.358Z
 tags: 
   - reset
 categories:
@@ -347,4 +347,5 @@ This concludes our article on five ways to hard reset Infinix Hot 30i phones. Yo
 <li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download-for-computer-and-mobile-for-2024/"><u>MP3 Cutter Download for Computer and Mobile for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-top-gif-to-mp4-converters/"><u>Updated 2024 Approved Top GIF to MP4 Converters</u></a></li>
 </ul></div>
+
 

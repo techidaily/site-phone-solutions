@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Lava Yuva 3 Pro Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:13.830Z
-updated: 2024-05-01T19:50:13.830Z
+date: 2024-05-19T17:46:56.321Z
+updated: 2024-05-20T17:46:56.321Z
 tags: 
   - reset
 categories:
@@ -434,4 +434,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Google Pixel 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/in-2024-make-me-laugh-best-video-dubbing-apps-for-comedy-clips/"><u>In 2024, Make Me Laugh Best Video Dubbing Apps for Comedy Clips</u></a></li>
 </ul></div>
+
 

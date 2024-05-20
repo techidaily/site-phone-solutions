@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi Note 13 Pro 5G has native HEVC support?
-date: 2024-04-30T19:42:51.403Z
+date: 2024-05-19T17:46:51.905Z
 tags: 
   - hevc video
   - hevc android
@@ -210,4 +210,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked From Apple iPhone 12 Pro Max?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-pro-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Pro</u></a></li>
 </ul></div>
+
 

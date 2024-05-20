@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Google Pixel 8 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:07.034Z
-updated: 2024-05-01T19:51:07.034Z
+date: 2024-05-19T17:46:56.913Z
+updated: 2024-05-20T17:46:56.913Z
 tags: 
   - reset
 categories:
@@ -571,4 +571,5 @@ Now that you know how to reset a Google Pixel 8 phone that is locked and how to 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-a24-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy A24 Device SIM</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-s18-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo S18 Pro via a USB Cable | Dr.fone</u></a></li>
 </ul></div>
+
 

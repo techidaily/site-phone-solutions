@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy A15 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:48.285Z
-updated: 2024-05-01T19:51:48.285Z
+date: 2024-05-19T17:46:57.514Z
+updated: 2024-05-20T17:46:57.514Z
 tags: 
   - reset
 categories:
@@ -437,4 +437,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-create-benime-whiteboard-animation-in-android/"><u>New In 2024, How to Create Benime Whiteboard Animation in Android</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy A23 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

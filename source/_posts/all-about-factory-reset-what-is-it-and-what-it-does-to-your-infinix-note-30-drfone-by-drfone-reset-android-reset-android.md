@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Infinix Note 30? | Dr.fone
-date: 2024-04-30T19:52:33.452Z
-updated: 2024-05-01T19:52:33.452Z
+date: 2024-05-19T17:46:58.062Z
+updated: 2024-05-20T17:46:58.062Z
 tags: 
   - reset
 categories:
@@ -393,4 +393,5 @@ Let's end our guide for the easiest ways to **hard reset Infinix Note 30**. You 
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme Narzo 60 5G? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy F04 | Dr.fone</u></a></li>
 </ul></div>
+
 

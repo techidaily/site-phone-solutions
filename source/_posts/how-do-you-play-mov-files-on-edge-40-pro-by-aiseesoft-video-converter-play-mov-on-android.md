@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Edge 40 Pro ?
-date: 2024-04-30T19:44:37.165Z
+date: 2024-05-19T17:46:52.703Z
 tags: 
   - mov video
   - mov android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-open-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your OnePlus Open Device</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/samsung-galaxy-m14-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

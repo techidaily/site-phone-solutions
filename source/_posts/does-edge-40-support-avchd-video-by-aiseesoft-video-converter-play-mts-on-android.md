@@ -1,6 +1,6 @@
 ---
 title: Does Edge 40 support AVCHD video?
-date: 2024-04-30T19:41:53.666Z
+date: 2024-05-19T17:46:51.517Z
 tags: 
   - mts video
   - mts android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29 Pro Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/2024-approved-best-ai-rap-voice-generators-you-should-try/"><u>2024 Approved Best AI Rap Voice Generators You Should Try</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy A15 4G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:48.097Z
-updated: 2024-05-01T19:51:48.097Z
+date: 2024-05-19T17:46:57.490Z
+updated: 2024-05-20T17:46:57.490Z
 tags: 
   - reset
 categories:
@@ -498,4 +498,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-xiaomi-redmi-note-12-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Xiaomi Redmi Note 12 Pro 5G Phones</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-12-mini-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 12 mini Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
+
 

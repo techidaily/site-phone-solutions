@@ -1,7 +1,7 @@
 ---
 title: Does Motorola support MKV video files?
-date: 2024-04-30T19:42:16.524Z
-updated: 2024-05-01T19:42:16.524Z
+date: 2024-05-19T17:46:51.684Z
+updated: 2024-05-20T17:46:51.684Z
 tags: 
   - mkv video
   - mkv android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-highlight-video-production-made-easy-top-desktop-and-mobile-apps/"><u>Updated 2024 Approved Highlight Video Production Made Easy Top Desktop and Mobile Apps</u></a></li>
 <li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-razr-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Razr 40</u></a></li>
 </ul></div>
+
 

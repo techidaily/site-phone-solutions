@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Huawei ?
-date: 2024-04-30T19:44:18.719Z
+date: 2024-05-19T17:46:52.600Z
 tags: 
   - hevc video
   - hevc android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-90-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor 90</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s23-tactical-edition-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S23 Tactical Edition to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

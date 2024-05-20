@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Vivo Y100 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:55.556Z
-updated: 2024-05-01T19:50:55.556Z
+date: 2024-05-19T17:46:56.776Z
+updated: 2024-05-20T17:46:56.776Z
 tags: 
   - reset
 categories:
@@ -437,4 +437,5 @@ Now that you know how to hard reset Vivo Y100 it is time to implement all the po
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/trouble-with-iphone-7-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>Trouble with iPhone 7 Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
+
 

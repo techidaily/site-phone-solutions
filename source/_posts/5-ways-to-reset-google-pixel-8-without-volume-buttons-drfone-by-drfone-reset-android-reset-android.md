@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Google Pixel 8 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:49:58.997Z
-updated: 2024-05-01T19:49:58.997Z
+date: 2024-05-19T17:46:56.188Z
+updated: 2024-05-20T17:46:56.188Z
 tags: 
   - reset
 categories:
@@ -432,4 +432,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-spark-10-4g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Spark 10 4G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12plus-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 12+ 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
+
 

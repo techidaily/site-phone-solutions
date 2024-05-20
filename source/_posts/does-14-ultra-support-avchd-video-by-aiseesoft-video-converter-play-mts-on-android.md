@@ -1,7 +1,7 @@
 ---
 title: Does 14 Ultra support AVCHD video?
-date: 2024-04-30T19:41:51.409Z
-updated: 2024-05-01T19:41:51.409Z
+date: 2024-05-19T17:46:51.508Z
+updated: 2024-05-20T17:46:51.508Z
 tags: 
   - mts video
   - mts android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-the-best-translator-to-translate-videos-online/"><u>New In 2024, The Best Translator to Translate Videos Online</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-best-video-format-converter-for-pc-and-online/"><u>Updated In 2024, Best Video Format Converter for PC and Online</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Itel A05s? | Dr.fone
-date: 2024-04-30T19:52:36.012Z
-updated: 2024-05-01T19:52:36.012Z
+date: 2024-05-19T17:46:58.075Z
+updated: 2024-05-20T17:46:58.075Z
 tags: 
   - reset
 categories:
@@ -417,4 +417,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 13? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40-phone-without-pin-by-drfone-android/"><u>How to Unlock Itel P40 Phone without PIN</u></a></li>
 </ul></div>
+
 

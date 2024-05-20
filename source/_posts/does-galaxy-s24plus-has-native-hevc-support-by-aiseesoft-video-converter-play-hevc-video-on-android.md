@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy S24+ has native HEVC support?
-date: 2024-04-30T19:42:02.816Z
+date: 2024-05-19T17:46:51.607Z
 tags: 
   - hevc video
   - hevc android
@@ -230,4 +230,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-14-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 14 to Use USB Accessories Without Passcode</u></a></li>
 </ul></div>
+
 

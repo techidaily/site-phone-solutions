@@ -1,6 +1,6 @@
 ---
 title: Does HTC  has native MOV support?
-date: 2024-04-30T19:42:04.688Z
+date: 2024-05-19T17:46:51.620Z
 tags: 
   - mov video
   - mov android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/how-to-use-luts-in-vn-editor-complete-guide-and-best-luts-download/"><u>How to Use LUTs in VN Editor – Complete Guide and Best LUTs Download</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-11-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 11 Stuck On Activation Lock?</u></a></li>
 </ul></div>
+
 

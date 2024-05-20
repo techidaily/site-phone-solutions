@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy F54 5G has native HEVC support?
-date: 2024-04-30T19:42:35.154Z
+date: 2024-05-19T17:46:51.827Z
 tags: 
   - hevc video
   - hevc android
@@ -209,4 +209,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video.techidaily.com/2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
 <li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-a05-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy A05 FRP</u></a></li>
 </ul></div>
+
 

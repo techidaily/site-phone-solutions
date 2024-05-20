@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart OnePlus 12R Without Power Button | Dr.fone
-date: 2024-04-30T19:51:31.505Z
-updated: 2024-05-01T19:51:31.505Z
+date: 2024-05-19T17:46:57.304Z
+updated: 2024-05-20T17:46:57.304Z
 tags: 
   - reset
 categories:
@@ -424,4 +424,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://ai-vdieo-software.techidaily.com/converting-instagram-clips-to-mp3-easy-solutions/"><u>Converting Instagram Clips to MP3 Easy Solutions</u></a></li>
 <li><a href="https://howto.techidaily.com/best-methods-for-realme-11x-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme 11X 5G Wont Turn On | Dr.fone</u></a></li>
 </ul></div>
+
 

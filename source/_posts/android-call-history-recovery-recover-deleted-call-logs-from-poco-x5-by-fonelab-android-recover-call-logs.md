@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Poco X5
-date: 2024-04-30T19:54:15.514Z
+date: 2024-05-19T17:46:59.191Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -190,4 +190,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://fix-guide.techidaily.com/reasons-for-itel-p55t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-huawei-nova-y91-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Huawei Nova Y91 Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

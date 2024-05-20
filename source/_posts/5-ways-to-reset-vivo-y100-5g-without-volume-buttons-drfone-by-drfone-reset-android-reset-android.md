@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Vivo Y100 5G Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:55.366Z
-updated: 2024-05-01T19:50:55.366Z
+date: 2024-05-19T17:46:56.775Z
+updated: 2024-05-20T17:46:56.775Z
 tags: 
   - reset
 categories:
@@ -437,4 +437,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-g2-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo G2 Without PUK Codes</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-erase-an-iphone-se-without-apple-id-by-drfone-ios/"><u>How to Erase an iPhone SE without Apple ID?</u></a></li>
 </ul></div>
+
 

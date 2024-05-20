@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Google Pixel Fold
-date: 2024-04-30T19:54:03.211Z
-updated: 2024-05-01T19:54:03.211Z
+date: 2024-05-19T17:46:59.065Z
+updated: 2024-05-20T17:46:59.065Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -200,4 +200,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-a59-5g-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo A59 5G</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

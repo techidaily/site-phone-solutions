@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Motorola Moto G13 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:17.029Z
-updated: 2024-05-01T19:50:17.029Z
+date: 2024-05-19T17:46:56.345Z
+updated: 2024-05-20T17:46:56.345Z
 tags: 
   - reset
 categories:
@@ -449,4 +449,5 @@ Now that you know how to reset a Motorola Moto G13 phone that is locked and how 
 <li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel P55 | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-realme-gt-neo-5-se-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Realme GT Neo 5 SE to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

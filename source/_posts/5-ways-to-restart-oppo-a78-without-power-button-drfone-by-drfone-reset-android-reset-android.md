@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Oppo A78 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:35.419Z
-updated: 2024-05-01T19:51:35.419Z
+date: 2024-05-19T17:46:57.331Z
+updated: 2024-05-20T17:46:57.331Z
 tags: 
   - reset
 categories:
@@ -476,4 +476,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-12-pro-max-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 12 Pro Max Display? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-gionee-f3-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Gionee F3 Pro Phone</u></a></li>
 </ul></div>
+
 

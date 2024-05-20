@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Xiaomi 
-date: 2024-04-30T19:40:19.661Z
+date: 2024-05-19T17:46:50.850Z
 tags: 
   - mov video
   - mov android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/in-2024-icloud-separation-how-to-disconnect-apple-iphone-13-and-ipad-by-drfone-ios/"><u>In 2024, iCloud Separation How To Disconnect Apple iPhone 13 and iPad</u></a></li>
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Poco X6 | Dr.fone</u></a></li>
 </ul></div>
+
 

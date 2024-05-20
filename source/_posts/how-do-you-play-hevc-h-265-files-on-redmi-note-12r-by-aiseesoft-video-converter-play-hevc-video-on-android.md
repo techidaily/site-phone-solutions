@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Redmi Note 12R?
-date: 2024-04-30T19:44:21.823Z
+date: 2024-05-19T17:46:52.617Z
 tags: 
   - hevc video
   - hevc android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oneplus-nord-3-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass OnePlus Nord 3 5G FRP Without Computer</u></a></li>
 </ul></div>
+
 

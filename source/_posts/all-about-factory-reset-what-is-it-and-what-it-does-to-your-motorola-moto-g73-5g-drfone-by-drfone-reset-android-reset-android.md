@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Motorola Moto G73 5G? | Dr.fone
-date: 2024-04-30T19:52:44.378Z
-updated: 2024-05-01T19:52:44.378Z
+date: 2024-05-19T17:46:58.155Z
+updated: 2024-05-20T17:46:58.155Z
 tags: 
   - reset
 categories:
@@ -447,4 +447,5 @@ Now that you know how to hard reset Motorola Moto G73 5G it is time to implement
 <li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-note-50-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme Note 50 Device</u></a></li>
 <li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-moto-g73-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola Moto G73 5G FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

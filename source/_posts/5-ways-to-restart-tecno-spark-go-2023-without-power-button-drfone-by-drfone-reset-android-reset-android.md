@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Spark Go (2023) Without Power Button | Dr.fone
-date: 2024-04-30T19:51:58.220Z
-updated: 2024-05-01T19:51:58.220Z
+date: 2024-05-19T17:46:57.645Z
+updated: 2024-05-20T17:46:57.645Z
 tags: 
   - reset
 categories:
@@ -414,4 +414,5 @@ Let's end our guide for the easiest ways to **hard reset Tecno Spark Go (2023)**
 <li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify malfunctioning your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Sony Xperia 10 V | Dr.fone</u></a></li>
 </ul></div>
+
 

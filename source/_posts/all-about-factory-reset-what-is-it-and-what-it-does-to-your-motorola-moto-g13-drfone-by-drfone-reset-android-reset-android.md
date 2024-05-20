@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Motorola Moto G13? | Dr.fone
-date: 2024-04-30T19:52:43.428Z
-updated: 2024-05-01T19:52:43.428Z
+date: 2024-05-19T17:46:58.149Z
+updated: 2024-05-20T17:46:58.149Z
 tags: 
   - reset
 categories:
@@ -437,4 +437,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-hey-are-you-looking-for-video-reverse-effects-in-your-videos-then-you-are-at-the-right-place-this-article-will-guide-you-in-creating-a-video/"><u>Updated In 2024, Hey! Are You Looking for Video Reverse Effects in Your Videos? Then, You Are at the Right Place. This Article Will Guide You in Creating a Video Reverse Effect</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-spark-10c-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Spark 10C Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

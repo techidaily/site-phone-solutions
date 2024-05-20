@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD MTS to MP4 for HTC U23?
-date: 2024-04-30T19:45:08.230Z
+date: 2024-05-19T17:46:52.922Z
 tags: 
   - mts video
   - mts android
@@ -222,4 +222,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-google-pixel-7a-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Google Pixel 7a</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-x-flip-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo X Flip to iPad Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Motorola Moto G73 5G | Dr.fone
-date: 2024-04-30T19:53:52.365Z
-updated: 2024-05-01T19:53:52.365Z
+date: 2024-05-19T17:46:58.957Z
+updated: 2024-05-20T17:46:58.957Z
 tags: 
   - reset
 categories:
@@ -400,4 +400,5 @@ Now that you know how to hard reset Motorola Moto G73 5G it is time to implement
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-the-coolest-anime-characters-ever-list-of-top-favorites/"><u>New 2024 Approved The Coolest Anime Characters Ever| List of Top Favorites</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-ultra-bootloader-easily-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Ultra Bootloader Easily</u></a></li>
 </ul></div>
+
 

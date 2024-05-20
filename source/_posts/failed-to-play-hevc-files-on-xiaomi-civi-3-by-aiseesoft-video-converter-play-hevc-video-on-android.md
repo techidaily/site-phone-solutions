@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xiaomi Civi 3
-date: 2024-04-30T19:43:28.758Z
+date: 2024-05-19T17:46:52.183Z
 tags: 
   - hevc video
   - hevc android
@@ -182,4 +182,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-samsung-galaxy-a05s-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Samsung Galaxy A05s Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-meizu-21-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
+
 

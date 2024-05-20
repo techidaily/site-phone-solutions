@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Nokia C32 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:20.819Z
-updated: 2024-05-01T19:50:20.819Z
+date: 2024-05-19T17:46:56.373Z
+updated: 2024-05-20T17:46:56.373Z
 tags: 
   - reset
 categories:
@@ -518,4 +518,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-14-pro-max-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock iPhone 14 Pro Max screen lock without Passcode?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-top-free-gif-animation-creators-for-2024/"><u>New Top Free GIF Animation Creators for 2024</u></a></li>
 </ul></div>
+
 

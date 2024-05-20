@@ -1,6 +1,6 @@
 ---
 title: Does Sony  has native HEVC support?
-date: 2024-04-30T19:42:42.354Z
+date: 2024-05-19T17:46:51.866Z
 tags: 
   - hevc video
   - hevc android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-tecno-pop-8-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Tecno Pop 8</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/2024-approved-how-to-watch-nba-live-stream-free-anywhere/"><u>2024 Approved How To Watch NBA Live Stream Free Anywhere</u></a></li>
 </ul></div>
+
 

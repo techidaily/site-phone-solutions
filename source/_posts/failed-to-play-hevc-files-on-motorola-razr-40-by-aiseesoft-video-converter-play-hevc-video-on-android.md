@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Motorola Razr 40
-date: 2024-04-30T19:43:23.528Z
+date: 2024-05-19T17:46:52.156Z
 tags: 
   - hevc video
   - hevc android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-20-best-luts-for-music-videos/"><u>Updated 2024 Approved 20 Best LUTs for Music Videos</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+
 

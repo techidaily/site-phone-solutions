@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Google Pixel 8 | Dr.fone
-date: 2024-04-30T19:46:29.650Z
-updated: 2024-05-01T19:46:29.650Z
+date: 2024-05-19T17:46:53.904Z
+updated: 2024-05-20T17:46:53.904Z
 tags: 
   - reset
 categories:
@@ -398,4 +398,5 @@ Let's end our guide for the easiest ways to **hard reset Google Pixel 8**. You c
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Infinix Hot 40 Pro | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-honor-magic5-ultimate-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Honor Magic5 Ultimate FRP</u></a></li>
 </ul></div>
+
 

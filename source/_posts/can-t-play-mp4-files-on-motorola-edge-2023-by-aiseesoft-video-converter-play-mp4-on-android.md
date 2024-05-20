@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Motorola Edge 2023
-date: 2024-04-30T19:40:23.636Z
+date: 2024-05-19T17:46:50.911Z
 tags: 
   - mp4 video
   - mp4 android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-create-stunning-invites-best-video-maker-apps-for-ios-and-android/"><u>New 2024 Approved Create Stunning Invites Best Video Maker Apps for iOS and Android</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Itel S23 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:19.734Z
-updated: 2024-05-01T19:51:19.734Z
+date: 2024-05-19T17:46:57.129Z
+updated: 2024-05-20T17:46:57.129Z
 tags: 
   - reset
 categories:
@@ -486,4 +486,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-about-splice-video-online-and-its-advantages-also-check-out-the-best-online-apps-for-splice-editing/"><u>In 2024, Learn About Splice Video Online and Its Advantages. Also, Check Out the Best Online Apps for Splice Editing</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Lava Agni 2 5G Hard Reset | Dr.fone
-date: 2024-04-30T19:48:59.341Z
-updated: 2024-05-01T19:48:59.341Z
+date: 2024-05-19T17:46:55.397Z
+updated: 2024-05-20T17:46:55.397Z
 tags: 
   - reset
 categories:
@@ -443,4 +443,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-14-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone 14 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Poco M6 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

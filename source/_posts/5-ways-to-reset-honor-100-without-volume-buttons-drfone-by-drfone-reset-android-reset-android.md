@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Honor 100 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:49:59.556Z
-updated: 2024-05-01T19:49:59.556Z
+date: 2024-05-19T17:46:56.192Z
+updated: 2024-05-20T17:46:56.192Z
 tags: 
   - reset
 categories:
@@ -539,4 +539,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco X5? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Infinix Smart 8 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

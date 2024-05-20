@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Realme 11X 5G
-date: 2024-04-30T19:54:15.889Z
+date: 2024-05-19T17:46:59.194Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -184,4 +184,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/undelete-lost-data-from-nubia-z50s-pro-by-fonelab-android-recover-data/"><u>Undelete lost data from Nubia Z50S Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-xs-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone XS i Do? Get Answers here</u></a></li>
 </ul></div>
+
 

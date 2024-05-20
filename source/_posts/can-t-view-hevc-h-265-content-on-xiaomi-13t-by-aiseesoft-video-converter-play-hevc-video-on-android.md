@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Xiaomi 13T
-date: 2024-04-30T19:40:37.316Z
+date: 2024-05-19T17:46:50.988Z
 tags: 
   - hevc video
   - hevc android
@@ -218,4 +218,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Google Pixel 8 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/forgot-locked-apple-iphone-13-pro-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked Apple iPhone 13 Pro Password? Learn the Best Methods To Unlock</u></a></li>
 </ul></div>
+
 

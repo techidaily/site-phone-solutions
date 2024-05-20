@@ -1,6 +1,6 @@
 ---
 title: Can I play MKV movies on Samsung Galaxy S24?
-date: 2024-04-30T19:40:04.778Z
+date: 2024-05-19T17:46:50.386Z
 tags: 
   - mkv video
   - mkv android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-from-iphone-7-plus-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID from iPhone 7 Plus</u></a></li>
 </ul></div>
+
 

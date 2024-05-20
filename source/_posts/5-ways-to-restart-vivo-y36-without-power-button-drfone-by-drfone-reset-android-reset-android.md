@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y36 Without Power Button | Dr.fone
-date: 2024-04-30T19:52:06.081Z
-updated: 2024-05-01T19:52:06.081Z
+date: 2024-05-19T17:46:57.704Z
+updated: 2024-05-20T17:46:57.704Z
 tags: 
   - reset
 categories:
@@ -423,4 +423,5 @@ Now that you know how to reset a Vivo Y36 phone that is locked and how to use Vi
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-iphone-x-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From iPhone X If Youve Tried Everything</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-11-5g-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of 11 5G with Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

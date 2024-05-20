@@ -1,7 +1,7 @@
 ---
 title: How to convert AVCHD .mts files for Defy 2?
-date: 2024-04-30T19:44:55.998Z
-updated: 2024-05-01T19:44:55.998Z
+date: 2024-05-19T17:46:52.855Z
+updated: 2024-05-20T17:46:52.855Z
 tags: 
   - mts video
   - mts android
@@ -159,4 +159,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone XR iCloud Activation Lock Bypass</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-choosing-the-perfect-green-screen-tool-for-mac-users/"><u>New 2024 Approved Choosing the Perfect Green Screen Tool for Mac Users</u></a></li>
 </ul></div>
+
 

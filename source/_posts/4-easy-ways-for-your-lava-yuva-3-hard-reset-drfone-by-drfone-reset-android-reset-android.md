@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Lava Yuva 3 Hard Reset | Dr.fone
-date: 2024-04-30T19:49:01.162Z
-updated: 2024-05-01T19:49:01.162Z
+date: 2024-05-19T17:46:55.470Z
+updated: 2024-05-20T17:46:55.470Z
 tags: 
   - reset
 categories:
@@ -515,4 +515,5 @@ Now that you know how to reset a Lava Yuva 3 phone that is locked and how to use
 <li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-15-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 15 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-is-my-tecno-pova-5-pro-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Pova 5 Pro Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
+
 

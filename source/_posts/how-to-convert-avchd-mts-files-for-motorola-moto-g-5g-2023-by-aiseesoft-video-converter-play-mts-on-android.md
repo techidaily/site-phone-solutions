@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Motorola Moto G 5G (2023)? 
-date: 2024-04-30T19:45:00.835Z
+date: 2024-05-19T17:46:52.878Z
 tags: 
   - mts video
   - mts android
@@ -159,4 +159,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-yuva-2-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Yuva 2.</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-does-the-youtube-ai-algorithm-work-ai-explained/"><u>2024 Approved How Does the YouTube AI Algorithm Work - AI EXPLAINED</u></a></li>
 </ul></div>
+
 

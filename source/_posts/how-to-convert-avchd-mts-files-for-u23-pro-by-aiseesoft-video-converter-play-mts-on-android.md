@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for U23 Pro?
-date: 2024-04-30T19:45:04.256Z
+date: 2024-05-19T17:46:52.896Z
 tags: 
   - mts video
   - mts android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-11-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 11 Pro? | Stellar</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-lava-agni-2-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Lava Agni 2 5G to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

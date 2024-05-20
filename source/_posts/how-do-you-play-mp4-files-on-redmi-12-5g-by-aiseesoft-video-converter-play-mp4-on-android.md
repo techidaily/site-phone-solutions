@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Redmi 12 5G?
-date: 2024-04-30T19:44:50.292Z
+date: 2024-05-19T17:46:52.768Z
 tags: 
   - mp4 video
   - mp4 android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 13 mini</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Phantom V Fold | Dr.fone</u></a></li>
 </ul></div>
+
 

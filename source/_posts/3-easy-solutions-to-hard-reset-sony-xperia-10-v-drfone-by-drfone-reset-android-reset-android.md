@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Sony Xperia 10 V | Dr.fone
-date: 2024-04-30T19:47:16.754Z
-updated: 2024-05-01T19:47:16.754Z
+date: 2024-05-19T17:46:54.294Z
+updated: 2024-05-20T17:46:54.294Z
 tags: 
   - reset
 categories:
@@ -520,4 +520,5 @@ Sony Xperia 10 Vis a famous brand that serves a large number of consumers worldw
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-chromebook-linux-installation-a-beginners-tutorial/"><u>Updated In 2024, Chromebook Linux Installation A Beginners Tutorial</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo A79 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

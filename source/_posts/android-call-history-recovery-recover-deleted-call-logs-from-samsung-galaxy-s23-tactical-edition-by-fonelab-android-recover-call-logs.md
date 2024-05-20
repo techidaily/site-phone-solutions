@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Samsung Galaxy S23 Tactical Edition
-date: 2024-04-30T19:54:19.302Z
-updated: 2024-05-01T19:54:19.302Z
+date: 2024-05-19T17:46:59.214Z
+updated: 2024-05-20T17:46:59.214Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -184,4 +184,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-find-n3-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Find N3 FRP</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-oneplus-nord-n30-se-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For OnePlus Nord N30 SE Device Top 5 Picks to Remove Android Locks</u></a></li>
 </ul></div>
+
 

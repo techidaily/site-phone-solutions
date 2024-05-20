@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Oppo K11 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:37.243Z
-updated: 2024-05-01T19:51:37.243Z
+date: 2024-05-19T17:46:57.347Z
+updated: 2024-05-20T17:46:57.347Z
 tags: 
   - reset
 categories:
@@ -463,4 +463,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-a-comprehensive-review-of-luts-finding-luts-made-by-danny-gevirtz/"><u>Updated 2024 Approved A Comprehensive Review of LUTs Finding LUTs Made by Danny Gevirtz</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-color-lut-in-video-how-to-color-grade-your-video/"><u>New In 2024, Color Lut in Video -How to Color Grade Your Video</u></a></li>
 </ul></div>
+
 

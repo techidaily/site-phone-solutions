@@ -1,7 +1,7 @@
 ---
 title: Does Huawei Nova Y71 has native HEVC support?
-date: 2024-04-30T19:42:06.014Z
-updated: 2024-05-01T19:42:06.014Z
+date: 2024-05-19T17:46:51.628Z
+updated: 2024-05-20T17:46:51.628Z
 tags: 
   - hevc video
   - hevc android
@@ -225,4 +225,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-everything-you-want-to-know-about-kapwing-video-translation/"><u>Updated 2024 Approved Everything You Want To Know About Kapwing Video Translation</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-f54-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy F54 5G Through Google Earth?</u></a></li>
 </ul></div>
+
 

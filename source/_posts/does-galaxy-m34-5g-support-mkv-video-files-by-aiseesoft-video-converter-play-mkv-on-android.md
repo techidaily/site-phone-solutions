@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy M34 5G support MKV video files?
-date: 2024-04-30T19:41:59.817Z
+date: 2024-05-19T17:46:51.590Z
 tags: 
   - mkv video
   - mkv android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/updated-discover-8-top-rated-video-and-photo-merger-tools-for-desktop-mobile-and-online-use-elevate-your-media-game-and-create-stunning-visuals-with-ease/"><u>Updated Discover 8 Top-Rated Video and Photo Merger Tools for Desktop, Mobile, and Online Use. Elevate Your Media Game and Create Stunning Visuals with Ease</u></a></li>
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-nubia-z50s-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nubia Z50S Pro</u></a></li>
 </ul></div>
+
 

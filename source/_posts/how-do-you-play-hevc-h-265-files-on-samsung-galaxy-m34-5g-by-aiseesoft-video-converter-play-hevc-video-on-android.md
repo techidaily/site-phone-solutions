@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Samsung Galaxy M34 5G?
-date: 2024-04-30T19:44:23.335Z
+date: 2024-05-19T17:46:52.625Z
 tags: 
   - hevc video
   - hevc android
@@ -173,4 +173,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/complete-tutorial-for-poco-m6-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco M6 Pro 5G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On HTC U23 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

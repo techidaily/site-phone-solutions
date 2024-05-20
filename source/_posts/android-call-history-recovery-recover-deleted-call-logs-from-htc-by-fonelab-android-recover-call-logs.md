@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from HTC
-date: 2024-04-30T19:54:05.662Z
+date: 2024-05-19T17:46:59.097Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -197,4 +197,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-learn-how-video-montages-were-used-over-film-history-with-examples-and-the-types-of-videos-for-shorter-montages-plus-learn-about-the-best-software-f/"><u>In 2024, Learn How Video Montages Were Used over Film History with Examples and the Types of Videos for Shorter Montages. Plus, Learn About the Best Software for It</u></a></li>
 </ul></div>
+
 

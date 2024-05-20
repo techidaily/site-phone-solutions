@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Huawei Nova Y91 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:13.588Z
-updated: 2024-05-01T19:51:13.588Z
+date: 2024-05-19T17:46:57.044Z
+updated: 2024-05-20T17:46:57.044Z
 tags: 
   - reset
 categories:
@@ -501,4 +501,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-smart-8-pro-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Smart 8 Pro Devices</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Itel P55T? | Dr.fone</u></a></li>
 </ul></div>
+
 

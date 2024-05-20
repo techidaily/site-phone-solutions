@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Google Pixel 8 Hard Reset | Dr.fone
-date: 2024-04-30T19:48:45.926Z
-updated: 2024-05-01T19:48:45.926Z
+date: 2024-05-19T17:46:55.235Z
+updated: 2024-05-20T17:46:55.235Z
 tags: 
   - reset
 categories:
@@ -391,4 +391,5 @@ Let's end our guide for the easiest ways to **hard reset Google Pixel 8**. You c
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-nokia-c12-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve  deleted photos on Nokia C12 Pro</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-y78plus-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo Y78+ Location Is Wrong | Dr.fone</u></a></li>
 </ul></div>
+
 

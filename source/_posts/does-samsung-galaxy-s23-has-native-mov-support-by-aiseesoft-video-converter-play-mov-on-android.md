@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy S23 has native MOV support?
-date: 2024-04-30T19:42:38.186Z
+date: 2024-05-19T17:46:51.842Z
 tags: 
   - mov video
   - mov android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Find X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-how-to-guide-secret-shortcut-to-adobe-animate-character-tutorial-for-2024/"><u>New How-To Guide Secret Shortcut to Adobe Animate Character Tutorial for 2024</u></a></li>
 </ul></div>
+
 

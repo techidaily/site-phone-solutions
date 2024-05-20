@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme 11 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:42.030Z
-updated: 2024-05-01T19:51:42.030Z
+date: 2024-05-19T17:46:57.420Z
+updated: 2024-05-20T17:46:57.420Z
 tags: 
   - reset
 categories:
@@ -454,4 +454,5 @@ Now that you know how to hard reset Realme 11 5G it is time to implement all the
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y27 4G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD MTS to MP4 for Civi 3?
-date: 2024-04-30T19:45:06.892Z
+date: 2024-05-19T17:46:52.910Z
 tags: 
   - mts video
   - mts android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-poco-c51-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Poco C51 Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy A05 support AVCHD video?
-date: 2024-04-30T19:41:55.190Z
+date: 2024-05-19T17:46:51.564Z
 tags: 
   - mts video
   - mts android
@@ -212,4 +212,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-mix-and-match-the-ultimate-list-of-8-video-and-photo-merging-tools/"><u>New 2024 Approved Mix and Match The Ultimate List of 8 Video and Photo Merging Tools</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-x-fold-2-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo X Fold 2 Device</u></a></li>
 </ul></div>
+
 

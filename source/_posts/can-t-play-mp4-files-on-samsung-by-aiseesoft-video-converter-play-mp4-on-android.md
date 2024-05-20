@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Samsung 
-date: 2024-04-30T19:40:25.141Z
+date: 2024-05-19T17:46:50.920Z
 tags: 
   - mp4 video
   - mp4 android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xr-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XR</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-motorola-edge-40-neo-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Motorola Edge 40 Neo Location | Dr.fone</u></a></li>
 </ul></div>
+
 

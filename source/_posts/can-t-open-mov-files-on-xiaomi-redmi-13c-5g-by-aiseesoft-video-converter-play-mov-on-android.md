@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Xiaomi Redmi 13C 5G
-date: 2024-04-30T19:40:14.482Z
+date: 2024-05-19T17:46:50.823Z
 tags: 
   - mov video
   - mov android
@@ -163,4 +163,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-repair-ios-of-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of iPhone 11 Pro Max? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-itel-p55-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Itel P55 5G by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

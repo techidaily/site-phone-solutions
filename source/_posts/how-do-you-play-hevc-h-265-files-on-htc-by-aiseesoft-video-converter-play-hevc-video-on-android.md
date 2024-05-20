@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on HTC ?
-date: 2024-04-30T19:44:18.532Z
+date: 2024-05-19T17:46:52.599Z
 tags: 
   - hevc video
   - hevc android
@@ -180,4 +180,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-can-oneplus-nord-ce-3-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can OnePlus Nord CE 3 5GMirror Share to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

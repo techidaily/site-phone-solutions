@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Nokia C12? | Dr.fone
-date: 2024-04-30T19:52:45.892Z
-updated: 2024-05-01T19:52:45.892Z
+date: 2024-05-19T17:46:58.165Z
+updated: 2024-05-20T17:46:58.165Z
 tags: 
   - reset
 categories:
@@ -463,4 +463,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oppo-reno-11-pro-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Oppo Reno 11 Pro 5G? Try These Fixes</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-complete-guide-to-make-an-intro-video/"><u>Updated In 2024, Complete Guide to Make an Intro Video</u></a></li>
 </ul></div>
+
 

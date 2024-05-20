@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Edge 40
-date: 2024-04-30T19:40:08.747Z
+date: 2024-05-19T17:46:50.774Z
 tags: 
   - mov video
   - mov android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-voice-text-to-speech-for-2024/"><u>What Is AI Voice Text to Speech for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-90-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor 90 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

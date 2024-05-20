@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your OnePlus 12R Hard Reset | Dr.fone
-date: 2024-04-30T19:49:10.664Z
-updated: 2024-05-01T19:49:10.664Z
+date: 2024-05-19T17:46:55.584Z
+updated: 2024-05-20T17:46:55.584Z
 tags: 
   - reset
 categories:
@@ -460,4 +460,5 @@ This concludes our article on five ways to hard reset OnePlus 12R phones. You mi
 <li><a href="https://ai-video.techidaily.com/2024-approved-translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>2024 Approved Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-zte-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from ZTE Devices</u></a></li>
 </ul></div>
+
 

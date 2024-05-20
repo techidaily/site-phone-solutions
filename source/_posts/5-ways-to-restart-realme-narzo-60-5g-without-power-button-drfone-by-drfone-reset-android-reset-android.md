@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme Narzo 60 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:45.828Z
-updated: 2024-05-01T19:51:45.828Z
+date: 2024-05-19T17:46:57.452Z
+updated: 2024-05-20T17:46:57.452Z
 tags: 
   - reset
 categories:
@@ -483,4 +483,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-facebook-video-aspect-ratios-101-a-beginners-guide-to-perfection/"><u>Updated Facebook Video Aspect Ratios 101 A Beginners Guide to Perfection</u></a></li>
 <li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-galaxy-f54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Galaxy F54 5G</u></a></li>
 </ul></div>
+
 

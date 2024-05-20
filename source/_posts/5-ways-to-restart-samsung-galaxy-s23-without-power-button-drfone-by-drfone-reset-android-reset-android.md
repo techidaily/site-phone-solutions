@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy S23 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:52.227Z
-updated: 2024-05-01T19:51:52.228Z
+date: 2024-05-19T17:46:57.543Z
+updated: 2024-05-20T17:46:57.543Z
 tags: 
   - reset
 categories:
@@ -545,4 +545,5 @@ Now that you know how to reset a Samsung Galaxy S23 phone that is locked and how
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-reno-10-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Reno 10 Pro+ 5G Location | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
+
 

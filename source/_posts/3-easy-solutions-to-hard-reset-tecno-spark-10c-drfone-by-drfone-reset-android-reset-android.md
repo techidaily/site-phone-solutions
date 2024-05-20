@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Tecno Spark 10C | Dr.fone
-date: 2024-04-30T19:47:19.863Z
-updated: 2024-05-01T19:47:19.863Z
+date: 2024-05-19T17:46:54.337Z
+updated: 2024-05-20T17:46:54.337Z
 tags: 
   - reset
 categories:
@@ -490,4 +490,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oneplus-ace-2vmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can OnePlus Ace 2VMirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-t2x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo T2x 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy S23 has native MKV support?
-date: 2024-04-30T19:42:00.759Z
+date: 2024-05-19T17:46:51.595Z
 tags: 
   - mkv video
   - mkv android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-topics.techidaily.com/updated-in-2024-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated In 2024, Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-mix-fold-3-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Mix Fold 3 System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

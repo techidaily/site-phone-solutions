@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia C12 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:27.855Z
-updated: 2024-05-01T19:51:27.855Z
+date: 2024-05-19T17:46:57.228Z
+updated: 2024-05-20T17:46:57.228Z
 tags: 
   - reset
 categories:
@@ -467,4 +467,5 @@ Now that you know how to hard reset Nokia C12 Pro it is time to implement all th
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-v27-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo V27 without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-a34-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy A34 5G Device SIM</u></a></li>
 </ul></div>
+
 

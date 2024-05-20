@@ -1,6 +1,6 @@
 ---
 title: Failed to play MOV movies on Redmi Note 12 Pro 4G
-date: 2024-04-30T19:43:42.620Z
+date: 2024-05-19T17:46:52.257Z
 tags: 
   - mov video
   - mov android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-ace-2v-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Ace 2V for Free? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-y36-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y36 Lock Screen Password</u></a></li>
 </ul></div>
+
 

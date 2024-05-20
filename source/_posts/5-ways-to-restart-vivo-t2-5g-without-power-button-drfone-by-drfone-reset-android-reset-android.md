@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo T2 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:00.098Z
-updated: 2024-05-01T19:52:00.098Z
+date: 2024-05-19T17:46:57.659Z
+updated: 2024-05-20T17:46:57.659Z
 tags: 
   - reset
 categories:
@@ -570,4 +570,5 @@ Vivo T2 5Gis a famous brand that serves a large number of consumers worldwide. I
 <li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-infinix-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Infinix</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-in-depth-study-of-cartoon-painting-starts-from-learning-to-draw-it/"><u>New In 2024, In-Depth Study of Cartoon Painting Starts From Learning to Draw It</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Razr 40 Ultra Without Power Button | Dr.fone
-date: 2024-04-30T19:51:26.534Z
-updated: 2024-05-01T19:51:26.534Z
+date: 2024-05-19T17:46:57.218Z
+updated: 2024-05-20T17:46:57.218Z
 tags: 
   - reset
 categories:
@@ -505,4 +505,5 @@ The above given are multiple options that can be used for resetting your Motorol
 <li><a href="https://change-location.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Vivo V29e | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-vivo-s17-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Vivo S17 Pro Phone</u></a></li>
 </ul></div>
+
 

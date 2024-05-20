@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Motorola Moto G 5G (2023)?
-date: 2024-04-30T19:44:20.325Z
+date: 2024-05-19T17:46:52.609Z
 tags: 
   - hevc video
   - hevc android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Others ios devices? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mastering-compressor-a-step-by-step-guide-for-final-cut-pro-x/"><u>Updated In 2024, Mastering Compressor A Step-by-Step Guide for Final Cut Pro X</u></a></li>
 </ul></div>
+
 

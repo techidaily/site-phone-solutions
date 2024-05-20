@@ -1,6 +1,6 @@
 ---
 title: Does 14 Pro has native HEVC support?
-date: 2024-04-30T19:41:50.825Z
+date: 2024-05-19T17:46:51.505Z
 tags: 
   - hevc video
   - hevc android
@@ -180,4 +180,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-soft-reset-vivo-t2x-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo T2x 5G phone? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-tecno-spark-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Tecno Spark 20 | Dr.fone</u></a></li>
 </ul></div>
+
 

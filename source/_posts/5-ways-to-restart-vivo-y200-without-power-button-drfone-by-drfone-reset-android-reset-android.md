@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y200 Without Power Button | Dr.fone
-date: 2024-04-30T19:52:04.791Z
-updated: 2024-05-01T19:52:04.791Z
+date: 2024-05-19T17:46:57.697Z
+updated: 2024-05-20T17:46:57.697Z
 tags: 
   - reset
 categories:
@@ -469,4 +469,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-steps-to-create-gold-text-effects-after-effects/"><u>Updated 2024 Approved Steps to Create Gold Text Effects After Effects</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-top-22-free-video-editing-software/"><u>New Top 22 Free Video Editing Software</u></a></li>
 </ul></div>
+
 

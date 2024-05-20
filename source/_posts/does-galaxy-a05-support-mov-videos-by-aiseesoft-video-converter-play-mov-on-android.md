@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy A05 support MOV videos ?
-date: 2024-04-30T19:41:55.379Z
+date: 2024-05-19T17:46:51.566Z
 tags: 
   - mov video
   - mov android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Without Losing Anything? | Dr.fone</u></a></li>
 </ul></div>
+
 

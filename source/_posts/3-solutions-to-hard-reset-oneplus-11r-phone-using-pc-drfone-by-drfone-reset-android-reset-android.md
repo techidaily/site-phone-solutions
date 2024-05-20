@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset OnePlus 11R Phone Using PC | Dr.fone
-date: 2024-04-30T19:48:02.163Z
-updated: 2024-05-01T19:48:02.164Z
+date: 2024-05-19T17:46:54.733Z
+updated: 2024-05-20T17:46:54.733Z
 tags: 
   - reset
 categories:
@@ -451,4 +451,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://animation-videos.techidaily.com/ways-to-create-an-adobe-collage/"><u>Ways to Create an Adobe Collage</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-is-ipogo-not-working-on-realme-c67-4g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Realme C67 4G? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Does Razr 40 Ultra support MOV videos ?
-date: 2024-04-30T19:42:26.228Z
+date: 2024-05-19T17:46:51.777Z
 tags: 
   - mov video
   - mov android
@@ -190,4 +190,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-x-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone X & iPad Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Does Moto G84 5G support AVCHD video?
-date: 2024-04-30T19:42:10.466Z
-updated: 2024-05-01T19:42:10.466Z
+date: 2024-05-19T17:46:51.652Z
+updated: 2024-05-20T17:46:51.652Z
 tags: 
   - mts video
   - mts android
@@ -194,4 +194,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/why-your-xiaomi-civi-3-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Civi 3 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-13c-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi 13C Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

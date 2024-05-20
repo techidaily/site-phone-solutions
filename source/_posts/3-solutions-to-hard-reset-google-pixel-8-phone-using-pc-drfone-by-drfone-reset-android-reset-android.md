@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Google Pixel 8 Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:37.718Z
-updated: 2024-05-01T19:47:37.718Z
+date: 2024-05-19T17:46:54.505Z
+updated: 2024-05-20T17:46:54.505Z
 tags: 
   - reset
 categories:
@@ -424,4 +424,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-f23-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo F23 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-splitting-audio-from-a-video-in-sony-vegas-step-by-step/"><u>Updated In 2024, Splitting Audio From a Video in Sony Vegas Step by Step</u></a></li>
 </ul></div>
+
 

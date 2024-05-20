@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Lava Yuva 2? | Dr.fone
-date: 2024-04-30T19:52:39.668Z
-updated: 2024-05-01T19:52:39.668Z
+date: 2024-05-19T17:46:58.094Z
+updated: 2024-05-20T17:46:58.094Z
 tags: 
   - reset
 categories:
@@ -456,4 +456,5 @@ Now that you know how to reset a Lava Yuva 2 phone that is locked and how to use
 <li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 11 Pro Without Data Loss? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-a79-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo A79 5G FRP Without Computer</u></a></li>
 </ul></div>
+
 

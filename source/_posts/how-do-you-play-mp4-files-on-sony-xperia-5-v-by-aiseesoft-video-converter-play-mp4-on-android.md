@@ -1,7 +1,7 @@
 ---
 title: How do you play MP4 files on Sony Xperia 5 V?
-date: 2024-04-30T19:44:52.571Z
-updated: 2024-05-01T19:44:52.571Z
+date: 2024-05-19T17:46:52.829Z
+updated: 2024-05-20T17:46:52.829Z
 tags: 
   - mp4 video
   - mp4 android
@@ -212,4 +212,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-oppo-reno-10-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Oppo Reno 10 5G to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-s18-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo S18 Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Sony Xperia 10 V Without Power Button | Dr.fone
-date: 2024-04-30T19:51:54.131Z
-updated: 2024-05-01T19:51:54.131Z
+date: 2024-05-19T17:46:57.557Z
+updated: 2024-05-20T17:46:57.557Z
 tags: 
   - reset
 categories:
@@ -446,4 +446,5 @@ The above given are multiple options that can be used for resetting your Sony Xp
 <li><a href="https://unlock-android.techidaily.com/unlock-vivo-v30-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo V30 Phone Password Without Factory Reset Full Guide Here</u></a></li>
 <li><a href="https://howto.techidaily.com/calls-on-htc-u23-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on HTC U23 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

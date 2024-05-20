@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from 13 Ultra
-date: 2024-04-30T19:53:59.636Z
+date: 2024-05-19T17:46:59.029Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -194,4 +194,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-asus-rog-phone-7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Asus ROG Phone 7 to iPhone | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y28-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y28 5G</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Defy 2 ?
-date: 2024-04-30T19:44:36.977Z
+date: 2024-05-19T17:46:52.702Z
 tags: 
   - mov video
   - mov android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-can-you-get-vhs-filter-and-glitch-filter-to-your-images-or-videos/"><u>2024 Approved How Can You Get VHS Filter and Glitch Filter to Your Images or Videos?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-motorola-razr-40-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Motorola Razr 40 Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

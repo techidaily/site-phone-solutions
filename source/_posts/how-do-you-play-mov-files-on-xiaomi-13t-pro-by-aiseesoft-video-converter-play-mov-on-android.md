@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Xiaomi 13T Pro ?
-date: 2024-04-30T19:44:43.008Z
+date: 2024-05-19T17:46:52.732Z
 tags: 
   - mov video
   - mov android
@@ -186,4 +186,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/updated-how-to-make-well-done-animated-gif-by-yourself-in-2024/"><u>Updated How to Make Well Done Animated GIF By Yourself, In 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-make-stunning-glitch-effect-in-photoshop-ultimate-guide/"><u>2024 Approved How to Make Stunning Glitch Effect in Photoshop? Ultimate Guide</u></a></li>
 </ul></div>
+
 

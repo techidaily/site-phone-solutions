@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi Note 12T Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:52:12.518Z
-updated: 2024-05-01T19:52:12.518Z
+date: 2024-05-19T17:46:57.801Z
+updated: 2024-05-20T17:46:57.801Z
 tags: 
   - reset
 categories:
@@ -445,4 +445,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-13-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 13 Activation Lock</u></a></li>
 <li><a href="https://change-location.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
+
 

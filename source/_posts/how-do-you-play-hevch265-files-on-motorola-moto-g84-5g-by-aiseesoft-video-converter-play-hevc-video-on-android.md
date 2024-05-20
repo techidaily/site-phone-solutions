@@ -1,7 +1,7 @@
 ---
 title: How do you play HEVC/H.265 files on Motorola Moto G84 5G?
-date: 2024-04-30T19:44:27.659Z
-updated: 2024-05-01T19:44:27.659Z
+date: 2024-05-19T17:46:52.649Z
+updated: 2024-05-20T17:46:52.649Z
 tags: 
   - hevc video
   - hevc android
@@ -197,4 +197,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-razr-40-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Razr 40 Ultra to iPhone | Dr.fone</u></a></li>
 </ul></div>
+
 

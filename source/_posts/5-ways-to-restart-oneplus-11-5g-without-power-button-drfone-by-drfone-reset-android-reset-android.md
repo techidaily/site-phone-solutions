@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart OnePlus 11 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:30.934Z
-updated: 2024-05-01T19:51:30.934Z
+date: 2024-05-19T17:46:57.300Z
+updated: 2024-05-20T17:46:57.300Z
 tags: 
   - reset
 categories:
@@ -522,4 +522,5 @@ These are all methods for unlocking OnePlus 11 5G hard reset. It is possible to 
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-y17s-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y17s Lock Screen Clock in Seconds</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-8-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone 8 Swipe-Up? Try These 11 Solutions</u></a></li>
 </ul></div>
+
 

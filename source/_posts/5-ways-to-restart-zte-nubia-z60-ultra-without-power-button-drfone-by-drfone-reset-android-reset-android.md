@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart ZTE Nubia Z60 Ultra Without Power Button | Dr.fone
-date: 2024-04-30T19:52:13.850Z
-updated: 2024-05-01T19:52:13.850Z
+date: 2024-05-19T17:46:57.811Z
+updated: 2024-05-20T17:46:57.811Z
 tags: 
   - reset
 categories:
@@ -427,4 +427,5 @@ Resetting an ZTE Nubia Z60 Ultra phone can be tricky sometimes; therefore, it sh
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-realme-c67-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Realme C67 5G? | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Tecno Pop 7 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

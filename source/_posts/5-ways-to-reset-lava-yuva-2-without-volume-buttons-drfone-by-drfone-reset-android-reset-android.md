@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Lava Yuva 2 Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:50:13.640Z
-updated: 2024-05-01T19:50:13.640Z
+date: 2024-05-19T17:46:56.319Z
+updated: 2024-05-20T17:46:56.319Z
 tags: 
   - reset
 categories:
@@ -506,4 +506,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

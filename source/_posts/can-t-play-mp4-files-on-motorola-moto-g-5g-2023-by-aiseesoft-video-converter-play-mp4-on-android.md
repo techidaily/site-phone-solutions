@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Motorola Moto G 5G (2023)
-date: 2024-04-30T19:40:24.204Z
+date: 2024-05-19T17:46:50.915Z
 tags: 
   - mp4 video
   - mp4 android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-want-to-make-a-slide-show-video-heres-how/"><u>In 2024, Want to Make a Slide Show Video? Heres How</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-vivo-y56-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Vivo Y56 5G Phone Hassle-Free</u></a></li>
 </ul></div>
+
 

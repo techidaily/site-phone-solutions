@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on Redmi 12 ?
-date: 2024-04-30T19:44:03.847Z
+date: 2024-05-19T17:46:52.479Z
 tags: 
   - mov video
   - mov android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-honor-90-lite-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor 90 Lite Back to Operation | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-12-pro-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme 12 Pro 5G</u></a></li>
 </ul></div>
+
 

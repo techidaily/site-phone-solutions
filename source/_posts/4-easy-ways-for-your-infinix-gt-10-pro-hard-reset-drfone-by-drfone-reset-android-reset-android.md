@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Infinix GT 10 Pro Hard Reset | Dr.fone
-date: 2024-04-30T19:48:53.167Z
-updated: 2024-05-01T19:48:53.167Z
+date: 2024-05-19T17:46:55.355Z
+updated: 2024-05-20T17:46:55.355Z
 tags: 
   - reset
 categories:
@@ -463,4 +463,5 @@ The above given are multiple options that can be used for resetting your Infinix
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-add-effects-in-premiere-pro/"><u>New In 2024, How to Add Effects in Premiere Pro</u></a></li>
 <li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo</u></a></li>
 </ul></div>
+
 

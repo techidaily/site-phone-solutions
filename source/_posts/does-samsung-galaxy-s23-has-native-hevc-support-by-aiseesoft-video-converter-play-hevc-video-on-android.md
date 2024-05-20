@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy S23 has native HEVC support?
-date: 2024-04-30T19:42:37.888Z
+date: 2024-05-19T17:46:51.841Z
 tags: 
   - hevc video
   - hevc android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-hot-40-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Hot 40 Pro FRP Bypass</u></a></li>
 </ul></div>
+
 

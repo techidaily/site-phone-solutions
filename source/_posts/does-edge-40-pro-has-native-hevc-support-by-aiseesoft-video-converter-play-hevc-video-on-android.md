@@ -1,6 +1,6 @@
 ---
 title: Does Edge 40 Pro has native HEVC support?
-date: 2024-04-30T19:41:53.291Z
+date: 2024-05-19T17:46:51.515Z
 tags: 
   - hevc video
   - hevc android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-find-n3-flip-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo Find N3 Flip to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-can-we-bypass-motorola-moto-g73-5g-frp-by-drfone-android/"><u>How Can We Bypass Motorola Moto G73 5G FRP?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8 Plus? | Dr.fone
-date: 2024-04-30T19:52:35.149Z
-updated: 2024-05-01T19:52:35.149Z
+date: 2024-05-19T17:46:58.071Z
+updated: 2024-05-20T17:46:58.071Z
 tags: 
   - reset
 categories:
@@ -425,4 +425,5 @@ Resetting an Infinix Smart 8 Plus phone can be tricky sometimes; therefore, it s
 <li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-asus-rog-phone-8-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Asus ROG Phone 8 Pro?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy XCover 7 Phone</u></a></li>
 </ul></div>
+
 

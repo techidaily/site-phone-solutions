@@ -1,6 +1,6 @@
 ---
 title: A78 support - Forgotten screen lock.
-date: 2024-04-30T19:52:21.812Z
+date: 2024-05-19T17:46:57.887Z
 tags: 
   - android unlock
   - android devices unlock
@@ -213,4 +213,5 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-blur-background-in-adobe-premiere-pro-detailed-guide/"><u>Updated 2024 Approved How To Blur Background in Adobe Premiere Pro Detailed Guide</u></a></li>
 <li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

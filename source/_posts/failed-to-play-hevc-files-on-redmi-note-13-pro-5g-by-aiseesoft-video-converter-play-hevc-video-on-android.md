@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Redmi Note 13 Pro 5G
-date: 2024-04-30T19:43:25.236Z
+date: 2024-05-19T17:46:52.165Z
 tags: 
   - hevc video
   - hevc android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/1714045194400-edit-videos-on-android-without-watermarks-top-10-free-apps/"><u>Edit Videos on Android without Watermarks Top 10 Free Apps</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v29-pro-lock-screen-password-by-drfone-android/"><u>How To Change Vivo V29 Pro Lock Screen Password?</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: Can you watch MOV movies on Sony  ?
-date: 2024-04-30T19:41:07.000Z
+date: 2024-05-19T17:46:51.176Z
 tags: 
   - mov video
   - mov android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nokia-c300-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nokia C300 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

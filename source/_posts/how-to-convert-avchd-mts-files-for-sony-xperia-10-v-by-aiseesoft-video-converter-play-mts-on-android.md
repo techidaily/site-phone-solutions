@@ -1,7 +1,7 @@
 ---
 title: How to convert AVCHD .mts files for Sony Xperia 10 V?
-date: 2024-04-30T19:45:04.065Z
-updated: 2024-05-01T19:45:04.065Z
+date: 2024-05-19T17:46:52.895Z
+updated: 2024-05-20T17:46:52.895Z
 tags: 
   - mts video
   - mts android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/undelete-lost-messages-from-realme-11-proplus-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme 11 Pro+</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy XCover 7 Phone?</u></a></li>
 </ul></div>
+
 

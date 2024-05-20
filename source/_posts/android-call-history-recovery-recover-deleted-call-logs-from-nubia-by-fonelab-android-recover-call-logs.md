@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Nubia
-date: 2024-04-30T19:54:12.847Z
+date: 2024-05-19T17:46:59.161Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -204,4 +204,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-apple-iphone-12-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About Apple iPhone 12 Activation Lock</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-g22-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia G22 To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

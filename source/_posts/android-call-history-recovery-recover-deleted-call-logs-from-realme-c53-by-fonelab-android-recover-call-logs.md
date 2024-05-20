@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Realme C53
-date: 2024-04-30T19:54:16.266Z
+date: 2024-05-19T17:46:59.197Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -171,4 +171,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-c32-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia C32 FRP Bypass Instantly</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-vivo-s18e-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo S18e Phone that is Locked?</u></a></li>
 </ul></div>
+
 

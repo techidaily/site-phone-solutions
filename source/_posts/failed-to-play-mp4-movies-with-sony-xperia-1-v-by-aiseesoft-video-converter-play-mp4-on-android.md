@@ -1,6 +1,6 @@
 ---
 title: Failed to play MP4 movies with Sony Xperia 1 V
-date: 2024-04-30T19:43:53.576Z
+date: 2024-05-19T17:46:52.340Z
 tags: 
   - mp4 video
   - mp4 android
@@ -193,4 +193,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Infinix Smart 8 Pro</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-12-pro-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 12 Pro with a Broken Screen?</u></a></li>
 </ul></div>
+
 

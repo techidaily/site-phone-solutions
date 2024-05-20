@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Galaxy S23 Ultra
-date: 2024-04-30T19:54:01.772Z
+date: 2024-05-19T17:46:59.060Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -190,4 +190,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-s23plus-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from S23+</u></a></li>
 <li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-moto-g73-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Moto G73 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
+
 

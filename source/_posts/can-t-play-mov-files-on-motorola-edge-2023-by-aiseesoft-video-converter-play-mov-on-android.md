@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Motorola Edge 2023
-date: 2024-04-30T19:40:17.095Z
+date: 2024-05-19T17:46:50.838Z
 tags: 
   - mov video
   - mov android
@@ -210,4 +210,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-11-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 11? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

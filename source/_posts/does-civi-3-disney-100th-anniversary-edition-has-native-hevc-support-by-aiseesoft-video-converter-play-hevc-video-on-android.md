@@ -1,6 +1,6 @@
 ---
 title: Does Civi 3 Disney 100th Anniversary Edition has native HEVC support?
-date: 2024-04-30T19:41:51.602Z
+date: 2024-05-19T17:46:51.508Z
 tags: 
   - hevc video
   - hevc android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-xiaomi-redmi-note-12-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Xiaomi Redmi Note 12 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo T2 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

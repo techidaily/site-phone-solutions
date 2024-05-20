@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Poco C50 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:39.330Z
-updated: 2024-05-01T19:51:39.330Z
+date: 2024-05-19T17:46:57.388Z
+updated: 2024-05-20T17:46:57.388Z
 tags: 
   - reset
 categories:
@@ -425,4 +425,5 @@ Above are some strategies with which you can do an **Poco C50 hard reset**. Howe
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-reno-8t-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Reno 8T 5G without Anyone Knowing | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Max with a Mask On</u></a></li>
 </ul></div>
+
 

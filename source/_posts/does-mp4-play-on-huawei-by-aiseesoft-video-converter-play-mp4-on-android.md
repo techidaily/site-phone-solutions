@@ -1,6 +1,6 @@
 ---
 title: Does MP4 play on Huawei ?
-date: 2024-04-30T19:42:18.968Z
+date: 2024-05-19T17:46:51.696Z
 tags: 
   - mp4 video
   - mp4 android
@@ -214,4 +214,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oneplus-ace-2-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from OnePlus Ace 2 Pro to iPhone | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Tecno Camon 20 | Dr.fone</u></a></li>
 </ul></div>
+
 

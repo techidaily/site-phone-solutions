@@ -1,6 +1,6 @@
 ---
 title: Can you watch MOV movies on Sony Xperia 1 V ?
-date: 2024-04-30T19:41:07.187Z
+date: 2024-05-19T17:46:51.177Z
 tags: 
   - mov video
   - mov android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g14-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G14 Screen to PC Using WiFi | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-x90s-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Vivo X90S</u></a></li>
 </ul></div>
+
 

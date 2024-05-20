@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y36i Without Power Button | Dr.fone
-date: 2024-04-30T19:52:06.271Z
-updated: 2024-05-01T19:52:06.271Z
+date: 2024-05-19T17:46:57.753Z
+updated: 2024-05-20T17:46:57.753Z
 tags: 
   - reset
 categories:
@@ -468,4 +468,5 @@ Now that you know how to reset a Vivo Y36i phone that is locked and how to use V
 <li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-motorola-g24-power-by-drfone-android/"><u>Top 10 Password Cracking Tools For Motorola G24 Power</u></a></li>
 <li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y200-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y200? Here is How | Dr.fone</u></a></li>
 </ul></div>
+
 

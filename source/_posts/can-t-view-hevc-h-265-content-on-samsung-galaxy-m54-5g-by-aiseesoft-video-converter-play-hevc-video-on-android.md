@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Samsung Galaxy M54 5G
-date: 2024-04-30T19:40:35.448Z
+date: 2024-05-19T17:46:50.977Z
 tags: 
   - hevc video
   - hevc android
@@ -206,4 +206,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-105-classic-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia 105 Classic with and without jailbreak | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-play-40c-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor Play 40C is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

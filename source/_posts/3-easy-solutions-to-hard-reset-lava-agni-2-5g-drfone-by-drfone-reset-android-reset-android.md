@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T19:46:42.845Z
-updated: 2024-05-01T19:46:42.845Z
+date: 2024-05-19T17:46:54.022Z
+updated: 2024-05-20T17:46:54.022Z
 tags: 
   - reset
 categories:
@@ -511,4 +511,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/how-to-generate-speech-from-text-the-top-text-to-speech-converters-for-2024/"><u>How To Generate Speech From Text | The Top Text-to-Speech Converters for 2024</u></a></li>
 </ul></div>
+
 

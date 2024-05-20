@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Vivo Y36 Phone Using PC | Dr.fone
-date: 2024-04-30T19:48:36.957Z
-updated: 2024-05-01T19:48:36.957Z
+date: 2024-05-19T17:46:55.129Z
+updated: 2024-05-20T17:46:55.129Z
 tags: 
   - reset
 categories:
@@ -398,4 +398,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://techidaily.com/hard-resetting-an-honor-x50-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X50 Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

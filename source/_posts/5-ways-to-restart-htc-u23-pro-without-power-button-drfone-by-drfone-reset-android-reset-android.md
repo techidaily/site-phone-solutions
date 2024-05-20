@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart HTC U23 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:13.022Z
-updated: 2024-05-01T19:51:13.022Z
+date: 2024-05-19T17:46:56.998Z
+updated: 2024-05-20T17:46:56.998Z
 tags: 
   - reset
 categories:
@@ -535,4 +535,5 @@ Now that you know how to hard reset HTC U23 Pro it is time to implement all the 
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-c33-2023-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme C33 2023</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-best-10-popular-cartoons-you-forgot-existed/"><u>Updated In 2024, Best 10 Popular Cartoons You Forgot Existed</u></a></li>
 </ul></div>
+
 

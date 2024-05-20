@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Xiaomi Redmi A2+?
-date: 2024-04-30T19:40:07.423Z
+date: 2024-05-19T17:46:50.766Z
 tags: 
   - mts video
   - mts android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nubia-red-magic-9-proplus-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nubia Red Magic 9 Pro+ to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-lenovo-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Lenovo Is Unlocked</u></a></li>
 </ul></div>
+
 

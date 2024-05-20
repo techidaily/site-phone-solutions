@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Oppo A56s 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:34.513Z
-updated: 2024-05-01T19:51:34.513Z
+date: 2024-05-19T17:46:57.326Z
+updated: 2024-05-20T17:46:57.326Z
 tags: 
   - reset
 categories:
@@ -477,4 +477,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-tecno-spark-20-pro-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Tecno Spark 20 Pro? Here Are All Fixes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi Note 12 Pro+ 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

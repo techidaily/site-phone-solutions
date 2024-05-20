@@ -1,6 +1,6 @@
 ---
 title: Complete guide for recovering music files on Infinix Smart 7 HD
-date: 2024-04-30T19:41:32.792Z
+date: 2024-05-19T17:46:51.367Z
 tags: 
   - android data recovery
   - android devices music recovery
@@ -147,4 +147,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/how-can-motorola-moto-e13mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Motorola Moto E13Mirror Share to PC? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y78t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y78t Hard Reset | Dr.fone</u></a></li>
 </ul></div>
+
 

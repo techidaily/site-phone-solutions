@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on 13T
-date: 2024-04-30T19:43:18.406Z
+date: 2024-05-19T17:46:52.127Z
 tags: 
   - hevc video
   - hevc android
@@ -196,4 +196,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-realme-c51-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Realme C51 Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

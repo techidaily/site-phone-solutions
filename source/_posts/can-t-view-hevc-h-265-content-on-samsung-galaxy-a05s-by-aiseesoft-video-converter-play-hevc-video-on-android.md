@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Samsung Galaxy A05s
-date: 2024-04-30T19:40:34.889Z
+date: 2024-05-19T17:46:50.974Z
 tags: 
   - hevc video
   - hevc android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/top-7-mp4-video-editors-on-mac-edit-mp4-videos-easily/"><u>Top 7 MP4 Video Editors on Mac Edit MP4 Videos Easily</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-gt-10-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix GT 10 Pro</u></a></li>
 </ul></div>
+
 

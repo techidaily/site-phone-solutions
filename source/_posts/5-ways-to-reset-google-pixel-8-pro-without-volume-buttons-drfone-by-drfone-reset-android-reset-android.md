@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Google Pixel 8 Pro Without Volume Buttons | Dr.fone
-date: 2024-04-30T19:49:58.808Z
-updated: 2024-05-01T19:49:58.808Z
+date: 2024-05-19T17:46:56.186Z
+updated: 2024-05-20T17:46:56.186Z
 tags: 
   - reset
 categories:
@@ -482,4 +482,5 @@ Now that you know how to reset a Google Pixel 8 Pro phone that is locked and how
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-s24plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy S24+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2013-files-on-mac-complete-guide-stellar-by-stellar-guide/"><u>How to Recover Deleted Excel 2013 Files on Mac Complete Guide | Stellar</u></a></li>
 </ul></div>
+
 

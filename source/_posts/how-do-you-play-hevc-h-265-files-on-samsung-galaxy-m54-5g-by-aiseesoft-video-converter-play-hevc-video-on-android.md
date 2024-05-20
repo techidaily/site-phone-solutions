@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Samsung Galaxy M54 5G?
-date: 2024-04-30T19:44:23.709Z
+date: 2024-05-19T17:46:52.627Z
 tags: 
   - hevc video
   - hevc android
@@ -183,4 +183,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-y78plus-t1-edition-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo Y78+ (T1) Edition FRP Bypass</u></a></li>
 </ul></div>
+
 

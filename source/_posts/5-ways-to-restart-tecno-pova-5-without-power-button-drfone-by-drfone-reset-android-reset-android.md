@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Pova 5 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:56.332Z
-updated: 2024-05-01T19:51:56.332Z
+date: 2024-05-19T17:46:57.579Z
+updated: 2024-05-20T17:46:57.579Z
 tags: 
   - reset
 categories:
@@ -492,4 +492,5 @@ Above are some strategies with which you can do an **Tecno Pova 5 hard reset**. 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-6s-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 6s Plus? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-oneplus-12-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on OnePlus 12 – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
+
 

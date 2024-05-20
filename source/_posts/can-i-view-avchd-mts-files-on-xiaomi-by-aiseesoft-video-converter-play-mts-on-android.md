@@ -1,7 +1,7 @@
 ---
 title: Can I view AVCHD .mts files on Xiaomi ?
-date: 2024-04-30T19:40:06.854Z
-updated: 2024-05-01T19:40:06.854Z
+date: 2024-05-19T17:46:50.763Z
+updated: 2024-05-20T17:46:50.763Z
 tags: 
   - mts video
   - mts android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-edge-40-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Edge 40</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-infinix-smart-8-plus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Infinix Smart 8 Plus Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 

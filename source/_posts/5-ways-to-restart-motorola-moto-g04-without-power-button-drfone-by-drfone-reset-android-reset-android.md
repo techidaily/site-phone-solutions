@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G04 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:25.009Z
-updated: 2024-05-01T19:51:25.009Z
+date: 2024-05-19T17:46:57.207Z
+updated: 2024-05-20T17:46:57.207Z
 tags: 
   - reset
 categories:
@@ -432,4 +432,5 @@ Above are some strategies with which you can do an **Motorola Moto G04 hard rese
 <li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-s17-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo S17 Pro</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

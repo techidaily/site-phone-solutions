@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Lava Yuva 2 Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:52.433Z
-updated: 2024-05-01T19:47:52.433Z
+date: 2024-05-19T17:46:54.633Z
+updated: 2024-05-20T17:46:54.633Z
 tags: 
   - reset
 categories:
@@ -426,4 +426,5 @@ Now that you know how to hard reset Lava Yuva 2 it is time to implement all the 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-x-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone X in Minutes with ICCID Code Everything You Need to Know</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-10cfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 10CFRP Lock</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Sony Xperia 1 V ?
-date: 2024-04-30T19:44:42.245Z
+date: 2024-05-19T17:46:52.729Z
 tags: 
   - mov video
   - mov android
@@ -189,4 +189,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://animation-videos.techidaily.com/new-how-to-make-animation-characters-with-the-best-character-creators-for-2024/"><u>New How to Make Animation Characters with the Best Character Creators for 2024</u></a></li>
 <li><a href="https://techidaily.com/how-to-hard-reset-poco-m6-pro-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco M6 Pro 4G Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

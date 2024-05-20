@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Xiaomi Redmi Note 12 Pro 4G?
-date: 2024-04-30T19:40:07.800Z
+date: 2024-05-19T17:46:50.768Z
 tags: 
   - mts video
   - mts android
@@ -154,4 +154,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/gmail-not-working-on-realme-narzo-n55-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Realme Narzo N55 7 Common Problems & Fixes | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic Vs 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

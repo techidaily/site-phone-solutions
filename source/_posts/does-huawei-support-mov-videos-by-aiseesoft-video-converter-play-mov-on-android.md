@@ -1,6 +1,6 @@
 ---
 title: Does Huawei support MOV videos ?
-date: 2024-04-30T19:42:07.513Z
+date: 2024-05-19T17:46:51.637Z
 tags: 
   - mov video
   - mov android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-a18-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo A18 to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Does Xiaomi Redmi 13C 5G has native HEVC support?
-date: 2024-04-30T19:42:47.475Z
-updated: 2024-05-01T19:42:47.475Z
+date: 2024-05-19T17:46:51.889Z
+updated: 2024-05-20T17:46:51.889Z
 tags: 
   - hevc video
   - hevc android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-y17s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo Y17s to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+
 

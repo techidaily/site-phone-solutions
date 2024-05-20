@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Poco F5 Pro 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:40.305Z
-updated: 2024-05-01T19:51:40.305Z
+date: 2024-05-19T17:46:57.408Z
+updated: 2024-05-20T17:46:57.408Z
 tags: 
   - reset
 categories:
@@ -451,4 +451,5 @@ Now that you know how to hard reset Poco F5 Pro 5G it is time to implement all t
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-special-animated-transition-tutorialsuper-easy/"><u>In 2024, Special Animated Transition Tutorial【SUPER EASY】</u></a></li>
 <li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y36 | Dr.fone</u></a></li>
 </ul></div>
+
 

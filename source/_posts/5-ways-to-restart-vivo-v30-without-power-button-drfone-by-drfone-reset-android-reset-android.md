@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo V30 Without Power Button | Dr.fone
-date: 2024-04-30T19:52:02.038Z
-updated: 2024-05-01T19:52:02.038Z
+date: 2024-05-19T17:46:57.672Z
+updated: 2024-05-20T17:46:57.672Z
 tags: 
   - reset
 categories:
@@ -455,4 +455,5 @@ Now that you know how to reset a Vivo V30 phone that is locked and how to use Vi
 <li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Itel P40? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-k11-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo K11 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

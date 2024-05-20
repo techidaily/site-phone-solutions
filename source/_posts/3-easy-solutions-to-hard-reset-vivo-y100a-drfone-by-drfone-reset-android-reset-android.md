@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Vivo Y100A | Dr.fone
-date: 2024-04-30T19:47:26.368Z
-updated: 2024-05-01T19:47:26.368Z
+date: 2024-05-19T17:46:54.383Z
+updated: 2024-05-20T17:46:54.383Z
 tags: 
   - reset
 categories:
@@ -406,4 +406,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 12 Pro 5G Photos  An Easy Method Explained.</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 Pro System? | Dr.fone</u></a></li>
 </ul></div>
+
 

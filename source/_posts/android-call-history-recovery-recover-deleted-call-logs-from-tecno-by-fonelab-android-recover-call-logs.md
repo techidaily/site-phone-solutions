@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Tecno
-date: 2024-04-30T19:54:20.248Z
-updated: 2024-05-01T19:54:20.248Z
+date: 2024-05-19T17:46:59.219Z
+updated: 2024-05-20T17:46:59.219Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -180,4 +180,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Find X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-adobe-premiere-essentials-top-20-free-title-and-intro-templates/"><u>New 2024 Approved Adobe Premiere Essentials Top 20 Free Title and Intro Templates</u></a></li>
 </ul></div>
+
 

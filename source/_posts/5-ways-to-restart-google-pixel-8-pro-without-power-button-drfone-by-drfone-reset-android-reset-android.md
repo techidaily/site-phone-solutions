@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Google Pixel 8 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:06.845Z
-updated: 2024-05-01T19:51:06.845Z
+date: 2024-05-19T17:46:56.912Z
+updated: 2024-05-20T17:46:56.912Z
 tags: 
   - reset
 categories:
@@ -398,4 +398,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo S17e? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 15 to Factory Settings? | Dr.fone</u></a></li>
 </ul></div>
+
 

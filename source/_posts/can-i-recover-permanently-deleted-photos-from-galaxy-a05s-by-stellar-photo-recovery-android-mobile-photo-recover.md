@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Galaxy A05s
-date: 2024-04-30T19:40:04.805Z
+date: 2024-05-19T17:46:50.423Z
 tags: 
   - recover
 categories: 
@@ -278,4 +278,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-camon-30-pro-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Camon 30 Pro 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/best-3-infinix-smart-8-hd-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Smart 8 HD Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 </ul></div>
+
 

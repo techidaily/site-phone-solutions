@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor X8b Without Power Button | Dr.fone
-date: 2024-04-30T19:51:12.458Z
-updated: 2024-05-01T19:51:12.458Z
+date: 2024-05-19T17:46:56.981Z
+updated: 2024-05-20T17:46:56.981Z
 tags: 
   - reset
 categories:
@@ -450,4 +450,5 @@ Let's end our guide for the easiest ways to **hard reset Honor X8b**. You can do
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-a05s-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy A05s ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

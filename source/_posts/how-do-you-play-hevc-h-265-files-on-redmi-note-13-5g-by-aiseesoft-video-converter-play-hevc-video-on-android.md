@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Redmi Note 13 5G?
-date: 2024-04-30T19:44:22.196Z
+date: 2024-05-19T17:46:52.619Z
 tags: 
   - hevc video
   - hevc android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-se-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone SE</u></a></li>
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

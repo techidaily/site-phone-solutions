@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Vivo Y36 | Dr.fone
-date: 2024-04-30T19:47:28.438Z
-updated: 2024-05-01T19:47:28.438Z
+date: 2024-05-19T17:46:54.405Z
+updated: 2024-05-20T17:46:54.405Z
 tags: 
   - reset
 categories:
@@ -561,4 +561,5 @@ Vivo Y36is a famous brand that serves a large number of consumers worldwide. If 
 <li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-apply-luts-using-open-broadcaster-software-you-can-download-free-luts-for-obs-and-apply-them-to-your-files-there-are-many-luts-available/"><u>Do You Want to Apply LUTs Using Open Broadcaster Software? You Can Download Free LUTs for OBS and Apply Them to Your Files. There Are Many LUTs Available</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-top-16-motion-blur-apps-for-videos-and-photos/"><u>2024 Approved Top 16 Motion Blur Apps for Videos & Photos</u></a></li>
 </ul></div>
+
 

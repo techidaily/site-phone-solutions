@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy A54 5G has native HEVC support?
-date: 2024-04-30T19:41:57.252Z
+date: 2024-05-19T17:46:51.576Z
 tags: 
   - hevc video
   - hevc android
@@ -158,4 +158,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a58-4g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A58 4G Device SIM</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-storm-5g-frp-by-drfone-android/"><u>How Can We Bypass Lava Storm 5G FRP?</u></a></li>
 </ul></div>
+
 

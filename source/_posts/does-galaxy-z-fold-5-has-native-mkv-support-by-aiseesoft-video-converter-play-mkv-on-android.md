@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy Z Fold 5 has native MKV support?
-date: 2024-04-30T19:42:04.127Z
+date: 2024-05-19T17:46:51.617Z
 tags: 
   - mkv video
   - mkv android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/updated-4-solutions-to-add-white-border-to-video-on-mobile-and-desktop/"><u>Updated 4 Solutions to Add White Border to Video on Mobile and Desktop</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-zte-axon-40-lite-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your ZTE Axon 40 Lite Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Xiaomi Redmi A2?
-date: 2024-04-30T19:44:54.087Z
+date: 2024-05-19T17:46:52.837Z
 tags: 
   - mp4 video
   - mp4 android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y27 5G | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi Redmi 12 5G</u></a></li>
 </ul></div>
+
 

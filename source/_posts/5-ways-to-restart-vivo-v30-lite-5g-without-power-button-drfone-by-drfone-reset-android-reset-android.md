@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo V30 Lite 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:52:01.848Z
-updated: 2024-05-01T19:52:01.848Z
+date: 2024-05-19T17:46:57.671Z
+updated: 2024-05-20T17:46:57.671Z
 tags: 
   - reset
 categories:
@@ -476,4 +476,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-k70e-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi K70E to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-samsung-galaxy-f14-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy F14 5G FRP In 3 Different Ways</u></a></li>
 </ul></div>
+
 

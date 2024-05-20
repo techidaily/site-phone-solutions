@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Camon 20 Premier 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:54.507Z
-updated: 2024-05-01T19:51:54.507Z
+date: 2024-05-19T17:46:57.560Z
+updated: 2024-05-20T17:46:57.560Z
 tags: 
   - reset
 categories:
@@ -503,4 +503,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Lava Yuva 3? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-tecno-pova-5-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Tecno Pova 5 Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

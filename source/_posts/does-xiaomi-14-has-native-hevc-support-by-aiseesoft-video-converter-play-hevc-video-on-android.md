@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi 14 has native HEVC support?
-date: 2024-04-30T19:42:44.275Z
+date: 2024-05-19T17:46:51.875Z
 tags: 
   - hevc video
   - hevc android
@@ -203,4 +203,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-s23-tactical-edition-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy S23 Tactical Edition? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://review-topics.techidaily.com/motorola-data-recovery-recover-lost-data-from-motorola-edge-40-pro-by-fonelab-android-recover-data/"><u>Motorola Data Recovery – recover lost data from Motorola Edge 40 Pro</u></a></li>
 </ul></div>
+
 

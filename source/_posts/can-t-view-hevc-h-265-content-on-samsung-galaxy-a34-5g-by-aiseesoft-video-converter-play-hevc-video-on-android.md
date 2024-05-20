@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Samsung Galaxy A34 5G
-date: 2024-04-30T19:40:35.263Z
+date: 2024-05-19T17:46:50.976Z
 tags: 
   - hevc video
   - hevc android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/recover-apple-iphone-14-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Data From iTunes Backup | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-x7b-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor X7b FRP</u></a></li>
 </ul></div>
+
 

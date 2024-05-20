@@ -1,6 +1,6 @@
 ---
 title: Failed to play MOV movies on Motorola Moto G14
-date: 2024-04-30T19:43:41.273Z
+date: 2024-05-19T17:46:52.251Z
 tags: 
   - mov video
   - mov android
@@ -200,4 +200,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo S17t | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 15</u></a></li>
 </ul></div>
+
 

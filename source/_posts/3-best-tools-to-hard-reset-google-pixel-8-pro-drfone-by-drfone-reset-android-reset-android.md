@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Google Pixel 8 Pro | Dr.fone
-date: 2024-04-30T19:45:21.545Z
-updated: 2024-05-01T19:45:21.545Z
+date: 2024-05-19T17:46:53.014Z
+updated: 2024-05-20T17:46:53.014Z
 tags: 
   - reset
 categories:
@@ -404,4 +404,5 @@ Now that you know how to reset a Google Pixel 8 Pro phone that is locked and how
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-ace-2-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus Ace 2 Pro Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y55s-5g-2023-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y55s 5G (2023) by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

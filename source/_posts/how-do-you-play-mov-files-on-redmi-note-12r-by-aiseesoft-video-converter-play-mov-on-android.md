@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Redmi Note 12R ?
-date: 2024-04-30T19:44:39.993Z
+date: 2024-05-19T17:46:52.718Z
 tags: 
   - mov video
   - mov android
@@ -159,4 +159,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/what-to-do-when-realme-gt-5-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme GT 5 Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-a15-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy A15 5G? Look No Further | Dr.fone</u></a></li>
 </ul></div>
+
 

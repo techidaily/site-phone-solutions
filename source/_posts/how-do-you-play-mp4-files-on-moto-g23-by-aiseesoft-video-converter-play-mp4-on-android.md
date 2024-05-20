@@ -1,7 +1,7 @@
 ---
 title: How do you play MP4 files on Moto G23?
-date: 2024-04-30T19:44:48.587Z
-updated: 2024-05-01T19:44:48.587Z
+date: 2024-05-19T17:46:52.761Z
+updated: 2024-05-20T17:46:52.761Z
 tags: 
   - mp4 video
   - mp4 android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/updated-looking-for-the-ways-by-which-subtitles-can-be-extracted-from-your-mkv-files-without-affecting-the-file-quality-look-no-further-as-we-are-here-to-he/"><u>Updated Looking for the Ways by Which Subtitles Can Be Extracted From Your MKV Files without Affecting the File Quality? Look No Further as We Are Here to Help You Know the Best Tools that Can Easily Extract SRT From MKV</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-12-mini-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 12 mini to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
 </ul></div>
+
 

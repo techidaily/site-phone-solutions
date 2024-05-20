@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme C53 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:43.914Z
-updated: 2024-05-01T19:51:43.914Z
+date: 2024-05-19T17:46:57.434Z
+updated: 2024-05-20T17:46:57.434Z
 tags: 
   - reset
 categories:
@@ -486,4 +486,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme 12 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-poco-c50-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Poco C50 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

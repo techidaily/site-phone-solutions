@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Vivo Y02T? | Dr.fone
-date: 2024-04-30T19:53:21.563Z
-updated: 2024-05-01T19:53:21.563Z
+date: 2024-05-19T17:46:58.452Z
+updated: 2024-05-20T17:46:58.452Z
 tags: 
   - reset
 categories:
@@ -368,4 +368,5 @@ Above are some strategies with which you can do an **Vivo Y02T hard reset**. How
 <li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-samsung-galaxy-m34-5g-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Samsung Galaxy M34 5G Device</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

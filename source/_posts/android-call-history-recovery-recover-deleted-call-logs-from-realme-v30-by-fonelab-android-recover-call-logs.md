@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Realme V30
-date: 2024-04-30T19:54:17.018Z
-updated: 2024-05-01T19:54:17.018Z
+date: 2024-05-19T17:46:59.201Z
+updated: 2024-05-20T17:46:59.201Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -220,4 +220,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://screen-mirror.techidaily.com/how-vivo-v30-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo V30 Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-m34-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy M34 5G for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

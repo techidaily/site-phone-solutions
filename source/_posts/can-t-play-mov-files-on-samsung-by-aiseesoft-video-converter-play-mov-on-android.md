@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Samsung
-date: 2024-04-30T19:40:18.030Z
+date: 2024-05-19T17:46:50.842Z
 tags: 
   - mov video
   - mov android
@@ -199,4 +199,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-11-pro-max-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 11 Pro Max takes time in scanning my iPhone? | Stellar</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-12-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 12 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
 </ul></div>
+
 

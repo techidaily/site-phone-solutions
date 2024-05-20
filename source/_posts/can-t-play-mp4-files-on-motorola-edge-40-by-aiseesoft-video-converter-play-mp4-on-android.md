@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Motorola Edge 40
-date: 2024-04-30T19:40:23.825Z
+date: 2024-05-19T17:46:50.912Z
 tags: 
   - mp4 video
   - mp4 android
@@ -177,4 +177,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/how-to-vlog-a-ultimate-guide-for-beginners/"><u>How to Vlog? A Ultimate Guide for Beginners</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

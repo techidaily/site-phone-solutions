@@ -1,6 +1,6 @@
 ---
 title: Does Xiaomi Redmi A2 support MOV videos ?
-date: 2024-04-30T19:42:48.945Z
+date: 2024-05-19T17:46:51.894Z
 tags: 
   - mov video
   - mov android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 15 Plus | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-sony-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Sony</u></a></li>
 </ul></div>
+
 

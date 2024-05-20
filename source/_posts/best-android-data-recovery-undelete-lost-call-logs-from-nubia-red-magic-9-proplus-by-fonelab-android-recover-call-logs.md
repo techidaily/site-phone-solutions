@@ -1,6 +1,6 @@
 ---
 title: Best Android Data Recovery - undelete lost call logs from Nubia Red Magic 9 Pro+
-date: 2024-04-30T19:55:57.081Z
+date: 2024-05-19T17:46:59.787Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -187,4 +187,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-lava-agni-2-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Lava Agni 2 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-xcover-7-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy XCover 7 To iPhone 15/14/13? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Poco C65 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:39.915Z
-updated: 2024-05-01T19:51:39.915Z
+date: 2024-05-19T17:46:57.405Z
+updated: 2024-05-20T17:46:57.405Z
 tags: 
   - reset
 categories:
@@ -547,4 +547,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone XS Max | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 13 5G Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

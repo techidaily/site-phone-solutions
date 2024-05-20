@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Xiaomi Redmi Note 12T Pro
-date: 2024-04-30T19:40:28.319Z
+date: 2024-05-19T17:46:50.938Z
 tags: 
   - mp4 video
   - mp4 android
@@ -202,4 +202,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-nubia-z50s-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Nubia Z50S Pro by Name | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do I play MKV movies on Samsung Galaxy A05?
-date: 2024-04-30T19:44:12.691Z
+date: 2024-05-19T17:46:52.544Z
 tags: 
   - mkv video
   - mkv android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-tecno-spark-10-pro-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Tecno Spark 10 Pro to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-8-plus-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 8 Plus to PC or Mac | Stellar</u></a></li>
 </ul></div>
+
 

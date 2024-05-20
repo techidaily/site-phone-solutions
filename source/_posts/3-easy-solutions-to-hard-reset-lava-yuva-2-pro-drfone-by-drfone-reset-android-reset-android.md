@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T19:46:44.435Z
-updated: 2024-05-01T19:46:44.435Z
+date: 2024-05-19T17:46:54.042Z
+updated: 2024-05-20T17:46:54.042Z
 tags: 
   - reset
 categories:
@@ -419,4 +419,5 @@ Now that you know how to hard reset Lava Yuva 2 Pro it is time to implement all 
 <li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-a15-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy A15 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-gt-neo-5-se-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme GT Neo 5 SE Phone</u></a></li>
 </ul></div>
+
 

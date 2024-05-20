@@ -1,6 +1,6 @@
 ---
 title: Can't open MOV files on Samsung
-date: 2024-04-30T19:40:12.314Z
+date: 2024-05-19T17:46:50.794Z
 tags: 
   - mov video
   - mov android
@@ -168,4 +168,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-n30-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord N30 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-11r-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus 11R IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

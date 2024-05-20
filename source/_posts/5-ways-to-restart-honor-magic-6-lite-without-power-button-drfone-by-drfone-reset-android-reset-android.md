@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor Magic 6 Lite Without Power Button | Dr.fone
-date: 2024-04-30T19:51:09.509Z
-updated: 2024-05-01T19:51:09.509Z
+date: 2024-05-19T17:46:56.933Z
+updated: 2024-05-20T17:46:56.933Z
 tags: 
   - reset
 categories:
@@ -455,4 +455,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://ai-vdieo-software.techidaily.com/how-to-fast-forward-or-slow-down-videos-in-camtasia/"><u>How to Fast Forward or Slow Down Videos in Camtasia</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-x6-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from X6 Pro</u></a></li>
 </ul></div>
+
 

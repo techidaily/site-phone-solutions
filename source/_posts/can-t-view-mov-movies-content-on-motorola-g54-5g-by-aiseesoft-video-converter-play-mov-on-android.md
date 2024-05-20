@@ -1,6 +1,6 @@
 ---
 title: Can’t view MOV movies content on Motorola G54 5G
-date: 2024-04-30T19:40:48.332Z
+date: 2024-05-19T17:46:51.050Z
 tags: 
   - mov video
   - mov android
@@ -197,4 +197,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-lava-blaze-curve-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Lava Blaze Curve 5G to iPhone | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-6s-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 6s</u></a></li>
 </ul></div>
+
 

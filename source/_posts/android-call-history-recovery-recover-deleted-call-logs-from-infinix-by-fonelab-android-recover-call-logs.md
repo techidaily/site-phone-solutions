@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from Infinix
-date: 2024-04-30T19:54:06.600Z
+date: 2024-05-19T17:46:59.101Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -167,4 +167,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y28 5G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-changefake-your-lava-blaze-2-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Lava Blaze 2 5G Location on Viber | Dr.fone</u></a></li>
 </ul></div>
+
 

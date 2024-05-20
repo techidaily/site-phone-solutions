@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Spark 20 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:57.843Z
-updated: 2024-05-01T19:51:57.843Z
+date: 2024-05-19T17:46:57.643Z
+updated: 2024-05-20T17:46:57.643Z
 tags: 
   - reset
 categories:
@@ -420,4 +420,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-best-video-editing-software-for-windows-10-top-6-options/"><u>New In 2024, The Best Video Editing Software for Windows 10 Top 6 Options</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-add-green-screen-effects-in-phhotoshop/"><u>2024 Approved How to Add Green Screen Effects In Phhotoshop</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Does Xiaomi Civi 3 Disney 100th Anniversary Edition support AVCHD video?
-date: 2024-04-30T19:42:45.030Z
-updated: 2024-05-01T19:42:45.030Z
+date: 2024-05-19T17:46:51.879Z
+updated: 2024-05-20T17:46:51.879Z
 tags: 
   - mts video
   - mts android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-13-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-maker/"><u>In 2024, What Is an AI Video Maker?</u></a></li>
 </ul></div>
+
 

@@ -502,3 +502,4 @@ There you have it, these are the tricks that you can do on your own to fix any i
 <li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-xiaomi-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-hevc-video-on-android/" ><u>How do you play HEVC/H.265 files on Xiaomi Redmi Note 12 Pro 4G?</u></a></li>
 </ul></div>
 
+

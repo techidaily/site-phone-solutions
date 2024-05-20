@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xiaomi Redmi A2
-date: 2024-04-30T19:43:29.503Z
+date: 2024-05-19T17:46:52.187Z
 tags: 
   - hevc video
   - hevc android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 8 Plus</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto E13 | Dr.fone</u></a></li>
 </ul></div>
+
 

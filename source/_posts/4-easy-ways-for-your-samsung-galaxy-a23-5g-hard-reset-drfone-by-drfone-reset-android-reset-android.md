@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Samsung Galaxy A23 5G Hard Reset | Dr.fone
-date: 2024-04-30T19:49:27.582Z
-updated: 2024-05-01T19:49:27.582Z
+date: 2024-05-19T17:46:55.751Z
+updated: 2024-05-20T17:46:55.751Z
 tags: 
   - reset
 categories:
@@ -461,4 +461,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 13 | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Hot 40i Without Power Button | Dr.fone
-date: 2024-04-30T19:51:14.963Z
-updated: 2024-05-01T19:51:14.963Z
+date: 2024-05-19T17:46:57.055Z
+updated: 2024-05-20T17:46:57.055Z
 tags: 
   - reset
 categories:
@@ -519,4 +519,5 @@ Thank you for reading and if we've been of some help please take the time to boo
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-itel-a60s-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Itel A60s Phone | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-12-pro-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 12 Pro</u></a></li>
 </ul></div>
+
 

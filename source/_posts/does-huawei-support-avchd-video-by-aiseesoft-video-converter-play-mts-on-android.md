@@ -1,6 +1,6 @@
 ---
 title: Does Huawei  support AVCHD video?
-date: 2024-04-30T19:42:07.138Z
+date: 2024-05-19T17:46:51.634Z
 tags: 
   - mts video
   - mts android
@@ -176,4 +176,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-xs-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone XS Max with a Broken Screen?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-make-time-lapse-video-on-macbook-complete-guide/"><u>Updated 2024 Approved Make Time-Lapse Video on MacBook Complete Guide</u></a></li>
 </ul></div>
+
 

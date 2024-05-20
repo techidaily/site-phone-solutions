@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Vivo Y36 Hard Reset | Dr.fone
-date: 2024-04-30T19:49:45.101Z
-updated: 2024-05-01T19:49:45.101Z
+date: 2024-05-19T17:46:55.982Z
+updated: 2024-05-20T17:46:55.982Z
 tags: 
   - reset
 categories:
@@ -427,4 +427,5 @@ Let's end our guide for the easiest ways to **hard reset Vivo Y36**. You can do 
 <li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-12-pro-max-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 12 Pro Max?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-title-effects-unlocking-creative-possibilities/"><u>New FCPX Title Effects Unlocking Creative Possibilities</u></a></li>
 </ul></div>
+
 

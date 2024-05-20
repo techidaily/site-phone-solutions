@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Lava Blaze Curve 5G? | Dr.fone
-date: 2024-04-30T19:52:39.094Z
-updated: 2024-05-01T19:52:39.094Z
+date: 2024-05-19T17:46:58.091Z
+updated: 2024-05-20T17:46:58.091Z
 tags: 
   - reset
 categories:
@@ -407,4 +407,5 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-magic-vs-2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor Magic Vs 2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
 </ul></div>
+
 

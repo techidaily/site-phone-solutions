@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Phantom V Flip Without Power Button | Dr.fone
-date: 2024-04-30T19:51:55.360Z
-updated: 2024-05-01T19:51:55.360Z
+date: 2024-05-19T17:46:57.565Z
+updated: 2024-05-20T17:46:57.565Z
 tags: 
   - reset
 categories:
@@ -412,4 +412,5 @@ Above are some strategies with which you can do an **Tecno Phantom V Flip hard r
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-a15-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Samsung Galaxy A15 5G Phone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-learn-topaz-video-enhance-ai-review/"><u>New Learn Topaz Video Enhance AI Review</u></a></li>
 </ul></div>
+
 

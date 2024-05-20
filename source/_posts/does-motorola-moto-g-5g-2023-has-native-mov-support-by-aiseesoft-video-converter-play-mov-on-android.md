@@ -1,6 +1,6 @@
 ---
 title: Does Motorola Moto G 5G (2023) has native MOV support?
-date: 2024-04-30T19:42:13.659Z
+date: 2024-05-19T17:46:51.669Z
 tags: 
   - mov video
   - mov android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-note-12t-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi Note 12T Pro without App | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How do I play MKV movies on Galaxy XCover 7?
-date: 2024-04-30T19:44:09.677Z
+date: 2024-05-19T17:46:52.528Z
 tags: 
   - mkv video
   - mkv android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 8 Plus? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Motorola Moto G13? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Huawei P60 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:13.777Z
-updated: 2024-05-01T19:51:13.777Z
+date: 2024-05-19T17:46:57.046Z
+updated: 2024-05-20T17:46:57.046Z
 tags: 
   - reset
 categories:
@@ -508,4 +508,5 @@ Factory resetting is not ideal for some problems, but sometimes it becomes the o
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-realme-11-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Realme 11 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-find-n3-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo Find N3 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

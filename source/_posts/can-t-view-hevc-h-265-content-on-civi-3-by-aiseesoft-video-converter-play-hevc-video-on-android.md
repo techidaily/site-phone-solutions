@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Civi 3
-date: 2024-04-30T19:40:29.262Z
+date: 2024-05-19T17:46:50.943Z
 tags: 
   - hevc video
   - hevc android
@@ -201,4 +201,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-editing.techidaily.com/updated-best-youtube-video-meme-maker-for-2024/"><u>Updated Best Youtube Video Meme Maker for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Pova 5? | Dr.fone</u></a></li>
 </ul></div>
+
 

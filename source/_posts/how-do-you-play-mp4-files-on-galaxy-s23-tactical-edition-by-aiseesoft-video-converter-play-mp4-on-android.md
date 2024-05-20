@@ -1,6 +1,6 @@
 ---
 title: How do you play MP4 files on Galaxy S23 Tactical Edition?
-date: 2024-04-30T19:44:47.062Z
+date: 2024-05-19T17:46:52.755Z
 tags: 
   - mp4 video
   - mp4 android
@@ -161,4 +161,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-reduce-video-size-online-10-best-free-compression-tools/"><u>Updated 2024 Approved Reduce Video Size Online 10 Best Free Compression Tools</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-lava-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Lava online without jailbreak</u></a></li>
 </ul></div>
+
 

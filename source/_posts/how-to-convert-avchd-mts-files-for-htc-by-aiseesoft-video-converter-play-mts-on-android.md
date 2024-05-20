@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for HTC ? 
-date: 2024-04-30T19:44:58.766Z
+date: 2024-05-19T17:46:52.868Z
 tags: 
   - mts video
   - mts android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-top-5-hd-high-definition-video-editing-software-for-2024/"><u>New Top 5 HD (High-Definition) Video Editing Software for 2024</u></a></li>
 <li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>New 2024 Approved Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Does Samsung support MKV video files?
-date: 2024-04-30T19:42:41.979Z
-updated: 2024-05-01T19:42:41.979Z
+date: 2024-05-19T17:46:51.864Z
+updated: 2024-05-20T17:46:51.864Z
 tags: 
   - mkv video
   - mkv android
@@ -214,4 +214,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-realme-11-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Realme 11 5G Location Settings | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-find-n3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo Find N3 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

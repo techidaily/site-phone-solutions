@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Sony Xperia 5 V
-date: 2024-04-30T19:40:05.010Z
+date: 2024-05-19T17:46:50.640Z
 tags: 
   - recover
 categories: 
@@ -255,4 +255,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-vivo-y100t-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Vivo Y100t Screen | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

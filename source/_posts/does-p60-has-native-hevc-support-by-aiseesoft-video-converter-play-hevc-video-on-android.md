@@ -1,6 +1,6 @@
 ---
 title: Does P60 has native HEVC support?
-date: 2024-04-30T19:42:25.850Z
+date: 2024-05-19T17:46:51.775Z
 tags: 
   - hevc video
   - hevc android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Lenovo ThinkPhone | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v29-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V29 Lock Screen Clock in Seconds</u></a></li>
 </ul></div>
+
 

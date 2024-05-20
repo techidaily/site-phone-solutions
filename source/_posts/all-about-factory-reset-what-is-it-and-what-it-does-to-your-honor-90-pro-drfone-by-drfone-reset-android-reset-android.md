@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Honor 90 Pro? | Dr.fone
-date: 2024-04-30T19:52:26.871Z
-updated: 2024-05-01T19:52:26.871Z
+date: 2024-05-19T17:46:58.013Z
+updated: 2024-05-20T17:46:58.013Z
 tags: 
   - reset
 categories:
@@ -425,4 +425,5 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 <li><a href="https://techidaily.com/how-to-reset-a-nubia-red-magic-8s-proplus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nubia Red Magic 8S Pro+ Phone That Is Locked | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-g310-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia G310 Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+
 

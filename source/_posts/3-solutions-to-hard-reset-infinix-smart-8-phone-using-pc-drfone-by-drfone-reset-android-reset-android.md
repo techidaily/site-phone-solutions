@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Infinix Smart 8 Phone Using PC | Dr.fone
-date: 2024-04-30T19:47:47.850Z
-updated: 2024-05-01T19:47:47.850Z
+date: 2024-05-19T17:46:54.602Z
+updated: 2024-05-20T17:46:54.602Z
 tags: 
   - reset
 categories:
@@ -499,4 +499,5 @@ So these are the methods with which you can do a reset without using volume butt
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-y100t-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo Y100t</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-c12-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia C12 | Dr.fone</u></a></li>
 </ul></div>
+
 

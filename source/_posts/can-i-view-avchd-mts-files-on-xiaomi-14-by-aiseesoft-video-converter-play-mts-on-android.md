@@ -1,6 +1,6 @@
 ---
 title: Can I view AVCHD .mts files on Xiaomi 14?
-date: 2024-04-30T19:40:06.663Z
+date: 2024-05-19T17:46:50.762Z
 tags: 
   - mts video
   - mts android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/top-10-free-dvd-player-software-for-windows-10/"><u>Top 10 Free DVD Player Software for Windows 10</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-htc-u23-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on HTC U23 with and without jailbreak | Dr.fone</u></a></li>
 </ul></div>
+
 

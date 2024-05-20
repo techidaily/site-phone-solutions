@@ -1,6 +1,6 @@
 ---
 title: Can't play .mov files on Galaxy S23 FE
-date: 2024-04-30T19:41:16.732Z
+date: 2024-05-19T17:46:51.244Z
 tags: 
   - mov video
   - mov android
@@ -157,4 +157,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y77t-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y77t ? Fix It Easily | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-xiaomi-14-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Xiaomi 14 Pro</u></a></li>
 </ul></div>
+
 

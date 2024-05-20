@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Lava Blaze 2 Pro? | Dr.fone
-date: 2024-04-30T19:52:38.903Z
-updated: 2024-05-01T19:52:38.903Z
+date: 2024-05-19T17:46:58.090Z
+updated: 2024-05-20T17:46:58.090Z
 tags: 
   - reset
 categories:
@@ -398,4 +398,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-12-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 12 in Lost Mode</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro-for-2024/"><u>Updated How to Apply Gaussian Blur Effect to Videos In Premiere Pro for 2024</u></a></li>
 </ul></div>
+
 

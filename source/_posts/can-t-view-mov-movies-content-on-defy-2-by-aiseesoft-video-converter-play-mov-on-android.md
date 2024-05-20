@@ -1,6 +1,6 @@
 ---
 title: Can’t view MOV movies content on Defy 2
-date: 2024-04-30T19:40:47.027Z
+date: 2024-05-19T17:46:51.042Z
 tags: 
   - mov video
   - mov android
@@ -191,4 +191,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-motorola-g24-power-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Motorola G24 Power</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-motorola-moto-g73-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Motorola Moto G73 5G to iPod | Dr.fone</u></a></li>
 </ul></div>
+
 

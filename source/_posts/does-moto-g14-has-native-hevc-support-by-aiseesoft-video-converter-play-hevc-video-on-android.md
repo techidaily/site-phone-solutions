@@ -1,6 +1,6 @@
 ---
 title: Does Moto G14 has native HEVC support?
-date: 2024-04-30T19:42:08.638Z
+date: 2024-05-19T17:46:51.643Z
 tags: 
   - hevc video
   - hevc android
@@ -178,4 +178,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-z-fold-5-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy Z Fold 5 Phone Network-Ready</u></a></li>
 </ul></div>
+
 

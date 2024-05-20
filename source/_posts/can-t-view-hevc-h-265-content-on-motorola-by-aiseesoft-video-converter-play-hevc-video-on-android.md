@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Motorola
-date: 2024-04-30T19:40:32.255Z
+date: 2024-05-19T17:46:50.960Z
 tags: 
   - hevc video
   - hevc android
@@ -179,4 +179,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-poco-f5-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Poco F5 5G Wont Charge | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-7-in-different-conditionsin-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 7 In Different Conditionsin</u></a></li>
 </ul></div>
+
 

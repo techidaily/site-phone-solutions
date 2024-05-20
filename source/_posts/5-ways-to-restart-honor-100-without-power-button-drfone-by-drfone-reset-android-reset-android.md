@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Honor 100 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:07.599Z
-updated: 2024-05-01T19:51:07.599Z
+date: 2024-05-19T17:46:56.918Z
+updated: 2024-05-20T17:46:56.918Z
 tags: 
   - reset
 categories:
@@ -525,4 +525,5 @@ Resetting an Honor 100 phone can be tricky sometimes; therefore, it should be fi
 <li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-12-pro-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme 12 Pro 5G?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-motorola-moto-e13-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Motorola Moto E13 to Other Android Devices Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

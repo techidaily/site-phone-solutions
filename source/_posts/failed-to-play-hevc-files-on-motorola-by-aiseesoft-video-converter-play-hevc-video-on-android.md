@@ -1,7 +1,7 @@
 ---
 title: Failed to play HEVC files on Motorola
-date: 2024-04-30T19:43:22.399Z
-updated: 2024-05-01T19:43:22.399Z
+date: 2024-05-19T17:46:52.150Z
+updated: 2024-05-20T17:46:52.150Z
 tags: 
   - hevc video
   - hevc android
@@ -167,4 +167,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x7b-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X7b to Samsung Phone | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-nokia-150-2023-screen-sharing-drfone-by-drfone-android/"><u>How To Do Nokia 150 (2023) Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

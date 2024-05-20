@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xperia 10 V
-date: 2024-04-30T19:43:30.443Z
+date: 2024-05-19T17:46:52.192Z
 tags: 
   - hevc video
   - hevc android
@@ -218,4 +218,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-nubia-easily-by-drfone-android/"><u>How To Unlock a Nubia Easily?</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/best-video-cutting-software-for-windows-and-web-for-2024/"><u>Best Video Cutting Software for Windows and Web for 2024</u></a></li>
 </ul></div>
+
 

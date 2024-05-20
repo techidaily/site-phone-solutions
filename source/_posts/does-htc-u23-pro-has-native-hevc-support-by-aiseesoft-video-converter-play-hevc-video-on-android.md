@@ -1,6 +1,6 @@
 ---
 title: Does HTC U23 Pro has native HEVC support?
-date: 2024-04-30T19:42:04.885Z
+date: 2024-05-19T17:46:51.622Z
 tags: 
   - hevc video
   - hevc android
@@ -207,4 +207,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-vivo-s17-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Vivo S17 to Protect Your Individual Information</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a25-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A25 5G Phone Password Without Factory Reset?</u></a></li>
 </ul></div>
+
 

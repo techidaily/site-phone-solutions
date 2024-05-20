@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Xperia 10 V?
-date: 2024-04-30T19:45:05.950Z
+date: 2024-05-19T17:46:52.905Z
 tags: 
   - mts video
   - mts android
@@ -171,4 +171,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-c67-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme C67 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a23-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A23 5G Device</u></a></li>
 </ul></div>
+
 

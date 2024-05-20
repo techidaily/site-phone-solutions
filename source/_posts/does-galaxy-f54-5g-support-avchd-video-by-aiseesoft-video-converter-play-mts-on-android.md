@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy F54 5G support AVCHD video?
-date: 2024-04-30T19:41:58.873Z
+date: 2024-05-19T17:46:51.585Z
 tags: 
   - mts video
   - mts android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-itel-a60s-by-fonelab-android-recover-data/"><u>How to recover lost data from Itel A60s?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-jump-cut-editing-tricks-for-2024/"><u>Updated Best Jump Cut Editing Tricks for 2024</u></a></li>
 </ul></div>
+
 

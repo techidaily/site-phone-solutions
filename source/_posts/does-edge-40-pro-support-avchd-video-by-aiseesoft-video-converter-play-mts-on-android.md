@@ -1,6 +1,6 @@
 ---
 title: Does Edge 40 Pro support AVCHD video?
-date: 2024-04-30T19:41:53.479Z
+date: 2024-05-19T17:46:51.516Z
 tags: 
   - mts video
   - mts android
@@ -198,4 +198,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-best-hand-drawing-whiteboard-animation-tools-2023/"><u>New Unleash Your Creativity Best Hand Drawing Whiteboard Animation Tools 2023</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-detailed-pokemon-go-pvp-tier-list-to-make-you-a-pro-trainer-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Pokemon Go PvP Tier List to Make you a Pro Trainer For Apple iPhone 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

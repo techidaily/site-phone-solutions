@@ -1,6 +1,6 @@
 ---
 title: How do you play HEVC/H.265 files on Motorola G24 Power?
-date: 2024-04-30T19:44:19.951Z
+date: 2024-05-19T17:46:52.607Z
 tags: 
   - hevc video
   - hevc android
@@ -195,4 +195,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-130-music-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from 130 Music.</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo S18 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

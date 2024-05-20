@@ -1,6 +1,6 @@
 ---
 title: Does Huawei Nova Y91 support AVCHD video?
-date: 2024-04-30T19:42:06.577Z
+date: 2024-05-19T17:46:51.632Z
 tags: 
   - mts video
   - mts android
@@ -187,4 +187,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-oppo-reno-9a-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Oppo Reno 9A to PC- Detailed Steps | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone 6s | Dr.fone</u></a></li>
 </ul></div>
+
 

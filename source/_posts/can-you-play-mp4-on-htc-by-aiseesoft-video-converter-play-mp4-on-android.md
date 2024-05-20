@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on HTC ?
-date: 2024-04-30T19:40:55.372Z
+date: 2024-05-19T17:46:51.111Z
 tags: 
   - mp4 video
   - mp4 android
@@ -217,4 +217,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-oppo-a56s-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Oppo A56s 5G to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor 90 GT? | Dr.fone</u></a></li>
 </ul></div>
+
 

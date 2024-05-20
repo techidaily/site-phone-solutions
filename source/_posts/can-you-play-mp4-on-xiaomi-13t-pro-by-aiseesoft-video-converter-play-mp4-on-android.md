@@ -1,6 +1,6 @@
 ---
 title: Can you play MP4 on Xiaomi 13T Pro?
-date: 2024-04-30T19:40:59.702Z
+date: 2024-05-19T17:46:51.135Z
 tags: 
   - mp4 video
   - mp4 android
@@ -184,4 +184,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-oppo-reno-11f-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Oppo Reno 11F 5G via a USB Cable | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-13-proplus-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 13 Pro+ 5G to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

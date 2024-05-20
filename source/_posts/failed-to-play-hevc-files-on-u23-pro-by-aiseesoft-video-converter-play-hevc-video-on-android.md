@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on U23 Pro
-date: 2024-04-30T19:43:27.691Z
+date: 2024-05-19T17:46:52.178Z
 tags: 
   - hevc video
   - hevc android
@@ -188,4 +188,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-honor-x9b-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Honor X9b Unresponsive Screen | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-xiaomi-redmi-a2-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Xiaomi Redmi A2.</u></a></li>
 </ul></div>
+
 

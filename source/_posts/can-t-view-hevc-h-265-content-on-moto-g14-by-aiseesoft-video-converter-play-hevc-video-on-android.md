@@ -1,6 +1,6 @@
 ---
 title: Can’t view HEVC H.265 content on Moto G14
-date: 2024-04-30T19:40:31.695Z
+date: 2024-05-19T17:46:50.956Z
 tags: 
   - hevc video
   - hevc android
@@ -157,4 +157,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-x90ss-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo X90Ss Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme 12 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

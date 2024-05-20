@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Itel A60s Without Power Button | Dr.fone
-date: 2024-04-30T19:51:18.195Z
-updated: 2024-05-01T19:51:18.195Z
+date: 2024-05-19T17:46:57.088Z
+updated: 2024-05-20T17:46:57.088Z
 tags: 
   - reset
 categories:
@@ -453,4 +453,5 @@ So these were the third different methods through which you can hard reset your 
 <li><a href="https://review-topics.techidaily.com/insert-signature-in-word-2007-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in Word 2007</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-camtasia-vs-final-cut-pro/"><u>New In 2024, Camtasia Vs. Final Cut Pro</u></a></li>
 </ul></div>
+
 

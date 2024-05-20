@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia C300 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:28.611Z
-updated: 2024-05-01T19:51:28.611Z
+date: 2024-05-19T17:46:57.270Z
+updated: 2024-05-20T17:46:57.270Z
 tags: 
   - reset
 categories:
@@ -432,4 +432,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://ai-topics.techidaily.com/updated-2024-approved-what-is-ai-api/"><u>Updated 2024 Approved What Is AI API?</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-realme-gt-3-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Realme GT 3</u></a></li>
 </ul></div>
+
 

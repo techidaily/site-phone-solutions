@@ -1,6 +1,6 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from X100 Pro
-date: 2024-04-30T19:54:23.107Z
+date: 2024-05-19T17:46:59.234Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -173,4 +173,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-sizing-up-your-video-how-aspect-ratio-choices-affect-engagement/"><u>2024 Approved Sizing Up Your Video How Aspect Ratio Choices Affect Engagement</u></a></li>
 </ul></div>
+
 

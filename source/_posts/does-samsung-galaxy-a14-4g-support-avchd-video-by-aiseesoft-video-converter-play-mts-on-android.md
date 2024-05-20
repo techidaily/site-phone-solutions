@@ -1,6 +1,6 @@
 ---
 title: Does Samsung Galaxy A14 4G support AVCHD video?
-date: 2024-04-30T19:42:32.314Z
+date: 2024-05-19T17:46:51.812Z
 tags: 
   - mts video
   - mts android
@@ -209,4 +209,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo Y200 | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-s18-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo S18 Pro Without Them Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

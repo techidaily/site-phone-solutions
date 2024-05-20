@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lava Yuva 3 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:21.833Z
-updated: 2024-05-01T19:51:21.833Z
+date: 2024-05-19T17:46:57.164Z
+updated: 2024-05-20T17:46:57.164Z
 tags: 
   - reset
 categories:
@@ -503,4 +503,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Android/iOS? | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-elevate-your-event-planning-with-these-top-video-invitation-apps/"><u>In 2024, Elevate Your Event Planning with These Top Video Invitation Apps</u></a></li>
 </ul></div>
+
 

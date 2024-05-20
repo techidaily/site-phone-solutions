@@ -1,7 +1,7 @@
 ---
 title: Can I play MKV movies on Xiaomi Redmi 12 5G?
-date: 2024-04-30T19:40:04.782Z
-updated: 2024-05-01T19:40:04.782Z
+date: 2024-05-19T17:46:50.392Z
+updated: 2024-05-20T17:46:50.392Z
 tags: 
   - mkv video
   - mkv android
@@ -192,4 +192,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo X90S | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-poco-x5-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Poco X5 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

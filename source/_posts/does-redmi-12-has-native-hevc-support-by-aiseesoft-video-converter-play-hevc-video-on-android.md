@@ -1,6 +1,6 @@
 ---
 title: Does Redmi 12 has native HEVC support?
-date: 2024-04-30T19:42:26.608Z
+date: 2024-05-19T17:46:51.779Z
 tags: 
   - hevc video
   - hevc android
@@ -166,4 +166,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-voice-clone.techidaily.com/top-5-ai-powered-script-to-video-makers/"><u>Top 5 AI-Powered Script to Video Makers</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-30-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Infinix Hot 30 5G Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

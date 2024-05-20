@@ -1,6 +1,6 @@
 ---
 title: How do you play .mov files on Nova Y71 ?
-date: 2024-04-30T19:44:39.054Z
+date: 2024-05-19T17:46:52.713Z
 tags: 
   - mov video
   - mov android
@@ -174,4 +174,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Huawei Nova Y71 | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-xs-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone XS Max without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

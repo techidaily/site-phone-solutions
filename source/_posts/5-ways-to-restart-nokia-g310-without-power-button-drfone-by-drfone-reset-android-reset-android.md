@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nokia G310 Without Power Button | Dr.fone
-date: 2024-04-30T19:51:29.196Z
-updated: 2024-05-01T19:51:29.196Z
+date: 2024-05-19T17:46:57.275Z
+updated: 2024-05-20T17:46:57.275Z
 tags: 
   - reset
 categories:
@@ -478,4 +478,5 @@ Let's end our guide for the easiest ways to **hard reset Nokia G310**. You can d
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-5-best-free-video-compressor-apps-that-reduce-video-sizes-on-iphone-and-ipad/"><u>In 2024, 5 Best Free Video Compressor Apps That Reduce Video Sizes on iPhone and iPad</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-zero-5g-2023-turbo-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Infinix Zero 5G 2023 Turbo Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
+
 

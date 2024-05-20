@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Nubia Z50S Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:30.744Z
-updated: 2024-05-01T19:51:30.744Z
+date: 2024-05-19T17:46:57.299Z
+updated: 2024-05-20T17:46:57.299Z
 tags: 
   - reset
 categories:
@@ -420,4 +420,5 @@ Hence, today we learned about wiping data and also factory reset. Well as per us
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor Phone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-asus-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Asus .</u></a></li>
 </ul></div>
+
 

@@ -1,6 +1,6 @@
 ---
 title: How can I play .mov files on Huawei P60 ?
-date: 2024-04-30T19:44:02.156Z
+date: 2024-05-19T17:46:52.470Z
 tags: 
   - mov video
   - mov android
@@ -185,4 +185,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-zero-5g-2023-turbo-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix Zero 5G 2023 Turbo</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-vivo-v27-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Vivo V27 Phone and Remove Locked Screen</u></a></li>
 </ul></div>
+
 

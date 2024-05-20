@@ -1,6 +1,6 @@
 ---
 title: Can I recover permanently deleted photos from Xiaomi Redmi Note 13 5G
-date: 2024-04-30T19:40:05.085Z
+date: 2024-05-19T17:46:50.715Z
 tags: 
   - recover
 categories: 
@@ -276,4 +276,5 @@ You can recover deleted photos from Android Gallery after software update using 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-itel-p55-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Itel P55 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-infinix-hot-40-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Infinix Hot 40 to Apple TV | Dr.fone</u></a></li>
 </ul></div>
+
 

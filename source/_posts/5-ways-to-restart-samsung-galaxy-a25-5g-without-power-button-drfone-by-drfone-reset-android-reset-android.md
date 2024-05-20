@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy A25 5G Without Power Button | Dr.fone
-date: 2024-04-30T19:51:48.850Z
-updated: 2024-05-01T19:51:48.850Z
+date: 2024-05-19T17:46:57.519Z
+updated: 2024-05-20T17:46:57.519Z
 tags: 
   - reset
 categories:
@@ -456,4 +456,5 @@ Let's end our guide for the easiest ways to **hard reset Samsung Galaxy A25 5G**
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor 90 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-y100-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo Y100 5G without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

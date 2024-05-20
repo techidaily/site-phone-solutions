@@ -1,6 +1,6 @@
 ---
 title: Failed to play HEVC files on Xiaomi Redmi 12
-date: 2024-04-30T19:43:29.312Z
+date: 2024-05-19T17:46:52.186Z
 tags: 
   - hevc video
   - hevc android
@@ -172,4 +172,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-vdieo-software.techidaily.com/new-gaming-on-a-budget-top-10-free-game-download-platforms-for-pc-and-android/"><u>New Gaming on a Budget Top 10 Free Game Download Platforms for PC and Android</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
+
 

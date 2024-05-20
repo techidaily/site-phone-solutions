@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo S18 Pro Without Power Button | Dr.fone
-date: 2024-04-30T19:51:59.535Z
-updated: 2024-05-01T19:51:59.535Z
+date: 2024-05-19T17:46:57.655Z
+updated: 2024-05-20T17:46:57.655Z
 tags: 
   - reset
 categories:
@@ -570,4 +570,5 @@ These are all methods for unlocking Vivo S18 Pro hard reset. It is possible to a
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-nokia-g42-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Nokia G42 5G in Minutes | Dr.fone</u></a></li>
 </ul></div>
+
 

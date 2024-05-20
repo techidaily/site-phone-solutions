@@ -1,6 +1,6 @@
 ---
 title: Does Galaxy M14 5G support MKV video files?
-date: 2024-04-30T19:41:59.249Z
+date: 2024-05-19T17:46:51.587Z
 tags: 
   - mkv video
   - mkv android
@@ -170,4 +170,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-magic-6-lite-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic 6 Lite Black and White | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-14-pro-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 14 Pro Max Properly | Dr.fone</u></a></li>
 </ul></div>
+
 

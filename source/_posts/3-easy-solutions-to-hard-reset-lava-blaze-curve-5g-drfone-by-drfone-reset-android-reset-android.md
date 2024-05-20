@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T19:46:43.640Z
-updated: 2024-05-01T19:46:43.640Z
+date: 2024-05-19T17:46:54.030Z
+updated: 2024-05-20T17:46:54.030Z
 tags: 
   - reset
 categories:
@@ -546,4 +546,5 @@ These are all methods for unlocking Lava Blaze Curve 5G hard reset. It is possib
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-pova-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Pova 5 to Other Android Devices Easily | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-p55t-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel P55T to PC- Detailed Steps | Dr.fone</u></a></li>
 </ul></div>
+
 

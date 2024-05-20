@@ -1,7 +1,7 @@
 ---
 title: Android Call History Recovery - recover deleted call logs from X100
-date: 2024-04-30T19:54:22.917Z
-updated: 2024-05-01T19:54:22.917Z
+date: 2024-05-19T17:46:59.233Z
+updated: 2024-05-20T17:46:59.233Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -194,4 +194,5 @@ Soon, all Android available files will be classified into category on the left. 
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mastering-mobile-one-simple-trick-to-optimize-your-vertical-videos/"><u>Updated In 2024, Mastering Mobile One Simple Trick to Optimize Your Vertical Videos</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-a70-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel A70 to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

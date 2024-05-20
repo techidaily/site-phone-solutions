@@ -1,6 +1,6 @@
 ---
 title: How to convert AVCHD .mts files for Edge 40 Neo? 
-date: 2024-04-30T19:44:56.187Z
+date: 2024-05-19T17:46:52.856Z
 tags: 
   - mts video
   - mts android
@@ -169,4 +169,5 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 <li><a href="https://ai-video-apps.techidaily.com/new-the-complete-handbook-to-facebook-video-aspect-ratios-size-up-your-game/"><u>New The Complete Handbook to Facebook Video Aspect Ratios Size Up Your Game</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-t2-pro-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo T2 Pro 5G FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 
