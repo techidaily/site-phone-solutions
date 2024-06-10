@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Honor X50 | Dr.fone
-date: 2024-05-19T17:46:53.958Z
-updated: 2024-05-20T17:46:53.958Z
+date: 2024-06-09T01:05:35.112Z
+updated: 2024-06-10T01:05:35.112Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Honor X50 phone?
 excerpt: This article describes How to Soft Reset Honor X50 phone?
 keywords: soft reset,Honor X50 hard reset,Honor X50 factory reset,factory reset,hard reset,Honor X50 soft reset
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## 3 Solutions to Hard Reset Honor X50 Phone Using PC

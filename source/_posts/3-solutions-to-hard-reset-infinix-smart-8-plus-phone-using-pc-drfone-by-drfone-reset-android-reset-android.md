@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Infinix Smart 8 Plus Phone Using PC | Dr.fone
-date: 2024-05-19T17:46:54.603Z
-updated: 2024-05-20T17:46:54.603Z
+date: 2024-06-09T01:05:01.122Z
+updated: 2024-06-10T01:05:01.122Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Solutions to Hard Reset Infinix Smart 8 Plus Phone Using PC
 excerpt: This article describes 3 Solutions to Hard Reset Infinix Smart 8 Plus Phone Using PC
 keywords: hard reset,soft reset,factory reset,Infinix Smart 8 Plus soft reset,Infinix Smart 8 Plus hard reset,Infinix Smart 8 Plus factory reset
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## 3 Solutions to Hard Reset Infinix Smart 8 Plus Phone Using PC

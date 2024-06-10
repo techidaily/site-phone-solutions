@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Spark 10 4G Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.617Z
-updated: 2024-05-20T17:46:57.617Z
+date: 2024-06-09T01:05:13.253Z
+updated: 2024-06-10T01:05:13.253Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Tecno Spark 10 4G Without Power Button
 excerpt: This article describes 5 Ways to Restart Tecno Spark 10 4G Without Power Button
 keywords: Tecno Spark 10 4G soft reset,soft reset,hard reset,Tecno Spark 10 4G factory reset,factory reset,Tecno Spark 10 4G hard reset
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## 5 Ways to Reset Tecno Spark 10 4G Without Volume Buttons

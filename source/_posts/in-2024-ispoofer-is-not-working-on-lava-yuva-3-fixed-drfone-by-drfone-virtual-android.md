@@ -1,7 +1,7 @@
 ---
 title: In 2024, iSpoofer is not working On Lava Yuva 3? Fixed | Dr.fone
-date: 2024-04-07T02:22:12.261Z
-updated: 2024-04-08T02:22:12.261Z
+date: 2024-06-09T01:04:26.081Z
+updated: 2024-06-10T01:04:26.081Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes iSpoofer is not working On Lava Yuva 3? Fixed
 excerpt: This article describes iSpoofer is not working On Lava Yuva 3? Fixed
 keywords: fake gps location on android,fake location on android,change gps location on android,change location on Yuva 3,fake location on Yuva 3,change location on android
-thumbnail: https://www.lifewire.com/thmb/x0mFXdBc-1Q_2JlWzJG0rvyCFFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dormroomentfeatured-5b5e9dd3c9e77c004f28632e.jpg
+thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401ca2b8aa427adfd091e8a1d2a.jpg
 ---
 
 ## iSpoofer is not working On Lava Yuva 3? Fixed

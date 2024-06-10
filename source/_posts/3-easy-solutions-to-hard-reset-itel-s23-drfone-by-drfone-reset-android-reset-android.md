@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Itel S23 | Dr.fone
-date: 2024-05-19T17:46:54.014Z
-updated: 2024-05-20T17:46:54.014Z
+date: 2024-06-09T01:06:25.154Z
+updated: 2024-06-10T01:06:25.154Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Itel S23 phone?
 excerpt: This article describes How to Soft Reset Itel S23 phone?
 keywords: Itel S23 soft reset,Itel S23 factory reset,Itel S23 hard reset,soft reset,factory reset,hard reset
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## 3 Solutions to Hard Reset Itel S23 Phone Using PC

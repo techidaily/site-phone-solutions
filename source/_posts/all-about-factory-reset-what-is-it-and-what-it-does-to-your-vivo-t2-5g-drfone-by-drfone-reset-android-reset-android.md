@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Vivo T2 5G? | Dr.fone
-date: 2024-05-19T17:46:58.406Z
-updated: 2024-05-20T17:46:58.406Z
+date: 2024-06-09T01:05:04.816Z
+updated: 2024-06-10T01:05:04.816Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo T2 5G?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo T2 5G?
 keywords: factory reset,hard reset,Vivo T2 5G factory reset,Vivo T2 5G soft reset,Vivo T2 5G hard reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Vivo T2 5G?

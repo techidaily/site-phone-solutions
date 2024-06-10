@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Poco F5 5G? | Dr.fone
-date: 2024-05-19T17:46:58.249Z
-updated: 2024-05-20T17:46:58.249Z
+date: 2024-06-09T01:06:53.035Z
+updated: 2024-06-10T01:06:53.035Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Poco F5 5G?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Poco F5 5G?
 keywords: soft reset,factory reset,Poco F5 5G hard reset,hard reset,Poco F5 5G factory reset,Poco F5 5G soft reset
-thumbnail: https://www.lifewire.com/thmb/4ql928fMUKkO_EPWrgDkfeEcVtE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/family-hanging-out-watching-videos-online-1166432791-309c6f7ac8cb4cc99875db5a77fd6f35.jpg
+thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28dd2151c249d15e615be6f528.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Poco F5 5G?

@@ -1,7 +1,7 @@
 ---
 title: How to add signature to a PDF v1.3 document
-date: 2024-03-09 11:23:58
-updated: 2024-03-12 20:57:33
+date: 2024-06-09T01:06:23.341Z
+updated: 2024-06-10T01:06:23.341Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to add signature to a PDF v1.3 document
 excerpt: This article describes How to add signature to a PDF v1.3 document
 keywords: pdf signer online,pdf signature online,pdf signature software,best sign pdf,pdf signature app
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## 1. How to add signature to a PDF v1.3 document
@@ -103,3 +103,23 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2010-file-by-stellar-guide/"><u>How Do I Restore Excel 2010 File ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-y200e-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Y200e 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-google-pixel-7a-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Google Pixel 7a</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-vivo-x90s-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Vivo X90S</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-asus-rog-phone-8-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Asus ROG Phone 8 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Motorola Moto G Stylus 5G (2023).</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-incorporate-audio-files-into-final-cut-studio/"><u>New Incorporate Audio Files Into Final Cut Studio</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/auditory-aesthetics-choosing-the-right-soundtracks-for-boxings-for-2024/"><u>Auditory Aesthetics  Choosing the Right Soundtracks for Boxings for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-photographic-prose-ios-and-androids-best-caption-creators/"><u>[Updated] Photographic Prose  IOS & Android's Best Caption Creators</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-audacitys-free-audio-post-production-capabilities-including-automated-tuning/"><u>Updated 2024 Approved The Ultimate Guide to Audacitys Free Audio Post-Production Capabilities, Including Automated Tuning</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-pro-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How to Change Your Apple iPhone 12 Pro Max Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/unlocking-your-gaming-potential-the-complete-guide-to-getting-disconitro/"><u>Unlocking Your Gaming Potential  The Complete Guide to Getting DiscoNitro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-record-minecraft-on-mac/"><u>[New] In 2024, How to Record Minecraft on Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-realme-12-pro-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Realme 12 Pro 5G?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-game-recording-mastery-utilizing-gameye-and-more/"><u>[New] Game Recording Mastery  Utilizing GamEye and More</u></a></li>
+</ul></div>

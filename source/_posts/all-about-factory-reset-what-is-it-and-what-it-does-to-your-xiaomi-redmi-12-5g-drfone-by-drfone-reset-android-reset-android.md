@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi 12 5G? | Dr.fone
-date: 2024-05-19T17:46:58.738Z
-updated: 2024-05-20T17:46:58.738Z
+date: 2024-06-09T01:05:33.198Z
+updated: 2024-06-10T01:05:33.198Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi 12 5G?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi 12 5G?
 keywords: soft reset,factory reset,Xiaomi Redmi 12 5G hard reset,Xiaomi Redmi 12 5G factory reset,hard reset,Xiaomi Redmi 12 5G soft reset
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi 12 5G?

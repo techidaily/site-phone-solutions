@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Motorola Moto G84 5G | Dr.fone
-date: 2024-05-19T17:46:54.075Z
-updated: 2024-05-20T17:46:54.075Z
+date: 2024-06-09T01:04:39.549Z
+updated: 2024-06-10T01:04:39.549Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Motorola Moto G84 5G phone?
 excerpt: This article describes How to Soft Reset Motorola Moto G84 5G phone?
 keywords: hard reset,soft reset,factory reset,Motorola Moto G84 5G hard reset,Motorola Moto G84 5G factory reset,Motorola Moto G84 5G soft reset
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## 3 Solutions to Hard Reset Motorola Moto G84 5G Phone Using PC

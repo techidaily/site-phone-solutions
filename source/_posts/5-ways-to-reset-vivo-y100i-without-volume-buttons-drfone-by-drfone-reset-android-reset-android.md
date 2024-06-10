@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Vivo Y100i Without Volume Buttons | Dr.fone
-date: 2024-05-19T17:46:56.781Z
-updated: 2024-05-20T17:46:56.781Z
+date: 2024-06-09T01:04:10.812Z
+updated: 2024-06-10T01:04:10.812Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Reset Vivo Y100i Without Volume Buttons
 excerpt: This article describes 5 Ways to Reset Vivo Y100i Without Volume Buttons
 keywords: Vivo Y100i hard reset,Vivo Y100i soft reset,Vivo Y100i factory reset,soft reset,factory reset,hard reset
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## 5 Ways to Reset Vivo Y100i Without Volume Buttons

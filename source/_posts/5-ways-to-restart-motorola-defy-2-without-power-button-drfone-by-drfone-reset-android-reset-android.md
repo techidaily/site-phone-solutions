@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Defy 2 Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.169Z
-updated: 2024-05-20T17:46:57.169Z
+date: 2024-06-09T01:05:12.266Z
+updated: 2024-06-10T01:05:12.266Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Motorola Defy 2 Without Power Button
 excerpt: This article describes 5 Ways to Restart Motorola Defy 2 Without Power Button
 keywords: hard reset,factory reset,Motorola Defy 2 hard reset,Motorola Defy 2 factory reset,soft reset,Motorola Defy 2 soft reset
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## 5 Ways to Reset Motorola Defy 2 Without Volume Buttons

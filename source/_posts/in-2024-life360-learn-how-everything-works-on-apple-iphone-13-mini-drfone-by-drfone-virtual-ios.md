@@ -1,7 +1,7 @@
 ---
 title: In 2024, Life360 Learn How Everything Works On Apple iPhone 13 mini | Dr.fone
-date: 2024-04-30T19:57:15.798Z
-updated: 2024-05-01T19:57:15.798Z
+date: 2024-06-09T01:05:16.174Z
+updated: 2024-06-10T01:05:16.174Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Life360 Learn How Everything Works On Apple iPhone 13 mini
 excerpt: This article describes Life360 Learn How Everything Works On Apple iPhone 13 mini
 keywords: change location on iPhone 13 mini,change gps location on ios,fake location on iphone,fake gps location on ios,change location on iphone,fake location on iPhone 13 mini
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## Life360: Learn How Everything Works On Apple iPhone 13 mini

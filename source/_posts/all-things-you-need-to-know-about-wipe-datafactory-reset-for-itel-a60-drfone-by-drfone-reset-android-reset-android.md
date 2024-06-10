@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Itel A60 | Dr.fone
-date: 2024-05-19T17:46:58.893Z
-updated: 2024-05-20T17:46:58.893Z
+date: 2024-06-09T01:04:38.623Z
+updated: 2024-06-10T01:04:38.623Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Itel A60
 excerpt: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Itel A60
 keywords: hard reset,Itel A60 factory reset,factory reset,soft reset,Itel A60 soft reset,Itel A60 hard reset
-thumbnail: https://www.lifewire.com/thmb/dlXSXWUVnvtFpXfW22z68Mqdr1g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TwitterVideoDownload-5b605aaac9e77c002c3a42f3.jpg
+thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c84a7394663cf2c5a8a40dbef.jpg
 ---
 
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Itel A60

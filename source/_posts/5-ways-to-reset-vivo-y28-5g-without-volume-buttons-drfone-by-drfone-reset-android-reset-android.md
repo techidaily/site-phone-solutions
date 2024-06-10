@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Vivo Y28 5G Without Volume Buttons | Dr.fone
-date: 2024-05-19T17:46:56.792Z
-updated: 2024-05-20T17:46:56.792Z
+date: 2024-06-09T01:06:10.933Z
+updated: 2024-06-10T01:06:10.933Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Reset Vivo Y28 5G Without Volume Buttons
 excerpt: This article describes 5 Ways to Reset Vivo Y28 5G Without Volume Buttons
 keywords: soft reset,Vivo Y28 5G hard reset,hard reset,Vivo Y28 5G factory reset,Vivo Y28 5G soft reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/FN7XGTj25e9fUSdywINjYYIsMCI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-545864051-5c29cf6346e0fb0001d25712.jpg
+thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea3bc2d6cdbbe36e4703b4b56.jpg
 ---
 
 ## 5 Ways to Reset Vivo Y28 5G Without Volume Buttons

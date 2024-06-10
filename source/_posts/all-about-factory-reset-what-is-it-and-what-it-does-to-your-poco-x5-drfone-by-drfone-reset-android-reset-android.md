@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Poco X5? | Dr.fone
-date: 2024-05-19T17:46:58.255Z
-updated: 2024-05-20T17:46:58.255Z
+date: 2024-06-09T01:04:10.858Z
+updated: 2024-06-10T01:04:10.858Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Poco X5?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Poco X5?
 keywords: hard reset,Poco X5 hard reset,soft reset,factory reset,Poco X5 soft reset,Poco X5 factory reset
-thumbnail: https://www.lifewire.com/thmb/sc_11h-4MIwIvQmqfGAXxwLWyt8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istabletworthit-a75b20684e5241b8a64efc0733092fcd.jpg
+thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Poco X5?

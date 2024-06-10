@@ -1,6 +1,6 @@
 ---
 title: Forgot your Vivo Y100i lock screen pattern, PIN or password? Here’s what to do
-date: 2024-02-21 16:34:42
+date: 2024-06-09T01:05:19.292Z
 tags: 
   - android unlock
   - android devices unlock
@@ -184,3 +184,22 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-infinix-smart-8-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Infinix Smart 8.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-realme-c51-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Realme C51</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-lava-yuva-2-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Lava Yuva 2</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-blaze-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Blaze 2 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-build-custom-seo-ranking-reports-by-link-assistant-rank-tracker-rank-tracker/"><u>Can I build custom SEO ranking reports?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-google-pixel-8-pro-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Google Pixel 8 Pro.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-samsung-galaxy-a05s-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Samsung Galaxy A05s Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-10-pro-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 10 Pro 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-oppo-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Oppo</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-meizu-21-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Meizu 21 Phones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-hidden-harmony-harvesters-ios-and-android-secret-audio-apps/"><u>2024 Approved  Hidden Harmony Harvesters  IOS & Android Secret Audio Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-amateurs-to-artists-the-complete-polarr-editor-journey/"><u>[Updated] From Amateurs to Artists  The Complete Polarr Editor Journey</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-cold-games-2022s-ultimate-snowboard-dueling-display/"><u>2024 Approved  Cold Games  2022'S Ultimate Snowboard Dueling Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-low-end-screen-recorder-options-summarized/"><u>[New] 2024 Approved  Best Low-End Screen Recorder Options Summarized</u></a></li>
+</ul></div>

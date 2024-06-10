@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone
-date: 2024-05-19T17:46:54.288Z
-updated: 2024-05-20T17:46:54.288Z
+date: 2024-06-09T01:04:50.846Z
+updated: 2024-06-10T01:04:50.846Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Samsung Galaxy XCover 6 Pro Tactical Edition phone?
 excerpt: This article describes How to Soft Reset Samsung Galaxy XCover 6 Pro Tactical Edition phone?
 keywords: Samsung Galaxy XCover 6 Pro Tactical Edition hard reset,Samsung Galaxy XCover 6 Pro Tactical Edition soft reset,hard reset,factory reset,soft reset,Samsung Galaxy XCover 6 Pro Tactical Edition factory reset
-thumbnail: https://www.lifewire.com/thmb/MgXYGqoMMbFkRcMCb9oaCyNjJGE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6g-4717cafbb03b4d0eb3dae878b5ad134e.png
+thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e6a52b60eb890177d543e794.png
 ---
 
 ## 3 Solutions to Hard Reset Samsung Galaxy XCover 6 Pro Tactical Edition Phone Using PC

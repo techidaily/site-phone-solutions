@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Vivo Y27 5G? | Dr.fone
-date: 2024-05-19T17:46:58.501Z
-updated: 2024-05-20T17:46:58.501Z
+date: 2024-06-09T01:04:34.086Z
+updated: 2024-06-10T01:04:34.086Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo Y27 5G?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo Y27 5G?
 keywords: Vivo Y27 5G soft reset,Vivo Y27 5G factory reset,Vivo Y27 5G hard reset,soft reset,hard reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Vivo Y27 5G?

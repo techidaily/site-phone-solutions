@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Vivo Y78t | Dr.fone
-date: 2024-05-19T17:46:54.416Z
-updated: 2024-05-20T17:46:54.416Z
+date: 2024-06-09T01:06:44.629Z
+updated: 2024-06-10T01:06:44.629Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Vivo Y78t phone?
 excerpt: This article describes How to Soft Reset Vivo Y78t phone?
 keywords: hard reset,factory reset,Vivo Y78t factory reset,Vivo Y78t soft reset,soft reset,Vivo Y78t hard reset
-thumbnail: https://www.lifewire.com/thmb/BW2Lher3W3SF0AiM8EKoxi1zUQw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-597071115-37c5865742de421eafc8b7da4cc5a618.jpg
+thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0cd1ef1d90d54872beba93f1.jpg
 ---
 
 ## 3 Solutions to Hard Reset Vivo Y78t Phone Using PC

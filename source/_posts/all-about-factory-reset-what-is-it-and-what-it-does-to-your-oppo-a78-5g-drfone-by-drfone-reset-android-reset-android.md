@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Oppo A78 5G? | Dr.fone
-date: 2024-05-19T17:46:58.218Z
-updated: 2024-05-20T17:46:58.218Z
+date: 2024-06-09T01:04:59.233Z
+updated: 2024-06-10T01:04:59.233Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Oppo A78 5G?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Oppo A78 5G?
 keywords: Oppo A78 5G factory reset,Oppo A78 5G hard reset,Oppo A78 5G soft reset,factory reset,hard reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Oppo A78 5G?

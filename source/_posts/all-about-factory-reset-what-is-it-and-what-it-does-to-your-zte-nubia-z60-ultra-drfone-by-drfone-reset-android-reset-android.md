@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your ZTE Nubia Z60 Ultra? | Dr.fone
-date: 2024-05-19T17:46:58.795Z
-updated: 2024-05-20T17:46:58.795Z
+date: 2024-06-09T01:05:24.032Z
+updated: 2024-06-10T01:05:24.032Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your ZTE Nubia Z60 Ultra?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your ZTE Nubia Z60 Ultra?
 keywords: factory reset,ZTE Nubia Z60 Ultra hard reset,ZTE Nubia Z60 Ultra soft reset,hard reset,ZTE Nubia Z60 Ultra factory reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your ZTE Nubia Z60 Ultra?

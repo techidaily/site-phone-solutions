@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Huawei Nova Y91? | Dr.fone
-date: 2024-05-19T17:46:58.045Z
-updated: 2024-05-20T17:46:58.045Z
+date: 2024-06-09T01:04:16.461Z
+updated: 2024-06-10T01:04:16.461Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Huawei Nova Y91?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Huawei Nova Y91?
 keywords: Huawei Nova Y91 hard reset,factory reset,hard reset,Huawei Nova Y91 soft reset,Huawei Nova Y91 factory reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/RHk5CzUskZEHtVQS5Kba30nHhvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-kindle-unlimited-worth-it-fda01dceb923406a8524c64d2b72693e.jpg
+thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc218886423e579644f1092e23638fe5.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Huawei Nova Y91?

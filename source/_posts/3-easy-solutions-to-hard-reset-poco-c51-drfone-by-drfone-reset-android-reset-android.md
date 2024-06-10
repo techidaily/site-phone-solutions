@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Poco C51 | Dr.fone
-date: 2024-05-19T17:46:54.176Z
-updated: 2024-05-20T17:46:54.176Z
+date: 2024-06-09T01:06:52.973Z
+updated: 2024-06-10T01:06:52.973Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Poco C51 phone?
 excerpt: This article describes How to Soft Reset Poco C51 phone?
 keywords: hard reset,Poco C51 hard reset,Poco C51 factory reset,factory reset,Poco C51 soft reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/rmV5FQdusxtcDMfMN-dk_OtLxwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MorningShow-aed160f9cfd448cc8034b23bb3073314.jpg
+thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4a9660ef6c59333c64bce5cd.jpg
 ---
 
 ## 3 Solutions to Hard Reset Poco C51 Phone Using PC

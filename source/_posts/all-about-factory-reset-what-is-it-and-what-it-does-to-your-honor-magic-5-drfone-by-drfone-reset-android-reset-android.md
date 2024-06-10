@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Honor Magic 5? | Dr.fone
-date: 2024-05-19T17:46:58.014Z
-updated: 2024-05-20T17:46:58.014Z
+date: 2024-06-09T01:05:19.409Z
+updated: 2024-06-10T01:05:19.409Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Honor Magic 5?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Honor Magic 5?
 keywords: Honor Magic 5 soft reset,Honor Magic 5 hard reset,soft reset,hard reset,factory reset,Honor Magic 5 factory reset
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Honor Magic 5?

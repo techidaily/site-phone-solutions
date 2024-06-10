@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Infinix Note 30 VIP Racing Edition? | Dr.fone
-date: 2024-05-19T17:46:58.065Z
-updated: 2024-05-20T17:46:58.065Z
+date: 2024-06-09T01:06:53.007Z
+updated: 2024-06-10T01:06:53.007Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Infinix Note 30 VIP Racing Edition?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Infinix Note 30 VIP Racing Edition?
 keywords: hard reset,Infinix Note 30 VIP Racing Edition soft reset,factory reset,soft reset,Infinix Note 30 VIP Racing Edition hard reset,Infinix Note 30 VIP Racing Edition factory reset
-thumbnail: https://www.lifewire.com/thmb/d3vhzprgAOfQkZJVlCom44MR-q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410ddebad9670bd4cad45f7263474.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Infinix Note 30 VIP Racing Edition?

@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Nokia 130 Music | Dr.fone
-date: 2024-05-19T17:46:58.964Z
-updated: 2024-05-20T17:46:58.964Z
+date: 2024-06-09T01:04:04.389Z
+updated: 2024-06-10T01:04:04.389Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Nokia 130 Music
 excerpt: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Nokia 130 Music
 keywords: Nokia 130 Music soft reset,Nokia 130 Music factory reset,factory reset,Nokia 130 Music hard reset,hard reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Nokia 130 Music

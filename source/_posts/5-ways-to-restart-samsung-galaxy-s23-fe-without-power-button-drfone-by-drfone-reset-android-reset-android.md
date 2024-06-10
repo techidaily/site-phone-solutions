@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Samsung Galaxy S23 FE Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.539Z
-updated: 2024-05-20T17:46:57.539Z
+date: 2024-06-09T01:05:10.409Z
+updated: 2024-06-10T01:05:10.409Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Samsung Galaxy S23 FE Without Power Button
 excerpt: This article describes 5 Ways to Restart Samsung Galaxy S23 FE Without Power Button
 keywords: Samsung Galaxy S23 FE soft reset,hard reset,Samsung Galaxy S23 FE factory reset,soft reset,Samsung Galaxy S23 FE hard reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## 5 Ways to Reset Samsung Galaxy S23 FE Without Volume Buttons

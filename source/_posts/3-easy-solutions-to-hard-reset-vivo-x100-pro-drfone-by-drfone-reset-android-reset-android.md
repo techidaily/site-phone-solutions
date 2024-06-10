@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Vivo X100 Pro | Dr.fone
-date: 2024-05-19T17:46:54.376Z
-updated: 2024-05-20T17:46:54.376Z
+date: 2024-06-09T01:03:58.901Z
+updated: 2024-06-10T01:03:58.901Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Vivo X100 Pro phone?
 excerpt: This article describes How to Soft Reset Vivo X100 Pro phone?
 keywords: Vivo X100 Pro hard reset,soft reset,Vivo X100 Pro factory reset,hard reset,Vivo X100 Pro soft reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## 3 Solutions to Hard Reset Vivo X100 Pro Phone Using PC

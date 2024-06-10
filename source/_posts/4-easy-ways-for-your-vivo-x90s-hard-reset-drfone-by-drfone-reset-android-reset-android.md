@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Vivo X90S Hard Reset | Dr.fone
-date: 2024-05-19T17:46:55.956Z
-updated: 2024-05-20T17:46:55.956Z
+date: 2024-06-09T01:05:07.543Z
+updated: 2024-06-10T01:05:07.543Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Easy Ways for Your Vivo X90S Hard Reset
 excerpt: This article describes 4 Easy Ways for Your Vivo X90S Hard Reset
 keywords: factory reset,hard reset,soft reset,Vivo X90S hard reset,Vivo X90S soft reset,Vivo X90S factory reset
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## 4 Easy Ways for Your Vivo X90S Hard Reset

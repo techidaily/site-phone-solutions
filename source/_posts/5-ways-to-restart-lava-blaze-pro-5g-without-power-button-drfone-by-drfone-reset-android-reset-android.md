@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Lava Blaze Pro 5G Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.136Z
-updated: 2024-05-20T17:46:57.136Z
+date: 2024-06-09T01:06:10.958Z
+updated: 2024-06-10T01:06:10.958Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Lava Blaze Pro 5G Without Power Button
 excerpt: This article describes 5 Ways to Restart Lava Blaze Pro 5G Without Power Button
 keywords: factory reset,soft reset,Lava Blaze Pro 5G factory reset,Lava Blaze Pro 5G soft reset,hard reset,Lava Blaze Pro 5G hard reset
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## 5 Ways to Reset Lava Blaze Pro 5G Without Volume Buttons

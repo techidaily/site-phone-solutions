@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Itel A05s | Dr.fone
-date: 2024-05-19T17:46:53.112Z
-updated: 2024-05-20T17:46:53.112Z
+date: 2024-06-09T01:05:23.034Z
+updated: 2024-06-10T01:05:23.034Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Best Tools to Hard Reset Itel A05s
 excerpt: This article describes 3 Best Tools to Hard Reset Itel A05s
 keywords: Itel A05s factory reset,hard reset,soft reset,Itel A05s soft reset,factory reset,Itel A05s hard reset
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## 3 Best Tools to Hard Reset Itel A05s

@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Samsung Galaxy M14 4G | Dr.fone
-date: 2024-05-19T17:46:54.269Z
-updated: 2024-05-20T17:46:54.269Z
+date: 2024-06-09T01:04:49.924Z
+updated: 2024-06-10T01:04:49.924Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Samsung Galaxy M14 4G phone?
 excerpt: This article describes How to Soft Reset Samsung Galaxy M14 4G phone?
 keywords: Samsung Galaxy M14 4G hard reset,soft reset,hard reset,Samsung Galaxy M14 4G factory reset,Samsung Galaxy M14 4G soft reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## 3 Solutions to Hard Reset Samsung Galaxy M14 4G Phone Using PC

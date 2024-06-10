@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Vivo V30 Phone Using PC | Dr.fone
-date: 2024-05-19T17:46:55.102Z
-updated: 2024-05-20T17:46:55.102Z
+date: 2024-06-09T01:05:59.755Z
+updated: 2024-06-10T01:05:59.755Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Solutions to Hard Reset Vivo V30 Phone Using PC
 excerpt: This article describes 3 Solutions to Hard Reset Vivo V30 Phone Using PC
 keywords: factory reset,hard reset,Vivo V30 hard reset,Vivo V30 factory reset,Vivo V30 soft reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## 3 Solutions to Hard Reset Vivo V30 Phone Using PC

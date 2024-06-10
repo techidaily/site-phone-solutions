@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Nokia C02 Without Volume Buttons | Dr.fone
-date: 2024-05-19T17:46:56.361Z
-updated: 2024-05-20T17:46:56.361Z
+date: 2024-06-09T01:07:01.284Z
+updated: 2024-06-10T01:07:01.284Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Reset Nokia C02 Without Volume Buttons
 excerpt: This article describes 5 Ways to Reset Nokia C02 Without Volume Buttons
 keywords: Nokia C02 factory reset,Nokia C02 hard reset,factory reset,hard reset,soft reset,Nokia C02 soft reset
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## 5 Ways to Reset Nokia C02 Without Volume Buttons

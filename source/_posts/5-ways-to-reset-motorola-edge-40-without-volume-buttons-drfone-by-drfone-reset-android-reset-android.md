@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Motorola Edge 40 Without Volume Buttons | Dr.fone
-date: 2024-05-19T17:46:56.333Z
-updated: 2024-05-20T17:46:56.333Z
+date: 2024-06-09T01:05:12.325Z
+updated: 2024-06-10T01:05:12.325Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Reset Motorola Edge 40 Without Volume Buttons
 excerpt: This article describes 5 Ways to Reset Motorola Edge 40 Without Volume Buttons
 keywords: Motorola Edge 40 factory reset,Motorola Edge 40 soft reset,Motorola Edge 40 hard reset,factory reset,hard reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/0eladF6N0frE-HtBzdDkcGHF4eU=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-a-ps5-5088641-1bcc6bca24cd460bb2b276fdeb6cb830.jpg
+thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece4c292665e0f6b95fb5f60be.jpg
 ---
 
 ## 5 Ways to Reset Motorola Edge 40 Without Volume Buttons

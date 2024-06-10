@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Realme 11X 5G | Dr.fone
-date: 2024-05-19T17:46:54.197Z
-updated: 2024-05-20T17:46:54.197Z
+date: 2024-06-09T01:05:15.195Z
+updated: 2024-06-10T01:05:15.195Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Realme 11X 5G phone?
 excerpt: This article describes How to Soft Reset Realme 11X 5G phone?
 keywords: Realme 11X 5G soft reset,Realme 11X 5G hard reset,Realme 11X 5G factory reset,hard reset,factory reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## 3 Solutions to Hard Reset Realme 11X 5G Phone Using PC

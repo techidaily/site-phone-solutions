@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Huawei P60 | Dr.fone
-date: 2024-05-19T17:46:58.865Z
-updated: 2024-05-20T17:46:58.865Z
+date: 2024-06-09T01:06:57.573Z
+updated: 2024-06-10T01:06:57.573Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Huawei P60
 excerpt: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Huawei P60
 keywords: factory reset,Huawei P60 factory reset,soft reset,Huawei P60 soft reset,hard reset,Huawei P60 hard reset
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Huawei P60

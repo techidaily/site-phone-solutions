@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Motorola Razr 40 Ultra | Dr.fone
-date: 2024-05-19T17:46:58.962Z
-updated: 2024-05-20T17:46:58.962Z
+date: 2024-06-09T01:06:49.221Z
+updated: 2024-06-10T01:06:49.221Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Motorola Razr 40 Ultra
 excerpt: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Motorola Razr 40 Ultra
 keywords: Motorola Razr 40 Ultra soft reset,soft reset,Motorola Razr 40 Ultra factory reset,hard reset,Motorola Razr 40 Ultra hard reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Motorola Razr 40 Ultra

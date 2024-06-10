@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Google Pixel 7a | Dr.fone
-date: 2024-05-19T17:46:58.803Z
-updated: 2024-05-20T17:46:58.803Z
+date: 2024-06-09T01:05:01.060Z
+updated: 2024-06-10T01:05:01.060Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Google Pixel 7a
 excerpt: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Google Pixel 7a
 keywords: soft reset,Google Pixel 7a hard reset,Google Pixel 7a factory reset,hard reset,factory reset,Google Pixel 7a soft reset
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Google Pixel 7a

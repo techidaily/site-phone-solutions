@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Vivo Y100i Power 5G | Dr.fone
-date: 2024-05-19T17:46:54.385Z
-updated: 2024-05-20T17:46:54.385Z
+date: 2024-06-09T01:05:52.893Z
+updated: 2024-06-10T01:05:52.893Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Vivo Y100i Power 5G phone?
 excerpt: This article describes How to Soft Reset Vivo Y100i Power 5G phone?
 keywords: Vivo Y100i Power 5G factory reset,hard reset,Vivo Y100i Power 5G soft reset,factory reset,Vivo Y100i Power 5G hard reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## 3 Solutions to Hard Reset Vivo Y100i Power 5G Phone Using PC

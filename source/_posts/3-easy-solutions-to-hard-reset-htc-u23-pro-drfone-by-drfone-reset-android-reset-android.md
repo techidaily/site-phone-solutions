@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset HTC U23 Pro | Dr.fone
-date: 2024-05-19T17:46:53.970Z
-updated: 2024-05-20T17:46:53.970Z
+date: 2024-06-09T01:04:58.302Z
+updated: 2024-06-10T01:04:58.302Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset HTC U23 Pro phone?
 excerpt: This article describes How to Soft Reset HTC U23 Pro phone?
 keywords: hard reset,HTC U23 Pro soft reset,soft reset,HTC U23 Pro hard reset,HTC U23 Pro factory reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## 3 Solutions to Hard Reset HTC U23 Pro Phone Using PC

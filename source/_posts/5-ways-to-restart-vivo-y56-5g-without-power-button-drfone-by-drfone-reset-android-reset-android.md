@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y56 5G Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.757Z
-updated: 2024-05-20T17:46:57.757Z
+date: 2024-06-09T01:06:22.402Z
+updated: 2024-06-10T01:06:22.402Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Vivo Y56 5G Without Power Button
 excerpt: This article describes 5 Ways to Restart Vivo Y56 5G Without Power Button
 keywords: Vivo Y56 5G hard reset,hard reset,Vivo Y56 5G factory reset,factory reset,soft reset,Vivo Y56 5G soft reset
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## 5 Ways to Reset Vivo Y56 5G Without Volume Buttons

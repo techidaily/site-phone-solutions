@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Tecno Phantom V Fold Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.567Z
-updated: 2024-05-20T17:46:57.567Z
+date: 2024-06-09T01:05:09.391Z
+updated: 2024-06-10T01:05:09.391Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Tecno Phantom V Fold Without Power Button
 excerpt: This article describes 5 Ways to Restart Tecno Phantom V Fold Without Power Button
 keywords: Tecno Phantom V Fold hard reset,hard reset,factory reset,soft reset,Tecno Phantom V Fold soft reset,Tecno Phantom V Fold factory reset
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## 5 Ways to Reset Tecno Phantom V Fold Without Volume Buttons

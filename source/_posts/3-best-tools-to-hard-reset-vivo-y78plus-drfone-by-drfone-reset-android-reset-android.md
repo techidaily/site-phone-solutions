@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Vivo Y78+ | Dr.fone
-date: 2024-05-19T17:46:53.835Z
-updated: 2024-05-20T17:46:53.835Z
+date: 2024-06-09T01:06:42.855Z
+updated: 2024-06-10T01:06:42.855Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Best Tools to Hard Reset Vivo Y78+
 excerpt: This article describes 3 Best Tools to Hard Reset Vivo Y78+
 keywords: hard reset,factory reset,Vivo Y78+ soft reset,soft reset,Vivo Y78+ hard reset,Vivo Y78+ factory reset
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## 3 Best Tools to Hard Reset Vivo Y78+

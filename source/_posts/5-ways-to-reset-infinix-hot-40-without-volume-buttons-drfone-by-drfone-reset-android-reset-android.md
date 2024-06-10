@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Infinix Hot 40 Without Volume Buttons | Dr.fone
-date: 2024-05-19T17:46:56.259Z
-updated: 2024-05-20T17:46:56.259Z
+date: 2024-06-09T01:04:04.463Z
+updated: 2024-06-10T01:04:04.463Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Reset Infinix Hot 40 Without Volume Buttons
 excerpt: This article describes 5 Ways to Reset Infinix Hot 40 Without Volume Buttons
 keywords: hard reset,Infinix Hot 40 soft reset,factory reset,Infinix Hot 40 hard reset,soft reset,Infinix Hot 40 factory reset
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## 5 Ways to Reset Infinix Hot 40 Without Volume Buttons

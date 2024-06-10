@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Huawei P60 Without Volume Buttons | Dr.fone
-date: 2024-05-19T17:46:56.252Z
-updated: 2024-05-20T17:46:56.252Z
+date: 2024-06-09T01:04:34.060Z
+updated: 2024-06-10T01:04:34.060Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Reset Huawei P60 Without Volume Buttons
 excerpt: This article describes 5 Ways to Reset Huawei P60 Without Volume Buttons
 keywords: Huawei P60 hard reset,Huawei P60 soft reset,soft reset,Huawei P60 factory reset,hard reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## 5 Ways to Reset Huawei P60 Without Volume Buttons

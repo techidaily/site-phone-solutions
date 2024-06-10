@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Honor Play 40C | Dr.fone
-date: 2024-05-19T17:46:53.952Z
-updated: 2024-05-20T17:46:53.952Z
+date: 2024-06-09T01:04:13.656Z
+updated: 2024-06-10T01:04:13.656Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Honor Play 40C phone?
 excerpt: This article describes How to Soft Reset Honor Play 40C phone?
 keywords: factory reset,Honor Play 40C factory reset,soft reset,Honor Play 40C hard reset,Honor Play 40C soft reset,hard reset
-thumbnail: https://www.lifewire.com/thmb/XF8XZEIjsJng0yh72ZnUp_8O804=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/young-muslim-woman-using-phone-1137305438-75947aa7fb484506bf9da8c38fc68a03.jpg
+thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913b07ba9cca730be764e6c410.jpg
 ---
 
 ## 3 Solutions to Hard Reset Honor Play 40C Phone Using PC

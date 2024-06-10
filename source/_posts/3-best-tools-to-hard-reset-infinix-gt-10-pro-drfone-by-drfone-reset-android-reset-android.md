@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Infinix GT 10 Pro | Dr.fone
-date: 2024-05-19T17:46:53.090Z
-updated: 2024-05-20T17:46:53.090Z
+date: 2024-06-09T01:05:58.835Z
+updated: 2024-06-10T01:05:58.835Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Best Tools to Hard Reset Infinix GT 10 Pro
 excerpt: This article describes 3 Best Tools to Hard Reset Infinix GT 10 Pro
 keywords: Infinix GT 10 Pro factory reset,hard reset,Infinix GT 10 Pro hard reset,soft reset,Infinix GT 10 Pro soft reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/jNpQ-FANgbEnW9RjbyV2cn6aRhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-10-best-password-managers-of-2022-6543213-7650bf3ab2eb41a08dbee8713ce811e3.jpg
+thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a0f71577bc77fa3f28f478c0.jpg
 ---
 
 ## 3 Best Tools to Hard Reset Infinix GT 10 Pro

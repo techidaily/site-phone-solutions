@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G Stylus (2023) Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.206Z
-updated: 2024-05-20T17:46:57.206Z
+date: 2024-06-09T01:05:46.457Z
+updated: 2024-06-10T01:05:46.457Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Motorola Moto G Stylus (2023) Without Power Button
 excerpt: This article describes 5 Ways to Restart Motorola Moto G Stylus (2023) Without Power Button
 keywords: Motorola Moto G Stylus (2023) hard reset,Motorola Moto G Stylus (2023) factory reset,soft reset,factory reset,hard reset,Motorola Moto G Stylus (2023) soft reset
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## 5 Ways to Reset Motorola Moto G Stylus (2023) Without Volume Buttons

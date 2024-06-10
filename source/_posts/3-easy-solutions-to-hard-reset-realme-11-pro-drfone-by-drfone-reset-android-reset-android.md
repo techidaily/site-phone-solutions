@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset Realme 11 Pro | Dr.fone
-date: 2024-05-19T17:46:54.194Z
-updated: 2024-05-20T17:46:54.194Z
+date: 2024-06-09T01:05:19.432Z
+updated: 2024-06-10T01:05:19.432Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset Realme 11 Pro phone?
 excerpt: This article describes How to Soft Reset Realme 11 Pro phone?
 keywords: factory reset,Realme 11 Pro soft reset,Realme 11 Pro hard reset,hard reset,soft reset,Realme 11 Pro factory reset
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## 3 Solutions to Hard Reset Realme 11 Pro Phone Using PC

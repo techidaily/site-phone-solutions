@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Honor 90 Pro? | Dr.fone
-date: 2024-05-19T17:46:58.013Z
-updated: 2024-05-20T17:46:58.013Z
+date: 2024-06-09T01:03:56.973Z
+updated: 2024-06-10T01:03:56.973Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Honor 90 Pro?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Honor 90 Pro?
 keywords: soft reset,Honor 90 Pro hard reset,factory reset,hard reset,Honor 90 Pro soft reset,Honor 90 Pro factory reset
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Honor 90 Pro?

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 12 mini | Dr.fone
-date: 2024-04-12T01:18:08.624Z
-updated: 2024-04-13T01:18:08.624Z
+date: 2024-06-09T01:04:44.882Z
+updated: 2024-06-10T01:04:44.882Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes Life360 Circle Everything You Need to Know On Apple iPhone 12 mini
 excerpt: This article describes Life360 Circle Everything You Need to Know On Apple iPhone 12 mini
 keywords: change gps location on ios,fake location on ios,change location on ios,fake location on iPhone 12 mini,fake location on iphone,change location on iphone,fake gps location on ios,change location on iPhone 12 mini
-thumbnail: https://www.lifewire.com/thmb/5TQ2qNutxP1-2d0Nqc32lnx5qyc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-16-best-shows-to-watch-on-discovery-plus-right-now-5116795-b17411d87cfd4bd690fda5be50ea188c.jpg
+thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg
 ---
 
 ## Life360 Circle: Everything You Need to Know On Apple iPhone 12 mini

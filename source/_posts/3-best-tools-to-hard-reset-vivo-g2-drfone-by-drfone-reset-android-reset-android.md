@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Vivo G2 | Dr.fone
-date: 2024-05-19T17:46:53.474Z
-updated: 2024-05-20T17:46:53.474Z
+date: 2024-06-09T01:05:55.065Z
+updated: 2024-06-10T01:05:55.065Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Best Tools to Hard Reset Vivo G2
 excerpt: This article describes 3 Best Tools to Hard Reset Vivo G2
 keywords: hard reset,factory reset,Vivo G2 factory reset,soft reset,Vivo G2 hard reset,Vivo G2 soft reset
-thumbnail: https://www.lifewire.com/thmb/bEojajcVOmaMDVv4xG-kC_soHHk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-81522363-5683a5573df78ccc15cabf56.jpg
+thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7dcea0bf9addd82da02902e0.jpg
 ---
 
 ## 3 Best Tools to Hard Reset Vivo G2

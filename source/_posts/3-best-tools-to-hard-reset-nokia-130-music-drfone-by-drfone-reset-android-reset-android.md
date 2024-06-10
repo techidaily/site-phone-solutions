@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Nokia 130 Music | Dr.fone
-date: 2024-05-19T17:46:53.208Z
-updated: 2024-05-20T17:46:53.208Z
+date: 2024-06-09T01:04:57.182Z
+updated: 2024-06-10T01:04:57.182Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Best Tools to Hard Reset Nokia 130 Music
 excerpt: This article describes 3 Best Tools to Hard Reset Nokia 130 Music
 keywords: soft reset,Nokia 130 Music hard reset,hard reset,factory reset,Nokia 130 Music factory reset,Nokia 130 Music soft reset
-thumbnail: https://www.lifewire.com/thmb/U882-EUGEoQajhN4rEvQp6D4miQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/are-you-really-getting-dolby-atmos-sound-135ec4330d004250883e2acab9423191.jpg
+thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04e77596617ba912c21778696.jpg
 ---
 
 ## 3 Best Tools to Hard Reset Nokia 130 Music

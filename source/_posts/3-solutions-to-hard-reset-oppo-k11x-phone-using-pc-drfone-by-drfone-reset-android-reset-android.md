@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Oppo K11x Phone Using PC | Dr.fone
-date: 2024-05-19T17:46:54.793Z
-updated: 2024-05-20T17:46:54.793Z
+date: 2024-06-09T01:04:18.352Z
+updated: 2024-06-10T01:04:18.352Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Solutions to Hard Reset Oppo K11x Phone Using PC
 excerpt: This article describes 3 Solutions to Hard Reset Oppo K11x Phone Using PC
 keywords: Oppo K11x factory reset,Oppo K11x hard reset,soft reset,hard reset,Oppo K11x soft reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## 3 Solutions to Hard Reset Oppo K11x Phone Using PC

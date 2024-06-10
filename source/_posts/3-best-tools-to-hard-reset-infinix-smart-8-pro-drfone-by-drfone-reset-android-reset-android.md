@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Infinix Smart 8 Pro | Dr.fone
-date: 2024-05-19T17:46:53.108Z
-updated: 2024-05-20T17:46:53.108Z
+date: 2024-06-09T01:05:43.237Z
+updated: 2024-06-10T01:05:43.237Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Best Tools to Hard Reset Infinix Smart 8 Pro
 excerpt: This article describes 3 Best Tools to Hard Reset Infinix Smart 8 Pro
 keywords: hard reset,Infinix Smart 8 Pro soft reset,soft reset,Infinix Smart 8 Pro hard reset,factory reset,Infinix Smart 8 Pro factory reset
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## 3 Best Tools to Hard Reset Infinix Smart 8 Pro

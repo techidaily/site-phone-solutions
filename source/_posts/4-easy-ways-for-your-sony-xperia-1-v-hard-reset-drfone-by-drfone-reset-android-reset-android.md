@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Sony Xperia 1 V Hard Reset | Dr.fone
-date: 2024-05-19T17:46:55.857Z
-updated: 2024-05-20T17:46:55.857Z
+date: 2024-06-09T01:06:17.890Z
+updated: 2024-06-10T01:06:17.890Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Easy Ways for Your Sony Xperia 1 V Hard Reset
 excerpt: This article describes 4 Easy Ways for Your Sony Xperia 1 V Hard Reset
 keywords: soft reset,factory reset,Sony Xperia 1 V factory reset,Sony Xperia 1 V soft reset,hard reset,Sony Xperia 1 V hard reset
-thumbnail: https://www.lifewire.com/thmb/Ov60TE6o0ZdI6Oaw589hEL_tVLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229088-5bd1f61e46e0fb0026fdf2f0.jpg
+thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a50d24fd1a27318344d95b256.jpg
 ---
 
 ## 4 Easy Ways for Your Sony Xperia 1 V Hard Reset

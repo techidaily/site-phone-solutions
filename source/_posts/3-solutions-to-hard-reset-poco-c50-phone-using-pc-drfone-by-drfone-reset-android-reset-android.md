@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Poco C50 Phone Using PC | Dr.fone
-date: 2024-05-19T17:46:54.806Z
-updated: 2024-05-20T17:46:54.806Z
+date: 2024-06-09T01:06:09.968Z
+updated: 2024-06-10T01:06:09.968Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Solutions to Hard Reset Poco C50 Phone Using PC
 excerpt: This article describes 3 Solutions to Hard Reset Poco C50 Phone Using PC
 keywords: Poco C50 hard reset,Poco C50 soft reset,factory reset,hard reset,Poco C50 factory reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## 3 Solutions to Hard Reset Poco C50 Phone Using PC
