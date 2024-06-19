@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Motorola Moto G14 Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.210Z
-updated: 2024-05-20T17:46:57.210Z
+date: 2024-06-18T01:29:11.528Z
+updated: 2024-06-19T01:29:11.528Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Motorola Moto G14 Without Power Button
 excerpt: This article describes 5 Ways to Restart Motorola Moto G14 Without Power Button
 keywords: Motorola Moto G14 hard reset,hard reset,Motorola Moto G14 factory reset,Motorola Moto G14 soft reset,factory reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## 5 Ways to Reset Motorola Moto G14 Without Volume Buttons
@@ -123,7 +123,7 @@ If you are facing the challenge of resetting an Android tablet to unlock the loc
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Reset Android and Solve Your Screen Locks
 

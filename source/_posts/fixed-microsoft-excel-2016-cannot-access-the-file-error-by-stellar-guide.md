@@ -1,6 +1,6 @@
 ---
 title: Fixed Microsoft Excel 2016 Cannot Access the File Error
-date: 2024-06-16T22:45:24.156Z
+date: 2024-06-18T01:29:51.916Z
 tags: 
   - repair
   - repair excel
@@ -71,7 +71,7 @@ You may get the “Microsoft Excel cannot access the file” error if the [Prote
 - In Excel, go to **File** and then click **Options**.
 - In the **Excel Options** window, click **Trust Center** and then click **Trust Center Settings.**
 
-![Go To Trust Center and Click on Trust Center Settings ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
+![Go To Trust Center and Click on Trust Center Settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
 
 - Click **Protected View** from the left pane in the **Trust Center Settings** window.
 - Unselect the options under **Protected View**. Click **OK.**

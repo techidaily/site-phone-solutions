@@ -1,7 +1,7 @@
 ---
 title: How to add signature to a PDF v1.3 document
-date: 2024-06-09T01:06:23.341Z
-updated: 2024-06-10T01:06:23.341Z
+date: 2024-06-18T01:31:26.846Z
+updated: 2024-06-19T01:31:26.846Z
 tags: 
   - signer
   - signer online
@@ -39,9 +39,7 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 > Free PDF signature service to sign PDF
 
-These step by step instructions explain how to sign a PDF. Our free PDF signature tool allows you to sign PDF online (plus Word, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These step by step instructions explain how to sign a PDF. Our free PDF signature tool allows you to sign PDF online (plus Word, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 

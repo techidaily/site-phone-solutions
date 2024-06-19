@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y100i Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.687Z
-updated: 2024-05-20T17:46:57.687Z
+date: 2024-06-18T01:28:54.029Z
+updated: 2024-06-19T01:28:54.029Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Vivo Y100i Without Power Button
 excerpt: This article describes 5 Ways to Restart Vivo Y100i Without Power Button
 keywords: Vivo Y100i hard reset,Vivo Y100i factory reset,soft reset,factory reset,Vivo Y100i soft reset,hard reset
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## 5 Ways to Reset Vivo Y100i Without Volume Buttons
@@ -123,7 +123,7 @@ If you are facing the challenge of resetting an Android tablet to unlock the loc
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Reset Android and Solve Your Screen Locks
 
@@ -224,7 +224,7 @@ The screen locks can be removed without rooting, and the software is completely 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool for factory reset Vivo Y100i Phone When Locked
 
@@ -327,7 +327,7 @@ So, to protect your privacy and completely wipe data off the Vivo Y100i device, 
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
+### Dr.Fone - Data Eraser
 
 Fully Erase Everything on Android and Protect Your Privacy
 

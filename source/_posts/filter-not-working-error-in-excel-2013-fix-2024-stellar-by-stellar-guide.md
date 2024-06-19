@@ -1,7 +1,7 @@
 ---
 title: Filter Not Working Error in Excel 2013 Fix 2024 | Stellar
-date: 2024-03-13 17:46:53
-updated: 2024-03-14 16:26:25
+date: 2024-06-18T01:31:03.579Z
+updated: 2024-06-19T01:31:03.579Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes Filter Not Working Error in Excel 2013 Fix 2024
 excerpt: This article describes Filter Not Working Error in Excel 2013 Fix 2024
 keywords: repair excel,repair .csv files,repair .xlsx,repair excel 2013,repair .xlb,repair .xltx,repair damaged .xltm,repair corrupt .xlsx,repair excel file,repair damaged .xltm files,repair corrupt excel file,repair excel 2003
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Filter Not Working Error in Excel [Fix 2024]
@@ -51,8 +51,7 @@ When you apply filters to a single sheet in a grouped set, Excel disables the fi
 
 - In the Excel file, go to the **Group** section.
 
-![Excel file navigation: Accessing the Group section
-](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-group-section-1024x114.jpg)
+![Excel file navigation: Accessing the Group section](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-group-section-1024x114.jpg)
 
 - Right-click on the **Ungroup Sheets.**
 
@@ -364,7 +363,7 @@ It is better to repair the affected Excel file than suffer the loss when data 
 
 Similar to any other program, you may experience problems with Microsoft Excel while opening or working on a document. Sometimes, it may not start at all or freeze and display an error message such as ‘Excel is not responding’. When it happens, you may want to wait for the program to respond.
 
-![Microsoft Excel is not Responding ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/11/Microsoft-Excel-not-responding.png)
+![Microsoft Excel is not Responding](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/11/Microsoft-Excel-not-responding.png)
 
 ‘Microsoft Excel is not responding’ problem
 
@@ -499,7 +498,7 @@ Sometimes, repairing MS Office may not work. In such a case, removing and reinst
 3. Click **Programs** and then **Programs** **and** **Features**
 4. Right-click on **Microsoft Office** and choose **Uninstall**
 
-![ Uninstall MS Office](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/02/Uninstall-MS-Office.jpg)
+![Uninstall MS Office](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/02/Uninstall-MS-Office.jpg)
 
 Uninstall MS Office
 
@@ -666,7 +665,7 @@ Microsoft Excel comes with a built-in AutoRecover feature that saves copies of a
 - Then go to **Save > Save** **workbooks**.
 - Next, ensure that the ‘**Save AutoRecover information every’** and ‘**Keep the last autosaved version if I close without saving**’ option is already selected.
 
-![check-if-the-autorecover-options-for-excel-files-are-selected ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/01/check-if-the-autorecover-options-for-excel-files-are-selected-image2.jpg)
+![check-if-the-autorecover-options-for-excel-files-are-selected](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/01/check-if-the-autorecover-options-for-excel-files-are-selected-image2.jpg)
 
 - Now, copy the file path given against the **AutoRecover file location**.
 - Open the **File Explorer**, paste the Menu Bar file path there, and hit **Enter**.
@@ -791,7 +790,7 @@ Figure 5 – Open Trust Center Settings
 
 - Next, choose **‘Protected View**’ and uncheck all the options including ‘**Enable Protected View for Outlook attachments’** if you use Outlook for email.
 
-![change protected view settings ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Uncheck-protected-view-settings.jpg)
+![change protected view settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Uncheck-protected-view-settings.jpg)
 
 Figure 6 – Uncheck Protected View Settings
 
@@ -860,3 +859,26 @@ You can use the first two possible solutions to fix the “The file is corrupted
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-hot-40-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-magic-6-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Magic 6 Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-2007-stuck-at-opening-file-0-resolve-performance-issues-stellar-by-stellar-guide/"><u>Excel 2007 Stuck at Opening File 0 - Resolve Performance Issues | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-dotx-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .dotx file free</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-15-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 15 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-uncomplicated-techniques-reverse-playback-in-vlc-media-player/"><u>[Updated] 2024 Approved  Uncomplicated Techniques  Reverse Playback in VLC Media Player</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-yoga-youtube-channel-to-help-you-stay-fit/"><u>In 2024, Top 10 Yoga YouTube Channel to Help You Stay Fit</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-easy-routines-for-capturing-youtube-streams-for-2024/"><u>[New] Easy Routines for Capturing YouTube Streams for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-behind-the-scenes-of-eco-friendly-visual-tricks-in-media/"><u>[New] Behind the Scenes of Eco-Friendly Visual Tricks in Media</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tream-platform-push-facebook-vs-youtube-and-periscope-for-2024/"><u>Livestream Platform Push  Facebook Vs. YouTube & Periscope for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-from-faces-to-films-the-mi-11s-advanced-screenshot-technology/"><u>[Updated] In 2024, From Faces to Films  The Mi 11'S Advanced Screenshot Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-innovative-techniques-for-capturing-every-play-of-your-ps3-games-for-2024/"><u>[New] Innovative Techniques for Capturing Every Play of Your PS3 Games for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10-for-2024/"><u>[New] Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10) for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ken-burns-method-in-camtasia-9-explained-simply/"><u>The Ken Burns Method in Camtasia 9 Explained Simply</u></a></li>
+</ul></div>

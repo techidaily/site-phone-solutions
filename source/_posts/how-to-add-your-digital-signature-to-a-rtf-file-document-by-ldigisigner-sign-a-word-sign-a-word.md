@@ -1,7 +1,7 @@
 ---
 title: How to Add Your Digital Signature to a .rtf file Document
-date: 2024-06-16T22:45:21.160Z
-updated: 2024-06-17T22:45:21.160Z
+date: 2024-06-18T01:29:55.214Z
+updated: 2024-06-19T01:29:55.214Z
 tags: 
   - signer
   - signer online
@@ -39,9 +39,7 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 ### 2.2. Instructions on how to create electronic signature in Word
 
-These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Word document online. Our free version of DigiSigner online signature software allows you to sign Word documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 

@@ -1,7 +1,7 @@
 ---
 title: How to add a digital signature field to a .xlsx 
-date: 2024-03-09 22:41:53
-updated: 2024-03-12 20:57:26
+date: 2024-06-18T01:28:34.371Z
+updated: 2024-06-19T01:28:34.371Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 excerpt: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 keywords: excel signature service,.xlsx signature,best sign excel,free sign excel,.xlsx signature software
-thumbnail: https://www.lifewire.com/thmb/j6BDiuyaUokwtXDLEnyA5LApr9c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4062264-InCar6-1500-5b803f8ec9e77c0025d3f4de.jpg
+thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557e8c99c8c7fa75aee528315d.jpg
 ---
 
 ## 1. How to add a digital signature field to a .xlsx 
@@ -41,9 +41,7 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 ### 2.2. Instructions on how to create electronic signature in Excel
 
-These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
-
-[https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
+These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required![https://www.digisigner.com/free-electronic-signature/](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
 
 #### 2.2.1. Upload a file
 
@@ -161,3 +159,27 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-rtf-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .rtf file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-galaxy-a25-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Galaxy A25 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-narzo-n53-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Narzo N53.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c55-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C55 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-xr-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone XR activation lock using official methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Use Special Features - Virtual Location On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-tecno-pop-7-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Tecno Pop 7 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y02t-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y02T Is Unlocked</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reimagining-home-entertainment-with-lgs-bp550-update/"><u>Reimagining Home Entertainment with LG's BP550 Update</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>[Updated] Pioneering Usability  Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-immediate-screenshot-recorder-chrome/"><u>[New] In 2024, Immediate Screenshot Recorder (Chrome)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-capture-the-moment-smartphone-snapchat-recording-101/"><u>[Updated] 2024 Approved  Capture the Moment  Smartphone Snapchat Recording 101</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insta-rapid-rise-mastering-engagement-with-likes-and-vids/"><u>2024 Approved  Insta Rapid Rise  Mastering Engagement with Likes & Vids</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-perfect-thumbnail-formula-for-youtube-success/"><u>In 2024, Unveiling The Perfect Thumbnail Formula for YouTube Success</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-collecting-conquerors-8-tools-every-business-leader-cant-overlook/"><u>[New] Collecting Conquerors  8 Tools Every Business Leader Can’t Overlook</u></a></li>
+</ul></div>

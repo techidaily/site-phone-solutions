@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 Pro | Dr.fone
-date: 2024-05-19T17:46:58.888Z
-updated: 2024-05-20T17:46:58.888Z
+date: 2024-06-18T01:29:05.400Z
+updated: 2024-06-19T01:29:05.400Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 Pro
 excerpt: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Infinix Smart 8 Pro
 keywords: soft reset,factory reset,Infinix Smart 8 Pro factory reset,Infinix Smart 8 Pro hard reset,hard reset,Infinix Smart 8 Pro soft reset
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Infinix Smart 8 Pro
@@ -57,7 +57,7 @@ So, to protect your privacy and completely wipe data off the Infinix Smart 8 Pro
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Data Eraser](https://tools.techidaily.com/wondershare/drfone/android-data-eraser/)
+### Dr.Fone - Data Eraser
 
 Fully Erase Everything on Android and Protect Your Privacy
 

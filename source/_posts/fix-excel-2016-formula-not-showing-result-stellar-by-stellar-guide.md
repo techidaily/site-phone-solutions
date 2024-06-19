@@ -1,7 +1,7 @@
 ---
 title: Fix Excel 2016 formula not showing result | Stellar
-date: 2024-06-16T22:46:03.841Z
-updated: 2024-06-17T22:46:03.841Z
+date: 2024-06-18T01:31:32.852Z
+updated: 2024-06-19T01:31:32.852Z
 tags: 
   - repair
   - repair excel
@@ -137,8 +137,7 @@ The Excel freeze panes not working issue can also occur if your workbook is open
 
 To enable the **freeze pane** option, go to **View** and click the **Page Break Preview** tab.
 
-![enable freeze panes in excel page break  preview tab
-](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/click-page-break-preview-option-to-enable.jpg)
+![enable freeze panes in excel page break  preview tab](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/click-page-break-preview-option-to-enable.jpg)
 
 ### **Workaround 3: Check and Remove Options under the Data Tab**
 
