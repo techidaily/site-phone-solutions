@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Oppo K11 5G Hard Reset | Dr.fone
-date: 2024-05-19T17:46:55.621Z
-updated: 2024-05-20T17:46:55.621Z
+date: 2024-06-16T22:45:30.476Z
+updated: 2024-06-17T22:45:30.476Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Easy Ways for Your Oppo K11 5G Hard Reset
 excerpt: This article describes 4 Easy Ways for Your Oppo K11 5G Hard Reset
 keywords: hard reset,Oppo K11 5G hard reset,Oppo K11 5G factory reset,soft reset,factory reset,Oppo K11 5G soft reset
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## 4 Easy Ways for Your Oppo K11 5G Hard Reset

@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Vivo S18e? | Dr.fone
-date: 2024-05-19T17:46:58.405Z
-updated: 2024-05-20T17:46:58.405Z
+date: 2024-06-16T22:45:33.276Z
+updated: 2024-06-17T22:45:33.276Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo S18e?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo S18e?
 keywords: hard reset,Vivo S18e soft reset,Vivo S18e factory reset,Vivo S18e hard reset,factory reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Vivo S18e?

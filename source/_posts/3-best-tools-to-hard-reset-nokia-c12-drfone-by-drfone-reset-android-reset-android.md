@@ -1,7 +1,7 @@
 ---
 title: 3 Best Tools to Hard Reset Nokia C12 | Dr.fone
-date: 2024-05-19T17:46:53.212Z
-updated: 2024-05-20T17:46:53.212Z
+date: 2024-06-16T22:47:54.852Z
+updated: 2024-06-17T22:47:54.852Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Best Tools to Hard Reset Nokia C12
 excerpt: This article describes 3 Best Tools to Hard Reset Nokia C12
 keywords: Nokia C12 factory reset,soft reset,Nokia C12 soft reset,hard reset,factory reset,Nokia C12 hard reset
-thumbnail: https://www.lifewire.com/thmb/dUcMAT1_0DCxV5hsu63as34-gjs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coverjointwitter-6f13b51d1be04d8bb3f5221ef5a057c7.jpg
+thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b157cf1a2528e89d05cbc2979.jpg
 ---
 
 ## 3 Best Tools to Hard Reset Nokia C12

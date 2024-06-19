@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix GT 10 Pro Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.047Z
-updated: 2024-05-20T17:46:57.047Z
+date: 2024-06-16T22:45:01.335Z
+updated: 2024-06-17T22:45:01.335Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Infinix GT 10 Pro Without Power Button
 excerpt: This article describes 5 Ways to Restart Infinix GT 10 Pro Without Power Button
 keywords: Infinix GT 10 Pro factory reset,factory reset,Infinix GT 10 Pro soft reset,Infinix GT 10 Pro hard reset,hard reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/FO5DJQJt8EUiF4veEftl-goajY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-151812569-ff7311e1de18461da9f8698205953384.jpg
+thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547c6bb5f5df0fa9181f11e1b7.jpg
 ---
 
 ## 5 Ways to Reset Infinix GT 10 Pro Without Volume Buttons

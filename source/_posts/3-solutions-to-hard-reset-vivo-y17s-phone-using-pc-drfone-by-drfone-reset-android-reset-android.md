@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Hard Reset Vivo Y17s Phone Using PC | Dr.fone
-date: 2024-05-19T17:46:55.120Z
-updated: 2024-05-20T17:46:55.120Z
+date: 2024-06-16T22:47:34.874Z
+updated: 2024-06-17T22:47:34.874Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 3 Solutions to Hard Reset Vivo Y17s Phone Using PC
 excerpt: This article describes 3 Solutions to Hard Reset Vivo Y17s Phone Using PC
 keywords: Vivo Y17s hard reset,Vivo Y17s soft reset,soft reset,Vivo Y17s factory reset,hard reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/U3vDiQ7GsjPng-Yja5bpNwc079s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527847020-5b9edc17c9e77c0050ff9045.jpg
+thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5e7d77e30ca04d5bf449b804.jpg
 ---
 
 ## 3 Solutions to Hard Reset Vivo Y17s Phone Using PC

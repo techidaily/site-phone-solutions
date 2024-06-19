@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Solutions to Hard Reset ZTE Nubia Z60 Ultra | Dr.fone
-date: 2024-05-19T17:46:54.460Z
-updated: 2024-05-20T17:46:54.460Z
+date: 2024-06-16T22:46:27.999Z
+updated: 2024-06-17T22:46:27.999Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes How to Soft Reset ZTE Nubia Z60 Ultra phone?
 excerpt: This article describes How to Soft Reset ZTE Nubia Z60 Ultra phone?
 keywords: hard reset,ZTE Nubia Z60 Ultra soft reset,factory reset,ZTE Nubia Z60 Ultra factory reset,soft reset,ZTE Nubia Z60 Ultra hard reset
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## 3 Solutions to Hard Reset ZTE Nubia Z60 Ultra Phone Using PC

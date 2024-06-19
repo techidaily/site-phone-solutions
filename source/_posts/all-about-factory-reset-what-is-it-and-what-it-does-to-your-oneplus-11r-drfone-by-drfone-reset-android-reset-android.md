@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your OnePlus 11R? | Dr.fone
-date: 2024-05-19T17:46:58.187Z
-updated: 2024-05-20T17:46:58.187Z
+date: 2024-06-16T22:47:34.826Z
+updated: 2024-06-17T22:47:34.826Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your OnePlus 11R?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your OnePlus 11R?
 keywords: hard reset,factory reset,OnePlus 11R hard reset,soft reset,OnePlus 11R soft reset,OnePlus 11R factory reset
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your OnePlus 11R?

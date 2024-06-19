@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo Y36 Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.704Z
-updated: 2024-05-20T17:46:57.704Z
+date: 2024-06-16T22:46:09.335Z
+updated: 2024-06-17T22:46:09.335Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Vivo Y36 Without Power Button
 excerpt: This article describes 5 Ways to Restart Vivo Y36 Without Power Button
 keywords: soft reset,hard reset,Vivo Y36 soft reset,Vivo Y36 factory reset,factory reset,Vivo Y36 hard reset
-thumbnail: https://www.lifewire.com/thmb/8693hBAeE81sk6n359fo6i01-Hc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1168002788-1bccccf67a1f4988bd355c09748383ab.jpg
+thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg
 ---
 
 ## 5 Ways to Reset Vivo Y36 Without Volume Buttons

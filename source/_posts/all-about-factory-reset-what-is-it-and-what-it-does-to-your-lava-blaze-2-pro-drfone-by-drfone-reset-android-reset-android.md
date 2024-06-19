@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Lava Blaze 2 Pro? | Dr.fone
-date: 2024-05-19T17:46:58.090Z
-updated: 2024-05-20T17:46:58.090Z
+date: 2024-06-16T22:46:18.508Z
+updated: 2024-06-17T22:46:18.508Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Lava Blaze 2 Pro?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Lava Blaze 2 Pro?
 keywords: soft reset,Lava Blaze 2 Pro hard reset,Lava Blaze 2 Pro factory reset,hard reset,factory reset,Lava Blaze 2 Pro soft reset
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Lava Blaze 2 Pro?

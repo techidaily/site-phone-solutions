@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Vivo S17t? | Dr.fone
-date: 2024-05-19T17:46:58.401Z
-updated: 2024-05-20T17:46:58.401Z
+date: 2024-06-16T22:45:33.195Z
+updated: 2024-06-17T22:45:33.195Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo S17t?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo S17t?
 keywords: soft reset,factory reset,Vivo S17t hard reset,Vivo S17t factory reset,hard reset,Vivo S17t soft reset
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Vivo S17t?

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Google Pixel 8 Pro Without Power Button | Dr.fone
-date: 2024-05-19T17:46:56.912Z
-updated: 2024-05-20T17:46:56.912Z
+date: 2024-06-16T22:47:49.517Z
+updated: 2024-06-17T22:47:49.517Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Google Pixel 8 Pro Without Power Button
 excerpt: This article describes 5 Ways to Restart Google Pixel 8 Pro Without Power Button
 keywords: Google Pixel 8 Pro soft reset,soft reset,hard reset,Google Pixel 8 Pro hard reset,factory reset,Google Pixel 8 Pro factory reset
-thumbnail: https://www.lifewire.com/thmb/GmtX4Dz-IqWNOXpwPIQPNtbYXbk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-174294003-57c6ee043df78cc16eeab260.jpg
+thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
 ## 5 Ways to Reset Google Pixel 8 Pro Without Volume Buttons

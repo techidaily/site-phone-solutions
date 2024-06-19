@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Google Pixel 7a Hard Reset | Dr.fone
-date: 2024-05-19T17:46:55.234Z
-updated: 2024-05-20T17:46:55.234Z
+date: 2024-06-16T22:46:59.774Z
+updated: 2024-06-17T22:46:59.774Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Easy Ways for Your Google Pixel 7a Hard Reset
 excerpt: This article describes 4 Easy Ways for Your Google Pixel 7a Hard Reset
 keywords: Google Pixel 7a hard reset,factory reset,hard reset,soft reset,Google Pixel 7a factory reset,Google Pixel 7a soft reset
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## 4 Easy Ways for Your Google Pixel 7a Hard Reset

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Vivo T2 Pro 5G Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.660Z
-updated: 2024-05-20T17:46:57.660Z
+date: 2024-06-16T22:45:51.592Z
+updated: 2024-06-17T22:45:51.592Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Vivo T2 Pro 5G Without Power Button
 excerpt: This article describes 5 Ways to Restart Vivo T2 Pro 5G Without Power Button
 keywords: Vivo T2 Pro 5G factory reset,soft reset,Vivo T2 Pro 5G soft reset,hard reset,factory reset,Vivo T2 Pro 5G hard reset
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## 5 Ways to Reset Vivo T2 Pro 5G Without Volume Buttons

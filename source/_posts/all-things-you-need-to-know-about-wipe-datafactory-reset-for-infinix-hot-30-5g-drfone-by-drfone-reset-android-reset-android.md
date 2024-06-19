@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Infinix Hot 30 5G | Dr.fone
-date: 2024-05-19T17:46:58.868Z
-updated: 2024-05-20T17:46:58.868Z
+date: 2024-06-16T22:45:43.178Z
+updated: 2024-06-17T22:45:43.178Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Infinix Hot 30 5G
 excerpt: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Infinix Hot 30 5G
 keywords: Infinix Hot 30 5G factory reset,Infinix Hot 30 5G soft reset,hard reset,Infinix Hot 30 5G hard reset,factory reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/ptfhak0BFgk1HbWMQnlfEezMM8Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kentuckyderby-5c7ed5d646e0fb00011bf3da.jpg
+thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794edca9da0873a40e49d2c700e6.jpg
 ---
 
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Infinix Hot 30 5G

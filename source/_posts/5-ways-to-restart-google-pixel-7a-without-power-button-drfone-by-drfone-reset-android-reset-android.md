@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Google Pixel 7a Without Power Button | Dr.fone
-date: 2024-05-19T17:46:56.910Z
-updated: 2024-05-20T17:46:56.910Z
+date: 2024-06-16T22:47:54.811Z
+updated: 2024-06-17T22:47:54.811Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Google Pixel 7a Without Power Button
 excerpt: This article describes 5 Ways to Restart Google Pixel 7a Without Power Button
 keywords: Google Pixel 7a hard reset,Google Pixel 7a soft reset,factory reset,Google Pixel 7a factory reset,hard reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## 5 Ways to Reset Google Pixel 7a Without Volume Buttons

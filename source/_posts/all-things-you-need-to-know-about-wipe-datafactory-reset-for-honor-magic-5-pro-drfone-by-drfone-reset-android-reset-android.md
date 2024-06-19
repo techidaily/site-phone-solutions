@@ -1,7 +1,7 @@
 ---
 title: All Things You Need to Know about Wipe Data/Factory Reset For Honor Magic 5 Pro | Dr.fone
-date: 2024-05-19T17:46:58.821Z
-updated: 2024-05-20T17:46:58.821Z
+date: 2024-06-16T22:47:03.681Z
+updated: 2024-06-17T22:47:03.681Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Honor Magic 5 Pro
 excerpt: This article describes All Things You Need to Know about Wipe Data/Factory Reset For Honor Magic 5 Pro
 keywords: soft reset,factory reset,Honor Magic 5 Pro soft reset,Honor Magic 5 Pro factory reset,Honor Magic 5 Pro hard reset,hard reset
-thumbnail: https://www.lifewire.com/thmb/21o2y5NdnwK9g8j7z_eUWi12JAw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-504331578-cheering-football-on-tv-5a231ffdaad52b00372ae2a6.jpg
+thumbnail: https://thmb.techidaily.com/264f7e50d992f10f22f440e035402650c9e912cde2fed4f7c2aee477f6b93402.jpg
 ---
 
 ## All Things You Need to Know about Wipe Data/Factoy Reset For Honor Magic 5 Pro

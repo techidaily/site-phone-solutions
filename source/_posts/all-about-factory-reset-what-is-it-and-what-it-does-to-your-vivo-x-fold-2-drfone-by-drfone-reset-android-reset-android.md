@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Vivo X Fold 2? | Dr.fone
-date: 2024-05-19T17:46:58.449Z
-updated: 2024-05-20T17:46:58.449Z
+date: 2024-06-16T22:48:16.335Z
+updated: 2024-06-17T22:48:16.335Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo X Fold 2?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Vivo X Fold 2?
 keywords: Vivo X Fold 2 soft reset,soft reset,hard reset,Vivo X Fold 2 factory reset,factory reset,Vivo X Fold 2 hard reset
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Vivo X Fold 2?

@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Realme C51 Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.433Z
-updated: 2024-05-20T17:46:57.433Z
+date: 2024-06-16T22:46:17.480Z
+updated: 2024-06-17T22:46:17.480Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Realme C51 Without Power Button
 excerpt: This article describes 5 Ways to Restart Realme C51 Without Power Button
 keywords: Realme C51 hard reset,factory reset,hard reset,Realme C51 soft reset,soft reset,Realme C51 factory reset
-thumbnail: https://www.lifewire.com/thmb/n7XTjADWmcwt2P_LF7WoPjqi8O4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-538600261-56c643115f9b5879cc3d6bde.jpg
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
 ---
 
 ## 5 Ways to Reset Realme C51 Without Volume Buttons

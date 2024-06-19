@@ -1,7 +1,7 @@
 ---
 title: How to add a digital signature block to .odt file
-date: 2024-03-10 21:54:38
-updated: 2024-03-12 12:41:24
+date: 2024-06-16T22:46:18.477Z
+updated: 2024-06-17T22:46:18.477Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to add a digital signature block to .odt file
 excerpt: This article describes How to add a digital signature block to .odt file
 keywords: sign .fodt file,.ott file signature online,.wpd file signature online,free sign .docm file,sign .svd file,.txt file signature free
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## 1. How to add a digital signature block to .odt file
@@ -159,3 +159,23 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Motorola has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-y100-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Y100 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-honor-x50iplus-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Honor X50i+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-11r-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus 11R Location Settings | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/constructing-an-intriguing-trailer-blueprint-for-2024/"><u>Constructing an Intriguing Trailer Blueprint for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vampire-vignette-virtuoso/"><u>[Updated] Vampire Vignette Virtuoso</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/decoding-sonys-screenshot-system-an-in-depth-look-at-ps4-recording-for-2024/"><u>Decoding Sony's Screenshot System  An In-Depth Look at PS4 Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-double-delight-endless-looping-of-youtube-videos-for-tvs/"><u>[Updated] 2024 Approved  Double Delight  Endless Looping of YouTube Videos for TVs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-galleryguide-adjusting-post-dimensions-in-instagram/"><u>[New] GalleryGuide  Adjusting Post Dimensions in Instagram</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/emoji-tips-for-yt-comments-a-quick-guide-for-2024/"><u>Emoji Tips for YT Comments  A Quick Guide for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-innovative-approaches-to-tiktok-lives-from-desktop-devices-for-2024/"><u>[Updated] Innovative Approaches to TikTok Lives From Desktop Devices for 2024</u></a></li>
+</ul></div>

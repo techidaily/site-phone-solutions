@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Poco X6 Pro? | Dr.fone
-date: 2024-05-19T17:46:58.259Z
-updated: 2024-05-20T17:46:58.259Z
+date: 2024-06-16T22:47:43.233Z
+updated: 2024-06-17T22:47:43.233Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Poco X6 Pro?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Poco X6 Pro?
 keywords: hard reset,Poco X6 Pro factory reset,soft reset,Poco X6 Pro hard reset,Poco X6 Pro soft reset,factory reset
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Poco X6 Pro?

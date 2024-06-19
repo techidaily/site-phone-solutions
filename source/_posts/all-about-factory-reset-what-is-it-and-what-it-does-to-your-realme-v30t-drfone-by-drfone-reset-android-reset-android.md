@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Realme V30T? | Dr.fone
-date: 2024-05-19T17:46:58.306Z
-updated: 2024-05-20T17:46:58.306Z
+date: 2024-06-16T22:47:43.253Z
+updated: 2024-06-17T22:47:43.253Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Realme V30T?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Realme V30T?
 keywords: soft reset,Realme V30T factory reset,factory reset,hard reset,Realme V30T hard reset,Realme V30T soft reset
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Realme V30T?

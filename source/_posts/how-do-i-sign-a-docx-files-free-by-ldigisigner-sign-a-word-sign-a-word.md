@@ -1,7 +1,7 @@
 ---
 title: How do i sign a .docx files free
-date: 2024-03-09 14:54:20
-updated: 2024-03-12 15:42:45
+date: 2024-06-16T22:48:14.822Z
+updated: 2024-06-17T22:48:14.822Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: Free .docx signature service to sign .docx online. Add signature to .docx documents with our .docx signer. No registration or installation required | DigiSigner
 excerpt: Free .docx signature service to sign .docx online. Add signature to .docx documents with our .docx signer. No registration or installation required | DigiSigner
 keywords: best sign .uot file,.doc file signature tool,free sign .ott file,sign .dot file online,.wpd file signature
-thumbnail: https://www.lifewire.com/thmb/5TQ2qNutxP1-2d0Nqc32lnx5qyc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-16-best-shows-to-watch-on-discovery-plus-right-now-5116795-b17411d87cfd4bd690fda5be50ea188c.jpg
+thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4f9c2a1611133710cbbaabe1.jpg
 ---
 
 ## 1. How do i sign a .docx files free
@@ -159,3 +159,23 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-7-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 7 Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-axon-40-lite-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Axon 40 Lite.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-xiaomi-redmi-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-uot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .uot file</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-online-seminar-creation-assistant/"><u>2024 Approved  Ultimate Online Seminar Creation Assistant</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-recording-strategies-how-to-capture-the-unrecorded-moments-on-discord/"><u>[New] In 2024, Essential Recording Strategies  How to Capture the Unrecorded Moments on Discord</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unlock-the-power-of-green-screen-10-best-free-apps-for-mobile-for-2024/"><u>New Unlock the Power of Green Screen 10 Best Free Apps for Mobile for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-becoming-a-pro-in-lut-creation/"><u>[Updated] Becoming a Pro in LUT Creation</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-aesthetically-pleasing-scores-for-youtube-productions/"><u>In 2024, Aesthetically Pleasing Scores for YouTube Productions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-your-own-video-invitations-for-free-top-online-tools/"><u>New In 2024, Make Your Own Video Invitations for Free Top Online Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quicksnap-firefox-enhancements/"><u>[Updated] QuickSnap Firefox Enhancements</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes</u></a></li>
+</ul></div>

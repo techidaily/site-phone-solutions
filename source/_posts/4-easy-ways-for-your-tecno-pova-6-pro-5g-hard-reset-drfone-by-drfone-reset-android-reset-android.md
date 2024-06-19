@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Tecno Pova 6 Pro 5G Hard Reset | Dr.fone
-date: 2024-05-19T17:46:55.875Z
-updated: 2024-05-20T17:46:55.875Z
+date: 2024-06-16T22:46:37.300Z
+updated: 2024-06-17T22:46:37.300Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Easy Ways for Your Tecno Pova 6 Pro 5G Hard Reset
 excerpt: This article describes 4 Easy Ways for Your Tecno Pova 6 Pro 5G Hard Reset
 keywords: Tecno Pova 6 Pro 5G soft reset,hard reset,factory reset,soft reset,Tecno Pova 6 Pro 5G factory reset,Tecno Pova 6 Pro 5G hard reset
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## 4 Easy Ways for Your Tecno Pova 6 Pro 5G Hard Reset

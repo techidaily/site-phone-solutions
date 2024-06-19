@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Lava Yuva 3 Pro Without Volume Buttons | Dr.fone
-date: 2024-05-19T17:46:56.321Z
-updated: 2024-05-20T17:46:56.321Z
+date: 2024-06-16T22:46:18.555Z
+updated: 2024-06-17T22:46:18.555Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Reset Lava Yuva 3 Pro Without Volume Buttons
 excerpt: This article describes 5 Ways to Reset Lava Yuva 3 Pro Without Volume Buttons
 keywords: hard reset,factory reset,Lava Yuva 3 Pro factory reset,Lava Yuva 3 Pro hard reset,Lava Yuva 3 Pro soft reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## 5 Ways to Reset Lava Yuva 3 Pro Without Volume Buttons

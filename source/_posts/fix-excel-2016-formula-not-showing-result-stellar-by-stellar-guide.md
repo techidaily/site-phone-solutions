@@ -1,7 +1,7 @@
 ---
 title: Fix Excel 2016 formula not showing result | Stellar
-date: 2024-03-11 21:29:45
-updated: 2024-03-14 21:21:57
+date: 2024-06-16T22:46:03.841Z
+updated: 2024-06-17T22:46:03.841Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes Fix Excel 2016 formula not showing result
 excerpt: This article describes Fix Excel 2016 formula not showing result
 keywords: repair excel 2023,repair damaged .xls files,repair excel 2010,repair .xltm,repair damaged .xlb,repair .csv,repair corrupt .xls,repair damaged .xltm files,repair .xls,repair excel 2007
-thumbnail: https://www.lifewire.com/thmb/LszZcaAEzHRXWm3K0xWEG-T8gus=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/handstypingonkeyboardCROPPED-6b13200ac0d24ef58817343cc4975ebd.jpg
+thumbnail: https://thmb.techidaily.com/984f643c4b4f7bae0c2654dd17f8e46d49464b1fbd02ad27cef488f7c4915f8e.jpg
 ---
 
 ## [Fix] Excel formula not showing result
@@ -388,349 +388,32 @@ Although the error ‘Excel found a problem with one or more formula references 
 
 
 
-## [Fix] Excel formula not showing result
-
-**Summary:** Is your Excel spreadsheet showing text of a formula you’ve entered and not its result? This blog explains the possible reasons behind such an issue. Also, it describes solutions to fix the ‘Excel formula not showing result’ error. You can try Stellar Repair for Excel software to recover engineering and shared formulas.
-
-[![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
-
-Sometimes, when you type a formula in a cell of worksheet and press Enter, instead of showing the calculated result, it returns the formula as text. For instance, Excel cell shows:
-
-![Excel not Showing Formula](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-not-showing-formula-1.jpg)
-
-But you should get the result as:
-
-![Excel Formula Working Sample](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-not-showing-formula-2.jpg)
-
-## **Why Does Excel Show or Display the Formula Not the Result?**
-
-**Following are the possible reasons that may lead to the ‘Excel showing formula not result’ issue:**
-
-1. You accidentally enabled “**Show Formulas**” in Excel.
-2. The cell format in a spreadsheet is set to text.
-3. ‘Automatic calculation’ feature in Excel is set to manual.
-4. Excel thinks your formula is text (Syntax are not followed).
-5. You type numbers in a cell with unnecessary formatting.
-
-## **How to Fix ‘Excel Showing Formula Not Result’ Issue?**
-
-### **Solution 1 – Disable Show Formulas**
-
-If only the formula shows in Excel not result, check if you have accidentally or intentionally enabled ‘show formula’ feature of Excel. Instead of applying calculations and then showing results, this feature displays the actual text written by you.
-
-You can use the ‘Show Formulas’ feature to quickly view all formulas, but if you are not aware of this feature, and enabled it accidentally, it can be a headache. To disable this mode, go to ‘**Formulas**’ and click on ‘**Show formula enabled**.’ If it’s previously enabled, it will be disabled by just clicking on it.
-
-![Show Formula Enabled](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/06/show-formulas-1.jpg)
-
-### **Solution 2 – Cell Format Set to Text**
-
-Another possible reason that only formula shows in Excel not result could be that the cell format is set to text. This means that anything written in any format in that cell will be treated as regular text. If so, change the format to General or any other. To get Excel to recognize the change in the format, you may need to enter cell edit mode by clicking into the formula bar or just press F2.
-
-![Enter Cell Edit Mode by Clicking into the Formula Bar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/06/formula-f2.jpg)
-
-### **Solution 3 – Change Calculation Options from ‘Manual’ to ‘Automatic’**
-
-There is an “automatic calculation” feature in Excel, which tells Excel to do calculations automatically or manually. If ‘Excel formula is not showing results’, it may be because the automatic calculations feature is set to manual. This issue is not easily detected because it results in calculating formula in one cell but if you copy it to some other cell, it will retain the first calculation and will not recalculate on the base of the new location. To fix this, follow these steps:
-
-- In Excel, click on the ‘**File**’ tab on the top left corner of the screen.
-- In the window that opens, click on ‘**Options**’ from the left menu bar.
-- From ‘Excel Options’ dialog box, select ‘**Formulas**’ from the left side menu and then change the ‘**Calculation options**’ to ‘**Automatic**’ if it’s currently set as ‘Manual’.
-
-![Automatic Calculations Feature](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/06/calculation-options.jpg)
-
-- Click on ‘**OK**’. This will redirect you to your sheet.
-
-### **Solution 4 – Type Formula in the Right Format**
-
-There is a proper way to tell Excel that your text is a formula. If you don’t write the formula in a particular format, Excel considers it as simple text and hence no calculations are performed according to it. For this reason, keep the following in mind when typing a formula:
-
-- **Equal sign:** Every formula in Excel should start with an equal sign (=). If you miss it, Excel will mistake your formula as regular text.
-
-- **Space before equal sign:** You are not supposed to enter any space before equal sign. Maybe a single space will be hard for us to detect, but it breaks the rule of writing formulas for Excel.
-
-- **Formula wrapped in quotes:** You need to make sure that your formula is not wrapped in quotes. People usually make this mistake of writing a formula in quotes, but in Excel, quotes are used to signify text. So your formula won’t be evaluated. But you can add quotes inside formula if required, for example: =SUMIFS(F5:F9,G5:G9,”>30″).
-
-- **Match all parentheses in a formula:** Arguments of Excel functions are entered in parenthesis. In complex cases, you may need to enter more sets of parenthesis. If those parentheses are not paired/closed properly, Excel may not be able to evaluate the entered formula.
-
-- **Nesting limit:** If you are nesting two or more Excel functions into each other, for example using nested IF loop, remember the following rules:
-  - Excel 2019, 2016, 2013, 2010, and 2007 versions only allow to use up to 64 nested functions.
-  - Excel 2003 and lower versions only allow up to 7 nested functions.
-
-### **Solution 5 – Enter Numbers without any Formatting**
-
-When you use a number in the formula, make sure you don’t enter any decimal separator or currency sign, e.g. $, etc. In an Excel formula, a comma is used to separate arguments of a function and a dollar sign makes an absolute cell reference. Most of these special characters have built-in functions so avoid using them unnecessarily.
-
-## **What to Do If the Manual Solutions Don’t Work?**
-
-If you’ve tried out the manual solutions mentioned above but still unable to resolve the ‘Excel formula not showing result’ issue, you can try repairing your Excel file with the help of an automated [Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), such as **Stellar Repair for Excel**.
-
-This reliable and competent software scans and repairs Excel files (.XLSX and .XLS). It also helps recover all the file components, like formulas, cell formatting, etc. Armed with an interactive GUI, this software is extremely easy to work with, and its advanced algorithms allow it to fend off Excel errors with ease.
-
-[![Free Download for windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Free-download-for-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
-
-## **Conclusion**
-
-This blog outlined the possible reasons that may cause ‘Excel not showing formula results’ issue. Check out these reasons and implement the manual fixes, depending on what resulted in the problem in the first place. If none of these fixes help resolve the issue, corruption in the Excel file might be preventing the formulas from showing the actual results. In that case, using **Stellar Repair for Excel** tool might help.
-
-
-## Top 5 Ways to Fix Excel File Not Opening Error
-
-**Summary:** MS Excel users sometimes face issues while using the MS Excel application. One such issue is the Excel file not opening error. In this post, we’ve mentioned the reasons that may result in this error and the ways to resolve it. Also, you’ll find about an Excel repair software that can help you repair corrupt Excel files.
-
-[![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
-
-Several Microsoft Excel users have reported encountering the ‘Excel file not opening’ error when opening their Excel file. There are several reasons that may cause this error. In this post, we’ll be discussing the reasons that may lead to the ‘Excel file not opening’ error and the top 5 ways to fix this error.
-
-## Why Does the ‘Excel File Not Opening’ Error Appear?
-
-Following are some possible causes that may result in the ‘Excel file not opening’ error:
-
-1. There may be a problem with an add-in that is preventing you from opening the Excel files.
-2. There’s a chance that your Excel application is faulty.
-3. Your Excel program is unable to communicate with other programs or the operating system.
-4. The file association might have been broken. This is a common problem faced by users who have upgraded their Excel application or operating system.
-5. The file you’re trying to open is corrupted.
-
-## 5 Ways to Fix Excel File Not Opening Error
-
-Let’s explore the ways to resolve the Excel file not opening error:
-
-### 1\. Uncheck the Ignore DDE Checkbox
-
-Dynamic Data Exchange (DDE)allows Excel to communicate with other programs. The Excel error may occur due to incorrect DDE settings. You need to ensure that the correct DDE configuration is enabled. Follow the steps provided below:
-
-- Launch your MS Excel file.
-- Go to **File > Options**.
-
-![options menu](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/source/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/options-menu-01.png)
-
-- Now click on **Advanced**.
-
-![Advanced options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Advanced-options-02.png)
-
-- Further, find the **General** option on the screen.
-
-![General Option uncheck Dynamic Data Exchange Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/general-option-uncheck-Dynamic-Data-Exchange-option-03.png)
-
-- Uncheck the option **‘Ignore other applications that use Dynamic Data Exchange (DDE)**’.
-- Click **OK** to save the changes.
-
-### 2\. Reset Excel File Associations
-
-When you launch your Excel file, the file association ensures that the Excel application is used to open the file. You can try to reset these associations and see if Excel opens after this. Proceed with the following steps to do so:
-
-- Navigate to **Start Menu** and launch **Control Panel**.
-- Now, navigate to **Programs > Default Programs > Set Your Default Programs**.
-
-![Set-Your Default Programs](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-your-default-programs-04.png)
-
-- A new window will open. Herein, find the Excel program in the list and select it. Now, select the option **‘Choose defaults for this program’**. Click **OK**.
-
-![Set Defaults](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-defaults-05.png)
-
-- A new window for **‘Set Program Associations’** will open.
-- Check the box against the **‘Select All’** option.
-- Further, click **Save** to reset the Excel File Associations settings.
-
-![Set Program Associations](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-program-associations-06.png)
-
-### 3\. Disable Add-Ins
-
-Many people install third-party add-ins to enhance the application’s functionality. Sometimes, these add-ins can create an issue. Follow the below-mentioned steps to disable the problem creating add-ins:
-
-- Launch MS Excel application.
-- Navigate to **File > Options > Add-ins**.
-
-![Click on Add ins Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Click-on-Add-ins-option-07.png)
-
-- In the window that opens, go to the **Manage** option at the bottom.
-- Herein, select the **COM Add-ins** option from the dropdown list. Click **Go.**
-
-![Select Com Addins](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Select-Com-Addins-08.png)
-
-- In the COM Add-ins window, uncheck all the boxes to disable the add-ins. Click **OK.**
-
-![Diasble Com Add ins Checkbox](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/diasble-com-add-ins-checkbox-09.png)
-
-### 4\. Repair MS Office Program
-
-Sometimes the issue is not with your Excel file. Instead, the reason for the error can be a corrupt MS Office application. You can repair the program to fix the Excel file not opening error. Here are the steps:
-
-- Press the **Windows + R** keys to launch the **‘Run’** dialog box.
-
-![Run Dialog box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Run-Dialog-box-10.png)
-
-- Enter the text **‘appwiz.cpl’** to launch the program and features window.
-
-![appwiz.cpl in the run field](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/appwiz.cpl-in-the-run-field-11.png)
-
-- Find the MS Office program in the list of applications.
-
-![locate Microsoft Office in the list](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/locate-Microsoft-Office-in-the-list-12.png)
-
-- Right-click on it and select **Change**.
-
-![Right Click and Select Change](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/right-click-and-select-change-13.png)
-
-- In the new window, select the **Quick Repair** radio button. Click **Repair**.
-
-![Quick Repair Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/quick-repair-option-14.png)
-
-- Follow the on-screen instructions to repair the Office application. Once the repair process is completed, you can try opening the Excel file to see if the problem is resolved.
-
-### 5\. Disable Hardware Graphics Acceleration
-
-The hardware graphics acceleration assists in the system’s better performance, especially when you use MS Office applications, like MS Excel or Word. Sometimes, this causes the Excel file not opening issue. You can disable this option to try to resolve the issue. Here are the steps:
-
-- Launch your MS Excel application.
-- Navigate to **File > Options > Advanced**.
-- Herein, go to the **Display** option.
-- Uncheck the **Disable hardware graphics acceleration** checkbox. Click OK.
-
-![Uncheck Disable Hardware Acceleration](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/hardware-accelaration-15.png)
-
-## What If These Solutions Do Not Work?
-
-If you have applied all the methods mentioned above and still cannot open your Excel file, there are chances that your file is corrupted. You can use a specialized [Excel repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), such as Stellar Repair for Excel to repair the corrupted Excel file. This software has powerful algorithms that can scan and repair even severely corrupt Excel files, without any file size limitation. After repairing the file, it restores all the data, including tables, charts, rules, etc. to a new Excel, with 100% integrity.
-
-To know how the software works, see the video below:
-
-<iframe title="How to Repair and Recover Corrupted Excel Files?" width="750" height="422" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" nitro-og-src="https://www.youtube.com/embed/3SiJqmP7iMU?feature=oembed&amp;autoplay=1" nitro-lazy-src="data:text/html;https://www.youtube.com/embed/3SiJqmP7iMU?feature=oembed&amp;autoplay=1;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1YmUuY29tL3ZpLzNTaUpxbVA3aU1VLzAuanBnKSBjZW50ZXIvMTAwJSBuby1yZXBlYXQnPjxzdHlsZT5ib2R5ey0tYnRuQmFja2dyb3VuZDpyZ2JhKDAsMCwwLC42NSk7fWJvZHk6aG92ZXJ7LS1idG5CYWNrZ3JvdW5kOnJnYmEoMCwwLDApO2N1cnNvcjpwb2ludGVyO30jcGxheUJ0bntkaXNwbGF5OmZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO2p1c3RpZnktY29udGVudDpjZW50ZXI7Y2xlYXI6Ym90aDt3aWR0aDoxMDBweDtoZWlnaHQ6NzBweDtsaW5lLWhlaWdodDo3MHB4O2ZvbnQtc2l6ZTo0NXB4O2JhY2tncm91bmQ6dmFyKC0tYnRuQmFja2dyb3VuZCk7dGV4dC1hbGlnbjpjZW50ZXI7Y29sb3I6I2ZmZjtib3JkZXItcmFkaXVzOjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3Bvc2l0aW9uOmFic29sdXRlO3RvcDo1MCU7bGVmdDo1MCU7bWFyZ2luLWxlZnQ6LTUwcHg7bWFyZ2luLXRvcDotMzVweH0jcGxheUFycm93e3dpZHRoOjA7aGVpZ2h0OjA7Ym9yZGVyLXRvcDoxNXB4IHNvbGlkIHRyYW5zcGFyZW50O2JvcmRlci1ib3R0b206MTVweCBzb2xpZCB0cmFuc3BhcmVudDtib3JkZXItbGVmdDoyNXB4IHNvbGlkICNmZmY7fTwvc3R5bGU+PGRpdiBpZD0ncGxheUJ0bic+PGRpdiBpZD0ncGxheUFycm93Jz48L2Rpdj48L2Rpdj48c2NyaXB0PmRvY3VtZW50LmJvZHkuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpe3dpbmRvdy5wYXJlbnQucG9zdE1lc3NhZ2Uoe2FjdGlvbjogJ3BsYXlCdG5DbGlja2VkJ30sICcqJyk7fSk7PC9zY3JpcHQ+PC9ib2R5Pg=="></iframe>
-
-[![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
-
-## Conclusion
-
-Before you proceed with resolving the Excel file not opening error, try to find out the root cause of this error. If you know the real reason, you can try the method right away. If the reason for the error is corruption in the Excel file, the best option is to repair the file using a professional Excel repair tool, such as [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
-
-
-## How to Fix Excel Run Time Error 1004
-
-**Summary:** Run-time errors are windows-specific issues that occur while the program is running. This blog will teach you how to fix Excel run-time error 1004. In addition, you’ll learn about an Excel repair tool that can help fix the error 1004 if it occurs due to corruption in Excel files.
-
-[![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
-
-VBA (Microsoft Visual Basic for Application) is an internal programming language in Microsoft Excel. Sometimes, when users try to run VBA or generate a Macro in Excel, the Run-time error 1004 may occur. This error may occur due to the presence of more legend entries in the chart, file conflict, incorrect Macro name, and corrupt Excel files. In this blog, we have discussed the reasons and shared some solutions to resolve run-time error 1004.
-
-## **Why This Error Occurs?**
-
-The run time error 1004 usually occurs when you run a VBA macro with the Legend Entries method to modify the legend entries in the MS Excel chart. It happens when the chart contains more legend entries than the available space, macro name conflicts, corrupt Excel files, or data-types mismatch in the VBA code.
-
-## **Ways to Fix Excel Run-Time Error 1004?**
-
-Try the below workarounds to fix Excel run-time error 1004:
-
-### **Create a Macro to Reduce Chart Legend Font Size**
-
-Sometimes, Excel throws the run-time error when you try to run VBA macro to change the legend entries in a Microsoft Excel chart. This error usually occurs when Microsoft Excel truncates the legend entries because of the more legend entries and less space availability. To fix this, try to create a macro that shrinks/minimize the font size of the Excel chart legend text before the VBA macro, and then restore the font size of the chart legend. Here is the macro code:
-
-```
-VBCopy
-Sub ResizeLegendEntries()
-
-With Worksheets("Sheet1").ChartObjects(1).Activate
-      ' Store the current font size
-      fntSZ = ActiveChart.Legend.Font.Size
-
-'Temporarily change the font size.
-      ActiveChart.Legend.Font.Size = 2
-
-'Place your LegendEntries macro code here to make
-         'the changes that you want to the chart legend.
-
-' Restore the font size.
-      ActiveChart.Legend.Font.Size = fntSZ
-   End With
-
-End Sub
-Note: Make sure you have an Excel chart to run the code on the worksheet.
-```
-
-### **Uninstall Microsoft Work**
-
-You may encounter a run-time error 1004 in Excel version 2009 or older versions due to conflicts between Microsoft works and Microsoft Excel. This error usually occurs if your system has both Microsoft Office and Microsoft Works. Uninstalling one of them will fix the issue. Try the below steps to uninstall Microsoft Work:
-
-- First, open the **Task Manager** using the shortcut **CTRL + ALT + DEL** altogether
-- The **Task Manager window** is displayed.
-
-![Task Manager Window](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/09/task-manager-window.png)
-
-- Click the **Process** tab, right-click on each program you want to close, and then click **End Task.**
-- Stop all the running programs.
-- Open the **Run** window and type **_appwiz.cpl_** to open the **Programs and Feature** window.
-
-![Program and Features of Control Panel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/09/program-and-features-1024x516.png)
-
-- Search for **Microsoft Works** and click **Uninstall**.
-
-### **Try Deleting GWXL97.Xla File**
-
-The Add-ins files with .xla extension in MS-EXCEL is used to provide additional functionality to Excel spreadsheets. Sometimes, deleting the GWXL97.XLA file fixes the run-time error. Here are the steps to delete this file:
-
-- Make sure you have an **Admins rights**, open the **Windows Explorer**
-- Follow the Path C:\\Programs Files\\MSOffice\\Office\\XLSTART.
-- Find and right-click on the **GWXL97.XLA** file
-- Click **Delete**.
-
-### **Change Trust Center Settings**
-
-Sometimes, run-time errors might arise because of incorrect security settings. The **Trust Center settings** help you find the **Privacy and security** settings for Microsoft Excel. Follow the below steps to change the **Trust center settings**:
-
-- Open Microsoft Excel.
-- Go to **File > Options.**
-- The **Excel options** window is displayed.
-- Choose **Trust Center**, and click **Trust Center Settings**.
-- Tap on the **Macro Settings** tab, and select **Trust access to the VBA project object model.**
-
-![Macro Settings in Microsoft Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/09/macro-settings.png)
-
-- Click **OK**.
-
-### **Run Open and Repair Tool**
-
-The Runtime error also arises when MS Excel detects a corrupted worksheet. It automatically begins the File recovery mode and starts repairing it. However, if the Recovery mode fails to start, use the **Open and Repair** tool with the below steps:
-
-- Click **File > Open**.
-- Click the location and folder with a corrupted workbook.
-- In the **Open** dialog box, choose the corrupted workbook.
-- Click the arrow next to the **Open** tab, and go to the **Open and Repair** tab.
-- Click **Repair**.
-
-You can also opt for **Stellar Repair for Excel** if the Microsoft Excel’s built-in tool cannot fix the error.
-
-### **Use Stellar Repair for Excel**
-
-**Stellar Repair for Excel** is a professional software for repairing damage. xls, .xlsx, .xltm, .xltx, and .xlsm files and recovering all its objects. Here are the steps to fix the error using this tool:
-
-- First, **download**, **install**, and run **Stellar Repair for Excel**.
-- Click the **Browse** tab on the interface window to choose the corrupted Excel file you need to repair.
-- Click **Scan**. You will see the scan progress in the scanning window.
-- Click **OK**.
-- The tool can let you preview all the recoverable Excel file components including tables, pivot tables, charts, formulas, etc.
-- Click **Save** to save the repaired file.
-- A **Save File dialog box** will appear with the below two options:
-- Default location
-- New location
-- Choose a suitable option.
-- Click the **Save** option to repair the Excel file that you have chosen.
-- Once the repair is complete, it will display a message “**File repaired successfully**.”
-- Click **OK**.
-
-## **Conclusion**
-
-Now you know the Excel run-time error 1004, its cause, and solutions. Follow the workarounds discussed in the blog to rectify the error quickly. However, **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)** makes your task of removing run-time errors easy. It’s a powerful software to fix all the issues with Excel files. Also, it helps in extracting data from the damaged file and saves it to a new Excel workbook.
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-realme-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Realme</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/c55-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>C55 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2023-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2023 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to .csv files</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-achieving-pristine-video-quality-on-youtube/"><u>In 2024, Achieving Pristine Video Quality on YouTube</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimize-your-watch-activate-av1-on-youtube-platform-for-2024/"><u>Optimize Your Watch  Activate AV1 on YouTube Platform for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-clearsight-webcam-studiopro-for-2024/"><u>[New] ClearSight WebCam StudioPro for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-webcam-usage-for-macbooks/"><u>Ultimate Webcam Usage for MacBooks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-maintain-a-shadowy-presence-on-instagram-livestreams-for-2024/"><u>How to Maintain a Shadowy Presence on Instagram Livestreams for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhance-playstation-2-experience-top-5-android-emulators-for-2024/"><u>[Updated] Enhance PlayStation 2 Experience  Top 5 Android Emulators for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/social-media-showdown-which-platform-dominates-likes-or-tiktok-in-2024/"><u>Social Media Showdown  Which Platform Dominates, Likes or TikTok, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-expressive-mac-screenshot-recorder-with-soundtrack/"><u>[New] 2024 Approved  Expressive Mac Screenshot Recorder with Soundtrack</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/camstreamers-analysis-seeking-superior-solutions-for-2024/"><u>CamStreamers Analysis  Seeking Superior Solutions for 2024</u></a></li>
+</ul></div>
 
 <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7571918770474297"
-     data-ad-slot="8358498916"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<ins class="adsbygoogle"
-    style="display:block"
-    data-ad-format="autorelaxed"
-    data-ad-client="ca-pub-7571918770474297"
-    data-ad-slot="1223367746"></ins>
-
-
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, iSpoofer is not working On Itel A60? Fixed | Dr.fone
-date: 2024-04-07T02:22:12.221Z
-updated: 2024-04-08T02:22:12.221Z
+date: 2024-06-16T22:45:47.336Z
+updated: 2024-06-17T22:45:47.336Z
 tags: 
   - virtual location chang
   - location changer
@@ -11,7 +11,7 @@ categories:
 description: This article describes iSpoofer is not working On Itel A60? Fixed
 excerpt: This article describes iSpoofer is not working On Itel A60? Fixed
 keywords: change gps location on android,fake gps location on android,change location on A60,fake location on A60,change location on android,fake location on android
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## iSpoofer is not working On Itel A60? Fixed

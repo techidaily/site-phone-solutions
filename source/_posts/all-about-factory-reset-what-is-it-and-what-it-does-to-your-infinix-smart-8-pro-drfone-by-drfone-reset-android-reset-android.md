@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8 Pro? | Dr.fone
-date: 2024-05-19T17:46:58.072Z
-updated: 2024-05-20T17:46:58.072Z
+date: 2024-06-16T22:48:02.184Z
+updated: 2024-06-17T22:48:02.184Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8 Pro?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8 Pro?
 keywords: hard reset,soft reset,Infinix Smart 8 Pro factory reset,factory reset,Infinix Smart 8 Pro hard reset,Infinix Smart 8 Pro soft reset
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8 Pro?

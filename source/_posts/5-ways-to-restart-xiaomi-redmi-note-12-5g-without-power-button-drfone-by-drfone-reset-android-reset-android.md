@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Xiaomi Redmi Note 12 5G Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.794Z
-updated: 2024-05-20T17:46:57.794Z
+date: 2024-06-16T22:48:08.800Z
+updated: 2024-06-17T22:48:08.800Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Xiaomi Redmi Note 12 5G Without Power Button
 excerpt: This article describes 5 Ways to Restart Xiaomi Redmi Note 12 5G Without Power Button
 keywords: Xiaomi Redmi Note 12 5G factory reset,soft reset,Xiaomi Redmi Note 12 5G soft reset,hard reset,factory reset,Xiaomi Redmi Note 12 5G hard reset
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## 5 Ways to Reset Xiaomi Redmi Note 12 5G Without Volume Buttons

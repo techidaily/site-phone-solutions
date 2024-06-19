@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Reset Oppo A79 5G Without Volume Buttons | Dr.fone
-date: 2024-05-19T17:46:56.464Z
-updated: 2024-05-20T17:46:56.464Z
+date: 2024-06-16T22:46:24.907Z
+updated: 2024-06-17T22:46:24.907Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Reset Oppo A79 5G Without Volume Buttons
 excerpt: This article describes 5 Ways to Reset Oppo A79 5G Without Volume Buttons
 keywords: hard reset,Oppo A79 5G hard reset,Oppo A79 5G factory reset,Oppo A79 5G soft reset,factory reset,soft reset
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## 5 Ways to Reset Oppo A79 5G Without Volume Buttons

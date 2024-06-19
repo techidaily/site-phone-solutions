@@ -1,7 +1,7 @@
 ---
 title: 4 Easy Ways for Your Lava Yuva 2 Pro Hard Reset | Dr.fone
-date: 2024-05-19T17:46:55.469Z
-updated: 2024-05-20T17:46:55.469Z
+date: 2024-06-16T22:46:55.475Z
+updated: 2024-06-17T22:46:55.475Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 4 Easy Ways for Your Lava Yuva 2 Pro Hard Reset
 excerpt: This article describes 4 Easy Ways for Your Lava Yuva 2 Pro Hard Reset
 keywords: Lava Yuva 2 Pro soft reset,hard reset,soft reset,factory reset,Lava Yuva 2 Pro hard reset,Lava Yuva 2 Pro factory reset
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## 4 Easy Ways for Your Lava Yuva 2 Pro Hard Reset

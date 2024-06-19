@@ -1,7 +1,7 @@
 ---
 title: All About Factory Reset, What Is It and What It Does to Your Oppo K11 5G? | Dr.fone
-date: 2024-05-19T17:46:58.231Z
-updated: 2024-05-20T17:46:58.231Z
+date: 2024-06-16T22:47:25.393Z
+updated: 2024-06-17T22:47:25.393Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes All About Factory Reset, What Is It and What It Does to Your Oppo K11 5G?
 excerpt: This article describes All About Factory Reset, What Is It and What It Does to Your Oppo K11 5G?
 keywords: Oppo K11 5G factory reset,Oppo K11 5G hard reset,hard reset,soft reset,factory reset,Oppo K11 5G soft reset
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## All About Factory Reset, What Is It and What It Does to Your Oppo K11 5G?
