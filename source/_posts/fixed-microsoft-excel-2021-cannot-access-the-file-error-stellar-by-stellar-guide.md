@@ -1,7 +1,7 @@
 ---
 title: Fixed Microsoft Excel 2021 Cannot Access the File Error | Stellar
-date: 2024-03-11 22:13:56
-updated: 2024-03-14 22:24:29
+date: 2024-06-25T04:30:54.341Z
+updated: 2024-06-26T04:30:54.341Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes Fixed Microsoft Excel 2021 Cannot Access the File Error
 excerpt: This article describes Fixed Microsoft Excel 2021 Cannot Access the File Error
 keywords: repair .csv,repair excel 2016,repair corrupt .xlsx,repair damaged .csv,repair excel,repair damaged .xltx files,repair .xls files,repair corrupt .xlsm,repair .xlsm,repair excel 2013,repair damaged excel,repair damaged .csv files
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## \[Fixed\] "Microsoft Excel Cannot Access the File" Error
@@ -74,7 +74,7 @@ You may get the “Microsoft Excel cannot access the file” error if the [Prote
 - In Excel, go to **File** and then click **Options**.
 - In the **Excel Options** window, click **Trust Center** and then click **Trust Center Settings.**
 
-![Go To Trust Center and Click on Trust Center Settings ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
+![Go To Trust Center and Click on Trust Center Settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
 
 - Click **Protected View** from the left pane in the **Trust Center Settings** window.
 - Unselect the options under **Protected View**. Click **OK.**
@@ -187,9 +187,7 @@ There are a couple of manual methods that can help you [repair corrupt Excel fil
 
 ## Full-proof method for corrupt Excel file repair
 
-If you find the above methods confusing, or you wish to perform Excel file repair without having to face any data and formula loss, or you cannot achieve the desired results with any of these methods, stop wasting any more time with methods that will only frustrate you more. Instead, download the sure-shot solution for dealing with severe Excel corruption –[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) and relax!
-
-[![free download](data:image/svg+xml;nitro-empty-id=OTMyOjI3OA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEzIDU1IiB3aWR0aD0iMjEzIiBoZWlnaHQ9IjU1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+If you find the above methods confusing, or you wish to perform Excel file repair without having to face any data and formula loss, or you cannot achieve the desired results with any of these methods, stop wasting any more time with methods that will only frustrate you more. Instead, download the sure-shot solution for dealing with severe Excel corruption –[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) and relax![![free download](data:image/svg+xml;nitro-empty-id=OTMyOjI3OA==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEzIDU1IiB3aWR0aD0iMjEzIiBoZWlnaHQ9IjU1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 Stellar Repair for Excel is the best choice for repairing corrupt or damaged Excel (.XLS/.XLSX) files and restoring everything to a new blank Excel file. This competent software can skillfully repair single as well as multiple XLS/XLSX files while preserving worksheet properties and cell formatting. If you have this product by your side, you don’t need to worry about [Excel corruption errors](https://www.stellarinfo.com/support/kb/index.php/article/resolve-excel-file-corruption-errors) ever again.
 
@@ -230,7 +228,7 @@ The personal macro workbook (Personal.xlsb) file is stored in XLStart folder. It
 - Open the workbook.
 - Click on the **Developer** tab.
 
-![developer tab ](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/developer-tab.png)
+![developer tab](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/fix-personal-macro-workbook/developer-tab.png)
 
 - Press **Alt + F11** to open Visual Basic Editor.
 - Go to **View > Immediate Window.**
@@ -835,3 +833,22 @@ This article described the possible causes behind the ‘Excel open but can’t 
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-camon-20-premier-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Camon 20 Premier 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-xcover-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy XCover 7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-google-pixel-8-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Google Pixel 8 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-oppo-a78-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Oppo A78.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-poco-x5-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Poco X5 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-elevate-your-content-20-exceptional-tiktok-captions-for-success/"><u>[New] Elevate Your Content  20 Exceptional TikTok Captions for Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-slow-motion-a-guide-for-instagrams-next-viral-reels/"><u>[New] In 2024, The Art of Slow-Motion  A Guide for Instagram's Next Viral Reels</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-what-sets-final-cut-pro-apart-from-final-cut-express/"><u>New What Sets Final Cut Pro Apart From Final Cut Express?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-y78plus-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Y78+ Device</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-seamless-streaming-computer-based-tv-recording-guide/"><u>[New] In 2024, Seamless Streaming  Computer-Based TV Recording Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-exploring-the-huawei-p10s-user-interface-and-usability/"><u>[New] 2024 Approved  Exploring the Huawei P10's User Interface & Usability</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exquisite-background-melodies-for-edits/"><u>[Updated] Exquisite Background Melodies for Edits</u></a></li>
+</ul></div>

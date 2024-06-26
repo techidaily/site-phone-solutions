@@ -1,7 +1,7 @@
 ---
 title: 6 Things We Can Do To Save A Water Damaged iPhone XS | Stellar
-date: 2024-05-19T17:46:57.876Z
-updated: 2024-05-20T17:46:57.876Z
+date: 2024-06-25T04:30:20.274Z
+updated: 2024-06-26T04:30:20.274Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes 6 Things We Can Do To Save A Water Damaged iPhone XS
 excerpt: This article describes 6 Things We Can Do To Save A Water Damaged iPhone XS
 keywords: recover iPhone data after screen damage,recover iPhone data after restore,recover iPhone data after restore without backup,recover iPhone XS data after jailbreak,recover iPhone XS data after update,recover iPhone XS data after system update
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## 6 Things We Can Do To Save A Water Damaged iPhone
