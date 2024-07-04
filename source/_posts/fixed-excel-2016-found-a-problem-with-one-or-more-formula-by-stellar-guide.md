@@ -1,0 +1,139 @@
+---
+title: Fixed Excel 2016 Found a Problem with One or more Formula
+date: 2024-06-25T04:29:56.105Z
+tags: 
+  - repair
+  - repair excel
+  - fix excel
+categories: 
+  - apps
+  - windows
+description: This article describes Fixed Excel 2016 Found a Problem with One or more Formula
+keywords: repair excel 2000,repair .xlsm,repair excel 2013,repair excel 2019,repair excel 2016
+---
+
+## \[Fixed\] Excel Found a Problem with One or more Formula
+
+**Summary:** The error ‘Excel found a problem with one or more formula references in this worksheet’ may appear while saving the Excel workbook. It occurs when Excel found a problem with the formula used in the sheet. However, it may also occur when the Excel workbook gets damaged or corrupt. In this guide, we’ve explained the reasons that may lead to this Excel error and methods to resolve the error, by using various Excel options and a third-party Excel file repair software.
+
+[![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
+
+If you are experiencing the ‘Excel found a problem with one or more formula references in this worksheet’ error message in the Excel workbook, it indicates that the [Excel file is corrupt](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) or partially damaged. However, it may also occur due to incorrect reference to a wrong cell or object linking, which is not working. The complete error message says,
+
+_‘Excel found a problem with one or more formula references in this worksheet. Check that the cell references, range names, defined names, and links to other workbooks in your formulas are all correct.’_
+
+![Excel found a problem with one or more formula references](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/11/MS-Excel-problem-with-formula-reference.png)
+
+In any case, resolving the error is critical as it doesn’t let you save the file and may result in loss of information from the Excel workbook.
+
+## Reasons for Excel Formula References Error
+
+A few reasons that may lead to such error are as follows,
+
+- Wrong formula or reference cell
+- Incorrect object linking or link embedding OLE
+- Empty or no values in named or range cells
+- Multiple Excel files (not common)
+
+## Methods to Resolve ‘Excel Found a Problem with One or More Formula References in this Worksheet’ Error
+
+Following are a few methods that you can follow to [fix Excel file](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) that can’t be saved due to problems with one or more formula references in the worksheet.
+
+### Method 1: Check Formulas
+
+If the problem has occurred in a large Excel workbook with multiple sheets, it’s quite hard to pinpoint the problem cell. In such cases, you can use the Error Checking option that runs a scan and checks for a problem with formulas used in the worksheet.
+
+To run Error Checking in the Excel sheet, follow these steps,
+
+- Go to Formulas and click on the ‘Error Checking’ button
+
+![Error Checking](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/11/MS-Excel-error-checking-1024x431.png)
+
+- This runs a scan on the sheet and displays the issues, if any. If no issue is found, it displays the following message,
+
+_The error check is completed for the entire sheet._
+
+In such a case, you can try saving the Excel file again. If the error message persists, proceed to the next method.
+
+### Method 2: Check Individual Sheet
+
+The problem may also occur due to an issue with one of the sheets in the workbook. To find the faulty sheet and fix the problem, you can copy each sheet content in a new Excel file and then try to save the Excel file.
+
+This will help you find the faulty sheet from the workbook that you can review. This method makes the entire [process of troubleshooting Excel formula](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) reference error quite easy and convenient.
+
+In case the error is not fixed, you can back up the faulty sheet content and remove it from the workbook to save the Excel file.
+
+### Method 3: Check Links
+
+When the Excel file contains external links with errors, MS Excel may display such error messages. To check and confirm if external links are causing the error, follow these steps,
+
+- Navigate to _Data Tab > Queries & Connections > Edit Links_
+- Check the links. If you find any faulty link, remove it and then save the sheet
+
+### Method 4: Review Charts
+
+You can review the charts to check if they are causing the formula reference error in Excel. It may take a while based on the size of the Excel file. Sometimes, it’s not practically possible to track down which Excel chart object is causing the error. Thus, you need to check specific locations, such as:
+
+1. Check horizontal axis formula inside Select Data Source dialog box
+2. Check Secondary Axis
+3. Check linked Data Labels, Axis Labels, or Chart Title
+
+### Method 5: Check Pivot Tables
+
+To check Pivot Tables, follow these steps,
+
+- Navigate to _PivotTable Tools > Analyze > Change Data Source > Change Data Source…_
+
+![Edit links](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/11/MS-Excel-Edit-Links-1024x84.png)
+
+- Check if any of the formula used is problematic. Sometimes small typo, such as misplaced comma, can lead to such problems in Excel. Thus, check each formula thoroughly and correct the formulas wherever needed.
+
+### Method 6: Use Excel Repair Software
+
+When none of the methods resolve the error, then you can rely on advanced [Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), such as Stellar Repair for Excel. It’s a powerful tool that is recommended by several MVPs and IT administrators for resolving common Excel errors, such as ‘Excel found a problem with one or more formula references in this worksheet.’
+
+![Stellar Repair for Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/public/image/catalog/screenshot/excel-repair/stellar-repair-for-excel-main-interface.png)
+
+It repairs corrupt or damaged Excel (.xls/.xlsx) files, recovers Pivot tables, charts, etc., and save them in a new Excel worksheet. It helps Excel users, facing formula reference error, restore their Excel file without any risk of data loss, while preserving the sheet properties and formatting with 100% precision.
+
+## Conclusion
+
+Although the error ‘Excel found a problem with one or more formula references in this worksheet’ can be resolved by using various options in MS Excel, it may lead to a partial loss of information. Thus, you must perform these operations after taking a backup of the Excel worksheet. Also, if the MS Excel options fail to resolve the problem, you can use an Excel file repair software, such as Stellar Repair for Excel. The software helps fix Excel file corruption and restores the information and data from corrupt or damaged Excel files (.xls/.xlsx) to a new worksheet.
+
+
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<ins class="adsbygoogle"
+    style="display:block"
+    data-ad-format="autorelaxed"
+    data-ad-client="ca-pub-7571918770474297"
+    data-ad-slot="1223367746"></ins>
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-12-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi 12 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-motorola-edge-40-neo-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-13-mini-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 13 mini? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-realme-11-proplus-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Realme 11 Pro+</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-leveraging-live-tweets-strategies-unveiled/"><u>In 2024, Leveraging Live Tweets  Strategies Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unbeatable-deals-discover-the-best-free-desktop-recorders/"><u>[Updated] In 2024, Unbeatable Deals  Discover the Best Free Desktop Recorders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-7-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 7?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-zoom-in-on-success-screenshots-made-simple-by-ezvide-tech-for-2024/"><u>[Updated] Zoom In on Success  Screenshots Made Simple by EZvide Tech for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-demystifying-the-art-behind-live-video-thumbnails/"><u>[Updated] Demystifying the Art Behind Live Video Thumbnails</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-easy-steps-to-record-and-screen-capture-ios-2023/"><u>[Updated] In 2024, Easy Steps to Record and Screen Capture [iOS, 2023]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-quick-tips-capturing-screen-on-a-dell-notebook-pc-for-2024/"><u>[Updated] Quick Tips  Capturing Screen on a Dell Notebook PC for 2024</u></a></li>
+</ul></div>
