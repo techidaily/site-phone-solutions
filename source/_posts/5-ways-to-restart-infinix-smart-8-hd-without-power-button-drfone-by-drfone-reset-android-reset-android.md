@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Restart Infinix Smart 8 HD Without Power Button | Dr.fone
-date: 2024-05-19T17:46:57.067Z
-updated: 2024-05-20T17:46:57.067Z
+date: 2024-07-03T17:53:37.280Z
+updated: 2024-07-04T17:53:37.280Z
 tags: 
   - reset
 categories:
@@ -9,7 +9,7 @@ categories:
 description: This article describes 5 Ways to Restart Infinix Smart 8 HD Without Power Button
 excerpt: This article describes 5 Ways to Restart Infinix Smart 8 HD Without Power Button
 keywords: Infinix Smart 8 HD factory reset,factory reset,soft reset,hard reset,Infinix Smart 8 HD soft reset,Infinix Smart 8 HD hard reset
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## 5 Ways to Reset Infinix Smart 8 HD Without Volume Buttons
@@ -20,7 +20,7 @@ If the Android device is working well, to hard reset Android tablet without usin
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/rY8uI9N_9IY"></iframe>
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 
 ## Part 1: Reset Android without volume buttons using Dr.Fone - Data Eraser (Android)
@@ -29,7 +29,7 @@ If you need to reset an Android device that doesn't have functional volume butto
 
 Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefully consider whether you still want to delete all data from your phone. Resetting will permanently erase all files, settings, and personal information on your device, and it cannot be undone. Therefore, it is important to [back up any important data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before performing the reset. If you are certain that you want to proceed with the reset using Dr.Fone, follow the steps below:
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 - **Step 1:** [Download Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) on your computer. Open the “Data Eraser” tool and connect your android device to the computer.
 
@@ -45,7 +45,7 @@ Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefull
 
 ![data eraser completes](https://images.wondershare.com/drfone/guide/android-erase-07.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 2: Reset Android without volume button in recovery mode (need home button)
 
@@ -123,7 +123,7 @@ If you are facing the challenge of resetting an Android tablet to unlock the loc
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Reset Android and Solve Your Screen Locks
 
@@ -158,7 +158,7 @@ Wait for the reboot process to complete, and then you can access the phone or ta
 
 So these are the methods with which you can do a reset without using volume buttons. The difficulty level of the methods depends on the type and brand of the Android device. The first two parts can be performed easily by anyone, and that too in a matter of a few minutes. However, the third method may pose some difficulty, particularly because manufacturers set different key combinations for rebooting the Infinix Smart 8 HD device into recovery. Nevertheless, once it is figured out, the rest is easy. Hence, it is up to you to decide on the method to be adopted for hard resetting your Android device.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 
 
@@ -170,7 +170,7 @@ If the Android device is working well, to hard reset Android tablet without usin
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/rY8uI9N_9IY"></iframe>
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 
 ## Part 1: Reset Android without volume buttons using Dr.Fone - Data Eraser (Android)
@@ -179,7 +179,7 @@ If you need to reset an Android device that doesn't have functional volume butto
 
 Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefully consider whether you still want to delete all data from your phone. Resetting will permanently erase all files, settings, and personal information on your device, and it cannot be undone. Therefore, it is important to [back up any important data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before performing the reset. If you are certain that you want to proceed with the reset using Dr.Fone, follow the steps below:
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 - **Step 1:** [Download Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) on your computer. Open the “Data Eraser” tool and connect your android device to the computer.
 
@@ -195,7 +195,7 @@ Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefull
 
 ![data eraser completes](https://images.wondershare.com/drfone/guide/android-erase-07.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## Part 2: Reset Android without volume button in recovery mode (need home button)
 
@@ -273,7 +273,7 @@ If you are facing the challenge of resetting an Android tablet to unlock the loc
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool to Reset Android and Solve Your Screen Locks
 
@@ -308,7 +308,7 @@ Wait for the reboot process to complete, and then you can access the phone or ta
 
 So these are the methods with which you can do a reset without using volume buttons. The difficulty level of the methods depends on the type and brand of the Android device. The first two parts can be performed easily by anyone, and that too in a matter of a few minutes. However, the third method may pose some difficulty, particularly because manufacturers set different key combinations for rebooting the Infinix Smart 8 HD device into recovery. Nevertheless, once it is figured out, the rest is easy. Hence, it is up to you to decide on the method to be adopted for hard resetting your Android device.
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
 ## How to Reset a Infinix Smart 8 HD Phone That Is Locked
 
@@ -368,13 +368,13 @@ If the above-listed methods do not work for any reason, we recommend using [Dr.F
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/yjlTG2d0gSY" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 The screen locks can be removed without rooting, and the software is completely safe to use.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
+### Dr.Fone - Screen Unlock (Android)
 
 The Best Tool for factory reset Infinix Smart 8 HD Phone When Locked
 
@@ -430,7 +430,7 @@ The above methods can also be tried if you get stuck in a situation on how to fa
 
 The above given are multiple options that can be used for resetting your Infinix Smart 8 HD phone when you forget your device unlock password. Some of these solutions can be used for free and if they work, nothing like that. [Dr.Fone – Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is one of the best methods to reset your Infinix Smart 8 HD device as it supports removing all types of screen locks in a hassle-free manner.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"

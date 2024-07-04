@@ -1,7 +1,7 @@
 ---
 title: Fixed Microsoft Excel 2000 Cannot Access the File Error | Stellar
-date: 2024-03-13 17:10:36
-updated: 2024-03-14 10:47:42
+date: 2024-07-03T17:52:18.199Z
+updated: 2024-07-04T17:52:18.199Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes Fixed Microsoft Excel 2000 Cannot Access the File Error
 excerpt: This article describes Fixed Microsoft Excel 2000 Cannot Access the File Error
 keywords: repair excel 2021,repair .xltm,repair .xlsm files,repair excel 2019,repair .xlsx files,repair corrupt .xlsm files,repair damaged .xlsm files,repair damaged .csv
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## \[Fixed\] "Microsoft Excel Cannot Access the File" Error
@@ -74,7 +74,7 @@ You may get the “Microsoft Excel cannot access the file” error if the [Prote
 - In Excel, go to **File** and then click **Options**.
 - In the **Excel Options** window, click **Trust Center** and then click **Trust Center Settings.**
 
-![Go To Trust Center and Click on Trust Center Settings ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
+![Go To Trust Center and Click on Trust Center Settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
 
 - Click **Protected View** from the left pane in the **Trust Center Settings** window.
 - Unselect the options under **Protected View**. Click **OK.**
@@ -279,7 +279,7 @@ Microsoft Excel comes with a built-in AutoRecover feature that saves copies of a
 - Then go to **Save > Save** **workbooks**.
 - Next, ensure that the ‘**Save AutoRecover information every’** and ‘**Keep the last autosaved version if I close without saving**’ option is already selected.
 
-![check-if-the-autorecover-options-for-excel-files-are-selected ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/01/check-if-the-autorecover-options-for-excel-files-are-selected-image2.jpg)
+![check-if-the-autorecover-options-for-excel-files-are-selected](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/01/check-if-the-autorecover-options-for-excel-files-are-selected-image2.jpg)
 
 - Now, copy the file path given against the **AutoRecover file location**.
 - Open the **File Explorer**, paste the Menu Bar file path there, and hit **Enter**.
@@ -353,7 +353,7 @@ Here are some workarounds to fix the error:
 - From the Trust Center Settings dialog box, select the **Protected View** tab.
 - Uncheck the appropriate option under the Protected View section, and then click **OK** to apply the changes. For instance, uncheck the “Enable Protected View for Outlook attachments” option if the file is a downloaded Outlook attachment.
 
-![disable protected view settings ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/03/disable-protected-view-2.png)
+![disable protected view settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/03/disable-protected-view-2.png)
 
 - Click **OK** again.
 
@@ -522,7 +522,7 @@ Figure 1 – Microsoft Excel Has Stopped Working Error Message
 
 ## **Possible Causes behind ‘Microsoft Excel has Stopped Working’ Error, and Solutions Thereof**
 
-_**Note:** Several users have reported about encountering the ‘_**_Excel has stopped working’ issue on Windows 10, 8, and 7 OS_** _after installing an update for Excel (KB3118373). If you too have installed the update, then uninstall it and check if it solves the error. For detailed information, refer to this_ [link](https://docs.microsoft.com/en-us/office/troubleshoot/excel/excel-has-stopped-working-error)_._
+_**Note:** Several users have reported about encountering the ‘_**_Excel has stopped working’ issue on Windows 10, 8, and 7 OS_** _after installing an update for Excel (KB3118373). If you too have installed the update, then uninstall it and check if it solves the error. For detailed information, refer to this_ [link](https://docs.microsoft.com/en-us/office/troubleshoot/excel/excel-has-stopped-working-error) _._
 
 ## \[Fixed\] "Microsoft Excel Cannot Access the File" Error
 
@@ -583,7 +583,7 @@ You may get the “Microsoft Excel cannot access the file” error if the [Prote
 - In Excel, go to **File** and then click **Options**.
 - In the **Excel Options** window, click **Trust Center** and then click **Trust Center Settings.**
 
-![Go To Trust Center and Click on Trust Center Settings ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
+![Go To Trust Center and Click on Trust Center Settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-trust-center-and-click-trust-center-settings-1.jpg)
 
 - Click **Protected View** from the left pane in the **Trust Center Settings** window.
 - Unselect the options under **Protected View**. Click **OK.**
@@ -655,3 +655,24 @@ The “Microsoft Excel cannot access the file” error can occur due to numerous
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-infinix-note-30-vip-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Infinix Note 30 VIP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-s23-ultra-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy S23 Ultra support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a25-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A25 5G support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-moto-g04-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Moto G04?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-honor-magic-5-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Honor Magic 5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-in-2024-voice-as-armor-harnessing-the-power-of-morphvox-to-amplify-your-gaming-persona-online/"><u>New In 2024, Voice as Armor Harnessing the Power of Morphvox to Amplify Your Gaming Persona Online</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-navigating-video-submission-from-pcmobile-devices-to-youtube-shorts/"><u>[New] Navigating Video Submission  From PC/Mobile Devices to YouTube Shorts</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-directcapture-pro-windows-11-recording-made-simple-for-2024/"><u>[New] DirectCapture Pro - Windows 11 Recording Made Simple for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-flawless-endgame-in-vr-worlds/"><u>In 2024, Flawless Endgame in VR Worlds</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-how-does-gain-staging-impact-the-overall-fidelity-of-recorded-tracks/"><u>Updated 2024 Approved How Does Gain Staging Impact the Overall Fidelity of Recorded Tracks?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/how-to-acquire-explosive-glass-break-effects-in-post-production/"><u>How to Acquire Explosive Glass Break Effects in Post-Production</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-best-cartoon-animation-software-for-beginners/"><u>New 2024 Approved Best Cartoon Animation Software for Beginners</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to create a digital signature and certificate for Excel 2013 files
-date: 2024-03-11 15:18:53
-updated: 2024-03-12 10:51:42
+date: 2024-07-03T17:54:01.005Z
+updated: 2024-07-04T17:54:01.005Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to create a digital signature and certificate for Excel 2013 files
 excerpt: This article describes How to create a digital signature and certificate for Excel 2013 files
 keywords: sign .xlsx online,.xlsx signer online,excel signer online
-thumbnail: https://www.lifewire.com/thmb/-m_9JJb4F4y8I0dYVcJrZSeVFcs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unlockedphone_mikkelwilliam_Getty_Eplus-bd0f806b392b4069ab6618d3b520f5b7.jpg
+thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg
 ---
 
 ## 1. How to create a digital signature and certificate for Excel 2013 files
@@ -161,3 +161,22 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-x50-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor X50 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-c65-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco C65? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-oppo-k11-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Oppo K11 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-motorola-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Motorola ?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/comparing-audio-recording-software-steps-for-optimal-selection-and-usage-for-2024/"><u>Comparing Audio Recording Software Steps for Optimal Selection and Usage for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-preserving-gifs-from-twitter-for-mobile-devices/"><u>[New] Preserving GIFs From Twitter for Mobile Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-picpartition-testimonials/"><u>2024 Approved  PicPartition Testimonials</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-11-pro-max-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 11 Pro Max After Forgetting the Passcode?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-redmi-13c-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Redmi 13C Phone Now with These Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-motorola-edge-40-neo-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Motorola Edge 40 Neo to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-changing-photo-colors-with-ease/"><u>[Updated] In 2024, Changing Photo Colors with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-a38-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo A38</u></a></li>
+</ul></div>
