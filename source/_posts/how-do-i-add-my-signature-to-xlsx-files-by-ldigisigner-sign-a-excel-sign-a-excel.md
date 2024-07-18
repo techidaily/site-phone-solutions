@@ -1,7 +1,7 @@
 ---
 title: How do i add my signature to .xlsx files
-date: 2024-03-11 22:50:26
-updated: 2024-03-12 18:57:57
+date: 2024-07-17T17:31:04.042Z
+updated: 2024-07-18T17:31:04.042Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,23 @@ categories:
 description: This article describes How do i add my signature to .xlsx files
 excerpt: This article describes How do i add my signature to .xlsx files
 keywords: .xlsx signature,best sign .xlsx,sign a .xlsx,excel signer online
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## 1. How do i add my signature to .xlsx files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -53,6 +59,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -95,6 +104,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -108,6 +120,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -118,6 +133,9 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
@@ -136,6 +154,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,42 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-leading-titles-the-top-5-android-apps-for-ps2-games/"><u>[New] 2024 Approved  Leading Titles  The Top 5 Android Apps for PS2 Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-best-windows-video-editors-top-picks-for-professional-creatives/"><u>[New] Best Windows Video Editors  Top Picks for Professional Creatives</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-5-essential-social-network-icons-engaging-movements/"><u>2024 Approved  5 Essential Social Network Icons  Engaging Movements</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audfreemasterclass-deciphering-extraction-features/"><u>2024 Approved  AudFreeMasterclass  Deciphering Extraction Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-concealed-viewers-guide-to-instagram-live-broadcasting-without-attention/"><u>2024 Approved  Concealed Viewers' Guide to Instagram Live Broadcasting Without Attention</u></a></li>
+<li><a href="https://extra-information.techidaily.com/5-ways-to-record-audio-on-windows-11-for-2024/"><u>5 Ways to Record Audio on Windows 11 for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x50iplus-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor X50i+ Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x7b-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Honor X7b support - Forgotten screen lock.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x7b-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Honor X7b Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x7b-video-recovery-recover-deleted-videos-from-honor-x7b-by-fonelab-android-recover-video/"><u>Honor X7b Video Recovery - Recover Deleted Videos from Honor X7b</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x8b-messages-recovery-recover-deleted-messages-from-honor-x8b-by-fonelab-android-recover-messages/"><u>Honor X8b Messages Recovery - Recover Deleted Messages from Honor X8b</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x8b-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Honor X8b support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x8b-video-recovery-recover-deleted-videos-from-honor-x8b-by-fonelab-android-recover-video/"><u>Honor X8b Video Recovery - Recover Deleted Videos from Honor X8b</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x9b-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Honor X9b Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x9b-video-recovery-recover-deleted-videos-from-honor-x9b-by-fonelab-android-recover-video/"><u>Honor X9b Video Recovery - Recover Deleted Videos from Honor X9b</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/hot-30i-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Hot 30i Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/hot-30i-video-recovery-recover-deleted-videos-from-hot-30i-by-fonelab-android-recover-video/"><u>Hot 30i Video Recovery - Recover Deleted Videos from Hot 30i</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/hot-40-pro-messages-recovery-recover-deleted-messages-from-hot-40-pro-by-fonelab-android-recover-messages/"><u>Hot 40 Pro Messages Recovery - Recover Deleted Messages from Hot 40 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/hot-40-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Hot 40 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/hot-40i-messages-recovery-recover-deleted-messages-from-hot-40i-by-fonelab-android-recover-messages/"><u>Hot 40i Messages Recovery - Recover Deleted Messages from Hot 40i</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/hot-40i-video-recovery-recover-deleted-videos-from-hot-40i-by-fonelab-android-recover-video/"><u>Hot 40i Video Recovery - Recover Deleted Videos from Hot 40i</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2000-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2000</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2000-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2000 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2003-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2003</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2003-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2003 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2007-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2007</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2007-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2007 | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-up-your-auditory-game-how-to-add-ringtones-and-sounds-that-stand-out-on-android/"><u>In 2024, Step Up Your Auditory Game  How to Add Ringtones & Sounds that Stand Out on Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-discover-the-best-free-and-paid-vegas-pro-alternatives-for-mac/"><u>New 2024 Approved Discover the Best Free and Paid Vegas Pro Alternatives for Mac</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-of-free-video-editing-software-for-beginners/"><u>New 2024 Approved The Ultimate List of Free Video Editing Software for Beginners</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-v27-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo V27 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-music-video-editors-for-photographers-and-enthusiasts/"><u>Updated Best Music Video Editors for Photographers and Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers on Windows 7</u></a></li>
+</ul></div>

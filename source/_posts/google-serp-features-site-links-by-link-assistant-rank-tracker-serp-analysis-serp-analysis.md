@@ -1,6 +1,6 @@
 ---
 title: Google SERP Features - Site Links
-date: 2024-02-24 13:30:42
+date: 2024-07-17T17:23:34.435Z
 tags: 
   - seo
   - rank tracker
@@ -22,6 +22,9 @@ The SERP Analysis feature lets you analyze the top 50 pages ranking for any keyw
 - 03 Analyze ranking factors
 - 04 See which factors correlate with SERP positions
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1.1. To initiate the analysis
 
 Go to the SERP Analysis tab in the navigation panel on the left. Choose a preferred search engine, enter your key term, and click Analyse.
@@ -37,18 +40,30 @@ The top part of the dashboard is a quick summary of SERP stats, while the bottom
 
 1. Gauge keyword potential at a glance
    A quick way to estimate keyword potential is to look at keyword difficulty vs search volume. Keywords that have very strong competitors but bring little traffic are unlikely to be worth your effort.
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Gauge keyword potential at a glance](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/slide1-screen-1.png)
 2. Find main ranking factors
    For each keyword, the free SERP checker finds if there is a correlation between different ranking factors and the pages' actual position in search. Sometimes it's more important to compete on backlinks, while other times you might have better luck optimizing for user experience. This feature removes the guesswork and tells you the best area to focus on.
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Find main ranking factors](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/slide1-screen-2.png)
 3. Analyze search results in-depth
    We calculate the difficulty rating based on the backlink profile of a competitor. In particular, we look at the number of links to a page and a domain as well as the number of linking domains. This information is available for each of the top 50 search results.
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Analyze search results in-depth](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/slide1-screen-3.png)
 4. See keyword and traffic stats
    For each competitor, we also look at the overall presence in search. We track the number of keywords that the domains rank for as well as the amount of traffic they are likely to attract through their positions in search. This information is also available for each of the top 50 search results.
    ![See keyword and traffic stats](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/slide1-screen-4.png)
 5. See UX metrics for each competitor
    User experience is a costly thing to optimize. The good news is that you don't need a perfect score, you just have to be slightly better than your competitors in SERP. And with our data, you'll know exactly what the benchmark is.
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![See UX metrics for each competitor](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/slide1-screen-5.png)
 
 [Get a license](https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875)
@@ -68,6 +83,9 @@ You can use SERP checker tools to analyze your local competitors. Add them to th
 
 [Get a license](https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to start tracking local competition:
 
 To track location-specific organic listings, go to Project Preferences > Preferred Search Engines and add a custom location of your search engine. Then, research top-ranking websites from the Competitor Research module. Pick those that are relevant to your niche and add them as your competitors. Next time you check rankings, the SERP checker will collect data on your pages and your competitors'.
@@ -79,6 +97,9 @@ To track location-specific organic listings, go to Project Preferences > Preferr
 
 #### 2.1.1. Track recent ranking progress of the keyword
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Track recent ranking progress of the keyword](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/slide2-screen-1.png)
 
 Every time you check rankings, you will see how positions have changed for the keyword, and get the ranking position difference score. The SERP checker shows a warning sign if the URL found in Google is different from the one you mapped as a landing page for SEO tracking in the Keyword Map module.
@@ -95,6 +116,9 @@ See the rank progress graph over time and the history of all changes in the page
 
 #### 2.1.3. Find out your Google rich features
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find out your Google rich features](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/slide2-screen-3.png)
 
 The free SERP checker tool shows if your site gets highlighted in top Google results with rich snippets, such as Featured Snippet, Image Pack, Sitelinks, Reviews, People Also Ask, etc. Find your SERP results in the Rank Tracking module under the Keyword and Rankings tab.
@@ -115,6 +139,9 @@ See how visibility changed for your keyword and your website on average. You can
 
 The SERP position history table saves the top 30 search engine results for every ranking check you run, across all your keywords and search engines. These historical organic results will let you observe position changes of all top-ranking domains and discover new online competitors instantly, as soon as they enter one of the top 30 positions.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Record your SERP position history](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/screen-05-big.png)
 
 [Get a license](https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875)
@@ -129,6 +156,9 @@ In the Target Keywords > Rank Tracking module, click on the SERP Details tab in 
 
 ### 3.2. Get an in-depth view of your competitive landscape
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Get an in-depth view of your competitive landscape](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/slide3-screen-1-1.png)
 
 In your SERP position history, right-click any record to switch between Domain and Full URL display. Click on any site to highlight it and see how its positions have been changing across all dates. Click on the Universal results icon to expand the list of universal search listings found for the keyword.
@@ -143,10 +173,16 @@ See historical SERP results for all search engines you track. Add a site to the 
 
 [Get a license](https://secure.2checkout.com/order/cart.php?PRODS=4940312&QTY=1&AFFILIATE=108875)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. See SERP fluctuation for the keyword and for the project
 
 When search engines update their ranking algorithms, for many websites positions and rich feature arrangements may change. These ranking changes create fluctuations in search results, based on which the SERP checker displays a Fluctuation Graph — the proprietary metric to help you understand search engine trends that matter for your business niche.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![See SERP fluctuation for the keyword and for the project](https://tools.techidaily.com/images/apps/link-assistant/rank-tracker/serp-analysis/fluctuation-graph.png)
 
 The graph depicts recent and historical changes in the top 30 search results in each of your target search engines, for any individual keyword separately or for all your keywords together. Red spikes on your graph indicate that the real-time SERP has changed significantly on that day, implying a possible algorithm change.
@@ -179,3 +215,52 @@ Powerful, data-driven SERP checker with all the information needed for the analy
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-ensuring-smooth-transition-livestreaming-old-videos-on-fb-for-2024/"><u>[New] Ensuring Smooth Transition  Livestreaming Old Videos on FB for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ilmora-simplified-guide-to-an-engaging-youtube-anime-subscriber-bar-for-2024/"><u>[New] Filmora  Simplified Guide to an Engaging YouTube Anime Subscriber Bar for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-zero-to-hero-youtube-tech-required/"><u>[New] From Zero to Hero  YouTube Tech Required</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-essentials-for-successful-channel-creation-for-2024/"><u>[New] Youtube Essentials for Successful Channel Creation for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-optimal-choices-top-5-tiktok-to-gif-conversion-programs/"><u>[Updated] 2024 Approved  Optimal Choices  Top 5 TikTok-to-GIF Conversion Programs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transforming-industries-with-virtual-reality-applications/"><u>[Updated] Transforming Industries with Virtual Reality Applications</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-apple-iphone-15-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On Apple iPhone 15? Heres the Best Fixes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-capture-win10-ranking-the-best-video-grabbers/"><u>In 2024, Capture Win10  Ranking the Best Video Grabbers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-imovie-alternative-for-2024/"><u>New IMovie Alternative for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-t2-pro-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo T2 Pro 5G Phones</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-crack-the-code-twitter-video-aspect-ratio-requirements-explained/"><u>Updated 2024 Approved Crack the Code Twitter Video Aspect Ratio Requirements Explained</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-add-subtitles-in-vlc-media-play/"><u>Updated In 2024, How to Add Subtitles in VLC Media Play</u></a></li>
+</ul></div>

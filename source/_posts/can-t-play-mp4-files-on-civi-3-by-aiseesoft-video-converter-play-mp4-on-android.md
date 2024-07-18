@@ -1,6 +1,6 @@
 ---
 title: Can't play MP4 files on Civi 3
-date: 2024-05-19T17:46:50.851Z
+date: 2024-07-17T14:28:57.334Z
 tags: 
   - mp4 video
   - mp4 android
@@ -127,3 +127,56 @@ As soon as the conversion is complete, click <b>"Open Folder"</b> to get the gen
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/0-best-intro-maker-apps-for-iphone-and-android-for-2024/"><u>[New] 10 Best Intro Maker Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-dynamic-duo-of-images-on-ig/"><u>[New] 2024 Approved  Dynamic Duo of Images on IG</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-friendships-unlocked-leading-free-and-safe-follower-finding-tools-iosandroid/"><u>[New] Instagram Friendships Unlocked  Leading Free & Safe Follower-Finding Tools (iOS/Android)</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-engaging-community-add-friends-on-discord/"><u>[Updated] In 2024, Engaging Community  Add Friends on Discord</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-must-collect-blog-for-business-8-trending-videos-on-facebook-for-2024/"><u>[Updated] Must-Collect Blog for Business! 8 Trending Videos on Facebook for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-achieve-more-money-from-your-short-videos-on-youtube/"><u>2024 Approved  Achieve More Money From Your Short Videos on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-manual-implementing-speech-to-text-with-google-docs/"><u>2024 Approved  Step-by-Step Manual  Implementing Speech to Text with Google Docs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-the-ultimate-guide-to-mts-video-editing-top-5-software/"><u>2024 Approved The Ultimate Guide to MTS Video Editing Top 5 Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2021-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2021 Found a Problem with One or more Formula | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2021-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel 2021 VBA Runtime Error 9 Subscript Out of Range</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2021-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2021 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2023-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2023 Found a Problem with One or more Formula</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2023-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2023 Found a Problem with One or more Formula | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2023-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel 2023 VBA Runtime Error 9 Subscript Out of Range</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2023-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2023 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel Found a Problem with One or more Formula</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel Found a Problem with One or more Formula | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-pivottable-overlap-error-troubleshooting-guide-by-stellar-guide/"><u>Fixed Excel PivotTable Overlap Error | Troubleshooting Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-pivottable-overlap-error-troubleshooting-guide-stellar-by-stellar-guide/"><u>Fixed Excel PivotTable Overlap Error | Troubleshooting Guide | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel VBA Runtime Error 9 Subscript Out of Range</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2000-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2000</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2000-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2000 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2003-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2003</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2003-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2003 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2007-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2007</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2007-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2007 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2010-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2010</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2010-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2010 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2013-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2013</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2013-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2013 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2016-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2016</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2016-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2016 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2019-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2019</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2019-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2019 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2021-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2021</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-freeze-panes-not-working-in-excel-2021-stellar-by-stellar-guide/"><u>Fixed Freeze Panes not Working in Excel 2021 | Stellar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/future-fables-top-30-quotes-on-tomorrows-realities-for-2024/"><u>Future Fables  Top 30 Quotes on Tomorrow's Realities for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-superior-video-quality-using-vce-22/"><u>In 2024, Expert Tips for Superior Video Quality Using VCE 2.2</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nokia-105-classic-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nokia 105 Classic online without jailbreak</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-success-the-essentials-of-crafting-great-reddit-threads/"><u>In 2024, Unlocking Success  The Essentials of Crafting Great Reddit Threads</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-11-proipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 11 Pro/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-3-techniques-for-capturing-sports-spectacles/"><u>Top 3 Techniques for Capturing Sports Spectacles</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

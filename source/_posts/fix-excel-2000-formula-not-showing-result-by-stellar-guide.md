@@ -1,6 +1,6 @@
 ---
 title: Fix Excel 2000 formula not showing result
-date: 2024-06-09T01:04:17.337Z
+date: 2024-07-17T17:14:08.948Z
 tags: 
   - repair
   - repair excel
@@ -20,12 +20,18 @@ keywords: repair excel 2019,repair .xltx,repair excel 2000,repair .csv,repair ex
 
 Sometimes, when you type a formula in a cell of worksheet and press Enter, instead of showing the calculated result, it returns the formula as text. For instance, Excel cell shows:
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel not Showing Formula](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-not-showing-formula-1.jpg)
 
 But you should get the result as:
 
 ![Excel Formula Working Sample](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-not-showing-formula-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Why Does Excel Show or Display the Formula Not the Result?**
 
 **Following are the possible reasons that may lead to the ‘Excel showing formula not result’ issue:**
@@ -38,6 +44,9 @@ But you should get the result as:
 
 ## **How to Fix ‘Excel Showing Formula Not Result’ Issue?**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Solution 1 – Disable Show Formulas**
 
 If only the formula shows in Excel not result, check if you have accidentally or intentionally enabled ‘show formula’ feature of Excel. Instead of applying calculations and then showing results, this feature displays the actual text written by you.
@@ -52,6 +61,9 @@ Another possible reason that only formula shows in Excel not result could be tha
 
 ![Enter Cell Edit Mode by Clicking into the Formula Bar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/06/formula-f2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Solution 3 – Change Calculation Options from ‘Manual’ to ‘Automatic’**
 
 There is an “automatic calculation” feature in Excel, which tells Excel to do calculations automatically or manually. If ‘Excel formula is not showing results’, it may be because the automatic calculations feature is set to manual. This issue is not easily detected because it results in calculating formula in one cell but if you copy it to some other cell, it will retain the first calculation and will not recalculate on the base of the new location. To fix this, follow these steps:
@@ -80,6 +92,9 @@ There is a proper way to tell Excel that your text is a formula. If you don’t 
   - Excel 2019, 2016, 2013, 2010, and 2007 versions only allow to use up to 64 nested functions.
   - Excel 2003 and lower versions only allow up to 7 nested functions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Solution 5 – Enter Numbers without any Formatting**
 
 When you use a number in the formula, make sure you don’t enter any decimal separator or currency sign, e.g. $, etc. In an Excel formula, a comma is used to separate arguments of a function and a dollar sign makes an absolute cell reference. Most of these special characters have built-in functions so avoid using them unnecessarily.
@@ -90,8 +105,14 @@ If you’ve tried out the manual solutions mentioned above but still unable to r
 
 This reliable and competent software scans and repairs Excel files (.XLSX and .XLS). It also helps recover all the file components, like formulas, cell formatting, etc. Armed with an interactive GUI, this software is extremely easy to work with, and its advanced algorithms allow it to fend off Excel errors with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Free-download-for-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Conclusion**
 
 This blog outlined the possible reasons that may cause ‘Excel not showing formula results’ issue. Check out these reasons and implement the manual fixes, depending on what resulted in the problem in the first place. If none of these fixes help resolve the issue, corruption in the Excel file might be preventing the formulas from showing the actual results. In that case, using **Stellar Repair for Excel** tool might help.
@@ -114,3 +135,46 @@ This blog outlined the possible reasons that may cause ‘Excel not showing form
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-efficiency-in-action-best-10-ways-to-youtube-conversion/"><u>[New] 2024 Approved  Efficiency in Action  Best 10 Ways to YouTube Conversion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-seamless-media-exchange-transferring-facebook-content-to-whatsapp/"><u>2024 Approved  Seamless Media Exchange  Transferring Facebook Content to WhatsApp</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-virtualvista-viewers-verdict/"><u>2024 Approved  VirtualVista Viewer's Verdict</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-some-must-know-useful-lego-animation-ideas-for-you/"><u>2024 Approved Some Must-Know Useful Lego Animation Ideas for You</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Galaxy F34 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Huawei </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-huawei-p60-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Huawei P60</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Moto G Stylus (2023)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-moto-g24-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Moto G24</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Motorola</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-motorola-edge-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Motorola Edge 2023</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-motorola-edge-40-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-p60-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on P60</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-redmi-12-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Redmi 12</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-redmi-13c-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Redmi 13C 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-samsung-galaxy-a05-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung Galaxy A05</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-samsung-galaxy-f34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-samsung-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-sony-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Sony </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Sony Xperia 1 V</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-xiaomi-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Xiaomi </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-civi-3-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Civi 3</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-a05-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy A05</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-a15-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy A15 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-a34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy A34 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy A54 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-f54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy F54 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-play-mp4-files-on-galaxy-m34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can't play MP4 files on Galaxy M34 5G</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/elite-font-generators-tailored-for-discord-mobile/"><u>Elite Font Generators  Tailored for Discord (Mobile)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/how-to-convert-audacity-projects-into-mp3-audio-outputs/"><u>How to Convert Audacity Projects Into MP3 Audio Outputs</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/how-to-send-and-add-snapchat-gifs-100-in-easy-way-for-2024/"><u>How to Send and Add Snapchat GIFs 100 in Easy Way for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-14-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 14 Plus in Lost Mode</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/profile-persona-painting-crafting-an-animated-imagery-for-2024/"><u>Profile Persona Painting  Crafting an Animated Imagery for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/speech-to-text-for-media/"><u>Speech to Text for Media</u></a></li>
+</ul></div>

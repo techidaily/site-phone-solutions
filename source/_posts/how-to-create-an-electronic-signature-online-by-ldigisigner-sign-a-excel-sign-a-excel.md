@@ -1,7 +1,7 @@
 ---
 title: How to create an electronic signature online
-date: 2024-03-11 22:56:33
-updated: 2024-03-12 20:47:23
+date: 2024-07-17T17:51:41.595Z
+updated: 2024-07-18T17:51:41.595Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 excerpt: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 keywords: free sign .xlsx,.xlsx signer online,best sign .xlsx,excel signature service
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## 1. How to create an electronic signature online
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -49,6 +52,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -59,6 +65,9 @@ In just a few seconds your Excel document will be fully available once the uploa
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -71,10 +80,16 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -95,6 +110,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -130,6 +148,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,41 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dissecting-video-platform-distinctions-youtube-vs-dailymention/"><u>[Updated] In 2024, Dissecting Video Platform Distinctions  YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-perfect-plays-in-a-minute-tiktok-templates-for-stellar-videos/"><u>[Updated] In 2024, Perfect Plays in a Minute  TikTok Templates for Stellar Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>[Updated] In 2024, The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-smart-8-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Smart 8 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-stellar-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2013-stellar-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2013 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2016-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2016</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2016-stellar-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2016 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2019-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2019</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2019-stellar-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2019 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2021-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2021</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2021-stellar-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2021 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2023-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2023</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2023-stellar-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2023 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2000-formula-not-showing-result-by-stellar-guide/"><u>Fix Excel 2000 formula not showing result</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2000-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2000 formula not showing result | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2003-formula-not-showing-result-by-stellar-guide/"><u>Fix Excel 2003 formula not showing result</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2003-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2003 formula not showing result | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2007-formula-not-showing-result-by-stellar-guide/"><u>Fix Excel 2007 formula not showing result</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2007-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2007 formula not showing result | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2010-formula-not-showing-result-by-stellar-guide/"><u>Fix Excel 2010 formula not showing result</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2010-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2010 formula not showing result | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2013-formula-not-showing-result-by-stellar-guide/"><u>Fix Excel 2013 formula not showing result</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2013-formula-not-showing-result-stellar-by-stellar-guide/"><u>Fix Excel 2013 formula not showing result | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-excel-2016-formula-not-showing-result-by-stellar-guide/"><u>Fix Excel 2016 formula not showing result</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/free-high-quality-youtube-banner-samples-inside/"><u>Free High-Quality YouTube Banner Samples Inside</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-samsung-galaxy-m34-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Samsung Galaxy M34 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-google-pixel-7a-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Google Pixel 7a FRP?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-sony-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Sony , is it possible?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/sky-high-storage-cutting-edge-cloud-picks-for-2024/"><u>Sky High Storage  Cutting-Edge Cloud Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/transforming-passive-browsing-into-active-participation-on-fb/"><u>Transforming Passive Browsing Into Active Participation on FB</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unveiling-windows-11-a-compreayer-to-master-video-editing-techniques/"><u>Unveiling Windows 11  A Compreayer to Master Video Editing Techniques</u></a></li>
+</ul></div>

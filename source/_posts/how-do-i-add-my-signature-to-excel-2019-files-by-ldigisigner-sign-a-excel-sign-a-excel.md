@@ -1,7 +1,7 @@
 ---
 title: How do i add my signature to Excel 2019 files
-date: 2024-03-10 16:59:42
-updated: 2024-03-12 14:18:13
+date: 2024-07-17T17:30:21.841Z
+updated: 2024-07-18T17:30:21.841Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: This article describes How do i add my signature to Excel 2019 files
 excerpt: This article describes How do i add my signature to Excel 2019 files
 keywords: excel signature tool,sign excel online,free sign .xlsx,excel signature service,.xlsx signature app
-thumbnail: https://www.lifewire.com/thmb/sRg_08XfVq4XQxaZ8LbMjkBmMPo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-534572567-56facec43df78c784197b92d.jpg
+thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8ff0fa954ebc9cead95a6f721.jpg
 ---
 
 ## 1. How do i add my signature to Excel 2019 files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -49,16 +52,25 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -79,6 +91,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -118,10 +133,16 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -130,6 +151,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -161,3 +185,52 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-master-download-manager-facebook-and-firefox-edition-tools-for-2024/"><u>[Updated] Master Download Manager  Facebook & FireFox Edition Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premium-mac-graphics-collector-for-2024/"><u>[Updated] Premium Mac Graphics Collector for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discovering-the-best-music-playback-on-youtube-2023-for-2024/"><u>Discovering the Best Music Playback on YouTube, 2023 for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-zte-nubia-z60-ultra-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-to-configure-mt4-and-mt5-accounts-by-mt4copier-guide/"><u>Easy to Configure MT4 and MT5 Accounts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-to-configure-mt4-and-mt5-accounts-for-running-a-local-trade-copier-tm-together-with-any-other-forex-ea-by-mt4copier-guide/"><u>Easy to Configure MT4 and MT5 Accounts for Running a Local Trade Copier™ Together With Any Other Forex EA</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-way-to-copy-trades-of-equal-lot-size-for-all-accounts-by-mt4copier-guide/"><u>Easy Way to Copy Trades of Equal Lot Size for All Accounts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/edge-40-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Edge 40 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/edgeplus-2023-messages-recovery-recover-deleted-messages-from-edgeplus-2023-by-fonelab-android-recover-messages/"><u>Edge+ (2023) Messages Recovery - Recover Deleted Messages from Edge+ (2023)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2000-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2000 file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2000-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2000 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2003-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2003 file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2003-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2003 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2007-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2007 file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2007-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2007 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2010-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2010 file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2010-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2010 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2013-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2013 file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2013-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2013 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2016-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2016 file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2016-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2016 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2019-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2019 file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2019-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2019 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2021-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2021 file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2021-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2021 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2023-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel 2023 file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-2023-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel 2023 file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-file-is-not-in-recognizable-format-by-stellar-guide/"><u>Error Solved Excel file is not in recognizable format</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/error-solved-excel-file-is-not-in-recognizable-format-stellar-by-stellar-guide/"><u>Error Solved Excel file is not in recognizable format | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-2000-stuck-at-opening-file-0-resolve-performance-issues-by-stellar-guide/"><u>Excel 2000 Stuck at Opening File 0 - Resolve Performance Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-2000-stuck-at-opening-file-0-resolve-performance-issues-stellar-by-stellar-guide/"><u>Excel 2000 Stuck at Opening File 0 - Resolve Performance Issues | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-2003-stuck-at-opening-file-0-resolve-performance-issues-by-stellar-guide/"><u>Excel 2003 Stuck at Opening File 0 - Resolve Performance Issues</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/excel-2003-stuck-at-opening-file-0-resolve-performance-issues-stellar-by-stellar-guide/"><u>Excel 2003 Stuck at Opening File 0 - Resolve Performance Issues | Stellar</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/gourmet-grub-gurus-on-social-media/"><u>Gourmet Grub Gurus on Social Media</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/how-to-add-and-edit-a-song-to-video-for-free-in-2024/"><u>How To Add & Edit A Song To Video For Free, In 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-13-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 13 without Losing Data? | Stellar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-se-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone SE Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nubia-red-magic-9-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nubia Red Magic 9 Pro Without PUK Codes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-launch-lines-a-practical-roadmap-for-product-review-channel-founders/"><u>In 2024, Quick Launch Lines  A Practical Roadmap for Product Review Channel Founders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-and-science-of-compelling-headlines/"><u>In 2024, The Art & Science of Compelling Headlines</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-depth-guide-to-mastering-your-discord-broadcasts/"><u>In-Depth Guide to Mastering Your Discord Broadcasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-3-ultimate-multi-user-video-platforms-for-2024/"><u>Top 3 Ultimate Multi-User Video Platforms for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-battle-of-the-editors-final-cut-pro-vs-lumafusion-features-pricing-and-more/"><u>Updated In 2024, Battle of the Editors Final Cut Pro vs LumaFusion - Features, Pricing, and More</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-redmi-note-13-proplus-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Redmi Note 13 Pro+ 5G? Here is How | Dr.fone</u></a></li>
+</ul></div>

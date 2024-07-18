@@ -1,6 +1,6 @@
 ---
 title: How Can I Recover Corrupted Excel File 2023
-date: 2024-06-16T22:46:19.576Z
+date: 2024-07-17T17:29:37.535Z
 tags: 
   - repair
   - repair excel
@@ -22,6 +22,9 @@ keywords: repair .xlb,repair excel 2023,repair excel 2016,repair excel 2021,repa
 
 - But sometimes, you encounter the **“Excel cannot open this file”** error message due to corruption in the file.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel-cannot-open-this-file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Excel-cannot-open-this-file-img2.png)
 
 ## Why does Excel File turn Corrupt?
@@ -33,6 +36,9 @@ Following are some common reasons that can turn an Excel file corrupt:
 - Hard drive on which Excel file is stored has developed bad sectors
 - Abrupt system shutdown while working on a worksheet
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Workarounds to Recover Data from Corrupt Excel
 
 The workarounds to recover corrupted Excel file 2016 data will vary depending on whether you can open the file or not.
@@ -47,10 +53,16 @@ If your Excel file gets corrupt while you are working on it and you haven’t sa
 
 - Open your Excel 2016 application and click on the **Open Other Workbooks** option.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open-other-workbooks](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/open-other-workbooks-img3.png)
 
 - Click the **Recover Unsaved Workbooks** button at the bottom of the ‘Recent Workbooks’ section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![recover-unsaved-workbook](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/recover-unsaved-workbook-img4.png)
 
 - A window with list of unsaved Excel files will open. Click the corrupt file you want to open.
@@ -74,6 +86,9 @@ Saving an Excel file in SYLK format might help you filter out corrupted elements
 - From your Excel **File** menu, choose **Save As**.
 - In ‘Save As’ window that pops-up, from the **Save as type** dropdown list, choose the **SYLK (Symbolic Link)** option, and then click **Save**.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![symbolic link format](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/save-as-symbolic-link-format-img5.png)
 
 **_Note:_** _Only the active sheet will be saved in workbook on choosing the SYLK format._
@@ -98,6 +113,9 @@ How to Recover Corrupted Excel File 2016 Data When You Cannot Open the File?
 
 If you can’t access the Excel file, apply one of these workarounds to salvage the file’s data.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 1 – Open and Repair the Excel File**
 
 Excel automatically initiates ‘File Recovery’ mode on opening a corrupt file. After starting the auto-recovery mode, it attempts to reopen and repair the corrupt Excel file at the same time. If the auto-recovery mode does not start automatically, you can try to fix corrupted Excel file 2016 manually by using ‘Open and Repair’. Follow these steps:
@@ -110,10 +128,16 @@ Excel automatically initiates ‘File Recovery’ mode on opening a corrupt file
 - Click **Repair** to fix corrupted file and recover data from it.
 - Click **Extract Data** if you cannot repair the file or only need to extract values and formulas.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![repair excel file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/repair-excel-file-img8.jpg)
 
 If performing these actions doesn’t help you retrieve the data, proceed with the next workaround.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 2 – Disable the Protected View Settings**
 
 Follow these steps to disable the protected view settings in an Excel file:
@@ -147,6 +171,9 @@ If you only need to extract Excel file data without formulas or calculated value
 
 - Go back to your Excel file, click **File** > **New** > **Blank workbook**.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![new excel workbook](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/new-excel-workbook-img14.png)
 
 - In the new Excel workbook, type “=CorruptExcelFile Name!A1” in cell A1 to reference cell A1 of the corrupted file. Replace the ‘CorruptExcelFile Name’ with the name of the corrupt file that you have copied above. Hit **ENTER**.
@@ -159,10 +186,21 @@ If you only need to extract Excel file data without formulas or calculated value
 
 Check the new Excel file for recoverable data. If this didn’t work, consider using an [Excel file repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to retrieve data.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Alternative Solution to Recover Excel File Data**
 
 Applying the above workarounds may take considerable time to recover corrupted Excel file 2016. Also, they may fail to extract data from a severely corrupted file. Using Stellar Repair for Excel software can help you overcome these limitations. The software helps repair severely corrupted XLS/XLSX file and retrieve all the file data in a few simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![free download](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 Key benefits of using Stellar Repair for Excel are as follows:
@@ -199,3 +237,55 @@ Errors such as ‘the file is corrupt and cannot be opened’, ‘Excel cannot o
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-expert-techniques-for-simple-iphone-screenshot-processes/"><u>[New] Expert Techniques for Simple IPhone Screenshot Processes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-the-social-media-seas-to-boost-follower-count/"><u>[New] Navigating the Social Media Seas to Boost Follower Count</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-reviewing-the-gopro-hero5-session-series/"><u>[New] Reviewing the GoPro Hero5 Session Series</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamlining-screen-recording-with-nvidia/"><u>[New] Streamlining Screen Recording with NVIDIA</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-step-by-step-approach-to-professional-video-sharing/"><u>[Updated] 2024 Approved  A Step-by-Step Approach to Professional Video Sharing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-revolutionizing-home-broadcasts-with-advanced-webcams/"><u>[Updated] 2024 Approved  Revolutionizing Home Broadcasts with Advanced WebCams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-rotate-to-win-insta-tricks-for-video-transformation/"><u>2024 Approved  Rotate to Win  Insta-Tricks for Video Transformation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/choosing-between-apples-macbook-air-and-pro-m1-performance-showdown-for-2024/"><u>Choosing Between Apple's MacBook Air & Pro  M1 Performance Showdown for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oneplus-nord-ce-3-lite-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Oppo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-a1-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Oppo A1 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-a79-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Oppo A79 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-f23-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Oppo F23 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-find-n3-flip-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Oppo Find N3 Flip</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-find-x6-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Oppo Find X6</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-reno-10-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-oppo-reno-11f-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-poco-c51-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Poco C51</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-realme-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Realme</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-realme-gt-5-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Realme GT 5 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-realme-narzo-60-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-realme-narzo-60x-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-red-magic-8s-proplus-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Red Magic 8S Pro+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-redmi-k70-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Redmi K70 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-samsung-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-samsung-galaxy-a15-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-samsung-galaxy-a25-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-samsung-galaxy-a34-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-samsung-galaxy-s23-fe-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-sony-xperia-1-v-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Sony Xperia 1 V</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-spark-20-proplus-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Spark 20 Pro+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-spark-20c-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Spark 20C</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-tecno-pova-5-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Tecno Pova 5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-tecno-spark-20-proplus-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-vivo-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Vivo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-vivo-y36-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Vivo Y36</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-xiaomi-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Xiaomi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-xiaomi-redmi-a2-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Xiaomi Redmi A2</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-spectrum-analysis-understanding-xmedia-suite-workshop-details-for-2024/"><u>Full Spectrum Analysis  Understanding XMedia Suite Workshop Details for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-video-on-twitter-top-converter-picks/"><u>In 2024, Mastering Video on Twitter  Top Converter Picks</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-founders-flowchart-for-launching-a-review-video-channel/"><u>In 2024, The Founder's Flowchart for Launching a Review Video Channel</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-x-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone X Properly</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-maximizing-yandex-translate-in-video-translation-and-beyond/"><u>New In 2024, Maximizing Yandex Translate in Video Translation and Beyond</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/pro-quality-videos-made-easy-top-video-stabilizer-apps/"><u>Pro-Quality Videos Made Easy Top Video Stabilizer Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/spearheading-social-media-select-the-best-video-editors-for-ig-for-2024/"><u>Spearheading Social Media  Select the Best Video Editors for IG for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-smooth-operator-mastering-video-stabilization-in-fcpx/"><u>Updated In 2024, Smooth Operator Mastering Video Stabilization in FCPX</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-f14-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy F14 5G Phones</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How do i add my signature to .docx 
-date: 2024-03-10 22:27:44
-updated: 2024-03-12 21:25:49
+date: 2024-07-17T17:30:06.998Z
+updated: 2024-07-18T17:30:06.998Z
 tags: 
   - signer
   - signer online
@@ -12,13 +12,16 @@ categories:
 description: Free .docx signature service to sign .docx online. Add signature to .docx documents with our .docx signer. No registration or installation required | DigiSigner
 excerpt: Free .docx signature service to sign .docx online. Add signature to .docx documents with our .docx signer. No registration or installation required | DigiSigner
 keywords: sign word online,.dot file signature online,.fodt file signature online,.fodt file signature app,.wps file signature tool,.wpd file signature
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## 1. How do i add my signature to .docx 
 
 Electronic Signature in Word is a simple and secure way to sign documents online. It's a legally binding way to sign Word documents, and it's easy to use. You can sign Word documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Word documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
@@ -57,18 +60,27 @@ In just a few seconds your Word document will be fully available once the upload
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -83,6 +95,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -116,10 +131,16 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -134,6 +155,9 @@ You can also use a signature line in Word to insert a signature with properties.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -159,3 +183,62 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-high-fidelity-webcams-for-professional-podcasting/"><u>[New] High-Fidelity Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-groundbreaking-8-android-video-call-services-more-than-four/"><u>[New] In 2024, Groundbreaking 8 Android Video Call Services, More Than Four</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-navigating-the-virality-vortex-top-tips-for-tiktokers-for-2024/"><u>[Updated] Navigating the Virality Vortex  Top Tips for TikTokers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-mp4-record-and-assess-guide/"><u>[Updated] Ultimate MP4 Record & Assess Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-all-about-color-grading/"><u>2024 Approved  All About Color Grading</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-revamp-your-tiktok-videos-insightful-strategies-for-backdrop-changes/"><u>2024 Approved  Revamp Your TikTok Videos  Insightful Strategies for Backdrop Changes</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-6-most-reliable-audio-converter-programs/"><u>2024 Approved The 6 Most Reliable Audio Converter Programs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-smart-8-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Smart 8 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-sony-xperia-1-v-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Sony Xperia 1 V.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-spark-10-4g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Spark 10 4G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-spark-20-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Spark 20.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Tecno Camon 20 Premier 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-tecno-pop-8-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Tecno Pop 8.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-tecno-spark-10-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Tecno Spark 10 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-v29e-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from V29e.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-v30-lite-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from V30 Lite 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo .</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-s17e-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo S17e.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-t2-pro-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo T2 Pro 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-v27e-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo V27e.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-x100-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo X100 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-x90s-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo X90S.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-y27-4g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo Y27 4G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-vivo-y28-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Vivo Y28 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-x50-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from X50.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-x50iplus-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from X50i+.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-x6-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from X6 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-x7b-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from X7b.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi .</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-14-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi 14 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-14-ultra-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi 14 Ultra.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-14-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi 14.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi Redmi 13C 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-redmi-k70-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi Redmi K70.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-redmi-k70e-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi Redmi K70E.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xiaomi-redmi-note-12-pro-4g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xiaomi Redmi Note 12 Pro 4G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xperia-5-v-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Xperia 5 V.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-xr21-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from XR21.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-y78t-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Y78t.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-yuva-2-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Yuva 2 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-zte-axon-40-lite-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from ZTE Axon 40 Lite.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-11-5g-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from 11 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-12-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from 12.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-a05s-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from A05s.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/historical-context-of-instagram-stories-not-widely-known/"><u>Historical Context of Instagram Stories Not Widely Known</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-2023s-must-buy-items-on-amazon-posted-by-tiktok-influencers/"><u>In 2024, 2023’S Must-Buy Items on Amazon Posted by TikTok Influencers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-se-2020-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone SE (2020) When Its Locked Within Seconds</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-s24-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy S24 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-launching-into-youtube-success-a-starter-guide-for-profit/"><u>In 2024, Launching Into Youtube Success  A Starter Guide for Profit</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-techniques-for-sound-isolation-preventing-noise-contamination-in-audio-capture/"><u>In 2024, Techniques for Sound Isolation Preventing Noise Contamination in Audio Capture</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigate-through-windows-11-driver-update-with-ease/"><u>Navigate Through Windows 11 Driver Update With Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/optimize-tv-viewership-via-facebook-live-streaming-for-2024/"><u>Optimize TV Viewership via Facebook Live Streaming for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-best-in-storytelling-eight-film-genre-showcase-for-2024/"><u>The Best in Storytelling  Eight Film Genre Showcase for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-15-gaming-capture-utilities-for-2024/"><u>Top 15 Gaming Capture Utilities for 2024</u></a></li>
+</ul></div>

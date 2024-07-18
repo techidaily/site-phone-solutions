@@ -1,7 +1,7 @@
 ---
 title: Fixed Freeze Panes not Working in Excel 2016 | Stellar
-date: 2024-03-13 11:18:50
-updated: 2024-03-14 11:21:45
+date: 2024-07-17T17:16:36.599Z
+updated: 2024-07-18T17:16:36.599Z
 tags: 
   - repair
   - repair excel
@@ -12,7 +12,7 @@ categories:
 description: This article describes Fixed Freeze Panes not Working in Excel 2016
 excerpt: This article describes Fixed Freeze Panes not Working in Excel 2016
 keywords: repair .xlsm,repair excel 2003,repair .xlsm files,repair corrupt .xlsm files,repair .xltx,repair excel 2007,repair corrupt .xlsx files,repair excel file,repair damaged .xltm,repair excel 2000
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## [Fixed]: Freeze Panes not Working in Excel
@@ -40,10 +40,25 @@ The freeze panes feature in Excel is used to freeze the row/column headings to k
 
 The freeze panes option is available in the View bar. Sometimes, you’re unable to see the View option. It usually occurs if you are using the Excel Started version. Check and try to open the file in the advanced Excel version, which supports all the features. If you are using the advanced Excel version, then try the below workarounds to fix the freeze panes not working issue in Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 1: Exit the Cell Editing Mode**
 
 If your Excel file is switched from normal file view mode to cell editing mode, you can encounter the freeze panes not working issue. In cell editing mode, certain features in Excel, such as the freeze panes, are temporarily disabled to prevent any conflicts. You can disable cell editing mode by pressing the ESC or Enter key. Now locate the View tab and check whether the freeze pane feature is working. If not, then try the next workaround.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 2: Change the Page Layout View**
 
 The Excel freeze panes not working issue can also occur if your workbook is opened in Page Layout view. The Page Layout view doesn’t support freeze panes. If you select page layout, the freeze panes option gets disabled.
@@ -55,6 +70,9 @@ To enable the **freeze pane** option, go to **View** and click the **Page Break 
 ![enable freeze panes in excel page break  preview tab
 ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/click-page-break-preview-option-to-enable.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 3: Check and Remove Options under the Data Tab**
 
 Sometimes, you can experience the “freeze panes not working” issue if Sorting, Data Filter, Group, and Subtotal options are enabled in Excel workbook. Such options, when enabled, can lead to unexpected problems with the freeze panes’ functionality. You can check and remove these features from your workbook. To do so, follow these steps:
@@ -67,8 +85,14 @@ Sometimes, you can experience the “freeze panes not working” issue if Sortin
 - Group
 - Subtotal
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove sort, filter, group, and subtotal in excel step-by-step](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/select-all-features-under-data-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 4: Check and Unprotect Worksheet**
 
 The freeze panes feature may stop working if your worksheet is protected. You can try to disable the worksheet protection option. Here are the steps:
@@ -90,6 +114,9 @@ The freeze pane is not working issue in Excel can also occur when you use incorr
 
 If none of the above workarounds works, then there are chances that the workbook is damaged or corrupt. In such a case, you can try the below methods to repair the corrupt Excel workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Run Open and Repair Utility**
 
 In case of corruption in the Excel file, you can use the Open and Repair tool in Excel to repair the file. To use this utility, follow these steps:
@@ -104,21 +131,36 @@ In case of corruption in the Excel file, you can use the Open and Repair tool in
 - Click on the Repair option to recover as much data as possible.
 - You can see a completion message once the repair process is complete. Click Close.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Use a Professional Excel Repair Tool**
 
 If the [Open and Repair tool doesn’t work](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to resolve complex file-related issues and your Excel file is severely corrupted, you can opt for a reliable third-party Excel repair tool, such as Stellar Repair for Excel. This tool can help you repair the Excel file and recover all the data with complete integrity. You can try the software’s demo version to scan the affected file and preview the recoverable data. The software is compatible with all MS Excel versions and Windows operating systems, including Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Closure**
 
 The “freeze panes not working” issue in Excel can occur due to several reasons, like protected worksheet, incompatible Excel version, and incorrect cell position. Try the workarounds shared in the blog to fix the issue. If the Excel file is corrupt, you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to fix the corruption issues in the file. This tool can quickly repair the Excel file and recover all the data from the file with 100% integrity.
 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Solutions to open Excel Read Only Documents
 
 'Excel cannot open read-only documents' is an error message that usually appears when you try to open an Excel (**XLS** or **XLSX**) file downloaded from the Internet, email, or the network server. It may also appear when you try to open an encrypted or password-protected Excel document. In such a case, MS Excel prevents the user from making any changes to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![error message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/error-message-1-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reasons behind the “Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted” Error
 
 There could be several reasons that may cause the error. Some of them are as follows:
@@ -143,6 +185,9 @@ The 'Excel cannot open read-only documents' error message may appear when the Ex
 - Right-click on the particular Excel (xls/xlsx) document and select '**Properties'.**
   - Uncheck the '**Read-only'** attribute and then click the '**OK'** button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Illustrates the 'Read-only' attribute in Excel XLSX document](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/read-only-properties-2.jpg)
 
 Now try to open the Excel document and check if the problem is fixed.
@@ -205,11 +250,17 @@ The error message may also appear if you access an Excel workbook from a network
 
 If none of the solutions worked, the Excel workbook could be damaged or corrupt. To repair such damaged Excel workbook or spreadsheet, you can use the inbuilt '**Open and Repair…**’ option in MS Excel or install an **[Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)**, such as Stellar Repair for Excel. The software comes in handy when the **Open and Repair** option fails to fix the Excel workbook problems. It repairs the corrupt or damaged Excel workbook, extracts all components and content from the file with 100% integrity, and saves them in a new Excel workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Sometimes, the 'Excel cannot open read-only documents' error can be resolved by a simple restart. But if it doesn't work, you can follow the solutions discussed in this article to resolve the 'Excel cannot open read-only documents' issue.  However, if the issue is caused due to a damaged or corrupt Excel workbook, these methods may not work. In such a case, you can use Excel's inbuilt repair utility, i.e., **Open and Repair,** or install Stellar Repair for Excel software recommended by **MVPs** and **industry experts** to fix all kinds of problems with MS Excel workbooks.
 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Data Disappears in Excel - How to get it back
 
 **Summary:** You may face the issue of ‘Excel spreadsheet data disappeared’ after changing Excel file properties and formatting rows and columns. This blog discusses the possible reasons for data disappearance and the solutions to fix the issue. Also, it mentions an Excel file repair tool to retrieve the data from the file. Sometimes, while editing or formatting a cell in an Excel spreadsheet, the data may go missing or disappear. Let’s discuss in detail the reasons that may cause the ‘Excel data disappeared’ issue along with the solutions.
@@ -222,6 +273,9 @@ Sometimes, the 'Excel cannot open read-only documents' error can be resolved by 
 
 While entering data in an Excel spreadsheet, it is important to save the data at frequent intervals. Doing so prevents any unsaved data from disappearing if you lose power or accidentally click ‘No’ when prompted to save the file. Unfortunately, such a situation is quite common as users often close the file without saving the recently made changes to a spreadsheet.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution – Use the ‘AutoSave’ Feature
 
 With the AutoSave feature enabled in Excel, data won’t be lost in the event of power failure or abruptly closing the Excel program. By default, Excel automatically saves the information in a spreadsheet after every 10 minutes. You can reduce the limit to a few seconds to reduce the chances of Excel file data lost after being saved.
@@ -232,12 +286,18 @@ With the AutoSave feature enabled in Excel, data won’t be lost in the event of
 
 You can save an Excel file in various formats, like spreadsheet, text, webpage, and more. However, at times, saving the spreadsheet in a different format may lead to missing data. For example, when you save a workbook to a text file format, all formulas and calculations applied to the data will be lost.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Adjust a Spreadsheet for the Changed Format 
 
 If you’re changing the format of a spreadsheet, make space for the rows and columns. Also, remove all calculations before saving the file.
 
 **Note:** If the sheet is shared on multiple computers, then save the file in compatibility mode.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Reason 3 – Merging Cells
 
 You can combine two or more cells data to make one large cell. This technique is primarily used to fit the text of a title in a sheet. If there is data in two or more cells, then only the data in the top-left cell is displayed and the data in all other cells is deleted. If the other merged cells have been populated with data after merging, the data is not featured and it does not appear even after remerging the cells.
@@ -305,14 +365,23 @@ If you fail to retrieve the disappeared data from that file using the above-list
 
 -   Once the repair process is complete, verify the components of Excel file and check if the available preview shows complete data that disappeared from Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Disappeared from excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/4-preview.png)
 
 -   **Save** file at default location or preferred location.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Default location](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/6-save-file.jpg)
 
 The Excel file with all the restored data will be saved at the selected location.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 It is better to repair the affected Excel file than suffer the loss when data or text disappears in Excel. A professional software ensures that users get back all the data in the form of a new Excel file. **Stellar Repair for Excel** software repairs the corrupt file without modifying the original content and file format. The software’s easy-to-use user interface lets you perform the functions without formal software training and technical expertise.
@@ -351,16 +420,25 @@ You can get the compile error in the Excel file, containing the VBA code related
 
 - In the **Run** window, type **%appdata%**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Type App Data Command](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/type-app-data-command.jpg)
 
 - In the **Roaming** window, click on the **Microsoft** option.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click On Microsoft Option Under Roaming](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-on-microsoft-option-under-roaming.jpg)
 
 - Under **Microsoft**, you will see a list of folders. Search and click on **Forms.**
 - Right-click on a file with .exd extension and select **Delete**.
 - Once you delete the .exd files, restart your Excel application.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Rollback the Office Updates
 
 MS Office updates or upgrades may also cause the compile error in hidden module in Excel. If the error has occurred after downloading the recent Microsoft Office updates, try [reverting to the previous version](https://support.microsoft.com/en-us/topic/how-to-revert-to-an-earlier-version-of-office-2bd5c457-a917-d57e-35a1-f709e3dda841) or uninstalling the recent updates to fix the issue.
@@ -372,10 +450,16 @@ The compile error in hidden module determine path in Excel can also occur if you
 - Open your **Excel** and press **Alt + F11** keys.
 - The **Visual Basic Editor** is displayed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Visual Basic Editor](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/visual-basic-editor.jpg)
 
 - Go to the **Tools** option and then click **References**.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click On References Under Tools Option](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-on-references-under-tools-option.jpg)
 
 - In the **References-VBAProject** window, under **Available References**, search and unselect the references starting as “Missing”.
@@ -397,6 +481,9 @@ In Excel, the compile error in macro-enabled files can also occur due to incompa
 - Navigate to the **File** option and then select **Options**.
 - In the **Excel Options** window, click **Add-ins**.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click Addins Select Latest Addins](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-add-ins-select-latest-add-ins.jpg)
 
 - Under **Add-ins**, search and select the latest add-ins, and then click on **Go**.
@@ -428,11 +515,17 @@ Corruption in the Excel file can affect the macros in the hidden module, which m
 
 If the above methods fail to get rid of the “compile error in hidden module” in Excel, then use an Excel repair tool such as Stellar Repair for Excel. This tool is specifically designed to repair the corrupted Excel file. It can recover all the components from corrupted Excel file (macros, queries, formulas, etc.) without changing their original formatting. The tool is compatible with all Excel versions and can be downloaded on a Windows system. You can download the free trial version of Stellar Repair for Excel to scan the corrupted Excel file and preview the data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Closure**
 
 You can get the “compile error in hidden module” when Excel detects any issue while compiling the code in a protected module. It can occur when there is an issue with the macro-enabled Excel workbook or Excel add-ins. You can follow the above-mentioned methods to fix the issue. If the error occurs due to corruption in the database file, then you can try [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It can repair severely corrupted Excel files. It also helps recover all the Excel workbook’s components, including macros and queries. The tool has a simple and user-friendly interface.
 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix Cannot Paste the Data Error in Microsoft Excel
 
 When copying and pasting the cell contents or attributes from one workbook to another, you can encounter the "Cannot paste the data" error. The error indicates that the values you are trying to paste do not match the cell format (Currency, Date, Text, etc.) used in the column. The error can occur if you are attempting to paste information into a merged cell. You can also get this error if the data you are trying to paste contains more columns than the destination worksheet can accept or if the copy area and paste area aren't the same size.
@@ -457,6 +550,9 @@ You can experience the "Excel cannot paste the data" error due to one of the fol
 
 The "Microsoft Excel cannot paste the data" error usually appears when copying and pasting data within the spreadsheet. It primarily affects the copy-and-paste feature within the Excel file. However, the impact of this error may vary with the data you are working with. When this error occurs, first try restarting the Excel application. Ensure that you've saved all your important data before restarting the application to prevent data loss. If, after performing this basic step, you still face the issue, then try the following troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 1: Check and Unlock Cells in Excel**
 
 You can get the Excel cannot paste the data error if the cells you are trying to paste in the Excel file are locked. You can check and unlock the specific cells in the Excel file using the below steps:
@@ -480,6 +576,9 @@ Sometimes, you can get the "Cannot paste the data" error in Excel if there is an
 - In the Excel file, click on the affected column heading (whose cells you need to modify).
 - Navigate to the **Home** tab and click the **General** dropdown menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **![Navigate to Home and Click general drop down menu in Excel](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/click-general-dropdown-menu.jpg)**
 
 - Click on the desired cell format that matches the values you are trying to paste into the column.
@@ -509,8 +608,19 @@ The merged cells in the workbook can create discrepancies when copying and pasti
 - Open the Excel file (in which you are copying data) and go to the Home tab.
 - Click Merge & Center > Unmerge Cells.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Under Excel Navigate to Home and click on Merge and Center](https://www.stellarinfo.com/public/image/catalog/article/Repair-Office-Documents/cannotpastedata/go-to-home-click-on-merge-and-center.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 5: Unselect the Excel DDE (Dynamic Data Exchange) Option**
 
 Sometimes, you can get the Excel cannot paste the data error while copying and pasting data from Excel file to external data sources or applications. It usually appears if you have established DDE links between them. To resolve this, you can uncheck the "Ignore other applications that use Dynamic Data Exchange (DDE)" option. Follow the below steps to do so:
@@ -532,6 +642,9 @@ Sometimes, the copy and paste error can occur if you try to move data from an ol
 
 Too many items on the clipboard can prevent you from copying and pasting the data. You can [empty your clipboard](https://support.microsoft.com/en-au/office/clear-the-clipboard-7afbf55f-d7d5-4096-87a0-eb17f821d321) by deleting all clips. To do this, go to **Home** and click the **Clipboard** option.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Change the Column's Cell Format**
 
 You can get the "Cannot paste the data" error when the information you need to paste does not match the cell format in the column. In such a case, you can change the column's cell format. To do this, navigate to the **Home** option and then click on the **General menu** arrow. Then, change the cell format suitable to the type of information you are trying to paste in that column.
@@ -544,6 +657,9 @@ The copy-and-paste error in Excel can also occur if there are not enough columns
 
 Sometimes, incompatible or faulty add-ins can also create conflicts with Excel's clipboard operations, leading to the error. To check if add-ins are causing the issue, open the Excel file in safe mode. In safe mode, if you are able to paste the data, then check and uninstall the incompatible Excel Add-ins.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **What to do if Nothing Works?**
 
 If the above methods do not work, then corruption in the Excel file could be the cause of the "Cannot paste the data" error. In such a case, you can use Excel's built-in Open and Repair utility to repair the corrupted file. Here's how to use this utility to repair the Excel file:
@@ -561,6 +677,9 @@ If the above methods do not work, then corruption in the Excel file could be the
 
  The [Open and Repair utility may not be able to repair your Excel file](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) if it is severely corrupted. In such a situation, the best possible way out is to use a professional Excel repair software to repair the file. You can try Stellar Repair for Excel. It can repair highly damaged or corrupted Excel (.xls, .xlsx, .xltm, .xltx, or .xlsm) file and recover all the objects from the file by maintaining the original formatting. The tool supports 2007 and higher editions of MS Excel. You can download the demo version of the software to preview the repaired objects and verify its functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 The "Excel cannot paste the data" error in Excel can occur due to different factors. You can check and clear the clipboard, unmerge the cells, unlock the cells, and use various other methods mentioned above to troubleshoot the error. If you fail to copy and paste the data due to file corruption, then opt for an advanced Excel repair software, like [Stellar Repair for Excel.](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) It is a reliable tool that can help you repair highly damaged/corrupted Excel files. It enables you to recover all the objects from the corrupted Excel file, with complete integrity.
@@ -568,6 +687,9 @@ The "Excel cannot paste the data" error in Excel can occur due to different fact
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do I Restore Excel File ?
 
 Excel (XLS/XLSX) file corruption is a common issue that may arise due to problems, such as abrupt system shutdown, system crash, malware or virus intrusion, unsupported add-in, etc. However, MS Excel comes with a recovery feature that allows users to recover or restore Excel files lost or corrupted when the MS Excel quits unexpectedly or computer crashes due to hardware or software-related issues.  
@@ -576,12 +698,18 @@ But sometimes, the restored version of the Excel file may not contain all the da
 
 [![](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Solutions to Restore Excel File
 
 Below we have discussed various solutions to repair, recover, and restore unsaved, lost, corrupt, or inaccessible Excel files with the help of MS Excel options and Excel repair software.
 
 **_NOTE:_** _Some of these methods work only if you had enabled or configured certain required settings or options before corruption or losing the Excel file._
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Restore Lost or Unsaved Excel File via ‘Recover Unsaved Workbooks’ Option
 
 The _Recover Unsaved Workbooks_ option allows you to restore the Excel file that you forgot to save before closing MS Excel or it stopped working. The steps are as follows:
@@ -609,6 +737,9 @@ However, if it doesn’t start automatically, you can manually repair minor corr
 - Navigate to **File > Open** and then navigate to the corrupt or damaged Excel file location.
 - Select the file and then click on the arrow beside the ‘**Open**’ button to choose the **‘Open and Repair…**’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open and repair excel file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/open-and-repair-excel-file.png)
 
 - Now click ‘**Repair’** if you want to recover maximum data from a corrupt or inaccessible Excel workbook and restore it to a new Excel file.
@@ -627,6 +758,9 @@ When an Excel file gets corrupt or damaged while working, you may revert the Exc
 
 The workbook opens without any changes you’ve made that might have caused the workbook to become corrupted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Use Excel Repair Software to Restore Excel File
 
 If the corrupt or damaged Excel file isn’t repaired by using MS Excel options or you lost data after restoring the unsaved version or after reverting to the last version, you can rely on an Excel repair software, such as Stellar Repair for Excel.
@@ -643,6 +777,9 @@ To repair a corrupt or inaccessible Excel workbook by using Stellar Repair for E
 
 - Repair and then preview the Excel workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![repaired excel file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/repaired-excel-file.png)
 
 - Save the workbook at default or your desired location.
@@ -651,6 +788,9 @@ To repair a corrupt or inaccessible Excel workbook by using Stellar Repair for E
 
 Once saved, you can open and start editing or working on the Excel sheet. Make sure to enable AutoRecovery and AutoSave options to avoid data loss due to corruption.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we discussed methods and solutions to restore Excel file when it gets damaged or corrupt due to various issues. Although Excel can help you recover or restore Excel file after corruption, it can resolve only minor corruption errors. Thus, it may fail if the Excel file corruption is severe. In such cases, an Excel repair software, such as Stellar Repair for Excel, comes in handy. It resolves Excel corruption, repairs tables, charts, chart sheets, Pivot table, etc., and restores them to a new Excel sheet with 100% consistency.
@@ -660,6 +800,9 @@ In this article, we discussed methods and solutions to restore Excel file when i
 
 **Summary:** The filter is not working issue in Excel can occur due to several reasons, like blank rows, hidden rows, merged cells, corrupted data, etc. In this post, we will mention the reasons why the filter is not working correctly in Excel and several fixes to resolve the issue. We will also mention an advanced Excel repair tool to repair the Excel file if corruption in file is the cause of the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 You can use the Filter function in Excel to filter data in large-sized Excel files quickly. While using Excel filters, sometimes, you face a situation where the filter is disabled or may fail to function properly.
@@ -668,6 +811,9 @@ You can use the Filter function in Excel to filter data in large-sized Excel fil
 
 The Excel filter usually fails to work if you have not selected the complete and correct range of data. Let’s learn more about the “Sort and Filter not working in Excel” issue and look at the possible methods to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Why the Filter is not Working in Excel?**
 
 You can face the “filter is not working” issue if you are applying the filter on a protected worksheet or trying to find the data from a hidden row. Besides this, there could be many other reasons contributing to this issue, such as:
@@ -703,16 +849,25 @@ Alternatively, you can press the Shift + Alt + Left keys to ungroup the sheets.
 
 The “disabled Excel filter” issue can also occur if your worksheet is protected. You can unprotect the worksheet to enable the filter option. To do so, go to the **Review** tab and then select **Unprotect Sheet.**
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel file: Navigating to Group section, resolving 'disabled Excel filter' issue with worksheet protection, unprotecting sheet from Review tab for filter activation.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-review-and-select-unprotect-sheet-1024x115.jpg)
 
 ### **Method 3: Check and Uninstall Excel Add-ins**
 
 Sometimes, the Excel filter gets disabled due to faulty or corrupted Excel add-ins. You can run the Excel in Safe mode to check whether the issue has occurred due to add-ins. To do this, type excel /safe in the Run window and click **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Troubleshooting disabled Excel filter caused by add-ins: Running Excel in Safe mode with 'excel /safe' in Run window](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/type-excel-safe-command.jpg)
 
 In safe mode, if you see the filter option, it indicates some problematic Excel add-ins were causing the issue. In such a case, you can check and uninstall the faulty Excel add-ins to fix the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Scenario 2 – Filter is not Working**
 
 ### **Method 1: Try Clearing Filters**
@@ -724,6 +879,9 @@ Sometimes, the Excel filter fails to work correctly if some filters from the pre
 
 ![Excel: Clicking 'Sort & Filter' and selecting 'Clear' option.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-clear-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 2: Select Entire Data**
 
 The filter not working issue in Excel can occur when the range selected for filtering is incomplete or incorrect. You need to make sure that you’ve selected the entire data range in Excel. You can use the Ctrl+A keys to select the entire content in the worksheet.
@@ -732,6 +890,9 @@ The filter not working issue in Excel can occur when the range selected for filt
 
 When you apply a filter to the data, Excel expects data to be in a continuous range. Excel filters do not consider the blank cells, thereby resulting in incorrect functioning of the filter. To resolve this issue, check and delete all blank cells. In case your Excel file is too large to delete the blank cells, then you can add a “Serial number” row as an alternative. Adding serial number row creates a data continuity, thus helping in fixing the filter-related issue.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 4: Unhide Hidden Rows and Columns**
 
 Hidden rows or columns in worksheets can also affect the filter functionality. You can check and unhide rows/columns to troubleshoot the issue. Here is how to do so:
@@ -739,12 +900,18 @@ Hidden rows or columns in worksheets can also affect the filter functionality. Y
 - In the affected Excel file, go to Home.
 - Click on **Format > Hide & Unhide**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel file: Navigating to Home, accessing Format > Hide & Unhide.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-format-select-hide-or-unhide-option-1024x228.jpg)
 
 - Click **Unhide Rows** or **Unhide Columns** (as required).
 
 ![Selective unhiding in Excel: 'Unhide Rows' or 'Unhide Columns' as needed.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-unhide-rows-unhide-columns.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 5: Unmerge Cells**
 
 You can experience the filter in Excel is not working issue if you are using the filter to extract data from merged cells. Ensure to unmerge the “merged cells” before applying a filter in Excel. Follow the below steps to unmerge the merged cells in Excel:
@@ -753,6 +920,9 @@ You can experience the filter in Excel is not working issue if you are using the
 - In the toolbar, select the **Merge & Center** option.
 - Click **Unmerge Cells.**
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### **Method 6: Repair the Workbook**
 
 Sometimes, the **Filter Not Working in Excel** issue can occur due to inconsistencies in file structure. If these issues occurred due to corruption in the worksheet, you can repair it using the Open and Repair tool. It is an in-built tool in Excel that is used to repair corrupted Excel files. Here are the steps to use this tool:
@@ -766,6 +936,9 @@ Sometimes, the **Filter Not Working in Excel** issue can occur due to inconsiste
 
 In most cases, the Open and Repair tool can easily fix corruption issues in the Excel file. However, for any reason, if the [open and repair tool doesn’t work](https://www.stellarinfo.com/blog/ms-excel-open-and-repair-option-is-not-working/) you can consider repairing the file using a professional Excel Repair tool. Stellar Repair for Excel is one such advanced and secure tool to repair Excel files. With this tool’s powerful scanning capabilities, you can repair highly corrupted Excel files and recover all their objects with complete integrity. The tool is compatible with all Windows editions, including the latest Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Closure**
 
 Several reasons are associated with the **filter not working issue in Excel**. The filter option may not work as expected if you have not selected the complete and correct range of data or for many other reasons. You can follow the troubleshooting methods discussed above to fix the issue. If the filter fails to work due to corruption in the workbook, then try [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It is an advanced tool that can even repair severely damaged files. It also helps to recover all the data from corrupted files without changing the original formatting. You can check the tool’s functionality by downloading its demo version. It allows you to preview all the repairable objects in the corrupted Excel file.
@@ -784,3 +957,65 @@ Several reasons are associated with the **filter not working issue in Excel**. T
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-become-a-tiktok-filming-pro-a-step-by-step-approach-for-2024/"><u>[New] Become a TikTok Filming Pro  A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-reach-new-heights-in-youtube-seo-top-tips-and-tricks/"><u>[New] Reach New Heights in YouTube SEO  Top Tips and Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-rapid-rise-on-insta-like-mastery-plus-video-impact/"><u>[Updated] 2024 Approved  Rapid Rise on Insta - Like Mastery + Video Impact</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-echoes-of-excellence-10-strategies-for-superior-sound-quality/"><u>[Updated] Echoes of Excellence  10 Strategies for Superior Sound Quality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-accessing-shared-media-on-messenger/"><u>[Updated] In 2024, Accessing Shared Media on Messenger</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-8-camera-stands-for-ultra-hd-shooting/"><u>[Updated] Optimal 8 Camera Stands for Ultra-HD Shooting</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>[Updated] Top Editors for Virtual Backgrounds  SpectrumSwitch Studio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-strategies-to-boost-your-obs-editing-skills-for-2024/"><u>[Updated] Top Strategies to Boost Your OBS Editing Skills for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-potential-in-spotifys-ad-ecosystem/"><u>[Updated] Unlocking Potential in Spotify's Ad Ecosystem</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-ace-your-shots-top-cameras-and-lenses-for-youtubers/"><u>2024 Approved  Ace Your Shots  Top Cameras & Lenses for YouTubers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-a-closer-inspection-of-splice-video-editor-features-pricing-and-more/"><u>2024 Approved A Closer Inspection of Splice Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-poco-x6-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Poco X6 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-poco-x6-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Poco X6 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-10t-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 10T 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-11-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 11 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-11-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 11 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-11-proplus-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 11 Pro+ Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-11x-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 11X 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-12-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 12 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-12-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 12 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-12-proplus-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 12 Pro+ 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-12plus-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 12+ 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c33-2023-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C33 2023 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c51-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C51 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c53-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C53 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c55-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C55 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c67-4g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C67 4G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c67-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C67 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-3-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT 3 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-5-240w-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT 5 (240W) Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-5-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT 5 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-5-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT 5 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-neo-5-se-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT Neo 5 SE Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-neo-5-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT Neo 5 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-narzo-60-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme Narzo 60 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-narzo-60-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme Narzo 60 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-narzo-60x-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme Narzo 60x 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-narzo-n53-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme Narzo N53 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-narzo-n55-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme Narzo N55 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-note-50-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme Note 50 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-v30-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme V30 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boot-into-peace-five-tactics-to-overcome-windows-security-failures/"><u>Boot Into Peace: Five Tactics to Overcome Windows Security Failures</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-recording-guide-powerpoints-and-webcams-unite-for-2024/"><u>Easy Recording Guide  PowerPoints & Webcams Unite for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-the-onedrive-invalid-tag-error-in-windows-file-system/"><u>Eliminating the OneDrive Invalid Tag Error in Windows File System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-action-cameras-for-thrill-seekers/"><u>Elite Action Cameras for Thrill Seekers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/finding-the-sweet-spot-optimal-youtube-video-upload-rates-for-growth/"><u>Finding the Sweet Spot  Optimal YouTube Video Upload Rates for Growth</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-honor-magic-v2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Honor Magic V2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-razr-40-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-a2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi A2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exemplary-cloud-services-for-biz-needs/"><u>In 2024, Exemplary Cloud Services for Biz Needs</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo K11 5G FRP?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-innovative-apps-revolutionizing-video-talks/"><u>In 2024, Innovative Apps Revolutionizing Video Talks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/jumpstart-your-marketing-game-with-these-top-reddit-insights-for-2024/"><u>Jumpstart Your Marketing Game with These Top Reddit Insights for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-premium-waveform-transformer-quick-accurate-mp3-file-generation-from-aiff-and-more/"><u>New In 2024, Premium Waveform Transformer Quick, Accurate MP3 File Generation From AIFF & More</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-background-generator/"><u>New What Is AI Background Generator?</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-do-perfect-match-paint-100-the-easy-way/"><u>Updated In 2024, How to Do Perfect Match Paint 100 the Easy Way</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo V29 Pro? | Dr.fone</u></a></li>
+</ul></div>

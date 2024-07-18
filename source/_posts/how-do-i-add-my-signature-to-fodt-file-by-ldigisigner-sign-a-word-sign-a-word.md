@@ -1,7 +1,7 @@
 ---
 title: How do i add my signature to .fodt file
-date: 2024-03-10 13:59:31
-updated: 2024-03-12 22:30:15
+date: 2024-07-17T17:30:28.189Z
+updated: 2024-07-18T17:30:28.189Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How do i add my signature to .fodt file
 excerpt: This article describes How do i add my signature to .fodt file
 keywords: .uot file signature online,.ott file signature app,.wpt file signature,.dot file signature free,best sign .wpt file,.docx file signature app
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## 1. How do i add my signature to .fodt file
@@ -51,6 +51,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Word document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -63,6 +66,18 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -93,6 +108,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Word
 
 The ability to leave your signature in electronic format in Word documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -106,6 +124,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Word on Windows
 
 You can use the standard features of Microsoft Office Word to digitally sign a document. There are several options:
@@ -116,10 +137,16 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -128,6 +155,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -149,6 +179,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-word-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -159,3 +192,40 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cutting-edge-fb-video-toolkit-mp4-edition-available/"><u>[New] In 2024, Cutting-Edge FB Video Toolkit  MP4 Edition Available</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>[New] Leading Android & iOS Timer Tools Reviewed  Your Big Day Planner's Must-Haves</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-bitrecorder-analysis-with-other-solutions/"><u>[Updated] In 2024, BitRecorder Analysis with Other Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-adobes-photo-jiggle-decrease-enhancing-or-eliminating/"><u>2024 Approved  Adobe's Photo Jiggle Decrease  Enhancing or Eliminating?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-analyzing-the-income-generated-by-every-youtube-viewer/"><u>2024 Approved  Analyzing the Income Generated by Every YouTube Viewer</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-se-2020-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone SE (2020) without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/explore-12-prime-flip-screen-cameras-revolutionizing-vlogs-for-2024/"><u>Explore 12 Prime Flip Screen Cameras Revolutionizing Vlogs for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2016-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2016 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2019-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2019 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2019-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2019 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2021-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2021 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2021-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2021 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2023-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2023 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2023-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2023 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2000-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2000 Fix 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2000-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2000 Fix 2024 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2003-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2003 Fix 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2003-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2003 Fix 2024 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2007-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2007 Fix 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2007-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2007 Fix 2024 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2010-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2010 Fix 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2010-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2010 Fix 2024 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2013-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2013 Fix 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2013-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2013 Fix 2024 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2016-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2016 Fix 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/find-hidden-watch-tile-artwork-for-2024/"><u>Find Hidden Watch Tile Artwork for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-how-to-reverse-audio-with-best-audio-reversers/"><u>In 2024, How to Reverse Audio with Best Audio Reversers</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-pop-icon-vocal-modification-technology-tools-techniques-and-alternatives-for-a-new-sound/"><u>New Pop Icon Vocal Modification Technology Tools, Techniques and Alternatives for a New Sound</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-image-hoarders-destination-list-for-2024/"><u>Prime Image Hoarders' Destination List for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-encyclopedia-of-touch-based-gesture-analytics/"><u>The Encyclopedia of Touch-Based Gesture Analytics</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y78+ | Dr.fone</u></a></li>
+</ul></div>

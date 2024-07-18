@@ -1,7 +1,7 @@
 ---
 title: How to create a digital signature and certificate for Excel 2021 files
-date: 2024-03-10 12:50:32
-updated: 2024-03-12 18:27:13
+date: 2024-07-17T17:50:43.410Z
+updated: 2024-07-18T17:50:43.410Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,23 @@ categories:
 description: This article describes How to create a digital signature and certificate for Excel 2021 files
 excerpt: This article describes How to create a digital signature and certificate for Excel 2021 files
 keywords: excel signature free,.xlsx signature best,sign a .xlsx,.xlsx signer online,sign a excel,.xlsx signature service
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## 1. How to create a digital signature and certificate for Excel 2021 files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -53,12 +59,18 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -85,6 +97,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -130,12 +145,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,59 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-enhance-your-experience-with-mi-11-screen-capture-guide-for-2024/"><u>[New] Enhance Your Experience with Mi 11 Screen Capture Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-uniting-twitter-and-facebook-through-shared-content/"><u>[New] In 2024, Uniting Twitter and Facebook Through Shared Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-perfect-blueprint-recording-google-voice-calls/"><u>[New] The Perfect Blueprint  Recording Google Voice Calls</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-ultimate-collection-of-popular-tiktok-reactions-for-2024/"><u>[New] The Ultimate Collection of Popular TikTok Reactions for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-visionary-innovators-leading-brands-in-8k-photography-for-2024/"><u>[New] Visionary Innovators  Leading Brands in 8K Photography for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-broadcasting-to-the-big-screen-watching-fb-videos-on-tv-for-2024/"><u>[Updated] Broadcasting to the Big Screen  Watching FB Videos on TV for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-effective-methods-for-capturing-youtube-live-broadcasts-for-2024/"><u>[Updated] Effective Methods for Capturing YouTube Live Broadcasts for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-prime-desktopmobile-communication-alternatives-to-zoom/"><u>[Updated] Prime Desktop/Mobile Communication Alternatives to Zoom</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professionals-guide-to-iphoneandroiddslr-stabilized-gimbal-leaders/"><u>[Updated] Professional's Guide to iPhone/Android/DSLR Stabilized Gimbal Leaders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-sci-fi-virtual-voyages-the-most-immersive-movies-in-the-metaverse-space-for-2024/"><u>[Updated] Sci-Fi Virtual Voyages  The Most Immersive Movies in the Metaverse Space for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-creativity-adding-fonts-to-your-ae-workflow/"><u>2024 Approved  Unleashing Creativity  Adding Fonts to Your AE Workflow</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-windows-movie-maker-for-mac-the-best-equivalent-options-this-year/"><u>2024 Approved Windows Movie Maker for Mac The Best Equivalent Options This Year</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/anime-for-your-lifes-highlights-todays-most-captivating-streaming-channels-2023-new-for-2024/"><u>Anime for Your Life’s Highlights  Today's Most Captivating Streaming Channels [2023 New] for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-find-x6-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Find X6</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-g54-5g-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from G54 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-galaxy-a14-4g-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Galaxy A14 4G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-galaxy-s24plus-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Galaxy S24+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-k11x-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from K11x</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-magic-5-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Magic 5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-magic-6-pro-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Magic 6 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-nova-y71-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Nova Y71</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-nubia-z60-ultra-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Nubia Z60 Ultra</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-pixel-7a-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Pixel 7a</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-razr-40-ultra-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Razr 40 Ultra</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-redmi-12-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Redmi 12</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-redmi-note-12r-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Redmi Note 12R</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-spark-10-4g-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Spark 10 4G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-y200e-5g-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Y200e 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-y78-5g-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Y78 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-12-5g-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from 12 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-a05s-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from A05s</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-a60s-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from A60s</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-agni-2-5g-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Agni 2 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-c300-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from C300</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-camon-20-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Camon 20</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-edge-40-pro-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Edge 40 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-find-n3-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Find N3</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-find-x7-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Find X7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-galaxy-a15-5g-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Galaxy A15 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-galaxy-s24plus-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Galaxy S24+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-nord-n30-se-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Nord N30 SE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-note-30-vip-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Note 30 VIP</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-red-magic-9-proplus-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Red Magic 9 Pro+</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-k11-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo K11 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparative-analysis-of-best-win-driven-art-tools/"><u>In 2024, Comparative Analysis of Best Win-Driven Art Tools</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-tutorial-on-phantoms-reverse-recording/"><u>In 2024, The Ultimate Tutorial on Phantom's Reverse Recording</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/secure-seamless-youtube-watching-across-devices-and-browsers/"><u>Secure Seamless YouTube Watching Across Devices and Browsers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-poco-c50-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Poco C50 Users</u></a></li>
+</ul></div>

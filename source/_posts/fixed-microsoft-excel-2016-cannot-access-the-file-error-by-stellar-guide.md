@@ -1,6 +1,6 @@
 ---
 title: Fixed Microsoft Excel 2016 Cannot Access the File Error
-date: 2024-06-18T01:29:51.916Z
+date: 2024-07-17T17:16:58.562Z
 tags: 
   - repair
   - repair excel
@@ -16,6 +16,9 @@ keywords: repair .xltx,repair .xlsx,repair excel 2021,repair .xltm
 
 **Summary:** The “Microsoft Excel cannot access the file” error usually occurs when there is an issue with the Excel file you are trying to save. This post summarizes the causes behind the error and mentions some effective solutions to fix it. If you suspect the problem is encountered due to corruption in the Excel file, you can use the professional Excel repair tool mentioned in the post to repair the file.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 You may experience the “Microsoft Excel cannot access the file” error when saving the Excel file. This happens when the Excel application fails to read the file you are attempting to save. The error message indicates that there is an issue with the file name or its path. Sometimes, the error occurs if the file you are trying to access is already in use by another application. Some other reasons for the “Excel cannot access the file” error are:
@@ -26,10 +29,16 @@ You may experience the “Microsoft Excel cannot access the file” error when s
 - You do not have the required permissions to access the file.
 - The Excel file is not in a compatible format.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Methods to Fix “Microsoft Excel Cannot Access the File” Error**
 
 Sometimes, changing the file location can fix the “Microsoft Excel cannot access the file” error. You can try changing the file location, if the location is incorrect. If moving the file to a different location didn’t work, then try the below troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 1: Check the File Name and Path**
 
 You can get the “Microsoft Excel cannot access file” error if there is an issue with the file path – either the path does not exist or it is too lengthy, thus creating conflicts. Make sure the file path is correct. If the file name is too long, you can rename the file with a short name and also move the file to the parent folder instead of a subfolder. After that, remove the file from the **Recent** list that is created by Excel based on your recent activity. Follow the below steps:
@@ -38,6 +47,9 @@ You can get the “Microsoft Excel cannot access file” error if there is an is
 - In the **Recent list**, right-click on the affected Excel file.
 - Now, select **Remove from list**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Selecting the "remove from list" option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-remove-from-list.jpg)
 
 - Close the Excel application.
@@ -56,6 +68,9 @@ Sometimes, clearing the Microsoft Office cache can help eliminate the “Excel c
 
 - In the **OfficeFileCache** window, clear all the temporary files.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 3: Check and Update Microsoft Excel**
 
 You can try updating your Microsoft Excel application. The latest updates include bug fixes, security patches, and other improvements. Updating the application can help fix several issues that might be causing the error. Here are the steps to update Microsoft Excel:
@@ -64,6 +79,9 @@ You can try updating your Microsoft Excel application. The latest updates includ
 - Go to **File** and then select **Account.**
 - Under **Product information**, click **Update Options** and then click **Update Now**.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 4: Disable Protected View**
 
 You may get the “Microsoft Excel cannot access the file” error if the [Protected View](https://support.microsoft.com/en-au/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653) option is enabled. You can try disabling the Protected View settings in Excel. This allows you to open the file without any restrictions. However, disabling the protected view can put your system at high risk. To disable the Protected View in Microsoft Excel, follow the below steps:
@@ -94,6 +112,9 @@ You can get the “Excel cannot access the file” error if you don’t have suf
 - Open Windows Explorer.
 - Find the affected Excel file, right-click on it, and click **Properties**.  
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click Properties Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-properties-option.jpg)
 
 - In the **Properties** window, click the **Securities** option and click **Edit**.
@@ -124,6 +145,9 @@ Excel may fail to read the file if it is corrupted or damaged. If the error “E
 
 If the [Open and Repair utility fails to work](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), it indicates the Excel file is severely corrupted. Use Stellar Repair for Excel to repair severely corrupt Excel file. It helps recover all the components of the corrupted Excel file, such as charts, formulas, etc. without making any changes to the original file. It can also fix all types of corruption-related errors. You can use Stellar Repair for Excel to repair Excel files created in all Excel versions – from 2007 to 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Closure**
 
 The “Microsoft Excel cannot access the file” error can occur due to numerous reasons. Follow the troubleshooting methods, such as checking file location, path, permissions, etc., as discussed above to fix this error. Sometimes, Excel throws this error if the file you are trying to save is corrupted. You can try repairing the file using the built-in utility – Open and Repair. If the file is severely corrupted, then you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It can repair damaged Excel files (.xls, .xlsx, .xltm, .xltx, and .xlsm) with complete integrity.
@@ -147,3 +171,49 @@ The “Microsoft Excel cannot access the file” error can occur due to numerous
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://network-issues.techidaily.com/corrected-evolve-no-boot-directx-compatibility-issue/"><u>[CORRECTED] Evolve No Boot - DirectX Compatibility Issue</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-effortless-recordings-at-no-extra-cost-guide-to-top-free-tools/"><u>[New] 2024 Approved  Effortless Recordings at No Extra Cost – Guide to Top Free Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-10-cost-free-video-chat-apps-on-ios-and-android/"><u>[New] 2024 Approved  Top 10 Cost-Free Video Chat Apps on iOS & Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-leading-synthetic-ps3-games-for-pc-gamers/"><u>[New] In 2024, Leading Synthetic PS3 Games for PC Gamers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-youtube-end-screen-resources-enhance-video-impact-for-2024/"><u>[Updated] Free YouTube End Screen Resources - Enhance Video Impact for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-seeking-the-perfect-samsung-gear-360-replacement-our-list-of-2023s-best-cameras-for-2024/"><u>[Updated] Seeking the Perfect Samsung Gear 360 Replacement  Our List of 2023'S Best Cameras for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-direct-conversation-on-snapchat-follow-these-steps/"><u>[Updated] Unlocking Direct Conversation on Snapchat - Follow These Steps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-increase-igtv-views-strategic-use-of-hashtags/"><u>2024 Approved  Increase IGTV Views  Strategic Use of Hashtags</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-s18-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo S18 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-s18e-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo S18e Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-t2-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo T2 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-t2-pro-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo T2 Pro 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-t2x-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo T2x 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v27-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V27 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v27-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V27 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v27e-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V27e Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v29-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V29 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v29-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V29 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v29e-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V29e Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v30-lite-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V30 Lite 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v30-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V30 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-x-flip-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo X Flip Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-x-fold-2-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo X Fold 2 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-x100-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo X100 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-x100-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo X100 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-x90s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo X90S Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y02t-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y02T Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100a-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100A Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100i-power-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100i Power 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100i-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100i Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y100t-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y100t Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y17s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y17s Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y200-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y200 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y200e-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y200e 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y27-4g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y27 4G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y27-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y27 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y27s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y27s Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/more-than-just-likes-and-watch-time-the-complexity-of-youtubes-view-tally-for-2024/"><u>More than Just Likes and Watch Time  The Complexity of YouTube's View Tally for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-of-free-video-editors-without-watermarks-for-2024/"><u>New The Ultimate List of Free Video Editors Without Watermarks for 2024</u></a></li>
+</ul></div>

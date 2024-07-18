@@ -1,7 +1,7 @@
 ---
 title: Free electronic signature - For Excel 2000 files
-date: 2024-03-09 16:19:45
-updated: 2024-03-12 11:45:19
+date: 2024-07-17T17:20:14.620Z
+updated: 2024-07-18T17:20:14.620Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,23 @@ categories:
 description: This article describes Free electronic signature - For Excel 2000 files
 excerpt: This article describes Free electronic signature - For Excel 2000 files
 keywords: .xlsx signature software,excel signer online,excel signature,excel signature best,.xlsx signature best,.xlsx signature online
-thumbnail: https://www.lifewire.com/thmb/Qyfd5yWYmuBE75uyOeLeSQxzUMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-movies-on-hulu-right-now-5025149-3c80b5664f6541b4a0698333fc447251.jpg
+thumbnail: https://thmb.techidaily.com/42aa8d9afd78cc4e28f215cb4f97cf62596e277c3f338f8c86d6f5318d22c5f4.jpg
 ---
 
 ## 1. Free electronic signature - For Excel 2000 files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -53,12 +59,18 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -71,6 +83,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -79,6 +94,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -95,6 +113,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -136,6 +157,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -161,3 +185,52 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-the-seas-of-saving-facebook-gifs-on-various-tech-platforms/"><u>[New] 2024 Approved  Navigating the Seas of Saving Facebook GIFs on Various Tech Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unlocking-maximum-video-sizes-in-instagram-upload/"><u>[New] In 2024, Unlocking Maximum Video Sizes in Instagram Upload</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-exclusive-top-10-leading-fb-video-platforms/"><u>[Updated] 2024 Approved  Exclusive Top 10  Leading FB Video Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-achieve-inverted-movie-time-in-a-snap/"><u>[Updated] How to Achieve Inverted Movie Time in a Snap</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rint-for-creating-viral-trailers-in-the-world-of-youtube-for-2024/"><u>Blueprint for Creating Viral Trailers in the World of YouTube for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-for-sale-best-drones-to-buy/"><u>Drone for Sale - Best Drones to Buy</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-rtf-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .rtf file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-svd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .svd file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-txt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .txt file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-uot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .uot file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-wbk-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .wbk file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .wpd file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-wps-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .wps file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-wpt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For .wpt file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xlb files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xls-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xls files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xlsm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xlsm files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xlsx-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xlsx </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xlsx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xlsx files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xltm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xltm files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-xltx-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Free electronic signature - For .xltx files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2000-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2000</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2003-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2003</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2007-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2007</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2010-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2010</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2013-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2013</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2016-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2016</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2019-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2019</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2021-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2021</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2023-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2023</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-pdf-v17-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free electronic signature for PDF v1.7 document</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-pdf-v20-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free electronic signature for PDF v2.0 document</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-doc-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .doc file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-docm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .docm file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-docx-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .docx </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-docx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .docx file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-dot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for .dot file</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-flaws-to-feats-transformative-video-editing-on-mac-for-2024/"><u>From Flaws to Feats  Transformative Video Editing on Mac for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-suggestions-best-iphone-audio-innovators/"><u>In 2024, Leading Suggestions  Best iPhone Audio Innovators</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-beyond-adobe-4-best-premiere-rush-competitors-for-2024/"><u>New Beyond Adobe 4 Best Premiere Rush Competitors for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-an-intro-video-describing-you-and-your-content-is-the-first-and-the-foremost-thing-which-a-viewer-sees-thinking-of-how-to-make-an-interesting-in/"><u>New In 2024, An Intro Video Describing You and Your Content Is the First and the Foremost Thing Which a Viewer Sees. Thinking of How to Make an Interesting Intro Video, This Blog Is Surely a Supportive Guide for You. Learn More Here</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-voicetransformation-plus-a-comprehensive-introduction-for-iphone-users/"><u>New In 2024, VoiceTransformation Plus A Comprehensive Introduction for iPhone Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/polar-performances-ultimate-beijing-olympics-scoop-for-2024/"><u>Polar Performances  Ultimate Beijing Olympics Scoop for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-top-gaming-destinations-best-sites-to-download-pc-games/"><u>Updated 2024 Approved The Top Gaming Destinations Best Sites to Download PC Games</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to add a digital signature block to .dotx file
-date: 2024-07-03T17:53:30.173Z
-updated: 2024-07-04T17:53:30.173Z
+date: 2024-07-17T17:35:59.272Z
+updated: 2024-07-18T17:35:59.272Z
 tags: 
   - signer
   - signer online
@@ -63,26 +63,41 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -116,10 +131,16 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -128,6 +149,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -161,3 +185,60 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-your-youtube-trajectory-essential-tools-from-social-blade/"><u>[New] 2024 Approved  Charting Your YouTube Trajectory  Essential Tools From Social Blade</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-save-funny-tweet-graphics-gifs-in-minutes/"><u>[New] 2024 Approved  How To Save Funny Tweet Graphics (GIFs) in Minutes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-perfect-the-last-push-on-your-vimeo-videos-for-2024/"><u>[New] Strategies to Perfect the Last Push on Your Vimeo Videos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-your-capture-game-advanced-techniques-revealed-for-2024/"><u>[Updated] Elevate Your Capture Game  Advanced Techniques Revealed for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-artisans-approach-to-crafting-compelling-tiktok-videos-for-2024/"><u>[Updated] The Artisan's Approach to Crafting Compelling TikTok Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unveiling-facebook-3-tactics-for-backward-image-scanning/"><u>2024 Approved  Unveiling Facebook  3 Tactics for Backward Image Scanning</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-s-top-rated-free-avi-video-rotation-software-revealed/"><u>2024 Approved S Top-Rated Free AVI Video Rotation Software Revealed</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-s17-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-12-proplus-5g-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Redmi Note 12 Pro+ 5G has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-12r-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Redmi Note 12R has native MKV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-12t-pro-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 12T Pro has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-12t-pro-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Redmi Note 12T Pro support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 13 5G has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-pro-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 13 Pro 5G has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-pro-5g-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Redmi Note 13 Pro 5G has native MKV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-proplus-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 13 Pro+ 5G has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-proplus-5g-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Redmi Note 13 Pro+ 5G has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a05-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy A05 has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a05-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A05 support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a05s-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy A05s has native MKV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a05s-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A05s has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a05s-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy A05s support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a05s-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A05s support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a14-4g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A14 4G support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a15-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A15 5G support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a15-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy A15 5G support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a15-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A15 5G support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a24-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A24 support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a25-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy A25 5G has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a25-5g-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A25 5G has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a25-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy A25 5G support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a25-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A25 5G support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a34-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy A34 5G support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a34-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A34 5G support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f14-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy F14 5G has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f14-5g-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy F14 5G has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f14-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy F14 5G support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f14-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy F14 5G support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f54-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy F54 5G has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f54-5g-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy F54 5G has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-f54-5g-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy F54 5G support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-m34-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung Galaxy M34 5G has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-m34-5g-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Samsung Galaxy M34 5G has native MKV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-m34-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Samsung Galaxy M34 5G support AVCHD video?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-6s-plus-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot iPhone 6s Plus Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-infinix-note-30-vip-racing-edition-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Infinix Note 30 VIP Racing Edition in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-vivo-s18-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Vivo S18 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incredible-drone-photoshoot-contenders-10-for-2024/"><u>Incredible Drone Photoshoot Contenders #10 for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-lava-blaze-2-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Lava Blaze 2 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-identifying-the-highest-rated-8-vocal-transcription-systems-available-on-pcs-and-macs-for-2024/"><u>New Identifying the Highest Rated 8 Vocal Transcription Systems Available on PCs & MACs for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-learn-how-to-make-interactive-and-fun-video-collages-using-kapwing-collage-maker-an-easy-to-use-tool-for-all-your-collage-making-needs/"><u>New Learn How to Make Interactive and Fun Video Collages Using Kapwing Collage Maker, an Easy-to-Use Tool for All Your Collage-Making Needs</u></a></li>
+</ul></div>

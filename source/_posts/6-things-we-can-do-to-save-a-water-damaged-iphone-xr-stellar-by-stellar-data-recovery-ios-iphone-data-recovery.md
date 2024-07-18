@@ -1,7 +1,7 @@
 ---
 title: 6 Things We Can Do To Save A Water Damaged iPhone XR | Stellar
-date: 2024-05-19T17:46:57.873Z
-updated: 2024-05-20T17:46:57.873Z
+date: 2024-07-17T15:51:52.867Z
+updated: 2024-07-18T15:51:52.867Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -10,7 +10,7 @@ categories:
 description: This article describes 6 Things We Can Do To Save A Water Damaged iPhone XR
 excerpt: This article describes 6 Things We Can Do To Save A Water Damaged iPhone XR
 keywords: recover iPhone XR data without backup,recover iPhone data after backup,recover iPhone data after screen damage,recover iPhone XR data after restore without backup,recover iPhone data after jailbreak,recover iPhone XR data after water damage,recover iPhone data without backup,recover lost data from iPhone XR
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## 6 Things We Can Do To Save A Water Damaged iPhone
@@ -60,6 +60,9 @@ Most iPhones offer certain level of water resistance, but it doesn’t mean an i
 
 Your iPhone will turn off automatically after being dropped in water. However, you should manually turn it off if it doesn’t turn off. Turn your phone on only if you are sure water or moisture content from the exterior and interior is completely dry. Turning on the water-damaged iPhone might cause water to reach inside the device, causing it to malfunction.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **2\. Plug it in or Use the Charging Port in Any Way**
 
 Moreover, don’t charge your iPhone battery as it can result in an electrical short circuit or even combustion, resulting in a fire. No matter how water resistant the iPhone is, it’s better to not plug it in when wet or water-damaged.
@@ -68,6 +71,9 @@ Moreover, don’t charge your iPhone battery as it can result in an electrical s
 
 Blow-drying your iPhone with hot air can damage your device further. Hot air may heat your iPhone to an unbearable degree, making it unsuitable for device hardware. Also, avoid using a space heater or furnace sidewall exhaust to dry your iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Steps You Can Take to Potentially Save Your Water-Damaged iPhone**
 
 If you drop your iPhone in water, the following methods can save your iPhone from potential damage.
@@ -76,10 +82,25 @@ If you drop your iPhone in water, the following methods can save your iPhone fro
 
 Remove your iPhone from the water right away. Once retrieved, turn it off immediately. If there is any iPhone cover and screen guard to protect your phone, remove them as they might hold moisture. Use a paper towel or cotton cloth to wipe the iPhone’s exterior.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **2\. Evacuate the SIM card**
 
 After drying the iPhone’s exterior, remove the SIM card tray, if not using an e-SIM. Although SIM cards have a watertight seal, getting them out helps. Use a paper towel to dry the SIM card and the tray.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **3\. Dry your iPhone**
 
 While Apple recommends simply wiping the iPhone dry or tapping excess water out of the ports, we recommend the below-mentioned ways to ensure your iPhone is as dry as possible.
@@ -110,14 +131,23 @@ _**Caution**: We wouldn’t recommend dismantling the iPhone using DIY tips as i
 
 Dismantle your iPhone carefully, air dry its interior, and assemble it back after a few hours. Also, if the Liquid Contact Indicators inside the iPhone have already detected water damage, opening the phone invalidates your warranty coverage.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **5.** **Check if your warranty is still valid**
 
 If all the above efforts fail to fix the iPhone from water damage, you must check if the device’s warranty is still valid. If it is, call your manufacturer and request a repair or replacement. If it is invalid, visit an Apple Genius bar to repair your cell phone.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **6\.** **Take the phone to an approved repair shop**
 
 The longer you wait to take your iPhone to an Apple Genius bar, the more damage it incurs. If you cannot dry the wet iPhone by following the manual methods mentioned above, rush to an Apple Genius bar to get it repaired and minimize the chances of further damage.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How To Find Out If Your iPhone Has Water Damage?**
 
 Liquid Contact Indicator, or LCI, is the new way to determine whether or not your iPhone is exposed to water damage. An LCI is generally of white or silver color; however, when it comes in contact with water or other liquid, it turns red.
@@ -126,12 +156,18 @@ See the table to learn where the indicators are planted in your respective iPhon
 
 ![LCI planted on various iPhone models](https://www.stellarinfo.com/image/article/upload/65a73c4da141f_Save-A-Water-Damaged-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **How To Recover Data From Water-Damaged iPhone?**
 
 Once you have powered on your water-damaged iPhone after drying, it is possible to recover data from it. There are two ways to recover lost data from water-damaged iPhones: backup services or professional [iPhone data recovery software](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/).
 
 Let’s see various scenarios where you can recover data from a water-damaged iPhone:
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **iPhone won’t turn on**
 
 If your iPhone won’t turn on even after drying the wet iPhone using the tips mentioned above, it has short-circuited or water has eroded some of its internal components. In such a situation, use any backup service to recover your iPhone data.
@@ -144,6 +180,9 @@ If you turn your iPhone back on again, but its data is lost, try setting up your
 
 The software supports recovery in all data loss scenarios like water-damaged devices, accidental deletion, failed iOS updates, iPhone stuck in recovery mode, etc. This iPhone recovery software is compatible with all variants of iPad and iPhone, including the series of iPhone 15/14/13/12/11 and below.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Conclusion**
 
 We hope you fix the water-damaged iPhone after following the above suggestion. However, it would be best if you were extra careful to protect your iPhone from any type of water damage. Here are some best practices you must follow:
@@ -256,3 +295,50 @@ Not only the tool provides the benefit to recover data from iPhone device, but y
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-refine-your-iphone-hdri-expert-tips-for-clearer-results-in-premiere-pro/"><u>[New] Refine Your iPhone HDRI  Expert Tips for Clearer Results in Premiere Pro</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-verdict-on-actives-place-among-best-recorders/"><u>[New] The Verdict on Active's Place Among Best Recorders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-efficient-screen-capture-strategies-for-effective-facetime-recording/"><u>[Updated] 2024 Approved  Efficient Screen-Capture Strategies for Effective FaceTime Recording</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-boost-professional-look-adding-borders-to-instagram-content/"><u>[Updated] In 2024, Boost Professional Look  Adding Borders to Instagram Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gain-command-over-youtubes-video-playback-speed/"><u>[Updated] In 2024, Gain Command Over YouTube's Video Playback Speed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-ultimate-social-media-companion-discover-top-7-tiktok-charms-plus-hidden-symbols/"><u>[Updated] In 2024, The Ultimate Social Media Companion – Discover Top 7 TikTok Charms + Hidden Symbols</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-powerpoint-pro-tips-seamlessly-add-vimeo-videos-and-multimedia-for-2024/"><u>[Updated] PowerPoint Pro Tips  Seamlessly Add Vimeo Videos and Multimedia for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-unintended-tiktok-rewind-what-now/"><u>[Updated] Unintended TikTok Rewind – What Now?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-camera-roundup-top-picks-for-superior-videography/"><u>2024 Approved  Camera Roundup  Top Picks for Superior Videography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-free-youtube-intros-a-comprehensive-instructional-guide/"><u>2024 Approved  Free YouTube Intros  A Comprehensive Instructional Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-action-mic-choices-for-clear-videos/"><u>2024 Approved  Prime Action Mic Choices for Clear Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-synchronized-screenshots-pc-or-cloud-perfection/"><u>2024 Approved  Synchronized Screenshots  PC or Cloud Perfection</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ringtone-choices-essential-downloads-guide/"><u>2024 Approved  Top Ringtone Choices  Essential Downloads Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-revamping-your-soundtrack-check-out-the-best-audio-normalizers-for-windows-users/"><u>2024 Approved Revamping Your Soundtrack? Check Out the Best Audio Normalizers for Windows Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-note-30-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Note 30 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-note-30i-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Note 30i Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-7-hd-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 7 HD Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-7-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 7 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-8-hd-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 8 HD Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-8-plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 8 Plus Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-8-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 8 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-8-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 8 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-zero-30-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Zero 30 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-zero-5g-2023-turbo-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Zero 5G 2023 Turbo Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-a05s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel A05s Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-a60-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel A60 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-a60s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel A60s Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-a70-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel A70 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-p40-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel P40 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-p40plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel P40+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-p55-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel P55 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-p55-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel P55 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-p55plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel P55+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-p55t-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel P55T Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-s23-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel S23 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-s23plus-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel S23+ Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-lava-agni-2-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Lava Agni 2 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-lava-blaze-2-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Lava Blaze 2 5G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-alchemy-unveiling-the-best-edits/"><u>Digital Alchemy  Unveiling the Best Edits</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/master-the-art-of-iphone-7-screen-capture/"><u>Master the Art of iPhone 7 Screen Capture</u></a></li>
+<li><a href="https://facebook.techidaily.com/which-networks-groups-suit-you-best-facebook-or-linkedin/"><u>Which Network's Groups Suit You Best? Facebook or LinkedIn</u></a></li>
+</ul></div>

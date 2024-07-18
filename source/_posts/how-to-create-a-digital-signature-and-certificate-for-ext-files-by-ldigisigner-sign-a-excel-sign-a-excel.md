@@ -1,7 +1,7 @@
 ---
 title: How to create a digital signature and certificate for {{ext}} files
-date: 2024-03-10 16:20:52
-updated: 2024-03-12 22:43:45
+date: 2024-07-17T17:50:45.798Z
+updated: 2024-07-18T17:50:45.798Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to create a digital signature and certificate for {{ext}} files
 excerpt: This article describes How to create a digital signature and certificate for {{ext}} files
 keywords: .xlsx signature online,best sign excel,.xlsx signer online,excel signature tool,excel signature online
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## 1. How to create a digital signature and certificate for {{ext}} files
@@ -23,6 +23,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -53,18 +56,27 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -85,6 +97,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -95,6 +110,9 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -136,6 +154,9 @@ You can also use a signature line in Excel to insert a signature with properties
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,40 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-prime-video-titans-the-tweeted-and-tested-binge-masters/"><u>[New] In 2024, Prime Video Titans  The #Tweeted and Tested Binge Masters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715838825457-updated-top-6-minecraft-house-ideas-for-beginners/"><u>[Updated] Top 6 Minecraft House Ideas [for Beginners]</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acclaimed-top-5-effortless-action-camcorders-for-2024/"><u>Acclaimed Top 5 Effortless Action Camcorders for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-google-pixel-7a-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Google Pixel 7a</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-google-pixel-fold-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Google Pixel Fold</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-100-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor 100</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-90-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor 90</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-magic-6-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor Magic 6</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-magic-vs-2-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor Magic Vs 2</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-magic5-ultimate-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-play-40c-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor Play 40C</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-x50i-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor X50i</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-x50iplus-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor X50i+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-honor-x7b-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Honor X7b</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-htc-u23-by-drfone-android-unlock-android-unlock/"><u>Device unlock  HTC U23</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-huawei-nova-y71-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Huawei Nova Y71</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-hot-30i-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Infinix Hot 30i</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-hot-40-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Infinix Hot 40</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-hot-40-pro-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-smart-7-hd-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Infinix Smart 7 HD</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-smart-8-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Infinix Smart 8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-infinix-smart-8-hd-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Infinix Smart 8 HD</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-itel-a60-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Itel A60</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-high-resolution-with-lgs-digital-cinema-31mu97-b/"><u>Exploring High-Resolution with LG's Digital Cinema 31MU97-B</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-put-a-background-on-a-green-screen-for-2024/"><u>How to Put a Background on A Green Screen for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/how-to-record-podcast-remotely/"><u>How to Record Podcast Remotely</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-tecno-spark-20-proplus-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Tecno Spark 20 Pro+ to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-gt-neo-5-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Realme GT Neo 5</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-videos-on-your-mac-with-avs-editor/"><u>In 2024, Edit Videos on Your Mac with AVS Editor</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-from-basics-to-pro-mastering-motion-blur-in-final-cut-pro/"><u>Updated From Basics to Pro Mastering Motion Blur in Final Cut Pro</u></a></li>
+</ul></div>

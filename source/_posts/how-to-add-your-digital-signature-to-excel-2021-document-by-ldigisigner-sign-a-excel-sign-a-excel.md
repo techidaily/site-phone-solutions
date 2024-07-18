@@ -1,7 +1,7 @@
 ---
 title: How to add your digital signature to Excel 2021 document
-date: 2024-03-09 13:10:22
-updated: 2024-03-12 18:49:32
+date: 2024-07-17T17:39:15.315Z
+updated: 2024-07-18T17:39:15.315Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to add your digital signature to Excel 2021 document
 excerpt: This article describes How to add your digital signature to Excel 2021 document
 keywords: .xlsx signature app,.xlsx signature free,free sign .xlsx,excel signature app,excel signature service
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## 1. How to add your digital signature to Excel 2021 document
@@ -39,6 +39,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -49,6 +52,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -65,6 +71,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -75,10 +84,16 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -122,6 +137,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -130,6 +148,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,51 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-discover-the-best-4k-capture-software-for-live-recording/"><u>[New] 2024 Approved  Discover the Best 4K Capture Software for Live Recording</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-innovative-approaches-to-tiktok-lives-from-desktop-devices/"><u>[New] 2024 Approved  Innovative Approaches to TikTok Lives From Desktop Devices</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-the-elite-10-secrets-for-tiktok-sensations/"><u>[New] In 2024, The Elite 10  Secrets for TikTok Sensations</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-dual-method-approach-for-instagram-reel-downloads/"><u>[Updated] In 2024, A Dual Method Approach for Instagram Reel Downloads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-concurrent-capture-masterclass-webcam-and-desktop/"><u>[Updated] In 2024, Concurrent Capture Masterclass  Webcam & Desktop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-youtube-video-to-text-conversion-at-no-cost/"><u>[Updated] In 2024, Effortless YouTube Video to Text Conversion at No Cost</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-video-size-mastery-on-mac-the-instagram-automation-way/"><u>[Updated] In 2024, Video Size Mastery on Mac  The Instagram Automation Way</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-innovative-social-networking-sites-that-challenge-tiktoks-dominance/"><u>2024 Approved  Innovative Social Networking Sites That Challenge TikTok's Dominance</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-optimal-mobile-tech-for-discord-recording/"><u>2024 Approved  Optimal Mobile Tech for Discord Recording</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unveiling-8-premium-linux-tools-for-efficient-snaps/"><u>2024 Approved  Unveiling 8 Premium Linux Tools for Efficient Snaps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-11-pro-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 11 Pro activation lock using official methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-11-pro-max-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 11 Pro Max activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-11-pro-max-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 11 Pro Max activation lock without previous owner</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-12-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 12 activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-12-mini-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 12 mini activation lock using official methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-12-mini-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 12 mini activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-12-pro-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 12 Pro activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-12-pro-activation-lock-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 12 Pro activation lock without Apple ID</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-12-pro-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 12 Pro activation lock without previous owner</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-12-pro-max-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 12 Pro Max activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-activation-lock-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 activation lock without Apple ID</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-mini-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 mini activation lock using official methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-mini-activation-lock-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 mini activation lock without Apple ID</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-mini-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 mini activation lock without previous owner</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-pro-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 Pro activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-pro-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 Pro activation lock without previous owner</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-pro-max-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 Pro Max activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-pro-max-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 Pro Max activation lock without previous owner</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-plus-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 Plus activation lock using official methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-pro-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 Pro activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-pro-max-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 Pro Max activation lock with a professional tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-14-pro-max-activation-lock-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 14 Pro Max activation lock without Apple ID</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-activation-lock-without-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 activation lock without Apple ID</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-activation-lock-without-previous-owner-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 activation lock without previous owner</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-15-plus-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 15 Plus activation lock using official methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-pova-5-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Pova 5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-itel-p40-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Itel P40 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-noise-free-audiovisual-links/"><u>Navigating Noise-Free Audiovisual Links</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/propel-participation-through-unique-custom-story-queries-for-2024/"><u>Propel Participation Through Unique, Custom Story Queries for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-2-solutions-to-cut-video-in-vlc-on-windows/"><u>Updated In 2024, 2 Solutions to Cut Video in VLC on Windows</u></a></li>
+</ul></div>

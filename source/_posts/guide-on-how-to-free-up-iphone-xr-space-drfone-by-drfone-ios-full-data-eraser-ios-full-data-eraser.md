@@ -1,7 +1,7 @@
 ---
 title: Guide on How To Free Up iPhone XR Space | Dr.fone
-date: 2024-06-18T01:30:56.785Z
-updated: 2024-06-19T01:30:56.785Z
+date: 2024-07-17T17:26:02.170Z
+updated: 2024-07-18T17:26:02.170Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -33,6 +33,9 @@ Access the Data Eraser tool after launching Wondershare Dr.Fone on your computer
 
 From the available options on the left panel, select the **Free Up Space** section.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![choose free up space](https://images.wondershare.com/drfone/guide/ios-optimizer-1.png)
 
 - **Step 2** Select Junk Files to Delete
@@ -65,8 +68,14 @@ From the **Free Up Space** section, select **Erase Large Files** option to conti
 
 Locate the drop-down menu from the top and select the available options of file formats. Set a limit on the size with the option available on the top. This will filter out the specific files that are fulfilling both metrics. Select the data displayed on the screen and click **Export** if you wish to save it on your computer. To erase it from your iDevice, click **Delete** to execute the process.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filter and delete files](https://images.wondershare.com/drfone/guide/erase-large-file-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Compress Or Export Photos
 
 - **Step 1** Access Organizing Photos Tool
@@ -75,18 +84,27 @@ You need to select the **Organize Photos** option from the **Free Up Space** sec
 
 On clicking **Start**, the lossless compression process automatically starts.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open photo organizer](https://images.wondershare.com/drfone/guide/ios-space-saver-1.png)
 
 - **Step 2** Select Images to Compress From Gallery
 
 On the next screen, select the images that you wish to compress within the device without losing their quality. Before selection, you can select a date, and continue with the selection of your images. Keep a check on the quantitative analysis of free space provided by the platform on the top. Once done, click the **Start** button on the bottom-right of the screen to initiate the process.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select photos to delete](https://images.wondershare.com/drfone/guide/ios-space-saver-4.png)
 
 - **Step 3** Choose Pictures to Export and Delete
 
 If not enough space has been freed up on your iOS device, you can export photos to your PC and delete them from your iOS device. Click **"Export"** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select photos to delete](https://images.wondershare.com/drfone/guide/ios-space-saver-1.png)
 
 Photos of different dates are displayed on the screen after the scanning. Then select a date, select some or all of the photos, and click **"Start"**.
@@ -101,6 +119,9 @@ Set the path to save all the exported pictures and click **Export** to execute t
 
 ![set export location and delete](https://images.wondershare.com/drfone/guide/ios-space-saver-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How To Erase Private Data From iPhone XR Device?
 
 The Erase Private Data function for iOS can help you wipe personal data, such as contacts, messages, call history, photos, notes, calendars, Safari bookmarks, reminders, etc. Moreover, you can also select only the deleted data for permanent erasure. Everything is completely erased and won't be recovered again.
@@ -131,6 +152,9 @@ Checkmark all data types that you wish to erase from the iPhone and continue to 
 
 The screen then continues to analyze and scan all the data that is to be erased from the iPhone XR.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![assess and analyze data to erase](https://images.wondershare.com/drfone/guide/ios-private-erase-03.png)
 
 Once done, you can preview the data on the screen in your front and navigate through the categories from the left panel.
@@ -139,12 +163,27 @@ Once done, you can preview the data on the screen in your front and navigate thr
 
 If you wish to preview specific content, select the drop-down on the top and select either option of **Select all** or **Only Show the deleted.** Continue to select the **Erase** button on the bottom-right of the screen to initiate the process.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select viewing options](https://images.wondershare.com/drfone/guide/ios-private-erase-03-2.png)
 
 - **Step 5** Confirm and Erase
 
 To confirm the operation, you will have to type in the confirmation code, select the respective **Security Level**, and continue to select the **Erase Now** button.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm data erase](https://images.wondershare.com/drfone/guide/ios-private-erase-04.png)
 
 - **Step 6** Conclude the Data Erasing Process
@@ -169,6 +208,9 @@ Device data is ceremonially essential, leading to the need for protection from a
 
 Initiate the process by launching Wondershare Dr.Fone on your computer and continue to connect your iOS device to the computer through a cabled connection. Select **Data Eraser** from the home page to erase data.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 _The Dr.Fone Mac version still has the old interface, but it does not affect the use of the Dr.Fone function. We will update it as soon as possible._
@@ -183,12 +225,18 @@ As the platform shows a successful connection of the iPhone XR with the computer
 
 While you continue to the next screen, you will first have to select the **Security Level.** Dr.Fone - Data Eraser offers three different levels. The higher the security level, the lower the possibility your data can be recovered. Meanwhile, a higher security level takes a long time to erase.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![define the security level](https://images.wondershare.com/drfone/guide/ios-full-erase-01-1.png)
 
 - **Step 4** Execute Erasing Process
 
 Since the erased data can't be recovered, you need to be careful and enter "000000" to confirm your operation.When you're ready, click **Erase Now** to begin the process of erasing your iOS device completely.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![provide code confirmation](https://images.wondershare.com/drfone/guide/ios-full-erase-03.png)
 
 - **Step 5** View Progress
@@ -201,6 +249,9 @@ The following window shows the ongoing process, enabling you to verify the type 
 
 Once the process completes, it will prompt them to reboot the device to apply all changes. Click **OK** to restart your iDevice automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![conclude and restart iPhone XR](https://images.wondershare.com/drfone/guide/ios-full-erase-04-1.png)
 
 - **Step 7** View Erasure Report
@@ -217,6 +268,9 @@ As you find yourselves in the folder, open the report to view the details.
 
 The report will display the details of the connected iDevice, followed by the data that is erased through the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![check report details](https://images.wondershare.com/drfone/guide/ios-full-erase-07.png)
 
 
@@ -234,3 +288,45 @@ The report will display the details of the connected iDevice, followed by the da
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-behind-the-scenes-top-7-tiktok-charms-and-their-mysterious-counterparts-for-2024/"><u>[New] Behind the Scenes  Top 7 TikTok Charms and Their Mysterious Counterparts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-guide-freepaid-screen-recorders-for-meet-video/"><u>[New] Ultimate Guide  Free/Paid Screen Recorders for Meet Video</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-the-new-face-of-sony-updates-to-s6500-blu-rayhd-player/"><u>2024 Approved  The New Face of Sony  Updates to S6500 Blu-Ray/HD Player</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/s-short-videos-anywhere-the-top-6-free-and-online-youtube-short-download-apps/"><u>Access Short Videos Anywhere  The Top 6 Free & Online YouTube Short Download Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-unique-photos-with-ps-distortions-for-2024/"><u>Crafting Unique Photos with PS Distortions for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-motorola-edgeplus-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Motorola Edge+ (2023)?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-motorola-g54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Motorola G54 5G? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-motorola-moto-g-5g-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Motorola Moto G 5G (2023)? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-motorola-moto-g04-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Motorola Moto G04? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-motorola-moto-g14-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Motorola Moto G14?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-nova-y91-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Nova Y91? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-razr-40-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Razr 40 Ultra? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-razr-40-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Razr 40?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-redmi-a2-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Redmi A2? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-redmi-k70-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Redmi K70?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-redmi-note-13-pro-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Redmi Note 13 Pro 5G? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy A15 4G?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-f54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy F54 5G? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy S23+? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy S24?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-samsung-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Samsung Galaxy Z Fold 5?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Sony ? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-sony-xperia-10-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Sony Xperia 10 V?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-u23-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for U23 Pro?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi ? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-14-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi 14 Pro? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi 12 5G? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-13c-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi 13C? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi K70? </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-note-12-pro-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi Note 12 Pro 5G?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Xiaomi Redmi Note 13 5G?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-seamless-integration-of-snap-camera-for-enhanced-online-participation/"><u>In 2024, Seamless Integration of Snap Camera for Enhanced Online Participation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unboxing-the-secrets-of-successful-youtubers-like-ajey/"><u>In 2024, Unboxing the Secrets of Successful YouTubers Like Ajey</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-7-watermark-free-video-combiners/"><u>New In 2024, Top 7 Watermark-Free Video Combiners</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Play 7T | Dr.fone</u></a></li>
+</ul></div>

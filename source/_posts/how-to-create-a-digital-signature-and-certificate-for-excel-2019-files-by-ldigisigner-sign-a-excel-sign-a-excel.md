@@ -1,7 +1,7 @@
 ---
 title: How to create a digital signature and certificate for Excel 2019 files
-date: 2024-03-09 16:20:18
-updated: 2024-03-12 18:37:24
+date: 2024-07-17T17:50:42.140Z
+updated: 2024-07-18T17:50:42.140Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,23 @@ categories:
 description: This article describes How to create a digital signature and certificate for Excel 2019 files
 excerpt: This article describes How to create a digital signature and certificate for Excel 2019 files
 keywords: .xlsx signature online,excel signer online,excel signature tool
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## 1. How to create a digital signature and certificate for Excel 2019 files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -65,6 +71,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -75,10 +84,16 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -108,6 +123,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -118,6 +136,14 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
@@ -130,6 +156,9 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
@@ -161,3 +190,67 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-getting-started-audacitys-guide-to-microphone-use-on-mac/"><u>[New] Getting Started  Audacity's Guide to Microphone Use on Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-windows-10-ultimate-screen-capture-tool-for-2024/"><u>[New] Windows 10  Ultimate Screen Capture Tool for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-5-reddit-marketing-tips-that-will-turn-beginners-into-experts/"><u>[Updated] 5 Reddit Marketing Tips that Will Turn Beginners Into Experts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-best-practices-for-mobile-snapchat-recording-techniques-for-2024/"><u>[Updated] Best Practices for Mobile Snapchat Recording Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-busting-the-top-10-vloggers-fears-strategies-for-success/"><u>[Updated] In 2024, Busting the Top 10 Vloggers' Fears  Strategies for Success</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-effortless-mp4-conversion-from-facebook-hd-content-all-for-free/"><u>[Updated] In 2024, Effortless MP4 Conversion From Facebook HD Content – All For Free</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-sparkle-with-screenshots-vlogging-for-value-creation/"><u>[Updated] In 2024, Sparkle with Screenshots  Vlogging for Value Creation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-video-recorder-on-xiaomis-latest-megaphone/"><u>[Updated] In 2024, The Ultimate Video Recorder on Xiaomi's Latest MegaPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-precision-camera-mount-for-optimal-field-recordings/"><u>[Updated] Precision Camera Mount for Optimal Field Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-precision-techniques-the-most-essential-8-tools-for-microphone-and-speaker-recording-for-2024/"><u>[Updated] Precision Techniques  The Most Essential 8 Tools for Microphone & Speaker Recording for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-chatter-on-the-hottest-tiktoks-for-2024/"><u>[Updated] Twitter Chatter on the Hottest TikToks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-video-editing-turn-your-avis-into-stylish-shareable-gifs-with-filmora/"><u>2024 Approved  Master Video Editing  Turn Your AVIs Into Stylish, Shareable GIFs with Filmora</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlined-techniques-for-ios-image-sharing/"><u>2024 Approved  Streamlined Techniques for iOS Image Sharing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-asus-rog-phone-8-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Asus ROG Phone 8 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-outstanding-color-grading-top-11-for-2024/"><u>A Step-by-Step Guide to Outstanding Color Grading (Top 11) for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/beginners-journey-into-podcasting-making-sounds-count-using-audacity/"><u>Beginners Journey Into Podcasting Making Sounds Count Using Audacity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-y77t-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Y77t</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-zte-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on ZTE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-zte-axon-40-lite-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-zte-blade-a73-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on ZTE Blade A73 5G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-8-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 8 with a Broken Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/copy-trades-of-equal-lot-size-for-all-accounts-by-mt4copier-guide/"><u>Copy Trades of Equal Lot Size for All Accounts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2000-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2000 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2000-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2000 - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2003-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2003 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2003-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2003 - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2007-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2007 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2007-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2007 - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2010-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2010 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2010-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2010 - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2013-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2013 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2013-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2013 - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2016-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2016 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2016-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2016 - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2019-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2019 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2019-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2019 - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2021-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2021 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2021-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2021 - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2023-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2023 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2023-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2023 - How to get it back | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-100-pro-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from 100 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-13t-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from 13T</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-13t-pro-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from 13T Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-blaze-2-5g-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Blaze 2 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-edge-40-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Edge 40</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-crt-artifacts-on-desktop/"><u>Eradicate CRT Artifacts on Desktop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-backdrops-for-sustainable-cinema-for-2024/"><u>Free Backdrops for Sustainable Cinema for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/futurecamerasbeyondmycam/"><u>FutureCamerasBeyondMyCam</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Oppo Photos  An Easy Method Explained.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-how-to-add-audio-to-video-3-creative-ways/"><u>New 2024 Approved How to Add Audio to Video 3 Creative Ways</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-simple-way-to-adjust-video-ratio-for-any-screen/"><u>New In 2024, The Simple Way to Adjust Video Ratio for Any Screen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pioneering-vlogging-tech-our-ranking-of-top-12-video-cameras/"><u>Pioneering Vlogging Tech  Our Ranking of Top 12 Video Cameras</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ps5xbox-gaming-monitors-the-5-most-exciting-choices/"><u>PS5/Xbox Gaming Monitors  The 5 Most Exciting Choices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-the-code-to-content-creator-commerce-with-carminati-ajay-for-2024/"><u>Unlocking the Code to Content Creator Commerce with Carminati (AJay) for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-best-audio-capture-solutions-that-are-changing-podcasters-lives-for-2024/"><u>Updated The Best Audio Capture Solutions That Are Changing Podcasters Lives for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/warriors-pantheon-valhalla-rebirth/"><u>Warriors' Pantheon  Valhalla Rebirth</u></a></li>
+</ul></div>

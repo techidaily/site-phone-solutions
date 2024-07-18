@@ -1,6 +1,6 @@
 ---
 title: How to Copy Trades of Equal Lot Size for All Accounts
-date: 2024-02-23 18:51:19
+date: 2024-07-17T17:50:26.028Z
 tags: 
   - mt5
   - mt4
@@ -58,6 +58,9 @@ Now, you might be thinking, “This sounds great, but is it complicated to set u
 
 In this video, Rimantas explains how to make every MT4 & MT5 Client account use the same lot size as the Main account with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ for MT4 & MT5. It is an easy way to copy trades of equal lot size for all Metatrader accounts.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Share Your Winning Forex Trades With Friends and Family
 
 If you are a successful forex trader, you may want to share your winning trades with friends and family. This can be a great way to help them learn about forex trading and potentially make some money. There are a few different ways you can share your trades with others, so let’s take a look at some of the most popular options.
@@ -76,6 +79,9 @@ The [trade copier](https://tools.techidaily.com/mt4copier/), a tool often used i
 Overall, the [Local Trade Copier](https://tools.techidaily.com/mt4copier/) can democratize access to trading strategies, allow for shared learning experiences, and potentially increase the profitability for all involved parties through shared knowledge and resources.
 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Copy Your Forex and Gold Trades From MT4 to MT5 in One Click
 
 If you are a Forex trader who uses MetaTrader 4 and MetaTrader 5, you may want to copy your trades from one platform to another. This can be a great way to diversify your trading and take advantage of the unique features of each platform. In this guide, we will show you how to copy your Forex and Gold trades from MT4 to MT5 in one click.
@@ -118,8 +124,14 @@ Think of it like copying a drawing from one piece of paper and pasting it onto a
 
 It’s like having a magic wand that does the work for you. So, even if you’ve never tried this magic trick before, Rimantas will guide you step by step. Get ready to become a trading magician!
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Copy Trades From MT4 & MT5 Mobile App
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/1.png)
 
 Are you using your mobile device to trade when you can’t get to your desktop setup? Are you using one MetaTrader account to copy trades across to other accounts using the FX Account Cloning setup? Well, then you’ve probably run into the problem that the MetaTrader mobile app doesn’t allow trade copier software. Let me give you a hack that will enable you to do personal copy trading on Android or iOS and copy trades from one Metatrader to another across multiple devices.
@@ -127,12 +139,18 @@ Are you using your mobile device to trade when you can’t get to your desktop s
 
 If you’ve come across this little snag and are getting frustrated that you can’t run all of your accounts while you’re on the go, then you’re in the right place. Keep on reading, and you’ll soon be able to copy trades from your mobile app to any number of MetaTrader accounts you want!
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How Trades Travel from Your Metatrader Mobile App
 
 So, let’s dive straight in. We have to look at how the trades travel from your MetaTrader mobile app to other devices once you make them. When you have your mobile app open and click to make a trade, where does that signal go next?
 
 Understanding this is the key to setting up a way to copy trades from the Metatrader account on the mobile app to multiple accounts on other devices. That is very similar to what we’ve been doing with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ software in our other tutorials, but this time, there’s a twist that makes it work from an iPhone or Android mobile device. When you know how it works, you can even copy trades from the Android MT4 account to another phone.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/2.png)
 
 So, here’s the answer. The trick to doing this is taking advantage of how MetaTrader was designed. One of the functions of MetaTrader is that it allows you to log in to the same account from multiple devices. That is simple enough. That’s how a lot of social media accounts work. There’s no trade copier software involved in the process yet. That’s just how MetaTrader was built.
@@ -153,6 +171,9 @@ There’s just one other important thing to remember. The MetaTrader mobile app 
 
 In the following image, you can see that I have accounts from Darwinex, Fusion Markets, IC Markets, and Tripleafx on one Metatrader mobile app. That is a great way to get an overview of all your accounts, and you can easily switch between them to manage your trades, view your balance, or change settings.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/4.png)
 
 As long as you’ve completed the link up with the client accounts with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ software on your computer, you can use these accounts on your mobile app to clone trades across as many accounts as you need!
@@ -193,3 +214,48 @@ They say that knowledge is power and, if that’s true, you just gained a lot of
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-writing-captivating-docu-scripts/"><u>[New] Step-By-Step Guide to Writing Captivating Docu-Scripts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-best-voice-transformation-plugins-top-10-picks-for-discord/"><u>[Updated] In 2024, Best Voice Transformation Plugins - Top 10 Picks for Discord</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-journey-around-the-world-on-youtube-including-you/"><u>[Updated] Journey Around the World on YouTube, Including You</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-jujutsu-kaisens-tiktok-fan-filled-fun/"><u>2024 Approved  Jujutsu Kaisen's TikTok  Fan-Filled Fun</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastering-marketing-magic-in-metaverse/"><u>2024 Approved  Mastering Marketing Magic in Metaverse</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-xiaomi-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Xiaomi .</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-xiaomi-civi-3-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Xiaomi Civi 3.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-xiaomi-redmi-a2-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Xiaomi Redmi A2.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Xiaomi Redmi Note 12 4G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Xiaomi Redmi Note 13 Pro+ 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-y27-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Y27 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-11x-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on 11X 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-13t-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on 13T Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-a2-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on A2.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-a59-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on A59 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-asus-rog-phone-8-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Asus ROG Phone 8 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Civi 3 Disney 100th Anniversary Edition.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-find-x7-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Find X7.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-galaxy-a05s-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Galaxy A05s.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-galaxy-z-fold-5-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Galaxy Z Fold 5.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-gionee-f3-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Gionee F3 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-google-pixel-8-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Google Pixel 8 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-google-pixel-8-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Google Pixel 8.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-google-pixel-fold-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Google Pixel Fold.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-gt-10-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on GT 10 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor .</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-70-lite-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor 70 Lite 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-magic-v2-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor Magic V2.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-play-40c-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor Play 40C.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-play-7t-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor Play 7T.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-play-8t-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor Play 8T.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-v-purse-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor V Purse.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-x50-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor X50.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-x50i-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor X50i.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-x8b-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor X8b.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-htc-u23-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on HTC U23.</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-video-trimming-apps-for-windows-10-a-roundup-of-the-best-for-2024/"><u>Free Video Trimming Apps for Windows 10 A Roundup of the Best for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/illa-marketing-for-youtube-upping-video-traffic/"><u>Guerrilla Marketing for YouTube  Upping Video Traffic</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-redmi-note-12t-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Redmi Note 12T Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-speech-to-text-software-showdown-discover-the-top-8-options-for-pcs-macs-and-online-accessibility/"><u>Updated In 2024, Speech-to-Text Software Showdown Discover the Top 8 Options for PCs, Macs and Online Accessibility</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-8-best-daw-for-hip-hop-music-production/"><u>Updated Top 8 Best DAW for Hip Hop Music Production</u></a></li>
+</ul></div>

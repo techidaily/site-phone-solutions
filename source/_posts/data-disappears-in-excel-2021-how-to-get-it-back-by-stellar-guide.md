@@ -1,6 +1,6 @@
 ---
 title: Data Disappears in Excel 2021 - How to get it back
-date: 2024-03-05 19:18:10
+date: 2024-07-17T16:45:48.978Z
 tags: 
   - repair
   - repair excel
@@ -18,12 +18,18 @@ keywords: repair .csv,repair excel 2023,repair excel 2013
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Probable Reasons for Data Disappearing in MS Excel and Solutions Thereof**
 
 ### Reason 1 – Unsaved Data
 
 While entering data in an Excel spreadsheet, it is important to save the data at frequent intervals. Doing so prevents any unsaved data from disappearing if you lose power or accidentally click ‘No’ when prompted to save the file. Unfortunately, such a situation is quite common as users often close the file without saving the recently made changes to a spreadsheet.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Solution – Use the ‘AutoSave’ Feature
 
 With the AutoSave feature enabled in Excel, data won’t be lost in the event of power failure or abruptly closing the Excel program. By default, Excel automatically saves the information in a spreadsheet after every 10 minutes. You can reduce the limit to a few seconds to reduce the chances of Excel file data lost after being saved.
@@ -44,6 +50,9 @@ If you’re changing the format of a spreadsheet, make space for the rows and co
 
 You can combine two or more cells data to make one large cell. This technique is primarily used to fit the text of a title in a sheet. If there is data in two or more cells, then only the data in the top-left cell is displayed and the data in all other cells is deleted. If the other merged cells have been populated with data after merging, the data is not featured and it does not appear even after remerging the cells.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Solution – Merge Cells inside One Column
 
 To merge cells without data loss, combine all the cells you want to merge within a column and do the following:
@@ -70,6 +79,9 @@ Cells and text in the cells can be displayed in different colors to make the spr
 
 Make sure to use dark-colored text on a white-colored cell. Also, resize the cell to fit the text size. Check if numbers in a cell are entered as text. If so, you need to apply a number format to the text-formatted numbers. Read more about it, from [here](https://support.microsoft.com/en-us/office/fix-text-formatted-numbers-by-applying-a-number-format-6599c03a-954d-4d83-b78a-23af2c8845d0).
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Else You Can Do to Resolve the ‘Excel Data Disappeared’ Issue?
 
 If you can’t recover the missing Excel file data, try to repair or extract the data from the file using the built-in **Excel repair tool**. Follow the below steps to use the tool:
@@ -94,23 +106,47 @@ If you fail to retrieve the disappeared data from that file using the above-list
 -   Preserve the worksheet properties and cell formatting.
 -   Support the latest Excel 2019 and earlier versions.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Excel repair software repairs the Excel file in these simple steps:
 
 -   Launch and open the software.
 -   Select the corrupt Excel file by using the ‘Browse’ option. If the file location is not available, then find the Excel file using the ‘Search’ option.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Browse and Search](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/04/Browse-and-Search.jpg)
 
 -   Click ‘Repair’ to scan the corrupt file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Scan corrupt file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/22-search-file.png)
 
 -   Once the repair process is complete, verify the components of Excel file and check if the available preview shows complete data that disappeared from Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Disappeared from excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/4-preview.png)
 
 -   **Save** file at default location or preferred location.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Default location](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/6-save-file.jpg)
 
 The Excel file with all the restored data will be saved at the selected location.
@@ -135,3 +171,47 @@ It is better to repair the affected Excel file than suffer the loss when data 
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-alter-default-store-place-for-mac-images/"><u>[New] In 2024, Alter Default Store Place for Mac Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-the-art-of-combining-igtv-with-insta-stories/"><u>[New] Mastering the Art of Combining IGTV with Insta Stories</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-virtual-gathering-film-cutter-for-2024/"><u>[New] Virtual Gathering Film Cutter for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhancing-video-narratives-mastering-fade-effects/"><u>2024 Approved  Enhancing Video Narratives  Mastering Fade Effects</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-a79-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo A79 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-x8b-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from X8b</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-x9b-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from X9b</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-13t-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi 13T Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-civi-3-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Civi 3</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-redmi-12-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-redmi-k70-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-redmi-k70e-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-y100-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Y100 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-zte-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from ZTE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/apple-will-delete-your-photos-in-july-heres-what-you-should-do-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Apple will delete your photos in July. Heres what you should do | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-bypass-tools-to-bypass-lock-screen-asus-rog-phone-8-pro-by-drfone-android-unlock-android-unlock/"><u>Asus Bypass Tools to Bypass Lock Screen(Asus ROG Phone 8 Pro)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-bypass-tools-to-bypass-lock-screenasus-rog-phone-8-pro-by-drfone-android-unlock-android-unlock/"><u>Asus Bypass Tools to Bypass Lock Screen(Asus ROG Phone 8 Pro)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-recovery-recover-lost-data-from-asus-rog-phone-7-by-fonelab-android-recover-data/"><u>Asus Data Recovery – recover lost data from Asus ROG Phone 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-recovery-recover-lost-data-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-data/"><u>Asus Data Recovery – recover lost data from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-recovery-recover-lost-data-from-asus-rog-phone-8-by-fonelab-android-recover-data/"><u>Asus Data Recovery – recover lost data from Asus ROG Phone 8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-recovery-recover-lost-data-from-asus-rog-phone-8-pro-by-fonelab-android-recover-data/"><u>Asus Data Recovery – recover lost data from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-retrieval-tool-restore-lost-data-from-asus-by-fonelab-android-recover-data/"><u>Asus Data Retrieval tool – restore lost data from Asus</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-retrieval-tool-restore-lost-data-from-asus-rog-phone-7-by-fonelab-android-recover-data/"><u>Asus Data Retrieval tool – restore lost data from Asus ROG Phone 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-retrieval-tool-restore-lost-data-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-data/"><u>Asus Data Retrieval tool – restore lost data from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-data-retrieval-tool-restore-lost-data-from-asus-rog-phone-8-pro-by-fonelab-android-recover-data/"><u>Asus Data Retrieval tool – restore lost data from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-rog-phone-7-messages-recovery-recover-deleted-messages-from-asus-rog-phone-7-by-fonelab-android-recover-messages/"><u>Asus ROG Phone 7 Messages Recovery - Recover Deleted Messages from Asus ROG Phone 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/asus-rog-phone-7-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Asus ROG Phone 7 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/becoming-a-leader-in-video-marketing-on-youtube-for-2024/"><u>Becoming a Leader in Video Marketing on YouTube for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/concealing-confidentiality-blurring-identity-in-recordings-for-2024/"><u>Concealing Confidentiality  Blurring Identity in Recordings for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-join-someones-live-on-tiktok-as-a-guest-for-2024/"><u>How To Join Someone’s Live on TikTok as a Guest for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pocket-sized-picture-playwriting-for-2024/"><u>Pocket-Sized Picture Playwriting for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/quickest-photo-scanner-in-windows-land-for-2024/"><u>Quickest Photo Scanner in Windows Land for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/royal-sonata-sessions-an-elite-selection-of-free-original-piano-music-ideal-for-film-and-video-creation/"><u>Royal Sonata Sessions An Elite Selection of Free, Original Piano Music Ideal for Film & Video Creation</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/top-notch-sound-engineers-for-optimizing-live-broadcasts/"><u>Top-Notch Sound Engineers for Optimizing Live Broadcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveiling-the-secrets-of-mobile-monetization-on-youtube-for-creators-for-2024/"><u>Unveiling the Secrets of Mobile Monetization on YouTube for Creators for 2024</u></a></li>
+</ul></div>

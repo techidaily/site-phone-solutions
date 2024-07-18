@@ -1,6 +1,6 @@
 ---
 title: Fix Cannot Paste the Data Error in Microsoft Excel 2000
-date: 2024-03-05 21:22:24
+date: 2024-07-17T17:13:45.276Z
 tags: 
   - repair
   - repair excel
@@ -16,6 +16,9 @@ keywords: repair excel 2013,repair excel 2023,repair .xltx,repair excel 2003,rep
 
 When copying and pasting the cell contents or attributes from one workbook to another, you can encounter the "Cannot paste the data" error. The error indicates that the values you are trying to paste do not match the cell format (Currency, Date, Text, etc.) used in the column. The error can occur if you are attempting to paste information into a merged cell. You can also get this error if the data you are trying to paste contains more columns than the destination worksheet can accept or if the copy area and paste area aren't the same size.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Why you cannot Paste the Data in Microsoft Excel?
 
 You can experience the "Excel cannot paste the data" error due to one of the following reasons:
@@ -36,6 +39,9 @@ You can experience the "Excel cannot paste the data" error due to one of the fol
 
 The "Microsoft Excel cannot paste the data" error usually appears when copying and pasting data within the spreadsheet. It primarily affects the copy-and-paste feature within the Excel file. However, the impact of this error may vary with the data you are working with. When this error occurs, first try restarting the Excel application. Ensure that you've saved all your important data before restarting the application to prevent data loss. If, after performing this basic step, you still face the issue, then try the following troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 1: Check and Unlock Cells in Excel**
 
 You can get the Excel cannot paste the data error if the cells you are trying to paste in the Excel file are locked. You can check and unlock the specific cells in the Excel file using the below steps:
@@ -52,6 +58,9 @@ You can get the Excel cannot paste the data error if the cells you are trying to
 
 ![Click on Locked Cell under Protection Tab](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/select-locked-under-protection.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Method 2: Check and Fix the Cell Format**
 
 Sometimes, you can get the "Cannot paste the data" error in Excel if there is an issue with the formatting of the cells in the column (in which you are trying to paste the data). You can check whether the cell formats of the columns of the source file (from where you are copying data) match the destination file (in which you are pasting the cell data). If not, then change the cell format. Here's how to do so:
@@ -63,6 +72,18 @@ Sometimes, you can get the "Cannot paste the data" error in Excel if there is an
 
 - Click on the desired cell format that matches the values you are trying to paste into the column.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 3: Check Copy and Paste Area Size**
 
 The "data cannot be pasted" issue can also occur if Excel detects the copy area of the range of cells is not of the same size and shape as that of the paste area. So, make sure the size of the range of cells for the paste area is same as the copied area. To ensure this, you can try the following:
@@ -81,6 +102,9 @@ The "data cannot be pasted" issue can also occur if Excel detects the copy area 
 
 ![Click on Paste and Selection of Operations from Paste Special Properties](https://www.stellarinfo.com/public/image/catalog/article/Repair-Office-Documents/cannotpastedata/select-operations-from-paste-special.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Method 4:** Check and Unmerge Cells
 
 The merged cells in the workbook can create discrepancies when copying and pasting data. These can create mismatch between the source and destination cell areas, resulting in errors. Make sure you are not pasting the data copied from merged cells. You can check and unmerge the cells using the below steps:
@@ -90,6 +114,9 @@ The merged cells in the workbook can create discrepancies when copying and pasti
 
 ![Under Excel Navigate to Home and click on Merge and Center](https://www.stellarinfo.com/public/image/catalog/article/Repair-Office-Documents/cannotpastedata/go-to-home-click-on-merge-and-center.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### **Method 5: Unselect the Excel DDE (Dynamic Data Exchange) Option**
 
 Sometimes, you can get the Excel cannot paste the data error while copying and pasting data from Excel file to external data sources or applications. It usually appears if you have established DDE links between them. To resolve this, you can uncheck the "Ignore other applications that use Dynamic Data Exchange (DDE)" option. Follow the below steps to do so:
@@ -99,14 +126,26 @@ Sometimes, you can get the Excel cannot paste the data error while copying and p
 
 In **Excel Options**, click **Advanced** and unselect **"Ignore other applications that use Dynamic Data Exchange (DDE)**. Click **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **![Under Excel Navigate to Home and click on Merge and Center](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/click-ignoring-dynamic-data-exchange-option.jpg)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## Here are some additional solutions you can try to fix the "Cannot paste the data" error in Excel
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Check the Excel File Format**
 
 Sometimes, the copy and paste error can occur if you try to move data from an older version of Excel file (XLS) into a newer version file (XLSX) or vice versa. You can try to change or convert the file format to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Clear Clipboard**
 
 Too many items on the clipboard can prevent you from copying and pasting the data. You can [empty your clipboard](https://support.microsoft.com/en-au/office/clear-the-clipboard-7afbf55f-d7d5-4096-87a0-eb17f821d321) by deleting all clips. To do this, go to **Home** and click the **Clipboard** option.
@@ -160,3 +199,54 @@ The "Excel cannot paste the data" error in Excel can occur due to different fact
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-attention-a-look-at-the-best-15-video-intro-plans/"><u>[New] 2024 Approved  Crafting Attention  A Look at the Best 15 Video Intro Plans</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-comprehensive-walkthrough-posting-imovie-videos-to-vimeo/"><u>[Updated] 2024 Approved  Comprehensive Walkthrough  Posting iMovie Videos to Vimeo</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-map-masterpieces-excellent-quests-for-gold/"><u>[Updated] 2024 Approved  Map Masterpieces  Excellent Quests for Gold</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiophiles-dilemma-podcast-or-youtube-dominance/"><u>[Updated] Audiophile's Dilemma  Podcast or YouTube Dominance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-videos-enhance-your-watch-time-for-2024/"><u>[Updated] Instagram Videos  Enhance Your Watch Time for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unified-media-playback-on-youtube-flv-files-tutorial/"><u>2024 Approved  Unified Media Playback on YouTube  FLV Files Tutorial</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-pathway-to-pristine-data-utilizing-ai-for-improved-audio-quality/"><u>2024 Approved The Pathway to Pristine Data Utilizing AI for Improved Audio Quality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-poco-m6-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Poco M6 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-poco-x6-pro-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Poco X6 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-realme-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Realme</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-realme-11-proplus-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Realme 11 Pro+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-realme-c33-2023-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Realme C33 2023</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-realme-gt-neo-5-se-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-redmi-k70-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Redmi K70</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-s17e-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from S17e</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-s23-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from S23</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-s23plus-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from S23+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-samsung-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Samsung</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Samsung Galaxy A34 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-samsung-galaxy-s24-ultra-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-sony-xperia-5-v-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Sony Xperia 5 V</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-spark-20-proplus-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Spark 20 Pro+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-spark-go-2024-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Spark Go (2024)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-tecno-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Tecno</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-tecno-pop-8-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Tecno Pop 8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-tecno-pova-5-pro-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-vivo-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Vivo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-vivo-s17-pro-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Vivo S17 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-vivo-s17t-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Vivo S17t</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-vivo-t2-pro-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-vivo-x100-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Vivo X100</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/best-budget-friendly-android-chat-services-for-2024/"><u>Best Budget-Friendly Android Chat Services for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/boost-your-videos-impact-with-top-ranking-software-solutions/"><u>Boost Your Videos' Impact with Top-Ranking Software Solutions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/decoding-varieties-in-hand-motion-tracking-for-2024/"><u>Decoding Varieties in Hand Motion Tracking for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/gamecast-viewers-take-for-2024/"><u>GameCast Viewer's Take for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-android-photography-excellence-tips-and-tools/"><u>In 2024, Android Photography Excellence  Tips and Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-oppo-a79-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Oppo A79 5G Phone?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-zoom-guidance-for-virtual-team-spaces-in-msteams/"><u>In 2024, In-Depth Zoom Guidance for Virtual Team Spaces in MSTEAMS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-journey-through-the-best-7-nft-creation-applications/"><u>In 2024, Journey Through the Best 7 NFT Creation Applications</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/professional-techniques-for-mobile-and-dslr-igtv-mastery/"><u>Professional Techniques for Mobile & DSLR  IGTV Mastery</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-future-of-filmmaking-bridging-audio-and-visuals-in-the-digital-age/"><u>The Future of Filmmaking Bridging Audio and Visuals in the Digital Age</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-visual-experience-eizos-4k-monitor-reviewed/"><u>Ultimate Visual Experience  EIZO's 4K Monitor Reviewed</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-your-creativity-top-10-free-online-video-editors-with-no-watermark-limits/"><u>Updated Unleash Your Creativity Top 10 Free Online Video Editors with No Watermark Limits</u></a></li>
+</ul></div>

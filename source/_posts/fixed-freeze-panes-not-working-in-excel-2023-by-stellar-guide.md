@@ -1,6 +1,6 @@
 ---
 title: Fixed Freeze Panes not Working in Excel 2023
-date: 2024-03-04 17:24:41
+date: 2024-07-17T17:16:41.390Z
 tags: 
   - repair
   - repair excel
@@ -20,6 +20,9 @@ keywords: repair .xlb,repair .xlsx,repair .csv,repair excel,repair excel 2007
 
 The freeze panes feature in Excel is used to freeze the row/column headings to keep them visible while scrolling the worksheet. It is a useful feature when you’re working on a large worksheet containing data that exceeds the rows and columns on the screen. Sometimes, you notice that the ‘Excel freeze panes feature is not working’. There could be numerous factors that can trigger this issue. Let’s know the reasons for the freeze pane not working issue in Excel and how to resolve this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Why can’t I freeze panes in excel?
 
 **Several factors may contribute to the Excel freeze panes not working issue in Excel. A few of them are:**
@@ -45,6 +48,9 @@ If your Excel file is switched from normal file view mode to cell editing mode, 
 
 The Excel freeze panes not working issue can also occur if your workbook is opened in Page Layout view. The Page Layout view doesn’t support freeze panes. If you select page layout, the freeze panes option gets disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel freeze panes not working in Page Layout view](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/freeze-panes-open-is-disabled.jpg)
 
 To enable the **freeze pane** option, go to **View** and click the **Page Break Preview** tab.
@@ -64,8 +70,14 @@ Sometimes, you can experience the “freeze panes not working” issue if Sortin
 - Group
 - Subtotal
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove sort, filter, group, and subtotal in excel step-by-step](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/select-all-features-under-data-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### **Workaround 4: Check and Unprotect Worksheet**
 
 The freeze panes feature may stop working if your worksheet is protected. You can try to disable the worksheet protection option. Here are the steps:
@@ -87,6 +99,9 @@ The freeze pane is not working issue in Excel can also occur when you use incorr
 
 If none of the above workarounds works, then there are chances that the workbook is damaged or corrupt. In such a case, you can try the below methods to repair the corrupt Excel workbook.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Run Open and Repair Utility**
 
 In case of corruption in the Excel file, you can use the Open and Repair tool in Excel to repair the file. To use this utility, follow these steps:
@@ -96,6 +111,18 @@ In case of corruption in the Excel file, you can use the Open and Repair tool in
 - The Open dialog box is displayed. Click on the affected file.
 - Click the arrow next to the Open option and then click Open and Repair.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel File Repair: Steps - Open, Browse, Select, Repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/click-repair-option-1.jpg)
 
 - Click on the Repair option to recover as much data as possible.
@@ -105,6 +132,9 @@ In case of corruption in the Excel file, you can use the Open and Repair tool in
 
 If the [Open and Repair tool doesn’t work](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to resolve complex file-related issues and your Excel file is severely corrupted, you can opt for a reliable third-party Excel repair tool, such as Stellar Repair for Excel. This tool can help you repair the Excel file and recover all the data with complete integrity. You can try the software’s demo version to scan the affected file and preview the recoverable data. The software is compatible with all MS Excel versions and Windows operating systems, including Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Closure**
 
 The “freeze panes not working” issue in Excel can occur due to several reasons, like protected worksheet, incompatible Excel version, and incorrect cell position. Try the workarounds shared in the blog to fix the issue. If the Excel file is corrupt, you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to fix the corruption issues in the file. This tool can quickly repair the Excel file and recover all the data from the file with 100% integrity.
@@ -125,3 +155,46 @@ The “freeze panes not working” issue in Excel can occur due to several reaso
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-beginners-guide-to-youtube-shorts-nuances/"><u>[New] In 2024, A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-cloaking-details-in-visual-data-storage/"><u>[New] In 2024, Cloaking Details in Visual Data Storage</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-unifying-zoom-meeting-dates-across-phone-tablet-and-computer/"><u>[Updated] 2024 Approved  Unifying Zoom Meeting Dates Across Phone, Tablet, and Computer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-crafting-quality-content-setting-up-your-mac-for-minecraft-sessions/"><u>[Updated] Crafting Quality Content  Setting Up Your Mac for Minecraft Sessions</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-stickers-for-discord-everything-you-need-to-know/"><u>[Updated] In 2024, Stickers for Discord  Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-million-visioners-dissecting-the-money-behind-the-numbers/"><u>[Updated] Million Visioners  Dissecting the Money Behind the Numbers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-musical-masterclasses-in-15-short-video-formats-on-youtube-for-2024/"><u>[Updated] Musical Masterclasses in 15 Short Video Formats on YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-srt-expertise-essential-insights-for-2024/"><u>[Updated] Unlocking SRT Expertise  Essential Insights for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-from-lurker-to-leader-the-roadmap-to-higher-fb-page-rankings/"><u>2024 Approved  From Lurker to Leader  The Roadmap to Higher FB Page Rankings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quick-and-quiet-recording-of-games/"><u>2024 Approved  Quick and Quiet Recording of Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-s18-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo S18 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-s18e-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo S18e Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-t2-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo T2 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-t2-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo T2 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-t2x-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo T2x 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v27-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V27 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v27-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V27 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v27e-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V27e Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v29-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V29 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v29-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V29 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v29e-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V29e Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v30-lite-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V30 Lite 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-v30-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo V30 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-x-flip-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo X Flip Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-x-fold-2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo X Fold 2 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-x100-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo X100 Pro Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-x100-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo X100 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-x90s-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo X90S Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y02t-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y02T Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y100-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y100 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y100-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y100 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y100a-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y100A Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y100i-power-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y100i Power 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/how-to-detach-audio-in-premiere-pro-step-by-step-guide/"><u>How to Detach Audio in Premiere Pro? Step by Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-seamless-backdrop-switches-for-google-meet-users/"><u>In 2024, Seamless Backdrop Switches for Google Meet Users</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-how-to-translate-youtube-videos-without-cc/"><u>New How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-edge-with-free-best-premiere-pro-resources-for-2024/"><u>Professional Edge with FREE, Best Premiere Pro Resources for 2024</u></a></li>
+</ul></div>

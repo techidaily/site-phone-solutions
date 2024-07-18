@@ -1,6 +1,6 @@
 ---
 title: Fix File Not Loaded Completely Error in Excel 2003
-date: 2024-03-02 15:46:58
+date: 2024-07-17T17:14:35.611Z
 tags: 
   - repair
   - repair excel
@@ -16,10 +16,16 @@ keywords: repair excel 2016,repair .xlsm,repair excel 2003,repair excel 2023
 
 **Summary:** You may get the “File not loaded completely" error when opening a large-sized Excel file. Read this post to understand the causes behind this issue and the troubleshooting solutions to fix this Excel error. Also, you’ll get to know about an Excel repair tool that can help fix the issue if the cause is corruption in the Excel file.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Several [users](https://stackoverflow.com/questions/16945348/excel-csv-file-with-more-than-1-048-576-rows-of-data) have reported experiencing the “File not loaded completely” error while opening Excel spreadsheets or when importing CSV file into Excel. This error can occur if the worksheet has crossed the maximum rows and columns [limit](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3), i.e., 1048576 rows by 16,386 columns. However, this issue can also occur due to various other reasons. Let’s take a look at the possible causes behind this error.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## **Why this Error Occurs?**
 
 The “File not loaded completely” issue can occur due to one of the following reasons:
@@ -29,6 +35,9 @@ The “File not loaded completely” issue can occur due to one of the following
 - The Excel file has crossed the rows limit.
 - Memory issue in your system.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Methods to Resolve the “File not Loaded Completely” Error**
 
 Following are some methods you can try to fix the Excel file not loaded completely issue.
@@ -40,6 +49,9 @@ A large-sized Excel file takes time and memory to load. When you try opening a l
 - Open a blank database in Access application.
 - Navigate to the **External Data** tab and then click on the **Excel** button.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open Get Data Excel Spreadsheet Window In Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/open-get-data-excel-spreadsheet-window-in-excel.jpg)
 
 - In the **Get Data-Excel Spreadsheet** window, click Browse.
@@ -56,6 +68,9 @@ A large-sized Excel file takes time and memory to load. When you try opening a l
 
 - In the **Import Spreadsheet** **Wizard** window, you’ll see all the rows and columns of your Excel file. Click **Next.**
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click Next On Import Spreadsheet Wizard](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/click-next-on-import-spreadsheet-wizard.jpg)
 
 - In the dialog box that appears, you can modify the field information (extra columns or rows).
@@ -70,9 +85,15 @@ A large-sized Excel file takes time and memory to load. When you try opening a l
 
 - Next, select the option “**I would like a wizard to analyze my table after importing the data**” (if you want to analyze the data) and click **Finish**.
 - You will get a dialog box with a message. Click **Yes**.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![Provide Name To Table In Import Spreadsheet Wizard](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/import-spreadsheet-wizard-to-analyze-data.jpg)
 - The Table Analyzer wizard will appear on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Table Analyzer Wizard Window](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/table-analyzer-wizard-window.jpg)
 
 - Click on the **Next** button.
@@ -82,6 +103,9 @@ A large-sized Excel file takes time and memory to load. When you try opening a l
 - Follow the instructions of the **Table Analyzer wizard**.
 - Once you complete all the steps, select “**Save import step**” and click **Close**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Get External Data Excel Spreadsheet](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/get-external-data-excel-spreadsheet.jpg)
 
 ### Method 2: Split Your Large Excel File
@@ -100,6 +124,9 @@ Sometimes, you get the “File not loaded completely” error if you are running
 - You can see the memory consumption of all the applications in your system.
 - Select the unwanted applications and click on **End Task**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![End Task In Task Manager](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/end-task-in-task-manager.jpg)
 
 Now, try to open the Excel file.
@@ -113,10 +140,16 @@ Sometimes, Excel throws the “File not loaded completely” error if it fails t
 - In the Open dialog box, click on the corrupted file.
 - Click on the arrow next to the **Open** button and then select **Open and Repair**.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![File Open Dialog Box In File Open Dialog Box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/file-open-dialog-box-in-file-open-dialog-box-1.jpg)
 
 -  Click on the **Repair** button.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click On Repair Button](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/click-on-repair-button.jpg)
 
 - After repair, you will see a message as shown in the below figure.
@@ -148,3 +181,53 @@ The **File not loaded completely** issue in Excel may occur due to numerous reas
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlocking-youtubes-potential-10-mpeg-conversion-tips/"><u>[New] In 2024, Unlocking YouTube's Potential  10 MPEG Conversion Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-effortless-facebook-live-streams-from-your-smartphone-for-2024/"><u>[Updated] Effortless Facebook Live Streams From Your Smartphone for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-where-the-magic-of-video-editing-begins-on-youtube/"><u>[Updated] Where the Magic of Video Editing Begins on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-why-cant-i-see-videos-on-sony-a6400-in-2024/"><u>[Updated] Why Can’t I See Videos on Sony A6400, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ideal-slide-show-tools-for-iphone-series-10-13-upgrades/"><u>2024 Approved  Ideal Slide Show Tools For iPhone Series 10-13 Upgrades</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-free-video-sharing-platforms-for-personal-and-commercial-use/"><u>2024 Approved Top 10 Free Video Sharing Platforms for Personal and Commercial Use</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-huawei-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Huawei  support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-huawei-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Huawei  support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-huawei-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Huawei support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-e13-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Moto E13 has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g-5g-2023-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Moto G 5G (2023) has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g-stylus-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Moto G Stylus (2023) has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g-stylus-5g-2023-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Moto G Stylus 5G (2023) support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g04-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Moto G04 has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g14-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Moto G14 has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g14-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Moto G14 has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g24-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Moto G24 has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g24-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Moto G24 support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g24-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Moto G24 support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g34-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Moto G34 5G support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g34-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Moto G34 5G support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g73-5g-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Moto G73 5G has native MKV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g73-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Moto G73 5G support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g84-5g-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Moto G84 5G support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-moto-g84-5g-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Moto G84 5G support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-defy-2-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Motorola Defy 2 support AVCHD video?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-defy-2-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola Defy 2 support MKV video files?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-2023-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Motorola Edge 2023 has native MOV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Motorola Edge 40 has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola Edge 40 has native MKV support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-neo-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Motorola Edge 40 Neo has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-neo-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Motorola Edge 40 Neo support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-pro-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Motorola Edge 40 Pro support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Motorola Edge 40 support MOV videos ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edgeplus-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Motorola Edge+ (2023) has native HEVC support?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-g24-power-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Motorola G24 Power support AVCHD video?</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11x-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11X 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-comparing-the-most-popular-linux-snapshots-tools/"><u>In 2024, Comparing the Most Popular Linux Snapshots Tools</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lava-blaze-curve-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lava Blaze Curve 5G FRP Without Computer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-saving-scenes-seamlessly-the-power-of-vimeo-record/"><u>In 2024, Saving Scenes Seamlessly  The Power of Vimeo Record</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-13-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-moto-g04-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Moto G04 Phone Now with These Tips</u></a></li>
+</ul></div>

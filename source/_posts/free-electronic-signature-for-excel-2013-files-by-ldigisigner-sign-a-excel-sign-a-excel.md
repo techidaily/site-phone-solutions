@@ -1,7 +1,7 @@
 ---
 title: Free electronic signature - For Excel 2013 files
-date: 2024-03-11 13:23:12
-updated: 2024-03-12 11:38:59
+date: 2024-07-17T17:20:19.625Z
+updated: 2024-07-18T17:20:19.625Z
 tags: 
   - signer
   - signer online
@@ -12,17 +12,23 @@ categories:
 description: This article describes Free electronic signature - For Excel 2013 files
 excerpt: This article describes Free electronic signature - For Excel 2013 files
 keywords: excel signature tool,best sign .xlsx,excel signature free,.xlsx signature,free sign .xlsx,.xlsx signature service
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## 1. Free electronic signature - For Excel 2013 files
 
 Electronic Signature in Excel is a simple and secure way to sign documents online. It's a legally binding way to sign Excel documents, and it's easy to use. You can sign Excel documents online with a few clicks, and you don't need to install any software. This guide will show you how to sign Excel documents online with DigiSigner, a free electronic signature service.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -53,6 +59,9 @@ Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, 
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upload document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-document.png)
 
 #### 2.2.2. Apply your edits
@@ -65,6 +74,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -122,6 +134,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -130,12 +145,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,43 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-for-superior-canva-visuals/"><u>[Updated] Innovative Techniques for Superior Canva Visuals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-crafting-co-exclusive-brands-and-youtube-experiences/"><u>2024 Approved  Crafting Co-Exclusive Brands and YouTube Experiences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-flickerframe-repository-review/"><u>2024 Approved  FlickerFrame Repository Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unleashing-your-creativity-advanced-techniques-for-boomers/"><u>2024 Approved  Unleashing Your Creativity  Advanced Techniques for Boomers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcp-hall-of-fame-10-iconic-films-edited-with-final-cut-pro/"><u>FCP Hall of Fame 10 Iconic Films Edited with Final Cut Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-8-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Google Pixel 8 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-8-pro-video-recovery-recover-deleted-videos-from-google-pixel-8-pro-by-fonelab-android-recover-video/"><u>Google Pixel 8 Pro Video Recovery - Recover Deleted Videos from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-8-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Google Pixel 8 support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-8-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Google Pixel 8 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-8-video-recovery-recover-deleted-videos-from-google-pixel-8-by-fonelab-android-recover-video/"><u>Google Pixel 8 Video Recovery - Recover Deleted Videos from Google Pixel 8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-fold-messages-recovery-recover-deleted-messages-from-google-pixel-fold-by-fonelab-android-recover-messages/"><u>Google Pixel Fold Messages Recovery - Recover Deleted Messages from Google Pixel Fold</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-fold-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Google Pixel Fold support - Forgotten screen lock.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-fold-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Google Pixel Fold Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-pixel-fold-video-recovery-recover-deleted-videos-from-google-pixel-fold-by-fonelab-android-recover-video/"><u>Google Pixel Fold Video Recovery - Recover Deleted Videos from Google Pixel Fold</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-featured-snippet-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Featured Snippet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-image-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Image Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-knowledge-graph-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Knowledge Graph</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-local-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Local Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-news-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - News Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-people-also-ask-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - People Also Ask</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-shopping-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Shopping Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-site-links-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Site Links</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-top-stories-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Top Stories</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-twitter-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Twitter Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-video-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Video Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-competition-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Competition</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-device-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-google-algorithm-updates-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Google algorithm updates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-location-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Location</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-quality-of-content-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Quality of content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-search-history-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Search history</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-moto-g84-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Moto G84 5G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-launching-into-the-world-of-vlogging/"><u>In 2024, Launching Into the World of Vlogging</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-fcpx-problem-solving-essentials-top-tips-and-tricks/"><u>New In 2024, FCPX Problem-Solving Essentials Top Tips and Tricks</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-8-speech-to-text-tools-compatible-with-windows-and-macos-systems-for-2024/"><u>Top 8 Speech-to-Text Tools Compatible with Windows & macOS Systems for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-elevating-your-speaking-style-expert-techniques-for-changing-your-voice-characteristics-for-2024/"><u>Updated Elevating Your Speaking Style Expert Techniques for Changing Your Voice Characteristics for 2024</u></a></li>
+</ul></div>

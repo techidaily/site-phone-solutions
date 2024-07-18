@@ -1,7 +1,7 @@
 ---
 title: How to Create a Digital Signature Online for .wpt file document
-date: 2024-03-10 19:32:37
-updated: 2024-03-12 22:55:28
+date: 2024-07-17T17:51:39.230Z
+updated: 2024-07-18T17:51:39.230Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How to Create a Digital Signature Online for .wpt file document
 excerpt: This article describes How to Create a Digital Signature Online for .wpt file document
 keywords: sign .docm file online,free sign .svd file,.dot file signature best,.doc file signer online
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## 1. How to Create a Digital Signature Online for .wpt file document
@@ -23,6 +23,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -57,6 +60,9 @@ In just a few seconds your Word document will be fully available once the upload
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
@@ -69,10 +75,16 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
@@ -83,6 +95,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 As we mentioned earlier, you can also add check marks, dates, text, or initials to any page of your document. Simply select the type of function you want to use, select the area, and type in the information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Fill out the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/fill-in-document.png)
 
 #### 2.2.5. Download your document for free
@@ -120,6 +135,9 @@ To implement each of the ways to install a digital signature in Word, you need t
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Word on Windows.
@@ -128,12 +146,23 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Word signature line
 
 You can also use a signature line in Word to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Word offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Word on Mac
 
 To put an electronic signature in Word on Mac, you must follow these steps:
@@ -159,3 +188,57 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-30-top-funny-tiktok-jokes-and-riddles-for-2024/"><u>[New] 30 Top Funny TikTok Jokes & Riddles for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-gaming-evolved-streaming-xbox-content-on-facebook/"><u>[New] Gaming Evolved  Streaming Xbox Content on Facebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-photo-perfection-on-snapchat-for-2024/"><u>[New] The Ultimate Guide to Photo Perfection on Snapchat for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-sail-through-smooth-sharing-with-instagram-troubleshooting/"><u>[Updated] Sail Through Smooth Sharing with Instagram Troubleshooting</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-12-best-tycoon-games-guaranteed-to-hook-you/"><u>[Updated] Top 12 Best Tycoon Games Guaranteed to Hook You</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-comprehensive-summary-hero4-black-usage/"><u>2024 Approved  Comprehensive Summary  Hero4 Black Usage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discoveries-await-5-essential-maps-for-richer-gameplay/"><u>Discoveries Await  5 Essential Maps for Richer Gameplay</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/edit-mp4-videos-like-a-pro-top-10-free-tools/"><u>Edit MP4 Videos Like a Pro Top 10 Free Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone X | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2000-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2000 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2000-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2000 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2003-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2003 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2003-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2003 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2007-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2007 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2007-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2007 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2010-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2010 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2010-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2010 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2013-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2013 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2013-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2013 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2016-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2016 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2016-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2016 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2019-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2019 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2019-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2019 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2021-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2021 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2021-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2021 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2023-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2023 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2023-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2023 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2000-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2000 Fix 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2000-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2000 Fix 2024 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2003-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2003 Fix 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2003-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2003 Fix 2024 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2007-fix-2024-by-stellar-guide/"><u>Filter Not Working Error in Excel 2007 Fix 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2007-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2007 Fix 2024 | Stellar</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/ignite-interest-top-20-creative-and-viral-tiktok-caption-strategies/"><u>Ignite Interest  Top 20 Creative and Viral TikTok Caption Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-game-on-for-gaiety-your-must-try-10/"><u>In 2024, Game On for Gaiety  Your Must-Try 10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-navigating-twitters-algorithm-to-amplify-your-message/"><u>In 2024, Navigating Twitter's Algorithm to Amplify Your Message</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-into-innovation-top-10-youtube-vr-creations/"><u>In 2024, Step Into Innovation  Top 10 YouTube VR Creations</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scrutinizing-video-edits-is-inshot-the-champion-for-2024/"><u>Scrutinizing Video Edits  Is InShot The Champion for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/securesync-experts-analysis-for-2024/"><u>SecureSync Experts Analysis for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unparalleled-clarity-a-selection-of-the-best-4k-camera-phones/"><u>Unparalleled Clarity  A Selection of the Best 4K Camera Phones</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-art-of-vertical-storytelling-phone-aspect-ratio-best-practices-for-2024/"><u>Updated The Art of Vertical Storytelling Phone Aspect Ratio Best Practices for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/voice-activated-data-collection-on-ios-ranking-the-top-10-apps/"><u>Voice-Activated Data Collection on iOS Ranking the Top 10 Apps</u></a></li>
+</ul></div>

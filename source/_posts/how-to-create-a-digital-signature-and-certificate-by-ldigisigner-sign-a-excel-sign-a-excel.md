@@ -1,7 +1,7 @@
 ---
 title: How to create a digital signature and certificate
-date: 2024-03-10 21:22:23
-updated: 2024-03-12 18:57:40
+date: 2024-07-17T17:50:27.279Z
+updated: 2024-07-18T17:50:27.279Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 excerpt: Free .xlsx signature service to sign .xlsx online. Add signature to .xlsx documents with our .xlsx signer. No registration or installation required | DigiSigner
 keywords: excel signature online,best sign .xlsx,best sign excel,excel signature tool,excel signature free
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## 1. How to create a digital signature and certificate
@@ -23,6 +23,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -39,6 +42,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -49,6 +55,9 @@ These detailed instructions demonstrate how to sign a Excel document online. Our
 
 Start off by simply clicking the "choose file" link to upload a PDF, Word, TXT, IMG, TXT or XLS document that you want to sign off or just drop your file into the blue box, as shown in the image below:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![upload a file](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/drag-and-drop-word-file.png)
 
 In just a few seconds your Excel document will be fully available once the upload is completed.
@@ -65,6 +74,9 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
@@ -79,6 +91,9 @@ Feel free to sign Excel document in whatever way you like. This signature maker 
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -95,6 +110,18 @@ When ready, click `DONE` to proceed. Our free tool will create a file that can b
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3. The Usage of Electronic Signature in Excel
 
 The ability to leave your signature in electronic format in Excel documents opens up great opportunities for state institutions and for private enterprises and companies. Electronic signature technologies of documents allow:
@@ -108,6 +135,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Excel on Windows
 
 You can use the standard features of Microsoft Office Excel to digitally sign a document. There are several options:
@@ -122,6 +152,9 @@ To implement each of the ways to install a digital signature in Excel, you need 
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -161,3 +194,56 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-flight-dynamics-unveiling-bebops-parrot-capabilities/"><u>[New] In 2024, Flight Dynamics  Unveiling Bebop’s Parrot Capabilities</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reimagining-storytelling-through-vr-screens/"><u>[New] Reimagining Storytelling Through VR Screens</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/wiftly-uninstalling-youtube-videos-from-devices-for-2024/"><u>[New] Swiftly Uninstalling YouTube Videos From Devices for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-crafting-fast-fortnite-icons-in-minutes/"><u>[Updated] In 2024, Crafting Fast Fortnite Icons in Minutes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-skypes-premier-audio-capture-solutions/"><u>[Updated] In 2024, Skype's Premier Audio Capture Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-luminary-pixels-masterful-lighting-secrets-unveiled/"><u>[Updated] Luminary Pixels  Masterful Lighting Secrets Unveiled</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-perfect-your-skype-interviews-with-professional-recording-tactics/"><u>[Updated] Perfect Your Skype Interviews with Professional Recording Tactics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-favorite-is-pickup-superior-to-other-photo-editors/"><u>2024 Approved  Android’s Favorite  Is PickUp Superior to Other Photo Editors?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-htc-u23-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on HTC U23 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-hot-30-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Hot 30 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-hot-30i-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Hot 30i.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-hot-40-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Hot 40.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-hot-40i-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Hot 40i.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-note-30-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Note 30 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-note-30-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Note 30 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-note-30-vip-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Note 30 VIP.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-note-30i-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Note 30i.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-smart-7-hd-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Smart 7 HD.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-smart-8-hd-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Smart 8 HD.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-infinix-smart-8-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Infinix Smart 8.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-itel-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Itel .</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-itel-a70-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Itel A70.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-itel-s23-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Itel S23.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-lava-agni-2-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Lava Agni 2 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-lava-blaze-2-5g-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Lava Blaze 2 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-lava-blaze-2-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Lava Blaze 2.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-lava-yuva-2-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Lava Yuva 2.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-lava-yuva-3-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Lava Yuva 3 Pro.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-mix-fold-3-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Mix Fold 3.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-moto-g14-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Moto G14.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-motorola-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Motorola .</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-motorola-edge-2023-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Motorola Edge 2023.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-motorola-edge-40-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Motorola Edge 40.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-motorola-edgeplus-2023-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Motorola Edge+ (2023).</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-poco-c55mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Poco C55Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-xs-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone XS to PC | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-get-noticed-on-instagram-the-importance-of-choosing-the-right-video-dimensions-and-aspect-ratios/"><u>In 2024, Get Noticed on Instagram The Importance of Choosing the Right Video Dimensions and Aspect Ratios</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-harmonyheed-evaluating-audio-artifacts/"><u>In 2024, HarmonyHeed  Evaluating Audio Artifacts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-imovies-beat-based-filmmaking/"><u>In 2024, IMovie's Beat-Based Filmmaking</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/learn-the-easy-ways-to-turn-your-watching-experience-on-youtube-into-a-screencast-without-money-for-2024/"><u>Learn the Easy Ways to Turn Your Watching Experience on YouTube Into a Screencast Without Money for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-mp3-cutter-download/"><u>New 2024 Approved MP3 Cutter Download</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/rhythm-and-flow-explore-easy-trending-tiktok-moves/"><u>Rhythm & Flow  Explore Easy, Trending TikTok Moves</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-5-free-streaming-options-for-watching-mlb-matches/"><u>Top 5 Free Streaming Options for Watching MLB Matches</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-the-most-advanced-youtube-mp3-converters/"><u>Unveiling the Most Advanced YouTube Mp3 Converters</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-from-novice-to-pro-how-our-mp3-converter-windows-guide-can-elevate-your-skills-for-2024/"><u>Updated From Novice to Pro How Our Mp3 Converter Windows Guide Can Elevate Your Skills for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-camon-20-premier-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Camon 20 Premier 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>

@@ -1,6 +1,6 @@
 ---
 title: How Can I Recover Corrupted Excel File 2013
-date: 2024-03-04 16:54:59
+date: 2024-07-17T17:29:29.342Z
 tags: 
   - repair
   - repair excel
@@ -18,10 +18,16 @@ keywords: repair .xlsx,repair .csv,repair excel 2013,repair .xls,repair .xlsm,re
 
 - When an Excel 2016 file turns corrupt, you’ll receive an error message that reads: **“[The file is corrupt and cannot be opened](https://www.stellarinfo.com/blog/file-is-corrupted-and-cannot-be-opened-excel-2010/).”**
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/the-file-is-corrupt-and-cannot-be-opened-error-img1.png)
 
 - But sometimes, you encounter the **“Excel cannot open this file”** error message due to corruption in the file.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Excel-cannot-open-this-file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Excel-cannot-open-this-file-img2.png)
 
 ## Why does Excel File turn Corrupt?
@@ -41,6 +47,9 @@ How to Recover Corrupted Excel File 2016 Data When You Can Open the File?
 
 If the corrupt Excel file is open, try any of the following workarounds to retrieve the data:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Workaround 1 – Use the Recover Unsaved Workbooks Option**
 
 If your Excel file gets corrupt while you are working on it and you haven’t saved the changes, you can try retrieving the file’s data by following these steps:
@@ -51,6 +60,9 @@ If your Excel file gets corrupt while you are working on it and you haven’t sa
 
 - Click the **Recover Unsaved Workbooks** button at the bottom of the ‘Recent Workbooks’ section.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recover-unsaved-workbook](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/recover-unsaved-workbook-img4.png)
 
 - A window with list of unsaved Excel files will open. Click the corrupt file you want to open.
@@ -67,6 +79,9 @@ If your Excel file gets corrupt in the middle of making any changes, you can rec
 
 Excel will revert the corrupt file to its last saved version. If it fails, skip to the next workaround.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 3 – Save the Corrupted Excel File in Symbolic Link (SYLK) Format**
 
 Saving an Excel file in SYLK format might help you filter out corrupted elements from the file. Here are the steps to do so:
@@ -80,6 +95,9 @@ Saving an Excel file in SYLK format might help you filter out corrupted elements
 
 - Click **OK** when prompted that “The selected file type does not support workbooks that contain multiple sheets”. This will only save the active sheet.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Workbooks contain multiple sheets warning msg](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Workbooks-contain-multiple-sheets-warning-msg-img6.png)
 
 - Click **Yes** when the warning message appears - “Some features in your workbook might be lost if you save it as SYLK (Symbolic Link)”.
@@ -128,14 +146,23 @@ Follow these steps to disable the protected view settings in an Excel file:
 
 - When an **Excel Options** window opens, click **Trust Center** > **Trust Center Settings.**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open excel trust center settings](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/open-excel-trust-center-settings-img11.png)
 
 - In the window that pops-up, choose **Protected View** from the left side navigation. Under ‘Protected View’, uncheck all the checkboxes, and then hit **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![disable-protected-view-settings](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/disable-protected-view-settings.png)
 
 Now, try opening your corrupt Excel 2016 file. If it won’t open, try the next workaround.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Workaround 3 – Link to the Corrupt Excel File using External References**
 
 If you only need to extract Excel file data without formulas or calculated values, use external references to link to your corrupt Excel 2016 file. Here’s how you can do it:
@@ -159,10 +186,16 @@ If you only need to extract Excel file data without formulas or calculated value
 
 Check the new Excel file for recoverable data. If this didn’t work, consider using an [Excel file repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to retrieve data.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Alternative Solution to Recover Excel File Data**
 
 Applying the above workarounds may take considerable time to recover corrupted Excel file 2016. Also, they may fail to extract data from a severely corrupted file. Using Stellar Repair for Excel software can help you overcome these limitations. The software helps repair severely corrupted XLS/XLSX file and retrieve all the file data in a few simple steps.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![free download](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 Key benefits of using Stellar Repair for Excel are as follows:
@@ -197,3 +230,56 @@ Errors such as ‘the file is corrupt and cannot be opened’, ‘Excel cannot o
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-capturing-live-streams-on-fb-top-techniques-revealed-for-2024/"><u>[New] Capturing Live Streams on FB  Top Techniques Revealed for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-non-rooting-audio-recording-on-your-android-phone/"><u>[New] In 2024, Non-Rooting Audio Recording on Your Android Phone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-beginners-guide-to-perfecting-slow-motion-videos-on-tiktok/"><u>[New] The Beginner's Guide to Perfecting Slow Motion Videos on TikTok</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-best-free-video-player-vlc-versus-mpc/"><u>[New] Unveiling the Best Free Video Player  VLC versus MPC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-captivating-content-perfecting-pictures-through-snapchat-edits/"><u>[Updated] Captivating Content  Perfecting Pictures Through Snapchat Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-effective-financial-gains-through-youtube-shorts/"><u>[Updated] Exploring Effective Financial Gains Through YouTube Shorts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-diving-into-drones-syma-x5c-review-beginners-dream-uav/"><u>[Updated] In 2024, Diving Into Drones? Syma X5C Review  Beginner's Dream UAV</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-give-a-makeover-to-existing-images-and-videos-with-ig-filters/"><u>[Updated] In 2024, How to Give a Makeover to Existing Images and Videos with IG Filters</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-everything-you-need-to-succeed-with-youtube-short-videos/"><u>2024 Approved  Everything You Need to Succeed with YouTube Short Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-change-background-on-teams/"><u>2024 Approved  How to Change Background on Teams</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-10-v-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Sony Xperia 10 V</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-sony-xperia-5-v-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Sony Xperia 5 V</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-camon-20-premier-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-camon-30-pro-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-pop-8-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Pop 8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-pova-5-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Pova 5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-spark-10-4g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Spark 10 4G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-spark-10-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Spark 10 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-spark-10-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-spark-20-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-spark-20c-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Spark 20C</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-tecno-spark-go-2024-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-v29-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on V29 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-s17-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo S17 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-s17e-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo S17e</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-s18-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo S18</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-t2-pro-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-t2x-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo T2x 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-v27-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo V27</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-v27e-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo V27e</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-v30-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo V30</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-x-flip-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo X Flip</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-x100-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo X100 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y100-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y100</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y17s-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y17s</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y27-4g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y27 4G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-essential-android-mobas-the-ultimate-list/"><u>In 2024, Essential Android MOBAs  The Ultimate List</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oneplus-12r-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From OnePlus 12R to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-unleash-your-creativity-the-top-10-free-webm-video-editors/"><u>In 2024, Unleash Your Creativity The Top 10 Free WebM Video Editors</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-vlc-slow-motion-a-beginners-guide-to-slowing-down-your-favorite-videos/"><u>In 2024, VLC Slow Motion A Beginners Guide to Slowing Down Your Favorite Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/monetization-mastery-how-ajay-achieves-wealth-online/"><u>Monetization Mastery  How AJay Achieves Wealth Online</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-integrate-music-files-with-sony-vegas-pro-projects/"><u>New 2024 Approved Integrate Music Files with Sony Vegas Pro Projects</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-highlight-reel-makers-best-desktop-and-mobile-apps/"><u>New In 2024, Highlight Reel Makers Best Desktop and Mobile Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/rapid-tiktok-filming-techniques-to-enhance-frame-rate-for-2024/"><u>Rapid TikTok Filming  Techniques to Enhance Frame Rate for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c12-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia C12 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-to-find-the-best-instrumental-background-music-for-videos/"><u>Updated In 2024, How to Find The Best Instrumental Background Music for Videos?</u></a></li>
+</ul></div>

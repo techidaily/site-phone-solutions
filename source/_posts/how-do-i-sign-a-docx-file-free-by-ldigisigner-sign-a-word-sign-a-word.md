@@ -1,7 +1,7 @@
 ---
 title: How do i sign a .docx file free
-date: 2024-06-09T01:06:02.726Z
-updated: 2024-06-10T01:06:02.726Z
+date: 2024-07-17T17:31:51.077Z
+updated: 2024-07-18T17:31:51.077Z
 tags: 
   - signer
   - signer online
@@ -23,6 +23,9 @@ Electronic Signature in Word is a simple and secure way to sign documents online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -57,18 +60,27 @@ In just a few seconds your Word document will be fully available once the upload
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/options-to-edit-document.png)
 
 #### 2.2.3. Create a free electronic signature
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/hover-mouse.png)
 
 Feel free to sign Word document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -77,6 +89,9 @@ Feel free to sign Word document in whatever way you like. This signature maker t
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-word-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -106,6 +121,9 @@ Now you don’t even need to be in the office to be able to verify the document.
 
 You only need a device - a laptop, tablet or smartphone, as well as access to the Internet. For work, the software is needed to be connected to the encrypted information with the document you are working on. Comparison of this information allows the partner to make sure that it was you who signed it. All these processes are performed automatically according to modern encryption standards.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4. How to Create Electronic Signature in Word on Windows
 
 You can use the standard features of Microsoft Office Word to digitally sign a document. There are several options:
@@ -116,6 +134,9 @@ You can use the standard features of Microsoft Office Word to digitally sign a d
 
 To implement each of the ways to install a digital signature in Word, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Word document, click "Insert" - "Picture" and select the desired file on the device.
@@ -149,6 +170,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-word-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,49 @@ It is more convenient to sign documents online. Electronic signature has the sam
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-simplified-guide-to-high-fidelity-console-recordings/"><u>[New] 2024 Approved  Simplified Guide to High-Fidelity Console Recordings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-guide-to-action-screening-saving-for-2024/"><u>[New] Essential Guide to Action Screening Saving for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-love-the-cut-filmoras-top-10-edits-unveiled/"><u>[New] Love the Cut  Filmora's Top 10 Edits Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-in-class-textify-your-vlogs/"><u>[Updated] In 2024, Best in Class  Textify Your Vlogs</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-perfecting-motion-capture-a-guide-to-gopro-time-lapse-photos-for-2024/"><u>[Updated] Perfecting Motion Capture  A Guide to GoPro Time Lapse Photos for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-elevate-with-ig-stories-constructing-an-impactful-marketing-strategy/"><u>2024 Approved  Elevate with IG Stories  Constructing an Impactful Marketing Strategy</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-realme-10t-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Realme 10T 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-fodt-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .fodt file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-jpeg-online-free-tutorial-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Digitally Sign .jpeg online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-odt-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .odt file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-ott-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .ott file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-rtf-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .rtf file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-svd-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .svd file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-txt-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .txt file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-uot-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .uot file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-wbk-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .wbk file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-wpd-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .wpd file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-wps-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .wps file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-wpt-file-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign .wpt file online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-xlb-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign .xlb online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-xls-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign .xls online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-xlsm-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign .xlsm online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-xlsx-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign .xlsx online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-xltm-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign .xltm online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-xltx-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign .xltx online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-ext-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign {{ext}} online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-excel-2021-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign Excel 2021 online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-excel-2023-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign Excel 2023 online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-excel-online-free-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Digitally Sign Excel online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-jpg-online-free-tutorial-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>How to Digitally Sign JPG online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-pdf-online-free-tutorial-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to Digitally Sign PDF online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-digitally-sign-word-online-free-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Digitally Sign Word online free - (Tutorial)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-do-an-seo-audit-of-a-website-by-link-assistant-website-auditor-website-auditor/"><u>How to do an SEO audit of a website?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-max-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro Max to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-make-text-reveal-effect-easily/"><u>How to Make Text Reveal Effect Easily</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-comprehensive-guide-to-recording-and-embedding-audio-powerpoint/"><u>In 2024, Comprehensive Guide to Recording & Embedding Audio (PowerPoint)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-demystifying-image-ratios-a-calculator-and-resource-guide-for-2024/"><u>New Demystifying Image Ratios A Calculator and Resource Guide for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-the-future-of-music-creation-explore-the-best-iphone-and-android-audio-processing-apps/"><u>Updated The Future of Music Creation – Explore the Best iPhone and Android Audio Processing Apps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/using-ai-to-replace-skies-finding-the-right-methods/"><u>Using AI to Replace Skies Finding the Right Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-from-your-apple-iphone-15-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled From your Apple iPhone 15? How to Fix</u></a></li>
+</ul></div>

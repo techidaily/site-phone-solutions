@@ -1,7 +1,7 @@
 ---
 title: How do i add my signature to PDF
-date: 2024-03-11 22:22:11
-updated: 2024-03-12 17:56:57
+date: 2024-07-17T17:30:34.444Z
+updated: 2024-07-18T17:30:34.444Z
 tags: 
   - signer
   - signer online
@@ -12,15 +12,21 @@ categories:
 description: Free PDF signature service to sign PDF online. Add signature to PDF documents with our PDF signer. No registration or installation required | DigiSigner
 excerpt: Free PDF signature service to sign PDF online. Add signature to PDF documents with our PDF signer. No registration or installation required | DigiSigner
 keywords: pdf signature online,pdf signature software,free sign pdf
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## 1. How do i add my signature to PDF
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2. Digital Signature Online Service - Sign Documents Online
 
 <a href="https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875" arget="_blank" rel="noopener"><img src="https://tools.techidaily.com/images/apps/digisigner/how-to-sign-pdf-online/choose-file.png" border="0" alt="SIGN DOCUMENT NOW"></a>
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1. How to Sign Documents Online
 
 1. **Drag & drop document**
@@ -57,6 +63,9 @@ In just a few seconds your file will be fully available once the upload is compl
 
 Once you're in, you can select the type of edits you want to apply to your document. This tool is fully equipped with everything you need, not only to create an electronic signature but also to fill out your forms online by adding text, selecting checkboxes, inserting the current date, or even initialing where necessary.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-pdf-online/options-to-edit-document.png)
 
 #### 2.2.3. Sign PDF online
@@ -69,14 +78,23 @@ Feel free to sign PDF in whatever way you like. This signature maker tool offers
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-pdf-online/draw-e-signature.png)
 
 - **B** Type your name.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
   ![Type your name](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-pdf-online/type-name.png)
 
 - **C** Scan an image of your signature and upload it to the document.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
    ![Scan an image of your signature and upload it to the document](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-pdf-online/upload-electronic-signature.png)
 
 #### 2.2.4. Fill out the document
@@ -103,3 +121,37 @@ When ready, click **DONE** to proceed. Our free PDF signature tool will create a
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-live-gaming-hubs-the-9-you-cant-miss/"><u>[New] Live Gaming Hubs  The 9 You Can't Miss</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-sending-non-retwitted-videos-from-your-mobile-browser-to-twitter/"><u>[New] Sending Non-Retwitted Videos From Your Mobile Browser to Twitter</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-rankings-secrets-enhancing-video-visibility/"><u>[New] YouTube Rankings Secrets  Enhancing Video Visibility</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screen-recording-face-off-obs-studio-vs-fraps-comparison-for-2024/"><u>[Updated] Screen Recording Face-Off  OBS Studio Vs Fraps Comparison for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-leveraging-consumer-reviews-for-youtube-wealth-creation/"><u>2024 Approved  Leveraging Consumer Reviews for YouTube Wealth Creation</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/expertly-engineered-virtual-assistants-discord/"><u>Expertly Engineered Virtual Assistants (Discord)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-step-by-step-guide-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel | Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-step-by-step-guide-stellar-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2021-step-by-step-guide-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2021 | Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2021-step-by-step-guide-stellar-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2021 | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2023-step-by-step-guide-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2023 | Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-cannot-insert-object-error-in-excel-2023-step-by-step-guide-stellar-by-stellar-guide/"><u>Fixed Cannot Insert Object Error in Excel 2023 | Step-by-Step Guide | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2000-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2000 Found a Problem with One or more Formula</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2000-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2000 Found a Problem with One or more Formula | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2000-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel 2000 VBA Runtime Error 9 Subscript Out of Range</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2000-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2000 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2003-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2003 Found a Problem with One or more Formula</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2003-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2003 Found a Problem with One or more Formula | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2003-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel 2003 VBA Runtime Error 9 Subscript Out of Range</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2003-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2003 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2007-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2007 Found a Problem with One or more Formula</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2007-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2007 Found a Problem with One or more Formula | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2007-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel 2007 VBA Runtime Error 9 Subscript Out of Range</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2007-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2007 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2010-found-a-problem-with-one-or-more-formula-by-stellar-guide/"><u>Fixed Excel 2010 Found a Problem with One or more Formula</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2010-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2010 Found a Problem with One or more Formula | Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-optimizing-screen-captures-expert-techniques-for-hp-laptops/"><u>In 2024, Optimizing Screen Captures  Expert Techniques for HP Laptops</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-picks-the-most-advanced-online-mic-recorders-of-23/"><u>In 2024, Top Picks  The Most Advanced Online Mic Recorders of '23</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-future-of-branding-10-indispensable-marketing-podcasts-on-social-media-integration/"><u>The Future of Branding 10 Indispensable Marketing Podcasts on Social Media Integration</u></a></li>
+</ul></div>

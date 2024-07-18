@@ -1,7 +1,7 @@
 ---
 title: How do i add my signature to .xltx files
-date: 2024-03-09 12:45:50
-updated: 2024-03-12 21:53:48
+date: 2024-07-17T17:31:06.418Z
+updated: 2024-07-18T17:31:06.418Z
 tags: 
   - signer
   - signer online
@@ -12,7 +12,7 @@ categories:
 description: This article describes How do i add my signature to .xltx files
 excerpt: This article describes How do i add my signature to .xltx files
 keywords: .xlsx signature tool,free sign .xlsx,excel signature tool,excel signature,sign a excel,.xlsx signature online
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## 1. How do i add my signature to .xltx files
@@ -39,6 +39,9 @@ Electronic Signature in Excel is a simple and secure way to sign documents onlin
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/W0he0UrmftM" title="How to Sign Documents Online with Electronic Signature | DigiSigner eSignature" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.2. Instructions on how to create electronic signature in Excel
 
 These detailed instructions demonstrate how to sign a Excel document online. Our free version of DigiSigner online signature software allows you to sign Excel documents online (plus PDF, IMG, TXT, XLS) with ease and, even better, it's 100% free with no registration required!
@@ -65,12 +68,18 @@ Once you're in, you can select the type of edits you want to apply to your docum
 
 Hover the mouse over the areas where you want to apply your signature and click on the document.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Apply your edits](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/hover-mouse.png)
 
 Feel free to sign Excel document in whatever way you like. This signature maker tool offers three different options to create electronic signatures:
 
 - **A** Draw an e-signature using a mouse or touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
   ![Draw an e-signature using a mouse or touchpad.](https://tools.techidaily.com/images/apps/digisigner/how-to-sign-excel-online/draw-e-signature.png)
 
 - **B** Type your name.
@@ -118,10 +127,16 @@ You can use the standard features of Microsoft Office Excel to digitally sign a 
 
 To implement each of the ways to install a digital signature in Excel, you need to do a few steps.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 4.1. Handwritten signature
 
 Sign on a blank sheet of paper. Scan it and save the image in JPG or PNG format. In the standard image viewer, open the scanned signature and cut to remove the entire blank area of ​​the sheet. Save the changes. In the Excel document, click "Insert" - "Picture" and select the desired file on the device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.2. Text template
 
 If you want your signature to complete information about the position, phone number, address, date or other data, create a text template in Excel on Windows.
@@ -130,12 +145,18 @@ Type in the document all the necessary information that should supplement the de
 
 To insert this block in other documents, just click on "Express Blocks" - "AutoText" and select the saved template to insert.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4.3. Excel signature line
 
 You can also use a signature line in Excel to insert a signature with properties. To add it to your document, click "Insert" - "Signature string". After that, a field will appear in which you need to enter the position, name, address and a signature. Fill out all the fields, click OK.
 
 A digital certificate is required for signing. Excel offers to get it from your partners, you can also order an individual digital certificate in the appropriate institution.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5. How to sign a document in Excel on Mac
 
 To put an electronic signature in Excel on Mac, you must follow these steps:
@@ -151,6 +172,9 @@ Now open the document you want to sign on Mac, go to "Tools" - "Add mark" - "Sig
 
 It is more convenient to sign documents online. Electronic signature has the same legal weight as the written one. But at the same time, online services allow you to do this in two clicks, without performing unnecessary actions, and also saving documents for sending to other users and parties to a contract or agreement.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6. References
 
 - [https://www.digisigner.com/free-electronic-signature/sign-document-online](https://secure.2checkout.com/order/product.php?PRODS=33729450&QTY=1&AFFILIATE=108875)
@@ -161,3 +185,57 @@ It is more convenient to sign documents online. Electronic signature has the sam
     data-ad-slot="1223367746"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-spiral-fabricator-package/"><u>[New] 2024 Approved  Spiral Fabricator Package</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences/"><u>[New] Game On  Essential Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-visual-impact-understanding-the-power-of-luts/"><u>[New] Unlock Visual Impact  Understanding the Power of LUTs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-decoding-booktoks-best-reads-for-today-writers-and-audiences-alike/"><u>[Updated] 2024 Approved  Decoding BookTok’s Best Reads for Today' Writers and Audiences Alike</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-seeking-solutions-why-no-facebook-videos-pop-up/"><u>[Updated] 2024 Approved  Seeking Solutions  Why No Facebook Videos Pop Up?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-effective-method-for-adding-music-to-facebook-iphone/"><u>[Updated] Effective Method for Adding Music to Facebook (iPhone)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-simple-steps-for-android-voice-recording-no-root/"><u>[Updated] Simple Steps for Android Voice Recording (No Root)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-eliminating-noise-methods-for-soundless-recording/"><u>2024 Approved  Eliminating Noise  Methods for Soundless Recording</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-foobar2000-wave-router/"><u>2024 Approved  Foobar2000 Wave Router</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reimagining-design-post-acid-pro-landscape/"><u>2024 Approved  Reimagining Design  Post-ACID Pro Landscape</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-clearer-zoomed-snapshots-on-snapchat-for-2024/"><u>Expert Tips for Clearer Zoomed Snapshots on Snapchat for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/fast-forward-your-footage-top-time-lapse-apps-for-mobile/"><u>Fast Forward Your Footage Top Time-Lapse Apps for Mobile</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v13-file-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.3 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v14-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.4 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v14-file-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.4 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v15-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.5 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v15-file-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.5 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v16-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.6 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v16-file-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.6 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v17-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.7 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v17-file-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.7 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v20-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v2.0 File</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v20-file-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v2.0 File | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to .csv files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-doc-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .doc file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-docm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .docm file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-docx-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .docx </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-docx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .docx file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-dot-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .dot file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-dotm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .dotm file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i add my signature to .dotx file</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2000-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2000 files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2003-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2003 files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2007 files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2010-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2010 files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2013-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2013 files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2016-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2016 files</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-excel-2019-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to Excel 2019 files</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-redmi-note-12-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Redmi Note 12 5G Through Google Earth?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-base-windows-to-high-end-win11-sleekness/"><u>In 2024, From Base Windows to High-End Win11 Sleekness</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-your-first-stride-into-snapseed-land/"><u>In 2024, Navigating Your First Stride Into Snapseed Land</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-optimizing-your-fb-video-ads-20-best-tips-for-success/"><u>In 2024, Optimizing Your FB Video Ads  20 Best Tips for Success</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-perfecting-slow-motion-videos-a-step-by-step-guidebook/"><u>In 2024, Perfecting Slow Motion Videos  A Step-by-Step Guidebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-insiders-guide-to-instagrams-music-licensing-policies/"><u>In 2024, The Insider’s Guide to Instagram's Music Licensing Policies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-guide-to-splice-video-editor-features-pricing-and-more/"><u>New In 2024, The Ultimate Guide to Splice Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/perfect-timing-for-instagram-loops-key-strategies-revealed/"><u>Perfect Timing for Instagram Loops  Key Strategies Revealed</u></a></li>
+</ul></div>
