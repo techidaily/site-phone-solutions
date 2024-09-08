@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"phone-solutions.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">17431</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18340</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">17431</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18340</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-xls-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png" alt="How do i add my signature to .xls files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2019-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg" alt="How to create a digital signature and certificate for Excel 2019 files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-xls-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
-                            How do i add my signature to .xls files
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2019-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
+                            How to create a digital signature and certificate for Excel 2019 files
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This article describes How do i add my signature to .xls files</p>
+                            <p>This article describes How to create a digital signature and certificate for Excel 2019 files</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:31:00 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:42 GMT+0800">
                 
                     2024-07-17
                 
@@ -773,7 +830,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-xls-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How do i add my signature to .xls files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2019-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How to create a digital signature and certificate for Excel 2019 files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -789,21 +846,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee45db635b3f848c5daefbda2.jpg" alt="How do i add my signature to .xlb files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2016-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg" alt="How to create a digital signature and certificate for Excel 2016 files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
-                            How do i add my signature to .xlb files
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2016-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
+                            How to create a digital signature and certificate for Excel 2016 files
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This article describes How do i add my signature to .xlb files</p>
+                            <p>This article describes How to create a digital signature and certificate for Excel 2016 files</p>
 
                         
                     </div>
@@ -811,7 +868,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:30:59 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:40 GMT+0800">
                 
                     2024-07-17
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How do i add my signature to .xlb files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2016-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How to create a digital signature and certificate for Excel 2016 files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-wpt-file-by-ldigisigner-sign-a-word-sign-a-word/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg" alt="How do i add my signature to .wpt file" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2013-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg" alt="How to create a digital signature and certificate for Excel 2013 files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-wpt-file-by-ldigisigner-sign-a-word-sign-a-word/">
-                            How do i add my signature to .wpt file
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2013-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
+                            How to create a digital signature and certificate for Excel 2013 files
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This article describes How do i add my signature to .wpt file</p>
+                            <p>This article describes How to create a digital signature and certificate for Excel 2013 files</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:30:57 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:39 GMT+0800">
                 
                     2024-07-17
                 
@@ -965,7 +1022,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-wpt-file-by-ldigisigner-sign-a-word-sign-a-word/">Read more<span class="seo-reader-text">How do i add my signature to .wpt file</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2013-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How to create a digital signature and certificate for Excel 2013 files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -981,21 +1038,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-wps-file-by-ldigisigner-sign-a-word-sign-a-word/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg" alt="How do i add my signature to .wps file" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2010-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg" alt="How to create a digital signature and certificate for Excel 2010 files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-wps-file-by-ldigisigner-sign-a-word-sign-a-word/">
-                            How do i add my signature to .wps file
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2010-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
+                            How to create a digital signature and certificate for Excel 2010 files
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This article describes How do i add my signature to .wps file</p>
+                            <p>This article describes How to create a digital signature and certificate for Excel 2010 files</p>
 
                         
                     </div>
@@ -1003,7 +1060,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:30:56 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:38 GMT+0800">
                 
                     2024-07-17
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-wps-file-by-ldigisigner-sign-a-word-sign-a-word/">Read more<span class="seo-reader-text">How do i add my signature to .wps file</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2010-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How to create a digital signature and certificate for Excel 2010 files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg" alt="How do i add my signature to .wpd file" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812872b9ea8cbcc32ac61bea57.jpg" alt="How to create a digital signature and certificate for Excel 2007 files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/">
-                            How do i add my signature to .wpd file
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
+                            How to create a digital signature and certificate for Excel 2007 files
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This article describes How do i add my signature to .wpd file</p>
+                            <p>This article describes How to create a digital signature and certificate for Excel 2007 files</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:30:54 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:36 GMT+0800">
                 
                     2024-07-17
                 
@@ -1157,7 +1214,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-wpd-file-by-ldigisigner-sign-a-word-sign-a-word/">Read more<span class="seo-reader-text">How do i add my signature to .wpd file</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2007-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How to create a digital signature and certificate for Excel 2007 files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1173,21 +1230,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-word-by-ldigisigner-sign-a-word-sign-a-word/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg" alt="How do i add my signature to Word" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2003-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg" alt="How to create a digital signature and certificate for Excel 2003 files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-word-by-ldigisigner-sign-a-word-sign-a-word/">
-                            How do i add my signature to Word
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2003-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
+                            How to create a digital signature and certificate for Excel 2003 files
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>Free Word signature service to sign Word online. Add signature to Word documents with our Word signer. No registration or installation required | DigiSigner</p>
+                            <p>This article describes How to create a digital signature and certificate for Excel 2003 files</p>
 
                         
                     </div>
@@ -1195,7 +1252,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:30:53 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:34 GMT+0800">
                 
                     2024-07-17
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-word-by-ldigisigner-sign-a-word-sign-a-word/">Read more<span class="seo-reader-text">How do i add my signature to Word</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2003-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How to create a digital signature and certificate for Excel 2003 files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-word-2023-by-ldigisigner-sign-a-word-sign-a-word/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg" alt="How do i add my signature to Word 2023" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2000-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg" alt="How to create a digital signature and certificate for Excel 2000 files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-word-2023-by-ldigisigner-sign-a-word-sign-a-word/">
-                            How do i add my signature to Word 2023
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2000-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
+                            How to create a digital signature and certificate for Excel 2000 files
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This article describes How do i add my signature to Word 2023</p>
+                            <p>This article describes How to create a digital signature and certificate for Excel 2000 files</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:30:52 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:33 GMT+0800">
                 
                     2024-07-17
                 
@@ -1349,7 +1406,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-word-2023-by-ldigisigner-sign-a-word-sign-a-word/">Read more<span class="seo-reader-text">How do i add my signature to Word 2023</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-for-excel-2000-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How to create a digital signature and certificate for Excel 2000 files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1365,21 +1422,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-word-2021-by-ldigisigner-sign-a-word-sign-a-word/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg" alt="How do i add my signature to Word 2021" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg" alt="How to create a digital signature and certificate for .csv files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-word-2021-by-ldigisigner-sign-a-word-sign-a-word/">
-                            How do i add my signature to Word 2021
+                        <a href="/how-to-create-a-digital-signature-and-certificate-for-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/">
+                            How to create a digital signature and certificate for .csv files
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This article describes How do i add my signature to Word 2021</p>
+                            <p>This article describes How to create a digital signature and certificate for .csv files</p>
 
                         
                     </div>
@@ -1387,7 +1444,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:30:50 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:32 GMT+0800">
                 
                     2024-07-17
                 
@@ -1445,7 +1502,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-word-2021-by-ldigisigner-sign-a-word-sign-a-word/">Read more<span class="seo-reader-text">How do i add my signature to Word 2021</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-for-csv-files-by-ldigisigner-sign-a-excel-sign-a-excel/">Read more<span class="seo-reader-text">How to create a digital signature and certificate for .csv files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1461,21 +1518,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-word-2019-by-ldigisigner-sign-a-word-sign-a-word/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg" alt="How do i add my signature to Word 2019" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-by-ldigisigner-sign-a-word-sign-a-word/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg" alt="How to create a digital signature and certificate" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-word-2019-by-ldigisigner-sign-a-word-sign-a-word/">
-                            How do i add my signature to Word 2019
+                        <a href="/how-to-create-a-digital-signature-and-certificate-by-ldigisigner-sign-a-word-sign-a-word/">
+                            How to create a digital signature and certificate
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This article describes How do i add my signature to Word 2019</p>
+                            <p>Free .docx signature service to sign .docx online. Add signature to .docx documents with our .docx signer. No registration or installation required | DigiSigner</p>
 
                         
                     </div>
@@ -1483,7 +1540,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:30:49 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:30 GMT+0800">
                 
                     2024-07-17
                 
@@ -1541,7 +1598,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-word-2019-by-ldigisigner-sign-a-word-sign-a-word/">Read more<span class="seo-reader-text">How do i add my signature to Word 2019</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-by-ldigisigner-sign-a-word-sign-a-word/">Read more<span class="seo-reader-text">How to create a digital signature and certificate</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1557,21 +1614,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-do-i-add-my-signature-to-word-2016-by-ldigisigner-sign-a-word-sign-a-word/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg" alt="How do i add my signature to Word 2016" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-create-a-digital-signature-and-certificate-by-ldigisigner-sign-a-pdf-sign-a-pdf/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg" alt="How to create a digital signature and certificate" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-do-i-add-my-signature-to-word-2016-by-ldigisigner-sign-a-word-sign-a-word/">
-                            How do i add my signature to Word 2016
+                        <a href="/how-to-create-a-digital-signature-and-certificate-by-ldigisigner-sign-a-pdf-sign-a-pdf/">
+                            How to create a digital signature and certificate
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This article describes How do i add my signature to Word 2016</p>
+                            <p>Free PDF signature service to sign PDF online. Add signature to PDF documents with our PDF signer. No registration or installation required | DigiSigner</p>
 
                         
                     </div>
@@ -1579,7 +1636,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Jul 17 2024 17:30:48 GMT+0800">
+            <span class="home-article-date" data-date="Wed Jul 17 2024 17:50:29 GMT+0800">
                 
                     2024-07-17
                 
@@ -1637,7 +1694,7 @@
         
     </div>
 
-    <a href="/how-do-i-add-my-signature-to-word-2016-by-ldigisigner-sign-a-word-sign-a-word/">Read more<span class="seo-reader-text">How do i add my signature to Word 2016</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-create-a-digital-signature-and-certificate-by-ldigisigner-sign-a-pdf-sign-a-pdf/">Read more<span class="seo-reader-text">How to create a digital signature and certificate</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1647,7 +1704,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/877/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/876/">876</a><a class="page-number" href="/page/877/">877</a><span class="page-number current">878</span><a class="page-number" href="/page/879/">879</a><a class="page-number" href="/page/880/">880</a><span class="space">&hellip;</span><a class="page-number" href="/page/1744/">1744</a><a class="extend next" rel="next" href="/page/879/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/877/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/876/">876</a><a class="page-number" href="/page/877/">877</a><span class="page-number current">878</span><a class="page-number" href="/page/879/">879</a><a class="page-number" href="/page/880/">880</a><span class="space">&hellip;</span><a class="page-number" href="/page/1834/">1834</a><a class="extend next" rel="next" href="/page/879/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
