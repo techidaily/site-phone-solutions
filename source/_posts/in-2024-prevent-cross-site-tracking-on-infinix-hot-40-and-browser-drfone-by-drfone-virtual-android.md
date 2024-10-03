@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prevent Cross-Site Tracking on Infinix Hot 40 and Browser | Dr.fone
-date: 2024-09-23T23:22:09.321Z
-updated: 2024-09-27T17:22:05.666Z
+date: 2024-09-30T01:33:43.813Z
+updated: 2024-10-02T22:05:09.511Z
 tags: 
   - virtual location chang
   - location changer
@@ -68,21 +68,22 @@ Use the steps below to **turn off cross-site tracking on Safari** on your Mac sy
 - Step 3. Enable the “Prevent cross tracking” option by clicking on the box next to it.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Disable Cross-site Tracking on Google Chrome
 
 Chrome is used widely on Windows systems and Android devices, and to prevent the CST from your browser, a detailed guide is given below.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Enable “Do Not Track” on Google Chrome for Android
 
@@ -92,19 +93,6 @@ Chrome is used widely on Windows systems and Android devices, and to prevent the
 - Step 4. Click on the “Do Not Track” option to turn on the feature.
 
 ![stop cross-site tracking on android](https://images.wondershare.com/drfone/article/2022/03/prevent-cst-android.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Enable “Do Not Track” on Google Chrome for Computer
 
@@ -168,6 +156,19 @@ Preventing Cross-site tracking can be done on different browsers and devices usi
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Stop My Spouse from Spying on My Infinix Hot 40
 
 _You may trust your spouse – but does your spouse trust you?_
@@ -188,6 +189,13 @@ If you feel that your phone is running slow than usual then it might be hacked a
 
 ![spying on phones](https://images.wondershare.com/drfone/article/2022/03/spying-on-phone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. The battery is draining too fast
 
 Though battery drain can alone not be a sign of the phone being hacked as with time the life of the battery starts decreasing. Still, it can be one of the signs as the hacking apps and tools are resource-draining which in turn decreases the battery life.
@@ -195,6 +203,13 @@ Though battery drain can alone not be a sign of the phone being hacked as with t
 ### 3\. High data usage
 
 Since the spyware sends a lot of the Infinix Hot 40 device information to the hacker using the internet connection, the phone will experience high usage of data.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Monitoring your mail, email, phone calls, and/or text messages
 
@@ -231,6 +246,13 @@ These are the legitimate apps that can be downloaded from the App store on your 
 
 ![remove spyware](https://images.wondershare.com/drfone/article/2022/03/remove-spyware.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This is one of the most widely used methods where the software or an app is installed on the Infinix Hot 40 device to retrieve the Infinix Hot 40 device data. The victim partner is unaware of any such apps installed on their device and the data is sent to the hacking partner. A wide range of these spyware tools is available in the market in different price brackets. These spyware apps can retrieve data like chats, call details, messages, browsing history, passwords, and much more.
 
 ## Part 3: How should I respond when I learn my spouse is spying on me?
@@ -240,6 +262,19 @@ So, now when you are sure that you are being spied on by your partner, what is t
 ### Response 1: Reassure your partner and gain the trust
 
 Firstly, if you know that you are not doing anything wrong or want to prove your worth, let your spouse keep tracking you. In the end, when your spouse will not find anything suspicious about your activities and your location, he/she will know that you are right. Moreover, you can even install a GPS on your phone that you’re so that your spouse is aware of your whereabouts all the time, and when nothing suspicious will be found out he will stop spying on you.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Response 2: Stop your spouse from spying on you by actionable methods
 
@@ -278,13 +313,6 @@ You can check out this video for further instruction.
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Steps to change device location using Dr. Fone-Virtual Location**
 
 **Step 1.** Download, install and launch the software on your system. From the main interface choose the “**Virtual Location**” tab.
@@ -299,13 +327,6 @@ You can check out this video for further instruction.
 
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4.** Now, click on the “**teleport mode**” icon present on the upper-right side. At the upper-left field enter the desired location where you wish to teleport to and then click on the **Go** button.
 
 ![search a location on virtual location and go](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -317,6 +338,13 @@ You can check out this video for further instruction.
 **Method 3: Take advantage of anti-spyware software**
 
 Another way to stop your spouse from spying on you is by using anti-spy software. Just like spy software sends your location and other information to the hacking spouse, an anti-spyware tool will prevent tracking your device and will prevent from sharing your device information like calls, messages, and others. There are several anti-spyware tools for Android and iOS available in the market and some of the popular ones are Mobile Security & Anti-Theft Protection, iAmNotified, Avira Mobile Security, Cell Spy Catcher, Lookout, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Response 3: Seek a Divorce
 
@@ -352,13 +380,6 @@ In this article, you will get to know exactly how to fake location on iPhone and
 
 ![itoolab anygo](https://images.wondershare.com/drfone/article/2022/07/fix-itoolab-anygo-not-working-issue.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This app is a GPS spoofing app that changes location on iPhone anywhere around the globe. But the fun part with this app is that now you can gain access to the location-based games and apps that you normally could not access. This opens gates to endless possibilities where you can watch any TV show, download any location-based app, and play games. In short, this app removes any geo-based restrictions on you without jailbreaking your phone.
 
 Here are some prominent pros of the app in a nutshell:
@@ -372,13 +393,6 @@ Here are some prominent pros of the app in a nutshell:
 And here are some of the drawbacks:
 
 - It is difficult to change locations multiple times and your account may also suspend.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. How to fix the iToolab AnyGo not working issue?
 
@@ -430,13 +444,6 @@ So much of the talk. If you are wondering how to use Dr.Fone - Virtual Location 
 
 - The joystick feature is located in the teleport option at the upper-right corner in the 5th location.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to simulate movement along the route using 2 spot location
 
 - Go to “One-Stop mode” at the corner on top.
@@ -460,13 +467,6 @@ So much of the talk. If you are wondering how to use Dr.Fone - Virtual Location 
 - Now hit “teleport mode” at the top right. Enter your desired teleport located and hit the “Go” icon. Let's visit Rome for this example.
 - You have successfully teleported to Rome. Click “Move Here”
 - Now your location is fixed to Rome.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to add your route as a favorite
 
@@ -502,19 +502,22 @@ If you are experiencing issues in the app and thinking iToolab AnyGo not working
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-behind-the-scenes-recording-your-facebook-live-stream/"><u>[New] In 2024, Behind the Scenes Recording Your Facebook Live Stream</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-zte-axon-40-lite-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset ZTE Axon 40 Lite Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-infinix-note-30-vip-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Infinix Note 30 VIP</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-vivo-t2-pro-5g-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-pova-5-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Pova 5</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-se-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone SE to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C22? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-innovating-advertising-on-facebook-the-most-effective-videography/"><u>In 2024, Innovating Advertising on Facebook The Most Effective Videography</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/maximize-your-cam-flagship-gear-with-ease-for-2024/"><u>Maximize Your Cam Flagship Gear with Ease for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/turn-zip-into-srt-a-step-by-step-conversion-process-for-2024/"><u>Turn ZIP Into SRT A Step-by-Step Conversion Process for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-smart-choice-essential-steps-in-upgrading-your-tech-for-2024/"><u>[New] The Smart Choice Essential Steps in Upgrading Your Tech for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-call-of-duty-black-ops-cold-war-stability-fix-for-pc-users/"><u>[RESOLVED] Call of Duty: Black Ops Cold War Stability Fix for PC Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-asus-proart-pa-329q-professional-4k-monitor-review/"><u>[Updated] Asus ProArt PA 329Q Professional 4K Monitor Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-onscreen-excellence-video-talent-licensing/"><u>[Updated] Onscreen Excellence Video Talent Licensing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-ultimate-fidelity-in-mac-screen-and-audio-recording-for-2024/"><u>[Updated] Ultimate Fidelity in Mac Screen & Audio Recording for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-efficient-ways-to-archive-facetime-chats/"><u>2024 Approved Efficient Ways to Archive FaceTime Chats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 15 Pro Max | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-90-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to 90 Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Poco F5 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-phantom-v-fold-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Phantom V Fold? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-v30-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo V30 ProFRP Lock</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/reclaiming-restoring-lost-bluetooth-on-pc/"><u>Reclaiming: Restoring Lost Bluetooth on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-for-identifying-your-steam-user-number/"><u>Strategies for Identifying Your Steam User Number</u></a></li>
 </ul></div>
 

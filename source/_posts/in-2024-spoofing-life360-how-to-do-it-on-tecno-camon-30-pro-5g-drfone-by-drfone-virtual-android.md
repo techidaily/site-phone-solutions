@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Tecno Camon 30 Pro 5G? | Dr.fone
-date: 2024-09-26T19:42:20.638Z
-updated: 2024-09-27T20:12:59.496Z
+date: 2024-09-30T04:13:20.578Z
+updated: 2024-10-02T22:26:51.664Z
 tags: 
   - virtual location chang
   - location changer
@@ -67,13 +67,6 @@ Take your iPhone now and connect it to the computer. Hit on "Get Started" once t
 
 ![go to virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Find the Current Virtual Location**
 
 You will be shown a map on the next screen. Here, you can find your current virtual location. If the location is not showing, click on the "Current Virtual Location" icon that can be discovered at the lower right part.
@@ -116,6 +109,13 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 **Step 4:** Now, enter the lock code when asked and the developer options will be enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step by Step Guide on how to fake your location on Life360 with Android Spoofer
 
 **Step 1:** Now that you have turned on the developer options, you can visit the Play Store and look for Fake GPS Location app. Install it on your phone.
@@ -123,6 +123,13 @@ Before you get the app worked, here is a requirement you need to follow. The req
 **Step 2:** Once installed, again go to "Settings" > "System" > "Developer Options". Look for the "Select mock location app" and tap on it.
 
 ![select mock location app from settings](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Choose the Fake GPS app as the mock location app.
 
@@ -133,6 +140,13 @@ Before you get the app worked, here is a requirement you need to follow. The req
 ![new location on Life360](https://images.wondershare.com/drfone/article/2019/11/fake-location-android.jpg)
 
 _If you want to find an easier way to [fake location on life360 Android](https://drfone.wondershare.com/virtual-location/spoof-life360.html#part3), you can also try to use Dr.Fone - Virtual Location(iOS/Android)._
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -165,6 +179,13 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 **Step 1:** At the lower right corner, hit on "Settings".
 
 ![settings of Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Now, go to the Circle Switcher at the top and pick out the circle you wish not to share locations with.
 
@@ -210,13 +231,6 @@ You can also make use of this app to spoof your location while playing location 
 
 ![spoof your location ](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: About Fake GPS GO Location Spoofer
 
 The Fake GPS Go Location Spoofer is the best app to trick the location details on the online space. This app implements the strategy promptly to acquire flawless results. The basic idea behind the fake GPS concept is that a false coordinates with respect to the Tecno Camon 30 Pro 5G device on the space recorded to the cyber grounds hiding the original location details.
@@ -254,6 +268,13 @@ This app is helpful while playing games related to location. You can mock your f
 - Ease Installation and setup process
 - Flexible and customizable
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Against Voices on Fake GPS GO Location Spoofer
 
 There exist disappointed users struggling to understand this app. The user’s face issues only if they were not able to follow the instructions promptly provided by the development team of Fake GPS Go Location Spoofer.
@@ -274,9 +295,23 @@ Step 1: Go to the Google Play Store and type ‘Fake GPS Go Location Spoofer’ 
 
 ![search Fake GPS Go Location Spoofer](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Soon after the successful download tap ‘Open’ button.
 
 ![click open button](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Allow the app to access the Tecno Camon 30 Pro 5G device’s location
 
@@ -299,13 +334,6 @@ Step 6: inside the ‘Select mock location app’, you have to click the ‘Fake
 Step 7: Now go to the ‘Fake GPS Go Location’ app and select your favourite spot on the map. Then press the ‘Play’ button. Select ‘Without Ads’ option to implement the changes accordingly.
 
 ![play button](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![select the no-ads option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-12.jpg)
 
@@ -365,13 +393,6 @@ Tricking the location by Fake GPS Go location spoofer can come in handy under ma
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mode 1: Teleport Anywhere
 
 Step 1: To work with this **_Fake GPS Go’s_** alternative, install and launch it on PC. Click “Virtual Location” tab on the main screen.
@@ -406,19 +427,6 @@ Step 2: The slider located below the screen needs to be dragged to set the speed
 
 ![choose cycling speed or the speed you want](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Next, key in a number that will define the number of times you want to travel the route back and forth. Hit “March” option.
 
 ![define the number](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
@@ -426,13 +434,6 @@ Step 3: Next, key in a number that will define the number of times you want to t
 Step 4: Now, the position will be seen moving as per the chosen speed on the map. And this is how you can fake the movement sans **_Fake GPS Go apk_**.
 
 ![moving as per the chosen speed](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 3: Simulate Route Movement for Multiple Locations
 
@@ -445,13 +446,6 @@ Step 2: The pop-up will show the distance where you need to hit the “Move Here
 Step 3: Enter a digit for how many times you want to take route and click “March”. This will begin the movement simulation.
 
 ![digit for how many times to move](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -489,6 +483,13 @@ Once you have connected your smartphone, continue to select the **Teleport Mode*
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2Add Location To Teleport
 
 After activating **Teleport Mode,** click the search bar on the top-left to type in the location where you want to shift. After adding the location, hit **Enter** to proceed.
@@ -514,13 +515,6 @@ Step 5Location Changed On the Smartphone
 Open your smartphone and access its maps application. Look into the current location of the Tecno Camon 30 Pro 5G device and verify it to be the same as the changed location on the computer.
 
 ![confirm location on the smartphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: Instantaneous Movement Between Multiple Points (Jump Teleport Mode)
 
@@ -558,21 +552,24 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-how-to-maximize-income-a-simplified-3-step-process-for-youtube-revenue-monitoring/"><u>[New] 2024 Approved How To Maximize Income A Simplified 3-Step Process for YouTube Revenue Monitoring</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-pro-gif-designers-picks-online-vs-desktop-platforms/"><u>[New] 2024 Approved Pro-Gif Designers' Picks Online vs Desktop Platforms</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-5-best-bandicam-mac-alternatives-for-2024/"><u>[Updated] 5 Best Bandicam Mac Alternatives for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-free-tools-make-screencapture-a-breeze-for-tv-lovers/"><u>[Updated] In 2024, Free Tools Make ScreenCapture a Breeze for TV Lovers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-quality-8-cam-transformations-for-streaming/"><u>2024 Approved High-Quality 8 Cam Transformations for Streaming</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-motorola-edgeplus-2023-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Motorola Edge+ (2023) Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Redmi Note 12T Pro?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comparing-sling-orange-and-sling-blue-features-accessories-and-user-preferences/"><u>Comparing Sling Orange and Sling Blue - Features, Accessories, and User Preferences</u></a></li>
-<li><a href="https://facebook.techidaily.com/earning-potential-for-creators-metas-impact-on-reel-money-making/"><u>Earning Potential for Creators: Meta's Impact on Reel Money-Making</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-infinix-note-30-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Infinix Note 30</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-restore-landscape-mode-functionality-when-iphones-wont-rotate-the-screen/"><u>How to Restore Landscape Mode Functionality When iPhones Won't Rotate the Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y100-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y100 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-essence-of-burst-in-gopro-filming-techniques-for-2024/"><u>The Essence of Burst in GoPro Filming Techniques for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-best-cameras-for-pixel-art-animation/"><u>[New] Best Cameras for Pixel Art Animation</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>[Updated] In 2024, The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-enhancing-engagement-creating-top-tier-fb-ad-videos/"><u>2024 Approved Enhancing Engagement Creating Top-Tier FB Ad Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723262316054-amds-ryzen-9000-now-available-on-best-buy-prices-slashed-below-launch-rates-of-previous-ryzen-models/"><u>AMD's Ryzen 9000 Now Available on Best Buy: Prices Slashed Below Launch Rates of Previous Ryzen Models</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-motorola-g24-power-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Motorola G24 Power</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-magic-vs-2-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor Magic Vs 2</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-lava-yuva-3-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Lava Yuva 3</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/effortlessly-upload-your-imovie-masterpieces-to-vimeo/"><u>Effortlessly Upload Your iMovie Masterpieces to Vimeo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-cannot-paste-the-data-error-in-microsoft-excel-2000-by-stellar-guide/"><u>Fix Cannot Paste the Data Error in Microsoft Excel 2000</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-back-on-call-in-fortnite-swift-remedies-for-non-functioning-voice-chat/"><u>Get Back on Call in Fortnite: Swift Remedies for Non-Functioning Voice Chat</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-google-pixel-8-easily-by-drfone-android/"><u>In 2024, How To Unlock a Google Pixel 8 Easily?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oneplus-11r-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On OnePlus 11R? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-reno-10-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo Reno 10 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/regain-facebook-entry-the-password-reset-manual/"><u>Regain Facebook Entry: The Password Reset Manual</u></a></li>
 </ul></div>
 

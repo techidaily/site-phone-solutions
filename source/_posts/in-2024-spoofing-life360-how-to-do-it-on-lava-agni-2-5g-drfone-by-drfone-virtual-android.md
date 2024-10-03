@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Lava Agni 2 5G? | Dr.fone
-date: 2024-09-16T21:32:34.132Z
-updated: 2024-09-19T21:11:18.073Z
+date: 2024-09-30T19:05:51.421Z
+updated: 2024-10-02T19:17:42.467Z
 tags: 
   - virtual location chang
   - location changer
@@ -73,6 +73,13 @@ You will be shown a map on the next screen. Here, you can find your current virt
 
 ![find your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: Enable Teleport Mode**
 
 You could observe the five icons at the top right of the screen. You need to click on the first icon which is to activate the Teleport Mode. After this, you can enter the place that you wish to teleport and press "Go".
@@ -85,11 +92,31 @@ The program will make sure to recognize the place you have entered. A pop-up box
 
 ![ use fake location on Life360](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here is a video guide that helps you to fake your GPS location on Life360.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
 **3,255,164**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to Fake Location on Life360 Android
 
@@ -116,6 +143,19 @@ Before you get the app worked, here is a requirement you need to follow. The req
 **Step 2:** Once installed, again go to "Settings" > "System" > "Developer Options". Look for the "Select mock location app" and tap on it.
 
 ![select mock location app from settings](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Choose the Fake GPS app as the mock location app.
 
@@ -189,16 +229,16 @@ Wondershare Dr.Fone - Virtual Location is a tool that allows users to spoof actu
 
 Disabling Wi-Fi on your iPhone might limit the accuracy of your location for Life360. However, Life360 can still track your location using cellular data and GPS. Turning off Wi-Fi alone might not entirely stop Life360 from tracking your location. It is especially true if other location services are still active on your device. To prevent tracking, you might need to adjust settings within your device's location services.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Final Words
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How To Use Special Features  - Virtual Location On Lava Agni 2 5G?
 
@@ -206,18 +246,18 @@ Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershar
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/0vZMOJ4Nedc" frameborder="0" allowfullscreen=""></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Part 1: Circle Route (For Multi-Stop Route)
 
 The circle route feature is under the multi-stop route mode. When your starting point is close to the ending point, a pop-up asks if you want to set up a circle route. Click **Yes** to create a circular path on the map.
 
 ![try setting a circle route](https://images.wondershare.com/drfone/guide/circle-route.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 2: Realistic Mode (For One-Stop Route and Multi-Stop Route)
 
@@ -230,6 +270,13 @@ This particular feature makes the simulation look realistic with the ability to 
 Whenever you are teleporting your smartphone device to another location, you can try using the fluctuation mode feature offered against it. As you activate **Teleport Mode** from the top-right section and search for a location, you will discover the **Fluctuation Mode** toggle in the confirmation tab. Turn on the toggle to slightly switch the location from the selected point to show realistic motion.
 
 ![apply fluctuation mode](https://images.wondershare.com/drfone/guide/fluctuation-mode.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 4: Cooldown Timer (For Teleport Mode and Jump Teleport Mode)
 
@@ -256,6 +303,13 @@ Step 2Import a GPX File
 For importing a GPX file on the platform, click the **Import** button on the right pane. As this opens a window, select the GPX file you wish to import to the platform.
 
 ![import gpx file to the platform](https://images.wondershare.com/drfone/guide/import-gpx.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3Wait for the File to be Read
 
@@ -295,13 +349,6 @@ To look for your favorite locations, look for the **Favorite** icon on the right
 
 ![search for favorite locations](https://images.wondershare.com/drfone/guide/search-favorites.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Dose Life360 Notify Me When Someone Checks My Location On Lava Agni 2 5G?
 
 Have you ever had your phone stolen and someone got to see where you live? Did you want to know so you could file a police report and get it back before they try to sell it?
@@ -309,13 +356,6 @@ Have you ever had your phone stolen and someone got to see where you live? Did y
 You probably also have many applications installed, such as WhatsApp, Google maps, Facebook, etc. So how do you get notifications from all these apps without having to check each one individually?
 
 Life360 can help. It is a location-based app that lets you check the location of your device, your family members, and even your friends via push notifications. Does life360 tell you when someone checks your location? Read to learn more.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How Does Life360 Work?
 
@@ -405,13 +445,6 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 ![open feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** You'll be presented with a new window called "Virtual Location."
 
 ![start location faking](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -452,5 +485,16 @@ Can you tell when someone checks your location on life360? To stay safe, you sho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-discover-the-top-10-iosandroid-vr-games/"><u>[Updated] Discover the Top 10 iOS/Android VR Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-film-transfer-with-official-winx-dvd-ripper-platinum-hd-mp4-ripping-h264-in-minutes/"><u>Effortless Film Transfer with Official WinX DVD Ripper Platinum - HD MP4 Ripping (H.264) In Minutes!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v15-file-stellar-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.5 File | Stellar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-advanced-directors-toolkit-powerdirector-24/"><u>In 2024, Advanced Directors' Toolkit PowerDirector '24</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-15-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone 15? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/prodigious-story-making-worlds-top-8-institutions/"><u>Prodigious Story Making World's Top 8 Institutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-woes-decode-and-repair-dev-error-5573-on-your-gaming-devices/"><u>Warzone Woes? Decode and Repair Dev Error 5573 on Your Gaming Devices</u></a></li>
+</ul></div>
 

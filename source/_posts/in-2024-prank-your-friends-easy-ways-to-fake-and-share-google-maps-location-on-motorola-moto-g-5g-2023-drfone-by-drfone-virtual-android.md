@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Moto G 5G (2023) | Dr.fone
-date: 2024-09-13T19:51:33.716Z
-updated: 2024-09-19T20:34:11.675Z
+date: 2024-09-28T16:57:48.640Z
+updated: 2024-10-02T17:07:13.294Z
 tags: 
   - virtual location chang
   - location changer
@@ -26,6 +26,13 @@ Google Maps is a virtual map for mobile and PC use. With it, you can check route
 ## Part 1: How to Fake or Spoof Your Location in Google Maps?
 
 You may think I should be turning off the location setting and wifi services to show fake locations on google maps. Well, I tried this, but it did not work, unfortunately. Google Maps can still track me. This is because Google Maps can use the signal strength of cell towers around me to guess my location, and believe me, this guess is usually very accurate. Also, the IP of the phone can be used. Here, we provide two effective methods for you to fake and change location in Google Maps at ease.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 1: Spoof location in Google Maps with a tool for both iOS and Android
 
@@ -175,13 +182,6 @@ To turn off the History, stick to the same icon of settings, and from the system
 
 Start with opening the "Find My" app on your Motorola Moto G 5G (2023) and choose the "People" tab. Select share my location and enter the name or number of the person you wish to share your location with. In the end, tap send and share your site with someone you want to share.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Words
 
 We've discussed the fake Google maps location through different methods in this detailed guide. Android and iOS users can use various apps to fake their location. For iOS users, [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a perfect choice to spoof Google maps location without doing much work. Sharing fake locations in Google maps is a straightforward thing to do. Whether you want to use it to prank your friends, otherwise, you may have a more serious reason. By following the above steps outlined in this article, you will convince Google that you are anywhere within the world.
@@ -195,6 +195,13 @@ Pokémon Go is the phenomenon that hit us in 2016 and made us obsessed with the 
 Pokémon Go relies on GPS coordinates and real-time tracking to let players catch Pokémon s in real locations. Hence, spoofing comes to the discussion of "catching them all."
 
 'Spoofing' location makes your phone, and thereby the game thinks that you're in another location, which opens up the possibility to catch new and rare Pokémon s from gyms and PokeStops around the world.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 1: Is Pgsharp legal?**
 
@@ -224,13 +231,6 @@ So, ****is PGSharp legal?**** No, Spoofing location, in general, is illegal. H
 1. **PGSharp :**
 
 ![pgsharp-interface](https://images.wondershare.com/drfone/2020/202010/pgsharp-interface.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 PGSharp is one of the most reliable ways to spoof your location while playing Pokémon Go. Niantic does not easily recognize its simple map-like UI as a fake location app.
 
@@ -289,6 +289,13 @@ Step 3: Enable the "teleport mode" by the third icon in the right-upper corner o
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Now select "Move here." And you will have successfully spoofed your location on your iOS device. To confirm, open the maps app on your device.
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -310,13 +317,20 @@ In the present day, there’s barely any webpage or app that may not require you
 
 ![Geological location access](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For instance, there are several apps that only work in the US and not outside of it. But there is workaround for it too. You can actually make the app “think” that your Geological location is somewhere in US currently, instead of where you actually are. You can achieve this with a powerful vpna fake gps location apk. You may now wonder, hot to set it up and make use of it. So, without much delay, let’s now understand step by step tutorial on vpna fake gps location.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1. About VPNa
@@ -379,13 +393,6 @@ Step 2: Enable Mock Location on Android
 
 ![Select Mock location App](https://images.wondershare.com/drfone/article/2019/09/vpna-fake-gps-location-free-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Search for a fake location and get started
 
 - As soon as the fundamentals are set in place, you’re all ready to get started. Simply, hit the back button while on Developer Settings screen to get back into the vpna fake gps location app.
@@ -422,6 +429,13 @@ Step 2: Establish connection between iPhone and PC. Click on “Get Started” r
 
 ![get started with faking location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: You will be able to see the actual location on the map. Or you can hit “Center On” icon at the right side to get the accurate location displayed.
 
 ![hit Center On](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -429,6 +443,13 @@ Step 3: You will be able to see the actual location on the map. Or you can hit �
 Step 4: Click on the “Teleport mode” which can be found as the first icon at the upper right corner. Put the place to teleport and hit on “Go” button.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: A pop up will appear once the system gets the place you want. From that pop-up, hit "Move Here" button.
 
@@ -448,6 +469,13 @@ Step 3: Now, you need to set the speed for how fast you wish to travel. You can 
 
 ![choose walk, cycling speed or car speed](https://images.wondershare.com/drfone/guide/virtual-location-08.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: In the next pop-up, you are supposed to enter the number defining the number of times you wish to move between the two places. Once this gets done, click “March”.
 
 ![move between the two places](https://images.wondershare.com/drfone/guide/virtual-location-09.png)
@@ -455,13 +483,6 @@ Step 4: In the next pop-up, you are supposed to enter the number defining the nu
 Step 5: The simulation of the movement will now begin and you can track the position being moved with the selected mode of speed.
 
 ![track the position](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mode 3: Simulate Movement for Multiple Places
 
@@ -493,5 +514,21 @@ That was a completed tutorial about the vpna fake gps location apk, starting fro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-nokia-c12-plus-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Nokia C12 Plus Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-assistants-crafting-your-itinerary-for-free-with-top-7-travel-aids/"><u>AI Assistants: Crafting Your Itinerary for FREE with Top 7 Travel Aids</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-c55-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme C55</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-infinix-note-30-pro-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-auditory-aesthetics-for-slides-infusing-your-ppt-with-tunes/"><u>In 2024, Auditory Aesthetics for Slides Infusing Your PPT with Tunes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-key-to-staying-put-mastering-6-viewer-friendly-genres/"><u>In 2024, The Key to Staying Put Mastering 6 Viewer-Friendly Genres</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/movie-magic-for-2024/"><u>MicroMovie Magic for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-ezvid-for-mac-the-ultimate-slideshow-and-video-making-solution/"><u>New Ezvid for Mac The Ultimate Slideshow and Video Making Solution</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/silent-screen-mastery-proven-techniques-for-noise-free-recording-for-2024/"><u>Silent Screen Mastery Proven Techniques for Noise-Free Recording for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oppo-f25-pro-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Oppo F25 Pro 5G Unresponsive Screen | Dr.fone</u></a></li>
+</ul></div>
 

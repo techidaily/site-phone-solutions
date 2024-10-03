@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Infinix Note 30? | Dr.fone
-date: 2024-09-21T16:40:36.298Z
-updated: 2024-09-27T21:03:17.632Z
+date: 2024-09-25T17:27:41.044Z
+updated: 2024-10-02T17:26:50.303Z
 tags: 
   - virtual location chang
   - location changer
@@ -34,13 +34,6 @@ After the app gets installed, you can create a circle, which in other languages 
 Using this app then, you can simply see the location of the other members as well as get notifications named Place Alerts. These notifications will tell you whether a user has arrived or left the selected location. This can be helpful if you are a parent and want your children to reach safely at a desired place.
 
 Moreover, with the help of Life360, a user can easily control the ‘Check-in’ according to which he or she sends the alert to the circle to know them the exact location. You can also get to see the location history of the members to know their past locations.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Why Do People Hate Being Tracked by Life360?
 
@@ -124,29 +117,22 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 ![select mock location app from settings](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Choose the Fake GPS app as the mock location app.
 
 ![set Fake GPS app](https://images.wondershare.com/drfone/article/2019/11/select-app-android.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Open the app now and choose the location you wish to fake and hit on the Play button. This was **how to fake your location on Life360** on Android device.
 
 ![new location on Life360](https://images.wondershare.com/drfone/article/2019/11/fake-location-android.jpg)
 
 _If you want to find an easier way to [fake location on life360 Android](https://drfone.wondershare.com/virtual-location/spoof-life360.html#part3), you can also try to use Dr.Fone - Virtual Location(iOS/Android)._
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -160,14 +146,14 @@ _If you want to find an easier way to [fake location on life360 Android](https:/
 
 **3981454** people have downloaded it
 
-## Part 6: How to Stop Life360 from Tracking you
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 6: How to Stop Life360 from Tracking you
 
 ### 6.1 Use a burner phone
 
@@ -187,13 +173,6 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 
 ![settings of Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Now, go to the Circle Switcher at the top and pick out the circle you wish not to share locations with.
 
 **Step 3:** Hit on "Location Sharing".
@@ -207,10 +186,10 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 **Note:** When you disable or pause location for a particular group, your location can still be tracked by other circles. Make sure to choose all or as per your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -231,6 +210,13 @@ Wondershare Dr.Fone - Virtual Location is a tool that allows users to spoof actu
 
 Disabling Wi-Fi on your iPhone might limit the accuracy of your location for Life360. However, Life360 can still track your location using cellular data and GPS. Turning off Wi-Fi alone might not entirely stop Life360 from tracking your location. It is especially true if other location services are still active on your device. To prevent tracking, you might need to adjust settings within your device's location services.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Words
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
@@ -249,19 +235,6 @@ In AR games that come with GPS tracking software, they track the real motion of 
 - Some players can't travel in the first place for various reasons like financial constraints, health concerns, and current location.
 
 In these cases, using a **fake GPS route** helps simulate the location of players, so they can still take part without actually moving around.
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. 4 Effective Ways to Simulate GPS Movement On AR games?
 
@@ -315,9 +288,23 @@ Below is the video showcasing all steps necessary to simulate GPS movement while
 
 ![tap on the teleport mode icon](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4**: The software will automatically take your GPS location there. To confirm, press Move Here.
 
 ![press move here](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5**: The joystick will appear at the side. You can use this joystick to control your spoofed movement as you open other apps and try them out.
 
@@ -479,6 +466,13 @@ There are specific applications that allow you to spoof the location of your dev
 
 ![pokemon community day](https://images.wondershare.com/drfone/2020/202010/pokemon-community-day.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Check out websites: Certain websites throughout the internet occasionally offer free **iSpoofer Pro Plan** License **Keys**. Try to check them out from time to time, and someday you might be lucky to get a free **iSpoofer Pro Plan** License **Key**. One of such websites is [<u>http://www.spoofer.pro/</u>](http://www.spoofer.pro/).
 
 ![ispoofer pro](https://images.wondershare.com/drfone/2020/202010/ispoofer-pro.jpg)
@@ -509,16 +503,16 @@ A much better and safer way to spoof your iPhone location is to do it using Wond
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Connect your iPhone to your PC. via USB cord. Once your device is connected successfully, click on the "Get Started" button.
 
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. A new window will appear where the actual GPS location of your iPhone will be shown. If it is not accurately displayed, click on the "Center On" icon in the lower right part of the window to show the accurate location.
 
@@ -555,24 +549,20 @@ So, that was all about the article. We have discussed 3 simple tricks to get a f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-animtech-full-audit-24-summary-for-2024/"><u>[Updated] AnimTech Full Audit '24 Summary for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ffpm-demystified-your-guide-to-multi-tasking/"><u>[Updated] FFPM Demystified Your Guide to Multi-Tasking</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-depth-look-at-inshot-video-editing-powerhouse/"><u>[Updated] In-Depth Look at InShot Video Editing Powerhouse?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-superior-sound-capture-insiders-list-of-the-best-9-microphones-online-for-2024/"><u>[Updated] Superior Sound Capture Insider's List of the Best 9 Microphones Online for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-xiaomi-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Xiaomi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-lava-yuva-3-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-lifestyle-enhancement-through-strategic-chatgpt-integration/"><u>Complete Lifestyle Enhancement Through Strategic ChatGPT Integration</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-edge-40-pro-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Edge 40 Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-the-8-anomalies-in-windows-11s-ui/"><u>Dissecting the 8 Anomalies in Windows 11'S UI</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-tecno-spark-20-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Tecno Spark 20</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/ensure-reliability-update-printer-software-for-win7-users/"><u>Ensure Reliability: Update Printer Software for Win7 Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-add-my-signature-to-xlb-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i add my signature to .xlb files</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-itel-a60-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Itel A60 for Free? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Watch Hulu Outside US On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-techniques-for-common-doom-eternal-crashes/"><u>Ultimate Troubleshooting Techniques for Common DOOM Eternal Crashes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-asmr-apps-for-android-and-ios-you-should-know-for-2024/"><u>[New] Best ASMR Apps for Android and iOS You Should Know for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-image-magic-top-10-mobile-apps-with-stickers-on-iphones-and-androids/"><u>[New] Mastering Image Magic Top 10 Mobile Apps with Stickers on iPhones & Androids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-instagram-video-tricks-uncovered/"><u>2024 Approved Instagram Video Tricks Uncovered</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-meizu-21-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-oppo-reno-9a-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Oppo Reno 9A</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-tecno-pova-5-pro-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-v30-lite-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from V30 Lite 5G.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/flawless-dialogues-6-things-not-to-miss-in-gpt-conversations/"><u>Flawless Dialogues: 6 Things Not To Miss in GPT Conversations</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-motorola-g54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Motorola G54 5G?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-2023-guide-to-top-value-streaming-tools-for-all-platform-users/"><u>In 2024, The 2023 Guide to Top Value Streaming Tools for All Platform Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/propella-7s-40-evaluation-featherlight-and-agile-performance-at-a-great-price/"><u>Propella 7S 4.0 Evaluation: Featherlight & Agile Performance at a Great Price</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-troubleshoot-and-fix-realtek-alc887-sound-card-drivers-on-your-pc/"><u>Step-by-Step Guide to Troubleshoot and Fix Realtek ALC887 Sound Card Drivers on Your PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-your-web-experience-by-deploying-ai-agents-via-agentgpt-in-chromefirefox/"><u>Streamlining Your Web Experience by Deploying AI Agents via AgentGPT in Chrome/Firefox</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 10</u></a></li>
 </ul></div>
 
