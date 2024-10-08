@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A18 | Dr.fone
-date: 2024-09-25T22:58:03.293Z
-updated: 2024-10-03T03:29:36.017Z
+date: 2024-10-01T01:08:31.960Z
+updated: 2024-10-08T08:43:05.520Z
 tags: 
   - virtual location chang
   - location changer
@@ -57,13 +57,6 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![connect your phone with computers via Wi-Fi or an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** On the next window, you’ll find the world map on your screen, and the coordinates and directions are clear on the map. You need to click on the third icon called the “Teleport Mode” from the top right corner of your screen. Then type in the place's name in the search box where you want to change your location. There is also a way to pinpoint the area if you know it properly.
 
 ![choose your desired place to move](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -91,19 +84,6 @@ NordVPN includes additional features to stay ahead of Hulu’s VPN blocks. It ha
 - Speed Slower than ExpressVPN
 - Only one Japan server location
 - Unable to pay by PayPal
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. ExpressVPN
 
@@ -169,6 +149,13 @@ Or you can directly mark a location you wanna go to first, and tap the "Share" b
 
 ![send google location to others](https://images.wondershare.com/drfone/article/2022/02/send-google-location-to-others.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Also, follow the steps below if you are using an Android phone:
 
 - On your Oppo A18 or tablet, open the Google Maps app Google Maps.
@@ -177,14 +164,14 @@ Also, follow the steps below if you are using an Android phone:
 - Tap the Share icon. If you don't see this icon, tap More and then Share.
 - Choose the app where you want to share the link to the map.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: FAQ: All You Wanna Know about Location Changing on Your Oppo A18
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How can I add my favorite route as favorite?
 
@@ -209,6 +196,19 @@ We've discussed the fake Google maps location through different methods in this 
 ## Can Life360 Track You When Your Oppo A18 is off?
 
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Did you know that your Oppo A18 tracks your location even when turned off? And if you're a member of any social media network, it means you could be tracked. Do you like to have your privacy? Do you want to protect your kids from being tracked by strangers?
 
@@ -260,13 +260,6 @@ It has several other noticeable features that can help you in your daily life.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Setting Wi-Fi and Data Services to "Off."
 
 Another typical method kids use to prevent their parents from monitoring their position is to disable Life360's Wi-Fi and Data. It works like this. If you don't want applications updating in the background, enable power-saving mode.
@@ -286,13 +279,6 @@ Can you track a phone if the location is off? Life360 has become a standard feat
 People are very happy about Snapchat’s new Snap map feature. It lets you update your location on a map, so that you can know who else (in your friends circle) is in the same concert or attending the same seminar. Whenever you add a post to your stories, your bitmoji appears on the geo-tagged location on the map.
 
 ![snap map feature](https://images.wondershare.com/_thumbs/snap-map-feature-pic1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 This feature was good news for people who were wondering how to share location on snapchat with their friends. But there is more to this than your eyes are seeing. Even when you don’t upload any posts to the stories, snapchat is still revealing your location to all your friends, whether you want it or not. Everytime you open the app, your location is being compromised. You just need to agree to share your location once, and Snapchat takes it as an invite to share your location every single time you send a snap or simply open the app to look at others’ snaps.
 
@@ -316,26 +302,27 @@ There are a few tricks that you can use to hide your location from your friends 
 
 ![find bitmoji](https://images.wondershare.com/_thumbs/top-left-bitmoji-icon-pic3.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** The profile page will appear. Scroll to the bottom and you will find the Snapmap option there. Right below it will be a small arrow pointing to the right. Instead of clicking on the map, tap on thi arrow.
 
 ![location setting on snapchat](https://images.wondershare.com/_thumbs/location-settings-snapchat-pic4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** The Map and ‘My Location’ settings will open. There you will find the Ghost Mode. Enable the setting and you will see a dialogue box asking you to choose the duration of the Ghost Mode. Depending on what you want, choose your location.
 
 ![duration ghost mode](https://images.wondershare.com/_thumbs/ghost-mode-duration-pic5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you still don’t trust this Ghost mode, the next trick will be very useful for you. Not just Snapchat, any app won’t be able to track down your exact location when you follow it.
 
@@ -352,22 +339,15 @@ The easiest method is to go with the Notification tray that is present on top of
 ![check location notification tray](https://images.wondershare.com/_thumbs/location-notifications-tray-android-pic6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 2**: The ‘Location’ icon is shaped like a geo-coordinate pin and remains in grey color when switched off and Blue color when turned on. Tap on the icon to on/off.
 
 ![tap location on/off](https://images.wondershare.com/_thumbs/location-tap-on-to-change-pic7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **iPhone**
 
@@ -384,6 +364,13 @@ To turn off the Location on your iPhone device,
 **Step 3:** In the next page that appears, you will find the ‘Location Services’. If we are not wrong, it is usually the first option on the page that opens up.
 
 ![click location services option](https://images.wondershare.com/_thumbs/location-services-option-pic10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Shift the toggle and turn off the Location Services. If you want, you can also disable location services individually for Snapchat only.
 
@@ -431,6 +418,13 @@ The Virtual private Network services hide your IP, mask your identity and since 
 
 ![choose the server](https://images.wondershare.com/_thumbs/new-server-change-pic18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 So, the location of this new server will reflect on your snapchat snapmap too.
 
 ## **Part 3: Frequently Asked Questions**
@@ -465,16 +459,15 @@ Now that you have learnt how to fake location on snapchat map, understand that t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-from-snapshots-to-delights-viral-eats-you-need-in-your-life-for-2024/"><u>[New] From Snapshots to Delights Viral Eats You Need in Your Life for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-note-30-vip-racing-edition-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-advice-conquering-the-world-of-pokemon-unite-with-ease/"><u>Expert Advice: Conquering the World of Pokémon Unite with Ease</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersion-and-interaction-the-high-definition-shift-of-hp-envy-27-for-2024/"><u>Immersion and Interaction The High-Definition Shift of HP Envy 27 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-core-principles-of-internet-storytelling/"><u>In 2024, Core Principles of Internet Storytelling</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-v30-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo V30 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nubia-red-magic-8s-proplus-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nubia Red Magic 8S Pro+? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-newest-targus-displaylink-drivers-in-windows-boost-compatibility-on-11-8-or-7/"><u>Install Newest Targus DisplayLink Drivers in Windows - Boost Compatibility on 11, 8 or 7</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/schritt-fur-schritt-anleitung-zum-hinzufugen-von-untertiteln-zu-mp4-videodateien/"><u>Schritt-Für-Schritt-Anleitung Zum Hinzufügen Von Untertiteln Zu MP4-Videodateien</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-imageintensifyx7-transform-scenes-with-simplicity/"><u>2024 Approved ImageIntensifyX7 Transform Scenes with Simplicity</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-step-by-step-to-a-luminous-world-of-android-videos/"><u>2024 Approved Step-by-Step to a Luminous World of Android Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-civi-3-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Civi 3</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ensure-smooth-performance-thinkpad-w10-updates/"><u>Ensure Smooth Performance: ThinkPad W10 Updates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-x-flip-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo X Flip Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-unleash-your-creativity-7-best-animation-drawing-software-for-artists/"><u>New 2024 Approved Unleash Your Creativity 7 Best Animation Drawing Software for Artists</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-power-of-sabrents-rocket-5-2tb-ssd-a-breakthrough-in-storage-technology-reviewed/"><u>Unveiling the Power of Sabrent's Rocket 5 2TB SSD: A Breakthrough in Storage Technology Reviewed</u></a></li>
 </ul></div>
 

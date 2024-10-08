@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Infinix Smart 7? | Dr.fone
-date: 2024-09-16T23:50:53.733Z
-updated: 2024-09-19T22:12:26.878Z
+date: 2024-10-03T05:17:20.666Z
+updated: 2024-10-08T05:24:25.869Z
 tags: 
   - virtual location chang
   - location changer
@@ -42,6 +42,13 @@ Unarguably Life360 can be considered one of the most helpful and fun apps. But t
 For instance, spouses can monitor their better half and if any one of them does not understand enough, they can put various questions for your particular location and it may create chaos as a result. Not just it has a negative aspect, but it is possible that you are organizing a surprise for your partner, and for its execution; you are simply heading to a particular place. Having Life360 and being tracked by it can simply spoil the surprise as well.
 
 For these reasons, a lot of people sum up the app as an intervention for their privacy. And for those who love their privacy, hating being tracked by Life360 is completely natural to them.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Stop Life360 Tracking vs. Spoofing Life360
 
@@ -117,6 +124,13 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 ![select mock location app from settings](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Choose the Fake GPS app as the mock location app.
 
 ![set Fake GPS app](https://images.wondershare.com/drfone/article/2019/11/select-app-android.jpg)
@@ -139,14 +153,14 @@ _If you want to find an easier way to [fake location on life360 Android](https:/
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 6: How to Stop Life360 from Tracking you
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6.1 Use a burner phone
 
@@ -172,16 +186,16 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 
 ![go to Location Sharing](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Lastly, toggle off the slider and it will turn grey. You will see a message saying "Location Sharing Paused" and you are done.
 
 ![pause location sharing for Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** When you disable or pause location for a particular group, your location can still be tracked by other circles. Make sure to choose all or as per your needs.
 
@@ -223,13 +237,6 @@ Another great feature this tool has is that you can even change the speed of you
 
 On another note, we will share with you the limitation of the Foneazy MockGo software. Currently, this application is only available for iOS phone users, and Android users. Therefore, you are not able to use this software. Another limitation is that it does not support macOS versions that are older than 10.10. Reaching out to their customer support can also take a long time as they take time to respond to you. Lastly, the software will stop updating, and you will need to check yourself if the software needs to be updated.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Fix Foneazy MockGo Not Working Issue
 
 Being able to share a spoof location or use it in games is fun and a great way to fool any of your friends. However, while using the Foneazy MockGo software, you will encounter instances where it is not working properly. Therefore, we will share with you some quick fixes and checks that you can do on your own to fix the temporary issue within the software.
@@ -266,6 +273,13 @@ Our product, **“Dr. Fone - Virtual Location” (**[**https://drfone.wondershar
 - **_Step 2:_** You can then connect your phone to your computer and click on “Get Started”.
 
 ![virtual-location](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **_Step 3:_** You will then be redirected to your current location on the new page.
 - **_Step 4:_** If you want to change your location, you will need to turn on the “Teleportation” mode by clicking on the first icon and typing the location that you want then click on the “Go” icon.
@@ -332,6 +346,13 @@ Using an anonymous burner phone purchased with cash is a standard plot device in
 
 ![ invest in a burner phone](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Disable Wi-Fi and Cellular Data Access
 
 Turning down the Infinix Smart 7 device's potential to interact with Wi-Fi and cellular networks is another option for generating a false location.
@@ -377,16 +398,16 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 ![open feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** You'll be presented with a new window called "Virtual Location."
 
 ![start location faking](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4.** Make sure you have a USB cable for your iPhone or iPad or Android that is compatible with your computer. Take a moment to unlock the Infinix Smart 7 device, if necessary, and then press the Trust Device option.
 
@@ -398,13 +419,6 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 ![one stop teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 7.** Make a selection and then touch "Move here."
 
     ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -414,6 +428,13 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
     ![current location in program](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
     When you use this software, your Phone's GPS location will be faked. To navigate your new surroundings, just press and hold the left joystick.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -431,5 +452,20 @@ Can you tell when someone checks your location on life360? To stay safe, you sho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-medias-closing-chapters/"><u>[New] Mastering Media's Closing Chapters</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-quick-clip-quandary-youtube-shorts-advantage-over-tiktok/"><u>[New] The Quick-Clip Quandary YouTube Shorts' Advantage Over TikTok?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-get-premium-sound-for-less-with-top-asmr-microphones/"><u>[Updated] Get Premium Sound for Less with Top ASMR Microphones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-dive-deep-into-obs-advanced-techniques-for-game-capture/"><u>[Updated] In 2024, Dive Deep Into OBS Advanced Techniques for Game Capture</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-screens-sole-contender-software-or-hardware-triumph/"><u>2024 Approved The Screen's Sole Contender Software or Hardware Triumph?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-poco-c50-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Poco C50 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-honor-x50iplus-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Honor X50i+.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-itel-p40-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Itel P40</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-se-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone SE? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-x9a-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor X9a? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-list-elite-call-alert-engineers/"><u>Leading List Elite Call Alert Engineers</u></a></li>
+<li><a href="https://facebook.techidaily.com/leading-the-pack-with-these-10-unique-free-social-account-aides/"><u>Leading the Pack with These 10 Unique Free Social Account Aides</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Xiaomi 14 Pro? | Dr.fone</u></a></li>
+</ul></div>
 
