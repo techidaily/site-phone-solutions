@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y02T | Dr.fone
-date: 2024-10-11T19:01:30.966Z
-updated: 2024-10-13T22:43:07.240Z
+date: 2024-10-16T17:59:21.406Z
+updated: 2024-10-19T22:43:08.252Z
 tags: 
   - virtual location chang
   - location changer
@@ -53,16 +53,16 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![fake gps google maps drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Next, you need to connect your Vivo Y02T to the computer by using a cable.
 
 ![connect your phone with computers via Wi-Fi or an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** On the next window, you’ll find the world map on your screen, and the coordinates and directions are clear on the map. You need to click on the third icon called the “Teleport Mode” from the top right corner of your screen. Then type in the place's name in the search box where you want to change your location. There is also a way to pinpoint the area if you know it properly.
 
@@ -142,6 +142,13 @@ For iPhone users, you can share your Google map location through the following s
 
 ![share location](https://images.wondershare.com/drfone/article/2022/02/share-location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Click on your profile avatar, and in the menu, click Location sharing. If you are already sharing your location, you will tap New share.
 
 ![avator icon google map](https://images.wondershare.com/drfone/article/2022/02/avator-icon-google-map.jpg)
@@ -177,6 +184,13 @@ You can do that by changing the settings on your device. Settings >> privacy opt
 ### 3\. How to turn off your history on an iPhone device?
 
 To turn off the History, stick to the same icon of settings, and from the system services, check your significant locations, and you can delete them as well.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. How does one give someone your location from your Vivo Y02T?
 
@@ -237,13 +251,6 @@ Using an anonymous burner phone purchased with cash is a standard plot device in
 
 ![ invest in a burner phone](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Disable Wi-Fi and Cellular Data Access
 
 Turning down the Vivo Y02T device's potential to interact with Wi-Fi and cellular networks is another option for generating a false location.
@@ -257,6 +264,19 @@ Turning down the Vivo Y02T device's potential to interact with Wi-Fi and cellula
 **Step 3.** Navigate to the settings menu, look for the Life360 option, and then off cellular data, background refresh, and the Motion & Fitness feature.
 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once these services are no longer active, your location data will no longer change.
 
@@ -311,6 +331,13 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
     ![current location in program](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
     When you use this software, your Phone's GPS location will be faked. To navigate your new surroundings, just press and hold the left joystick.
 
 ## Conclusion
@@ -341,13 +368,6 @@ Whenever you are teleporting your smartphone device to another location, you can
 
 ![apply fluctuation mode](https://images.wondershare.com/drfone/guide/fluctuation-mode.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 4: Cooldown Timer (For Teleport Mode and Jump Teleport Mode)
 
 While teleporting the location of your smartphone to different places for playing games like Pokemon Go, you are bound to activate a cooldown timer within your location-changing app to show realistic movement. By locating the **Cooldown Timer** on the right pane of icons, activate it, and this feature will automatically calculate the cooling time by measuring the distance between your destination and the starting point.
@@ -357,19 +377,6 @@ While teleporting the location of your smartphone to different places for playin
 It is recommended not to start the movement until the cooldown time is completed to avoid unnecessary bans. Moreover, you can also activate the **Auto jump after cooldown** in the **Jump teleport mode** after turning on the Cooldown Timer.
 
 This option will automatically jump you to the next destination once the timer ends. It is helpful for games like Pokemon Go, where the game servers can detect frequent jumps with no cooldown time.
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Part 5: Import/Export GPX File
 
@@ -382,10 +389,10 @@ If you have defined a proper location to simulate at a particular instant using 
 ![export location as a gpx file](https://images.wondershare.com/drfone/guide/save-one-stop-route.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 2Import a GPX File
@@ -401,10 +408,10 @@ Wait for a moment until Dr.Fone - Virtual Location recognizes the specific locat
 ![wait for gpx file to load](https://images.wondershare.com/drfone/guide/wait-import-gpx.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Part 6: Historical Records
@@ -423,13 +430,6 @@ Select the **Go** button adjacent to any particular historical record to re-laun
 
 ![move to any location from history](https://images.wondershare.com/drfone/guide/history-records-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 7: Favorite List
 
 You can also set up favorite locations within the platform to define quick accessibility to your favorite locations. To do that, you have to follow the guidelines shown next:
@@ -447,10 +447,10 @@ To look for your favorite locations, look for the **Favorite** icon on the right
 ![search for favorite locations](https://images.wondershare.com/drfone/guide/search-favorites.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -467,18 +467,24 @@ To look for your favorite locations, look for the **Favorite** icon on the right
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-best-free-mac-apps-for-professional-tiktok-cuts/"><u>[New] 2024 Approved Best Free Mac Apps for Professional TikTok Cuts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-trust-tales-decoding-the-power-of-selfies-for-2024/"><u>[Updated] Instagram's Trust Tales Decoding the Power of Selfies for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-socialvideocutter-download-feature-for-2024/"><u>[Updated] SocialVideoCutter Download Feature for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-the-best-free-srt-translators-your-essential-guidebook/"><u>2024 Approved Unraveling the Best Free SRT Translators Your Essential Guidebook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-v27e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo V27e Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-magic-6-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-find-x7-ultra-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Find X7 Ultra</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-realme-12-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Realme 12 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620241095-maximize-your-iphone-capacity-effortless-ways-to-clear-a-packed-memory/"><u>Maximize Your iPhone Capacity: Effortless Ways to Clear a Packed Memory!</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-ultimate-guide-premium-online-tools-for-high-quality-music-editing-for-2024/"><u>New The Ultimate Guide Premium Online Tools for High-Quality Music Editing for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/premium-online-streams-convert-youtube-to-mp3-instantly-in-2024/"><u>Premium Online Streams Convert YouTube to MP3 Instantly, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-prime-5-replacements-for-twitter-users/"><u>[New] 2024 Approved Prime 5 Replacements for Twitter Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-tech-talk-video-showcase-assessment/"><u>[New] Tech Talk Video Showcase Assessment</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-picart-hack-keep-identities-unseen-for-2024/"><u>[Updated] PicArt Hack Keep Identities Unseen for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-power-of-perception-transforming-thumbnails-with-captivating-bgs-and-fx/"><u>2024 Approved The Power of Perception Transforming Thumbnails with Captivating BGs & FX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-fourfold-approach-to-ai-governance-by-state-authorities/"><u>A Fourfold Approach to AI Governance by State Authorities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/descubra-como-convertir-su-contenido-mxf-a-diferentes-tipos-de-archivo-sin-costes-usando-webs-de-conversion-gratis/"><u>Descubra Como Convertir Su Contenido MXF a Diferentes Tipos De Archivo Sin Costes Usando Webs De Conversión Gratis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effortlessly-start-your-pc-in-safe-mode-on-windows-11-a-comprehensive-guide-to-all-4-strategies-and-their-images/"><u>Effortlessly Start Your PC in Safe Mode on Windows 11 - A Comprehensive Guide to All 4 Strategies and Their Images</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-legacy-of-yahoo-messenger-and-insights-into-its-end-date/"><u>Exploring the Legacy of Yahoo! Messenger and Insights Into Its End Date</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-in-2024-top-6-free-talking-stock-photo-sites/"><u>New In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-hp-scanjet-printer-software-for-windows-11-download-now/"><u>Update Your HP Scanjet Printer Software for Windows 11 - [Download Now]</u></a></li>
 </ul></div>
 

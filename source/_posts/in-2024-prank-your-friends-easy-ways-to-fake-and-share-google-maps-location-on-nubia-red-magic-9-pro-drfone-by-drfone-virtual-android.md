@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Red Magic 9 Pro | Dr.fone
-date: 2024-10-08T03:18:44.469Z
-updated: 2024-10-13T17:51:20.851Z
+date: 2024-10-15T01:00:12.798Z
+updated: 2024-10-20T00:52:06.187Z
 tags: 
   - virtual location chang
   - location changer
@@ -68,13 +68,6 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 ### Method 2: Change location in Google Maps with a VPN
 
 An array of VPN apps come with built-in location spoofing features on top of the usual IP address masking. For example,
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Nord VPN
 
@@ -150,13 +143,6 @@ For iPhone users, you can share your Google map location through the following s
 
 ![location sharing feature](https://images.wondershare.com/drfone/article/2022/02/location-sharing-feature.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click Share.
 
 Or you can directly mark a location you wanna go to first, and tap the "Share" button, then choose the channels you want to share. You can share through WhatsApp, Telegram, Instagram, etc.
@@ -173,6 +159,13 @@ Also, follow the steps below if you are using an Android phone:
 
 ## Part 3: FAQ: All You Wanna Know about Location Changing on Your Nubia Red Magic 9 Pro
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. How can I add my favorite route as favorite?
 
 In the reallocation screen, you'll be able to find the five-star icon on the proper sidebar and, therefore, the new window after you use the three provided modes. A simple click to feature the route to your favorites. After you boost features, it'll show you "collection successfully," and also the five stars icon will display a red icon, and you'll also enter to test what percentage you have ever strengthened.
@@ -181,13 +174,6 @@ In the reallocation screen, you'll be able to find the five-star icon on the pro
 
 You can do that by changing the settings on your device. Settings >> privacy options>> location services, then turn the icon to the left, which will indicate that your location is off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. How to turn off your history on an iPhone device?
 
 To turn off the History, stick to the same icon of settings, and from the system services, check your significant locations, and you can delete them as well.
@@ -195,13 +181,6 @@ To turn off the History, stick to the same icon of settings, and from the system
 ### 4\. How does one give someone your location from your Nubia Red Magic 9 Pro?
 
 Start with opening the "Find My" app on your Nubia Red Magic 9 Pro and choose the "People" tab. Select share my location and enter the name or number of the person you wish to share your location with. In the end, tap send and share your site with someone you want to share.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Final Words
 
@@ -214,13 +193,6 @@ We usually host a gathering once in a while and invite our friends to come over.
 The Live Location feature on Messenger works beyond sending the address or coordinates of your exact location. It basically visualizes your whereabouts by means of an interactive map and updates the details from time to time. That means the receiver can view not only your position but also your movements. Is that helpful? Absolutely yes. It’s indeed a game-changer in today’s already convenient world. Is it highly recommended? With proper handling and adequate caution, Messenger’s Live Location can definitely do more good than harm to the users.
 
 In this article, we will delve into the highlights and benefits of Facebook Messenger’s location-sharing features. We will also provide some tutorials on **how to share Live Location** on Messenger. Continue reading below to learn more.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1. Everything You Should Know About Messenger’s Live Location
 
@@ -253,9 +225,23 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. How to Share My Location on Messenger?
 
@@ -315,6 +301,19 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![send google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-14.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
 
 ## BONUS TIP: Protect Your Privacy With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -332,9 +331,23 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 
 ![search preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 6:** The details regarding your chosen location will be displayed on the computer screen. Review the information and make sure that it is the specific location you’re looking for. Once confirmed, click **Move Here** to proceed.
 
 ![move to the selected location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** Immediately, the location settings on your smartphone will be changed according to the inputs you have provided to Wondershare Dr.Fone. You can verify it by checking the current location registered on your Maps app. After confirming that your mobile device is now showing a different location, you can now start browsing without worrying about your location’s privacy.
 
@@ -391,19 +404,6 @@ Also, there are many other AR games, including Ingress Prime, Harry Potter: Wiza
 In addition to AR-based games, you can also spoof dating apps like Tinder and Grindr Xtra. It is because using the fake location for dating apps will allow you to see profiles of people from outside your city or country. This is how you can have more options to search for your partner online.
 
 Again to spoof dating apps, you will need to enable allow mock location apk feature on android devices.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How Mock Locations Change Your Mobile Location?
 
@@ -481,18 +481,18 @@ Now you are ready to spoof iPhone without compromising the privacy of the Phone.
 
 ## Part 4: Mock Location Feature On Different Android Models
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mock Location on Samsung and Motto
 
 In Samsung and Motto device, the mock location feature is available under the “Debugging” section of Developer Options.
 
 ![mock location on Samsung and motto](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Allow mock location on LG
 
@@ -509,16 +509,10 @@ Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to ena
 In Huawei devices, there is the EMUI, for this, go to Settings > Software Information and tap on EMUI to turn on Developer Options.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -539,17 +533,18 @@ We hope that after reading the above article, you would be able to allow mock lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-discover-the-ideal-screencasting-software-for-teachers-for-2024/"><u>[New] Discover the Ideal Screencasting Software for Teachers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-ultimate-list-hashtags-for-maximum-video-engagement-in-games/"><u>[New] Ultimate List Hashtags for Maximum Video Engagement in Games</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-x50i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor X50i Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Samsung Galaxy A54 5G.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nokia-xr21-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nokia XR21</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/guide-downloading-all-episodes-of-the-big-bang-theory-for-personal-use-at-no-cost/"><u>Guide: Downloading All Episodes of The Big Bang Theory for Personal Use at No Cost</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-redmi-13c-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Redmi 13C</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-reno-11f-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo Reno 11F 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-meizu-21-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Meizu 21 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-experts-manual-to-windows-10-prowess/"><u>The Expert's Manual to WINDOWS 10 Prowess</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-c51-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco C51</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-flamboyant-snaps-techniques-for-lasting-snapstreaks/"><u>[New] Flamboyant Snaps Techniques for Lasting Snapstreaks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-halt-spotify-from-automatically-playing-podcasts/"><u>In 2024, How to Halt Spotify From Automatically Playing Podcasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-honor-v-purse-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Honor V Purse? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-xiaomi-redmi-note-12-pro-4g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Xiaomi Redmi Note 12 Pro 4G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-and-pc-components-at-toms-technology-zone/"><u>Mastering Gadgets and PC Components at Tom's Technology Zone</u></a></li>
+<li><a href="https://games-able.techidaily.com/operas-secret-weapon-gaining-month-long-free-disco-access/"><u>Opera's Secret Weapon: Gaining Month-Long FREE Disco Access</u></a></li>
+<li><a href="https://win-data.techidaily.com/pcsandisk-ssd5/"><u>PCで検出されないSanDisk SSDを使用する際の解決策5つ</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/switching-on-windows-11-for-automatic-hdr-mode-for-2024/"><u>Switching On Windows 11 for Automatic HDR Mode for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-selekties-sd-speicherkarten-voor-gopro-kameraen-voldoende-speelruimte-duurzaam-en-betrouwbaar/"><u>Top Selekties SD-Speicherkarten Voor GoPro Kameraen - Voldoende Speelruimte, Duurzaam en Betrouwbaar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/upcoming-apple-m4-powered-mac-mini-latest-leaks-on-pricing-launch-timeline-and-technical-specifications/"><u>Upcoming Apple M4-Powered Mac Mini - Latest Leaks on Pricing, Launch Timeline & Technical Specifications</u></a></li>
 </ul></div>
 
