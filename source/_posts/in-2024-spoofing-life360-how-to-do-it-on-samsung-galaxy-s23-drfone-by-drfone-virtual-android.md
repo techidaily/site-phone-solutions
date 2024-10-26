@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S23? | Dr.fone
-date: 2024-09-26T17:35:21.325Z
-updated: 2024-10-03T01:23:38.462Z
+date: 2024-10-22T22:22:44.524Z
+updated: 2024-10-25T19:03:05.417Z
 tags: 
   - virtual location chang
   - location changer
@@ -61,13 +61,6 @@ Get the tool on your computer for the process initiation. To do this, you can vi
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Get the Samsung Galaxy S23 device Connected**
 
 Take your iPhone now and connect it to the computer. Hit on "Get Started" once the phone is connected successfully.
@@ -116,13 +109,6 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 **Step 4:** Now, enter the lock code when asked and the developer options will be enabled.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step by Step Guide on how to fake your location on Life360 with Android Spoofer
 
 **Step 1:** Now that you have turned on the developer options, you can visit the Play Store and look for Fake GPS Location app. Install it on your phone.
@@ -138,6 +124,13 @@ Before you get the app worked, here is a requirement you need to follow. The req
 **Step 4:** Open the app now and choose the location you wish to fake and hit on the Play button. This was **how to fake your location on Life360** on Android device.
 
 ![new location on Life360](https://images.wondershare.com/drfone/article/2019/11/fake-location-android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _If you want to find an easier way to [fake location on life360 Android](https://drfone.wondershare.com/virtual-location/spoof-life360.html#part3), you can also try to use Dr.Fone - Virtual Location(iOS/Android)._
 
@@ -218,10 +211,10 @@ The feature's name says that it was introduced to cut off any radio transmission
 If you have **enabled airplane mode on your Samsung Galaxy S23** or Android device and think it will also block your GPS location, you are wrong. Know why airplane mode does not turn off GPS location and other ways to **avoid getting tracked with or without Airplane Mode.**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: Does Airplane Mode Turn off location?
@@ -246,6 +239,13 @@ To hide the location on your Samsung Galaxy S23 and iPad, below listed are the s
 
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2**. Enable the Airplane Mode or turn off the Wi-Fi and Cellular icon.
 
 **Step 3**. Next, you need to disable the GPS radio. On some of the Samsung Galaxy S23 devices, there is a separate setting for this. Go to Settings > Privacy> Location Services. The list of the apps using the location services will appear. Move the toggle at the Location Services to turn it off.
@@ -265,13 +265,6 @@ The process to turn off GPS location on Android devices may vary from device to 
 **Step 3**. Next, open the App Drawer and then choose Settings > Location. Turn off the Location.
 
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
@@ -315,13 +308,6 @@ You can check out this video for further instruction.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: People Also ask about Airplane Mode
 
 ### Q1: Can An iPhone Be Traced While off?
@@ -349,10 +335,10 @@ Google Account has unlimited advantages as it provides quick access to multiple 
 However, some featured apps on the Play Store are restricted region-wise, and some users cannot download them. This article will guide you on **how to change the country in Play Store** to access all the apps.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: What Should We Know Before Changing Google Account Location?
@@ -365,13 +351,6 @@ By changing the country on Google Play Store, you can install some unavailable a
 - Changing the Google Play Store location is easy, but you can only change the settings once a year. This depicts that you can change the location settings of your Google Account after 365 days.
 - After changing the country’s location, you won't be able to utilize the previous Google Play balance of the old country.
 - Once you have changed your country’s server location in settings, the Google Play Store takes 48 hours to change the location.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Change Google Account Location?
 
@@ -391,9 +370,23 @@ Through your Samsung Galaxy S23s, you can change the location on both Google Pla
 
 ![access account and device preferences](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Now click on "Switch to the Country Play Store" to change the location. For verification, click on "Continue" when a pop-up message appears on your screen asking if you want to change the location.
 
 ![tap on continue to confirm](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Now, you will be automatically assisted in changing the payment methods of the new country. However, if you don't come across the option to change the country, either you have already changed the country location within a year or your IP address is not synchronized with your new country.
 
@@ -427,13 +420,6 @@ In this situation, we will help you change the country's location on your Google
 
 ![access settings tab](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** To connect with the new country's location, tap on the option "Create a new profile." Afterward, you can see the on-screen instructions on your computer, so follow them to complete the process. Once done, Google Play will change the location after 48 hours, and you can search for the applications you want to install.
 
 ![tap on create new profile](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-8.jpg)
@@ -457,6 +443,13 @@ Moreover, the process is fast and fully secured to protect your computer from un
 We have mentioned methods to change Play Store country manually and through VPN, but they still have a few limitations. Once you change the country's location on Google Play manually, the Play Store requires 48 hours to accept this modification. Moreover, you can only change the country's server location once a year. With VPN, many country servers are unreachable, and some servers can be reached only through a paid version. This makes the process expensive and time taking.
 
 To avoid these hurdles and chaos, we recommend you to use Dr.Fone – Virtual Location to fake your location on both Android and iOS devices. This tool works in every situation and allows users to travel the globe through their phones free of cost. You can also travel with an exact GPS location just with a single click. Hence, this tool will work amazingly in faking your location without requiring you to change Google Play country's location.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -495,6 +488,13 @@ Tap on the first icon displayed on the top right to enable the teleport mode. No
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Change Location**
 
 A notification will pop up for confirmation once you have entered a new location. Tap on "Move here" to proceed. Once done, your new location will be set on your smartphone automatically. Now head back to Google Play Store and search for the applications you want to access.
@@ -523,20 +523,24 @@ There are plenty of ways to execute **Google One change location across various 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>[New] 2024 Approved Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-pathways-to-acquiring-facebooks-distinguished-verification-for-2024/"><u>[New] Pathways to Acquiring Facebook's Distinguished Verification for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-100-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor 100 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y100a-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y100A Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/6-effective-methods-to-fix-an-unresponsive-apple-watch-connection/"><u>6 Effective Methods to Fix an Unresponsive Apple Watch Connection</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 13 | Stellar</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-step-by-step-journey-for-vanishing-from-facebooks-world/"><u>A Step-by-Step Journey for Vanishing From Facebook's World</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-galaxy-a54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Galaxy A54 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-infinix-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Infinix</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/djis-fpv-spectacles-feature-analysis/"><u>DJI's FPV Spectacles Feature Analysis</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mkv-movies-on-edge-2023-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Failed to play MKV movies on Edge 2023</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/how-rhenus-enhances-operational-speed-using-abbyys-advanced-scanning-technology/"><u>How Rhenus Enhances Operational Speed Using ABBYY's Advanced Scanning Technology</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/reversal-strategies-moving-from-latest-sierra-to-el-capitan-for-2024/"><u>Reversal Strategies Moving From Latest Sierra to El Capitan for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-411-on-navigating-youtube-shorts/"><u>The 411 on Navigating YouTube Shorts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-ecosystems-of-uav-innovations/"><u>[New] 2024 Approved Ecosystems of UAV Innovations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-deterrence-against-distractive-fb-video-ads/"><u>[Updated] 2024 Approved Deterrence Against Distractive FB Video Ads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-enhance-your-fb-with-iphonesandroids-favorite-tunes/"><u>2024 Approved Enhance Your FB with iPhones/Androids' Favorite Tunes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-guide-to-creating-unique-tiktok-cover-art/"><u>2024 Approved Guide to Creating Unique TikTok Cover Art</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-sony-xperia-10-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Sony Xperia 10 V</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-itel-a60-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Itel A60</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-motorola-edgeplus-2023-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Motorola Edge+ (2023).</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/correct-steps-for-updating-your-dell-cameras-driver/"><u>Correct Steps for Updating Your Dell Camera's Driver</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-magic-5-by-drfone-android-unlock-android-unlock/"><u>Device unlock Magic 5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-google-pixel-8-pro-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2019-vba-runtime-error-9-subscript-out-of-range-stellar-by-stellar-guide/"><u>Fixed Excel 2019 VBA Runtime Error 9 Subscript Out of Range | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-7-plus-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 7 Plus Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy M34 5G?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-complete-guide-to-earnings-via-vimeo-ads/"><u>The Complete Guide to Earnings via Vimeo Ads</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-insight-into-dji-inspire-2-for-2024/"><u>The Ultimate Insight Into DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-vr-footage-contest-samsung-gear-and-lgs-compare-for-2024/"><u>The Ultimate VR Footage Contest Samsung Gear & LG's Compare for 2024</u></a></li>
 </ul></div>
 

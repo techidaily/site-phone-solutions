@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prevent Cross-Site Tracking on Oppo Reno 8T and Browser | Dr.fone
-date: 2024-10-18T00:26:23.957Z
-updated: 2024-10-19T20:52:19.876Z
+date: 2024-10-24T22:59:37.069Z
+updated: 2024-10-25T17:34:57.836Z
 tags: 
   - virtual location chang
   - location changer
@@ -57,6 +57,13 @@ Safari cross-site tracking can be prevented using the below steps on your iPhone
 - Step 2. Find the Safari option by scrolling down the menu.
 - Step 3. Move the slider to turn on “Prevent Cross-Site Tracking” under the PRIVACY & SECURITY option.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deactivate Safari cross-website tracking for Mac
 
 Use the steps below to **turn off cross-site tracking on Safari** on your Mac systems.
@@ -68,10 +75,10 @@ Use the steps below to **turn off cross-site tracking on Safari** on your Mac sy
 - Step 3. Enable the “Prevent cross tracking” option by clicking on the box next to it.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Disable Cross-site Tracking on Google Chrome
@@ -121,13 +128,6 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**. Connect your iPhone or Android device to your system using a USB cable and then tap on the **Get Started** option on your software interface.
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -135,13 +135,6 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 **Step 3**. A new window on the software interface will open, showing your connected phone's real and actual location. If the detected location is incorrect, click on the **“Center On”** icon to display the right device location.
 
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4.** Next, you need to activate the “**teleport mode**” and click o the 3rd icon at the upper-right corner.
 
@@ -152,6 +145,13 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 **Step 6**. Finally, tap on the **Move Here** button and the new fake location for your connected Android or iOS device at the pop-up box.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Check the new location of your phone from the app.
 
@@ -179,13 +179,6 @@ As we mentioned above, while you put your phone on airplane mode, the cellular r
 
 The GPS works on a different technology where the signals are received from the satellite and are not dependent on the network or cellular services. So, when the airplane mode is enabled, the GPS location is not turned off.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Can Your Location Be tailed on Airplane Mode?
 
 Yes, if you have not disabled the GPS feature, your location can be tailed on an Airplane mode as the flight mode only disables the cellular connection and Wi-Fi. So, it can be concluded that Airplane Mode is no solution for stopping the GPS tracking on your phone, though there are other workarounds available for this.
@@ -201,6 +194,13 @@ To hide the location on your Oppo Reno 8T and iPad, below listed are the steps.
 **Step 1**. Open the Control Center on your iDevice, iPhone 13 for example. (For iPhone X and above models, swipe down from the top-right, while on other devices, swipe from the bottom of the screen)
 
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2**. Enable the Airplane Mode or turn off the Wi-Fi and Cellular icon.
 
@@ -249,6 +249,13 @@ You can check out this video for further instruction.
 **Step 2**. On the leading software, tap on the **Virtual Location** option and then connect your Oppo Reno 8T or Android device to your system using a USB cable.
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3**. Click on the **Get Start** button.
 
@@ -342,6 +349,13 @@ After you complete the steps above, follow the following steps to spoof your Opp
 
 ![install fake gps location spoofer](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Launch the installed app and tap Enable Mock Locations from the pop-up that appears on your screen.
 
 ![enable mock locations](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-2.jpg)
@@ -358,13 +372,6 @@ After you complete the steps above, follow the following steps to spoof your Opp
 
 ![start faking gps location](https://images.wondershare.com/drfone/article/2023/01/spoof-location-with-fake-gps-location-spoofer-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Fake GPS Location Spoofer User Reviews
 
 To clarify the credibility of the **Fake GPS Location Spoofer app**, we also took our time to check what other users are saying.
@@ -376,13 +383,6 @@ Here, we've summarized some of the top reviews from real users on Playstore.
 | Google Play Store | A Google User | _The company updates the app, in their own words, fixes the bug, and then expects you to pay again and again and again. Stop support and then maybe a slight tweak of the name with "routes' ' or "joystick" added. I wouldn't mind if the app that was paid for continued to work, but it doesn't. They cut it off. Support is awful. I had to uninstall the app as it wasn't working. Now it wants me to pay again to reinstall. The free version doesn't have import & export or a joystick. Import & export wouldn't be important if reliable._ | 1.0/5.0 |
 | Google Play Store | Douglas Buell | _This app is okay when it runs like it says it will. Oftentimes it will simply fail in its execution. My main gripe is with the "no ads' ' mode, which requires you to watch a lengthy ad for a 20-minute ad-free period. I would enjoy this feature IF IT WORKED. Anytime I use it, I'm immediately shown an ad the instant I've clicked the message "Congratulations! You unlocked 20 minutes ad-free!" Why include a feature that doesn't work? To force us to watch an ad you didn't have to work for? Ridiculous._ | 1.0/5.0 |
 | Google Play Store | A Google User | _Indeed this does work, but it takes a bit of tech effort to make it work, blamed on a glitch in google play services which seems to be exactly true, as they say. It's not difficult, but My Oppo Reno 8T keeps reinstalling the update, so I have to undo it. If you have an old phone where you won't be using google maps, set it up there, and you're all set. Follow the instructions step by step, and it works._ | 4.0/5.0 |
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5. Fake GPS Location Spoofer Pros and Cons
 
@@ -408,16 +408,10 @@ The following are some of the positives and negatives we noticed while using Fak
 - It requires jailbreak for Android devices that are not running Android 6.0 and later.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 6. Is Fake GPS Location Spoofer Worth It?
@@ -457,19 +451,6 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 
 ![click the center icon](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Click the first icon at the top right side to activate Teleport Mode. Then, type the name or address of the location you intend to teleport to and click Enter on your keyboard to teleport to the chosen location.
 
 ![activate teleport mode and enter the location address](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -501,6 +482,13 @@ If you're looking to find out which is best between Fake GPS Location Spoofer an
 | **Favorite List** | Yes | Yes |
 | **Historical Records** | Yes | Yes |
 | **Customized Speed** | No | Yes |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 7: FAQs About Fake GPS Location Spoofer
 
@@ -536,22 +524,21 @@ Overall, the Fake GPS Location Spoofer app can help you achieve your objective o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-phones-as-webcams-tips-and-tricks-for-quality-videos/"><u>[New] 2024 Approved Phones as Webcams Tips and Tricks for Quality Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-can-televising-streaming-services-include-facebook-content-for-2024/"><u>[Updated] Can Televising Streaming Services Include Facebook Content for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-power-your-day-with-essential-windows-10-hacks/"><u>[Updated] Power Your Day with Essential Windows 10 Hacks</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-raisingthebarbeyondmycam-cameras-for-2024/"><u>[Updated] RaisingTheBarBeyondMyCam Cameras for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-pajama-plots-reviewed-analyzing-childrens-video-stories/"><u>2024 Approved Pajama Plots Reviewed Analyzing Children's Video Stories</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y100i-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y100i</u></a></li>
-<li><a href="https://win-tips.techidaily.com/guide-complet-sur-la-synchronisation-non-bidir-avec-robocopy-et-options-de-solutions-alternatives/"><u>Guide Complet Sur La Synchronisation Non-BiDir Avec Robocopy Et Options De Solutions Alternatives</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-free-to-mp3-journey-top-10-online-converters/"><u>In 2024, Free-to-Mp3 Journey Top 10 Online Converters</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/milestone-celebration-mondlybuttonfilter-journey/"><u>Milestone Celebration: MondlyButtonFilter Journey</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/persistent-pc-issues-for-sovled-necromunda-hired-gun-players/"><u>Persistent PC Issues for [SOVLED] Necromunda: Hired Gun Players</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-open-markets-close-plans-strategy-inception/"><u>[New] Open Markets, Close Plans Strategy Inception</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-the-perfect-pitch-inviting-listeners-to-join-us-for-2024/"><u>[Updated] Crafting the Perfect Pitch Inviting Listeners to Join Us for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-top-church-platforms-for-global-audience/"><u>[Updated] Explore Top Church Platforms for Global Audience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-merge-audio-files-into-powerpoint-staging/"><u>[Updated] Merge Audio Files Into PowerPoint Staging</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-huawei-nova-y71-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Huawei Nova Y71</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-phantom-v-flip-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Phantom V Flip</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-se-2022-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-xiaomi-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Xiaomi ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y78t-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y78t Phone Now with These Tips</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-cutting-edge-software-choices-for-distorting-and-enhancing-audio-quality/"><u>New In 2024, Cutting-Edge Software Choices for Distorting and Enhancing Audio Quality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamline-your-slide-share-experience-with-webcam-for-2024/"><u>Streamline Your Slide Share Experience with Webcam for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/top-6-tips-om-de-kwaliteit-van-je-fotos-te-verbeteren-en-teppen-zeer-nuttig/"><u>Top 6 Tips Om De Kwaliteit Van Je Fotos Te Verbeteren en Teppen Zeer Nuttig</u></a></li>
 </ul></div>
 

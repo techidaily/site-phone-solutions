@@ -1,7 +1,7 @@
 ---
 title: In 2024, What is Geo-Blocking and How to Bypass it On Oppo A1 5G? | Dr.fone
-date: 2024-10-17T23:26:24.990Z
-updated: 2024-10-19T20:36:48.203Z
+date: 2024-10-25T00:45:22.291Z
+updated: 2024-10-25T19:26:00.176Z
 tags: 
   - virtual location chang
   - location changer
@@ -45,6 +45,13 @@ The visitors usually know they are geographically limited through the website's 
 
 ![geo blocked airbnb](https://images.wondershare.com/drfone/article/2023/01/service-unavailable-in-location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Although Airbnb has been criticized for posing a threat to the availability of low-cost lodging in metropolitan areas, it has proven to be a useful resource for travelers. However, not everyone can use it; for instance, it is unavailable in Iran due to US sanctions.
 
 ## Part 2. How Does Geo-Blocking Work?
@@ -54,6 +61,13 @@ When a firm, rather than a government, is responsible for geoblocking, IP addres
 IP addresses are numerical identifiers that distinguish each machine on the internet. Your computer's IP address is sent to the server of the website you visit so that it may supply the required data.
 
 You'll be assigned an IP address when you sign up for an Internet Service Provider. It is possible to pinpoint the location of your device using its IP address, albeit the degree of precision may vary. Websites use the IP address to determine whether you can read their content. They will thus refuse your request if you are using an IP address that's not on their approved list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Common Types of Geo-blocked Content
 
@@ -71,6 +85,13 @@ You may be trying to find a method to unblock Spotify because you want to listen
 
 ![spotify geo blocked](https://images.wondershare.com/drfone/article/2023/01/spotify-not-available-blocked-geoblock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Live Sports
 
 Big events may be aired exclusively by one company, which means you may be forced to pay to access certain material or go through annoying subscription hoops.
@@ -82,20 +103,6 @@ Big events may be aired exclusively by one company, which means you may be force
 Do you want to tune in to this online radio and music station? You can't access it anywhere in Europe because of a regional firewall.
 
 ![pandora geo blocked](https://images.wondershare.com/drfone/article/2023/01/pandora-geo-restriction-error.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Porn sites
 
@@ -121,6 +128,13 @@ By changing your DNS address, clever DNS may alter your device's virtual locatio
 
 ![using smart dns for geo blocked sites](https://images.wondershare.com/drfone/article/2023/01/smart-dns-proxy-working.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2. Connect to Proxy Servers
 
 Rather than connecting you directly to the server housing the material you want, a proxy server functions as an intermediary. A proxy server does what its name implies: it acts on your behalf to get access to the data and then forwards it to you. Proxy servers, especially those in foreign countries, may be used to get around geographical restrictions.
@@ -128,13 +142,6 @@ Rather than connecting you directly to the server housing the material you want,
 Depending on the kind of proxy server you use, you may or may not be able to conceal your IP address when surfing the web. Proxy servers are available online and may be accessed from any web browser. Setting up a proxy server is easy, but your activity may still be vulnerable since proxies don't secure your data.
 
 ![proxy servers for geo blocked sites](https://images.wondershare.com/drfone/article/2023/01/proxy-caching-illustration.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3. Use the Tor Browser
 
@@ -163,13 +170,6 @@ Yes. It's legitimate. Limiting access to websites and services based on a user's
 ### 2\. Is Bypassing Geo Blocking Illegal?
 
 It depends. Depending on the situation, the nation, the purpose of the use, and the technique used, geo-blocking circumvention may be against the law. Copyright regulations prohibit users from accessing material beyond its designated location, yet many providers are reluctant to penalize users for doing so.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. What's the Difference Between Geo-Fencing and Geo-Blocking?
 
@@ -233,13 +233,6 @@ Use the steps below to **turn off cross-site tracking on Safari** on your Mac sy
 - Step 2. Move to Safari > Preferences > Privacy
 - Step 3. Enable the “Prevent cross tracking” option by clicking on the box next to it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Disable Cross-site Tracking on Google Chrome
 
 Chrome is used widely on Windows systems and Android devices, and to prevent the CST from your browser, a detailed guide is given below.
@@ -281,6 +274,13 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Steps to set fake location on your Android and iOS devices using DrFone-Virtual Location**
 
 **Step 1**. Download, install and launch the software on your Windows or Mac systems. On the main software interface, choose the **Virtual Location option**.
@@ -308,13 +308,6 @@ Here is a video tutorial for you to take an overview of how to use Dr.Fone - Vir
 Check the new location of your phone from the app.
 
 ![changing location completed](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Wrap it up
 
@@ -354,6 +347,13 @@ There are a few tricks that you can use to hide your location from your friends 
 
 ![location setting on snapchat](https://images.wondershare.com/_thumbs/location-settings-snapchat-pic4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** The Map and ‘My Location’ settings will open. There you will find the Ghost Mode. Enable the setting and you will see a dialogue box asking you to choose the duration of the Ghost Mode. Depending on what you want, choose your location.
 
 ![duration ghost mode](https://images.wondershare.com/_thumbs/ghost-mode-duration-pic5.jpg)
@@ -372,19 +372,6 @@ The easiest method is to go with the Notification tray that is present on top of
 
 ![check location notification tray](https://images.wondershare.com/_thumbs/location-notifications-tray-android-pic6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**: The ‘Location’ icon is shaped like a geo-coordinate pin and remains in grey color when switched off and Blue color when turned on. Tap on the icon to on/off.
 
 ![tap location on/off](https://images.wondershare.com/_thumbs/location-tap-on-to-change-pic7.jpg)
@@ -400,6 +387,13 @@ To turn off the Location on your iPhone device,
 **Step 2:** Search for the ‘Privacy’ option and tap on it.
 
 ![tap privacy option](https://images.wondershare.com/_thumbs/privacy-option-for-iphone-location-pic9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** In the next page that appears, you will find the ‘Location Services’. If we are not wrong, it is usually the first option on the page that opens up.
 
@@ -468,10 +462,10 @@ A - Snapchat tries to provide the accurate location most of the time. It uses yo
 A - They will disappear off of the world map. Literally! So, whenever someone is hiding their location from you, it means they’ve either activated the Ghost Mode or they turned off the Location services of their phone. As a result, you will not find their bitmoji on the snapmap even if they are actively using the app. But if they’ve employed a Location spoofer, it is hard to say if the location is real or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 4: Conclusion**
@@ -492,24 +486,22 @@ Now that you have learnt how to fake location on snapchat map, understand that t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-effortless-image-incorrante-on-instagram/"><u>[Updated] 2024 Approved Effortless Image Incorrante on Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-accelerate-office-productivity-with-speech-recognition-word/"><u>[Updated] Accelerate Office Productivity with Speech Recognition (Word)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-live-from-the-couch-the-essential-dos-and-donts-of-home-streaming-for-2024/"><u>[Updated] Live From the Couch The Essential Do's & Don'ts of Home Streaming for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-assessment-of-dji-phantom-3-aerial-tech/"><u>2024 Approved Assessment of DJI Phantom 3 Aerial Tech</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-selecting-the-best-screencast-apps-for-digital-learning/"><u>2024 Approved Selecting the Best Screencast Apps for Digital Learning</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-final-cut-pros-top-10-plug-ins/"><u>2024 Approved Unleash Creativity Final Cut Pro’s Top 10 Plug-Ins</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-samsung-galaxy-m34-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Samsung Galaxy M34 5G FRP</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/harmony-hearts-the-ultimate-song-playlist-for-a-promise-for-2024/"><u>Harmony Hearts The Ultimate Song Playlist for a Promise for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-a78-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo A78 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-xiaomi-13t-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Xiaomi 13T and Browser | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-iphone-saving-and-utilizing-gifs-effectively-for-2024/"><u>Mastering iPhone Saving & Utilizing GIFs Effectively for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-unleash-your-creativity-best-time-lapse-video-editing-tools-for-2024/"><u>New Unleash Your Creativity Best Time-Lapse Video Editing Tools for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-channel-conversion-secrets-yt-vs-igtv/"><u>[New] 2024 Approved Channel Conversion Secrets YT Vs IGTV</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-abletons-techniques-for-diminishing-sound-intensity/"><u>[New] In 2024, Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-beat-the-beast-instagram-video-troubleshooting-guide/"><u>[Updated] Beat the Beast Instagram Video Troubleshooting Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-google-meet-made-simple-the-ultimate-cost-free-resource-booklet/"><u>[Updated] In 2024, Google Meet Made Simple The Ultimate Cost-Free Resource Booklet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-kajis-wealth-kid-star-earnings-surpass-major-celebrities-for-2024/"><u>[Updated] Kaji’s Wealth Kid Star Earnings Surpass Major Celebrities for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-memories-maker-efficiently-download-tweeted-media-content/"><u>[Updated] Memories Maker Efficiently Download Tweeted Media Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-advanced-recording-setup-gamers-guide-to-flawless-footage/"><u>2024 Approved Advanced Recording Setup Gamers' Guide to Flawless Footage</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-f04-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy F04 by Name | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-tecno-spark-10-4g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Tecno Spark 10 4G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-sony-xperia-5-v-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Sony Xperia 5 V</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-edge-40-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Edge 40 Pro</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-camon-20-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Camon 20.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/optimize-your-business-strategy-with-effective-seo-tools-from-massmail/"><u>Optimize Your Business Strategy with Effective SEO Tools From Massmail</u></a></li>
 </ul></div>
 
