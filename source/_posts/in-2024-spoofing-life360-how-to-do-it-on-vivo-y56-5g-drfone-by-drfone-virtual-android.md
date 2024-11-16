@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Vivo Y56 5G? | Dr.fone
-date: 2024-11-03T00:56:47.800Z
-updated: 2024-11-06T10:12:53.445Z
+date: 2024-11-15T16:02:04.386Z
+updated: 2024-11-16T18:21:23.140Z
 tags: 
   - virtual location chang
   - location changer
@@ -79,24 +79,37 @@ You could observe the five icons at the top right of the screen. You need to cli
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5: Fake your Location on Life360**
 
 The program will make sure to recognize the place you have entered. A pop-up box will appear where the distance is mentioned. Click on "Move Here" and your location will be changed and shown as what you have selected.
 
 ![ use fake location on Life360](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here is a video guide that helps you to fake your GPS location on Life360.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
 **3,255,164**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How to Fake Location on Life360 Android
 
@@ -116,19 +129,6 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 **Step 4:** Now, enter the lock code when asked and the developer options will be enabled.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step by Step Guide on how to fake your location on Life360 with Android Spoofer
 
 **Step 1:** Now that you have turned on the developer options, you can visit the Play Store and look for Fake GPS Location app. Install it on your phone.
@@ -141,16 +141,16 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 ![set Fake GPS app](https://images.wondershare.com/drfone/article/2019/11/select-app-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Open the app now and choose the location you wish to fake and hit on the Play button. This was **how to fake your location on Life360** on Android device.
 
 ![new location on Life360](https://images.wondershare.com/drfone/article/2019/11/fake-location-android.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _If you want to find an easier way to [fake location on life360 Android](https://drfone.wondershare.com/virtual-location/spoof-life360.html#part3), you can also try to use Dr.Fone - Virtual Location(iOS/Android)._
 
@@ -197,13 +197,20 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 ![pause location sharing for Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note:** When you disable or pause location for a particular group, your location can still be tracked by other circles. Make sure to choose all or as per your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -226,13 +233,6 @@ Disabling Wi-Fi on your iPhone might limit the accuracy of your location for Lif
 ## Final Words
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Vivo Y56 5G
 
@@ -283,25 +283,11 @@ After verifying that the feature is available in your region, enable the GPS & L
 
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Tip 3: Adjust Vivo Y56 5G  Date and Time
 
 As we stated in the possible reasons, incorrect dates and times also result in this problem. If you have manually set the date and time, change the settings and set it to "Set Automatically" in General Settings. Hopefully, this will resolve the problem when the Find My Friends location is not available.
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tip 4: Check the Internet
 
@@ -326,6 +312,13 @@ For Android users, go to "Settings" > "Additional settings" > "Privacy" > "Locat
 The next tip to use when Find My Friends says location not available is restarting your phone. For most devices, the method is common. But for Vivo Y56 5G  X and 11, the steps are slightly different. For other Vivo Y56 5G  models, press the Power button and wait until the slider appears. For Vivo Y56 5G  X and 11/12/13/14, you'll have to hold the Volume button and the Power button together to make the slider appear on the screen.
 
 ![restart Vivo Y56 5G ](https://www.virtuallocation.com/images/pokemon-go/restart-Vivo Y56 5G .jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Drag the Power slider to the right side and wait for the Vivo Y56 5G device to shut down. Wait for a minute before you restart the Vivo Y56 5G device, and hopefully, the feature will start working again as usual.
 
@@ -476,6 +469,13 @@ Turning down the Vivo Y56 5G device's potential to interact with Wi-Fi and cellu
 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once these services are no longer active, your location data will no longer change.
 
 ### Method 3. Go For Dr.Fone
@@ -515,18 +515,18 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 ![activate ](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5**. You may then identify your Phone.
 
 **Step 6.** To teleport your Phone to a specific place, type its address into the address bar. Next, choose an area from the drop-down menu that appears.
 
 ![one stop teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 7.** Make a selection and then touch "Move here."
 
@@ -556,24 +556,24 @@ Can you tell when someone checks your location on life360? To stay safe, you sho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-delving-into-sns-hdr-pros-merits-and-peer-comparisons-for-2024/"><u>[New] Delving Into SNS HDR Pro's Merits & Peer Comparisons for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-complete-evaluation-the-dji-inspire-1-unveiled/"><u>[Updated] Complete Evaluation The DJI Inspire 1 Unveiled</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-elevate-your-youtube-content-seo-methods-revealed-for-2024/"><u>[Updated] Elevate Your YouTube Content SEO Methods Revealed for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-edit-youtube-videos-in-finalcut-pro-for-2024/"><u>[Updated] How to Edit YouTube Videos in Finalcut Pro for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-step-by-step-guide-to-music-insertion-in-youtube-editing-tools/"><u>[Updated] In 2024, Step-by-Step Guide to Music Insertion in YouTube Editing Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-video-playback-power-up-compare-vlc-to-mx-player/"><u>2024 Approved Video Playback Power-Up Compare VLC to MX Player</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-realme-narzo-60-5g-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Realme Narzo 60 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-y78t-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Y78t</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/childhood-chariot-jamboree-fun-for-2024/"><u>Childhood Chariot Jamboree Fun for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-itel-p40-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Itel P40.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-xiaomi-13t-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Xiaomi 13T Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-k70-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Xiaomi Redmi K70 support MOV videos ?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-zte-blade-a73-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On ZTE Blade A73 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-premier-top-ten-creative-av-media-maker-directory/"><u>In 2024, The Premier Top-Ten Creative Av Media Maker Directory</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-zero-price-strategies-for-solo-frame-analysis-in-videos/"><u>In 2024, Zero-Price Strategies for Solo Frame Analysis in Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/turn-viewers-into-vendors-yielding-wealth-with-youtube-analytics-for-2024/"><u>Turn Viewers Into Vendors Yielding Wealth with YouTube Analytics for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-optimal-cameras-for-puppet-film-projects-for-2024/"><u>[New] Optimal Cameras for Puppet Film Projects for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-hot-spots-1-10-viral-visits/"><u>[New] Twitter's Hot Spots #1-#10 Viral Visits</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-practices-in-digital-image-creation-for-youtube/"><u>[Updated] 2024 Approved Best Practices in Digital Image Creation for YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-effective-tactics-for-customizing-song-tempo-in-spotify/"><u>[Updated] In 2024, Effective Tactics for Customizing Song Tempo in Spotify</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-venture-into-the-future-the-lg-360-vr-headset-explored/"><u>[Updated] Venture Into the Future The LG 360 VR Headset Explored</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-decoding-how-to-effectively-swap-photo-genders-online-a-comprehensive-approach/"><u>2024 Approved Decoding How to Effectively Swap Photo Genders Online A Comprehensive Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-lapse-magic-a-samsung-photo-guide/"><u>2024 Approved Time-Lapse Magic A Samsung Photo Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-reno-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo Reno 11 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-a1-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo A1 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 15 Pro | Stellar</u></a></li>
+<li><a href="https://article-posts.techidaily.com/budget-savvy-shoppers-guide-to-panoramic-recording-tech-for-2024/"><u>Budget-Savvy Shoppers' Guide to Panoramic Recording Tech for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Huawei </u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-infinix-smart-8-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Infinix Smart 8</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-copy-trades-of-equal-lot-size-for-all-accounts-by-mt4copier-guide/"><u>How to Copy Trades of Equal Lot Size for All Accounts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nokia-c12-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nokia C12 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-potential-enhancing-your-tiktok-videos-for-2024/"><u>Unleashing Potential Enhancing Your TikTok Videos for 2024</u></a></li>
 </ul></div>
 

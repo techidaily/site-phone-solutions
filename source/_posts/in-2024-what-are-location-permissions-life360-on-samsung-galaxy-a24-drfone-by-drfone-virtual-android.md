@@ -1,7 +1,7 @@
 ---
 title: In 2024, What are Location Permissions Life360 On Samsung Galaxy A24? | Dr.fone
-date: 2024-11-01T08:29:37.760Z
-updated: 2024-11-05T16:44:15.585Z
+date: 2024-11-12T17:37:48.258Z
+updated: 2024-11-16T18:07:03.833Z
 tags: 
   - virtual location chang
   - location changer
@@ -59,19 +59,6 @@ Malware and spyware can use various techniques to track your phone's location. F
 
 Some mobile malware or spyware can detect and track your location without the need for the user's consent.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Cell Towers
 
 Cell towers can provide a rough estimate of a phone's location. A cell tower is a network access point that connects a mobile phone to the Internet. A smartphone's location can be found by triangulating the position of cell towers near your device. This method works best when the cell towers are close together.
@@ -114,12 +101,26 @@ Stopping location sharing on Life360 may also be accomplished by turning off the
 
 ![stop using the gps on android](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### \* For iPhone Users
 
 - Navigate to the Settings menu on your iPhone.
 - To disable this feature, enter the "Location Services" menu by selecting the "Personal" tab and selecting the appropriate option.
 
 ![stop using the gps on iphone](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Take use of a Burner Phone
 
@@ -129,18 +130,18 @@ Burner phones make it very easy to disable location tracking on Life360. In addi
 - Establish a connection between your phone and the free Wi-Fi that is accessible.
 - If you delete this application from your smartphone, your parents will no longer be able to monitor your phone use.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Trust Dr.fone
 
 Smartphones have taken over the globe, and almost everyone has one. In addition, apps for smartphones, such as those for monitoring children, have been developed as a result of advances in technology. Using programs like Life360, parents can keep tabs on their children and teens. However, for some children and teenagers, Life360 disturbs their privacy, and they don't enjoy being tracked around the clock by the program.
 
 It may be difficult to trick the iPhone's GPS, and doing so needs dependable and secure solutions, such as [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Users of iOS devices will appreciate this app's ability to quickly and safely fake their current location without compromising their personal information. The most excellent part is that it's simple to use and set up. Additionally, with Dr.Fone - Virtual Location (iOS/Android), you may relocate to any location and choose your own pace. Life360 and other location-based applications may be spoofed with a mouse click.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -239,6 +240,13 @@ If you want to share your location in the "Find My Friends" application, you can
 
 ![share your location](https://images.wondershare.com/drfone/article/2022/06/find-my-friends-no-location-found-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - _**Step 1:**_ Open the "Find My Friends" application and select "People".
 - **_Step 2:_** Then you can tap on "Share My Location" and from there, you can type the phone number of the person you want to share your location too. You can also specify the amount of time you will share your location.
 
@@ -264,6 +272,13 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 
 ![start drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **_Step 2:_** You can then connect your phone to your computer and click on "Get Started".
 
 ![start the virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -271,13 +286,6 @@ _**Step 1:**_ Download the "Dr. Fone - Virtual Location" software on your laptop
 **_Step 3:_** You will then be redirected to your current location on the new page.
 
 ![locate yourself](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _**Step 4:**_ If you want to change your location, you will need to turn on the "Teleportation" mode by clicking on the first icon, typing the location you want, and then clicking on the "Go" icon.
 
@@ -301,13 +309,6 @@ With GPS and advanced tracking tools, your whereabouts can be easily located all
 
 In the following parts of this writeup, you can learn how to know if someone is spying on your cell phone, how to stop someone from mirroring your phone, and many other related concerns.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How can I tell if my husband or wife is spying on my Samsung Galaxy A24?
 
 If you are suspecting that your phone is being hacked, several signs will indicate the same. So, if you too are looking for ways **how to know if someone is spying on cell phones, check the below-listed signs.**
@@ -317,6 +318,13 @@ If you are suspecting that your phone is being hacked, several signs will indica
 If you feel that your phone is running slow than usual then it might be hacked as spyware tools that are downloaded are resource-draining and thus makes the Samsung Galaxy A24 device sluggish.
 
 ![spying on phones](https://images.wondershare.com/drfone/article/2022/03/spying-on-phone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. The battery is draining too fast
 
@@ -336,23 +344,9 @@ If your social media accounts like Facebook and others are kept an eye on it mea
 
 ![hack without touching by social media](https://images.wondershare.com/drfone/article/2022/03/hack-without-touching.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Tracking you or your vehicle using GPS
 
 To know about your whereabouts the Samsung Galaxy A24 device's GPS and the vehicle movement are being tracked. If this is happening with you then it means that you are being spied on.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: What can be used when your phone is tracked?
 
@@ -375,14 +369,14 @@ These are the legitimate apps that can be downloaded from the App store on your 
 
 ![remove spyware](https://images.wondershare.com/drfone/article/2022/03/remove-spyware.jpg)
 
-This is one of the most widely used methods where the software or an app is installed on the Samsung Galaxy A24 device to retrieve the Samsung Galaxy A24 device data. The victim partner is unaware of any such apps installed on their device and the data is sent to the hacking partner. A wide range of these spyware tools is available in the market in different price brackets. These spyware apps can retrieve data like chats, call details, messages, browsing history, passwords, and much more.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+This is one of the most widely used methods where the software or an app is installed on the Samsung Galaxy A24 device to retrieve the Samsung Galaxy A24 device data. The victim partner is unaware of any such apps installed on their device and the data is sent to the hacking partner. A wide range of these spyware tools is available in the market in different price brackets. These spyware apps can retrieve data like chats, call details, messages, browsing history, passwords, and much more.
 
 ## Part 3: How should I respond when I learn my spouse is spying on me?
 
@@ -409,13 +403,6 @@ Another way is to anti-spy from your spouse which means that let him spy on you 
 By changing the VPN of your device, you can set a false location and your spouse will be tricked and will be forced to believe that you are somewhere else than your actual location. To change Virtual Private Network (VPN) there are different services available and some of the most popularly used ones are Express VPN, IPVanish, SurfShark, NordVPN, and others.
 
 ![stop spouse from spying on you by vpns](https://images.wondershare.com/drfone/article/2022/03/vpn.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2. A Reliable location changer, Dr.Fone - Virtual Location
 
@@ -449,6 +436,19 @@ You can check out this video for further instruction.
 **Step 3.** The actual location of your device will now appear in the new window. If the location is not correct, you can tap on the “**Center On**” icon present in the lower right to display your correct location.
 
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4.** Now, click on the “**teleport mode**” icon present on the upper-right side. At the upper-left field enter the desired location where you wish to teleport to and then click on the **Go** button.
 
@@ -498,19 +498,24 @@ The technological advancements may have brought a lot of convenience to the user
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-spin-wonders-expert-techniques-to-enthrall-your-followers-with-flipped-photos-for-2024/"><u>[New] Insta Spin Wonders Expert Techniques to Enthrall Your Followers with Flipped Photos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere/"><u>[Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-decide-your-videoclip-layout-fbs-dilemma/"><u>[Updated] In 2024, Decide Your Videoclip Layout FB’s Dilemma</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-new-age-of-samsungs-bdplus-k850/"><u>2024 Approved Exploring the New Age of Samsung's BD+ K850</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-galaxy-s24-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Galaxy S24 Ultra?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-infinix-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Infinix</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-smart-7-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Smart 7</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/finding-the-ultimate-video-solution-vlc-and-mx-showdown/"><u>Finding the Ultimate Video Solution VLC and MX Showdown</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2000-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2000</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-zte-nubia-flip-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your ZTE Nubia Flip 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/solving-the-issue-of-iphones-invisible-on-your-windows-11-8-or-7-computer-a-step-by-step-guide/"><u>Solving the Issue of iPhones Invisible on Your Windows 11, 8 or 7 Computer: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-prevent-date-modifications-on-windows/"><u>Techniques to Prevent Date Modifications on Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-datadeliverer-analyst-take-for-2024/"><u>[New] DataDeliverer Analyst Take for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-formulating-final-fact-finding-flourishes/"><u>[New] Formulating Final Fact-Finding Flourishes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-expert-analysis-top-picks-of-the-best-5-slow-motion-cams/"><u>2024 Approved Expert Analysis Top Picks of the Best 5 Slow Motion Cams</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-visualverve-tips-for-resizing-images-in-instagram/"><u>2024 Approved VisualVerve Tips for Resizing Images in Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nokia-130-music-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nokia 130 Music Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-infinix-smart-8-hd-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Infinix Smart 8 HD</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-on-samsung-convert-mts-for-samsung-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Samsung -convert MTS for Samsung</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-your-note-taking-game-with-onetastic-upgrade-an-exclusive-review-for-microsoft-users/"><u>Boost Your Note-Taking Game with Onetastic Upgrade - An Exclusive Review for Microsoft Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-lava-blaze-2-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Lava Blaze 2 Pro.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-steps-in-logging-youtube-live-content-for-2024/"><u>Essential Steps in Logging YouTube Live Content for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-docx-files-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .docx files electronically</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone 14 | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-wpt-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .wpt file</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-find-n3-flip-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Find N3 Flip Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-y100-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo Y100 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-best-alternatives-of-vsdc-video-editor-on-mac-for-2024/"><u>Updated Get Best Alternatives of VSDC Video Editor on Mac for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/windows-11-optimized-dvd-shrink-compatibility-setup-guide/"><u>Windows 11 Optimized DVD Shrink Compatibility Setup Guide</u></a></li>
 </ul></div>
 
