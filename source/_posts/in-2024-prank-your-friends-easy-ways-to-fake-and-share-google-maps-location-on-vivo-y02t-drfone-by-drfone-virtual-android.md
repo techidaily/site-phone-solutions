@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y02T | Dr.fone
-date: 2024-11-14T19:36:28.951Z
-updated: 2024-11-16T16:00:07.984Z
+date: 2024-11-20T01:51:30.993Z
+updated: 2024-11-26T04:25:11.705Z
 tags: 
   - virtual location chang
   - location changer
@@ -22,6 +22,10 @@ Google Maps is a virtual map for mobile and PC use. With it, you can check route
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Fake or Spoof Your Location in Google Maps?
 
@@ -65,6 +69,14 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![teleport a gps google location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Change location in Google Maps with a VPN
 
 An array of VPN apps come with built-in location spoofing features on top of the usual IP address masking. For example,
@@ -84,13 +96,6 @@ NordVPN includes additional features to stay ahead of Hulu’s VPN blocks. It ha
 - Speed Slower than ExpressVPN
 - Only one Japan server location
 - Unable to pay by PayPal
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. ExpressVPN
 
@@ -146,13 +151,6 @@ For iPhone users, you can share your Google map location through the following s
 
 ![avator icon google map](https://images.wondershare.com/drfone/article/2022/02/avator-icon-google-map.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Now select the contact you want to share your location with and also how long you will share.
 
 ![location sharing feature](https://images.wondershare.com/drfone/article/2022/02/location-sharing-feature.jpg)
@@ -162,13 +160,6 @@ For iPhone users, you can share your Google map location through the following s
 Or you can directly mark a location you wanna go to first, and tap the "Share" button, then choose the channels you want to share. You can share through WhatsApp, Telegram, Instagram, etc.
 
 ![send google location to others](https://images.wondershare.com/drfone/article/2022/02/send-google-location-to-others.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Also, follow the steps below if you are using an Android phone:
 
@@ -208,6 +199,10 @@ You probably also have many applications installed, such as WhatsApp, Google map
 
 Life360 can help. It is a location-based app that lets you check the location of your device, your family members, and even your friends via push notifications. Does life360 tell you when someone checks your location? Read to learn more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How Does Life360 Work?
 
 While it's logical that users would want to take extra precautions to protect their personal information, using this software eliminates the need to turn off their devices entirely. In this part, we describe the Life360 app's features in further depth, including how to use them.
@@ -239,6 +234,10 @@ Does life360 notify when you turn off your location, and what can life360 monito
 
 Life360 hack - Here are some methods to stop sharing your location without them knowing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Invest in a Burner Phone
 
 Using an anonymous burner phone purchased with cash is a standard plot device in espionage movies and programs. There is a method that is the same as this for faking Life360.
@@ -258,13 +257,6 @@ Turning down the Vivo Y02T device's potential to interact with Wi-Fi and cellula
 **Step 1.** To prevent applications from renewing themselves in the background, you must use the option that saves battery life.
 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Disconnect from the internet through Wi-Fi and cellular data if you have them. For example, rather than disabling the whole Android system on an iPhone, you may simply disable the Life 360 app.
 
@@ -304,22 +296,12 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 ![open feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** You'll be presented with a new window called "Virtual Location."
 
 ![start location faking](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4.** Make sure you have a USB cable for your iPhone or iPad or Android that is compatible with your computer. Take a moment to unlock the Vivo Y02T device, if necessary, and then press the Trust Device option.
 
@@ -330,6 +312,10 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 **Step 6.** To teleport your Phone to a specific place, type its address into the address bar. Next, choose an area from the drop-down menu that appears.
 
 ![one stop teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7.** Make a selection and then touch "Move here."
 
@@ -363,6 +349,10 @@ This particular feature makes the simulation look realistic with the ability to 
 
 ![use realistic mode for accuracy](https://images.wondershare.com/drfone/guide/realistic-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 3: Fluctuation Mode (For Teleport Mode)
 
 Whenever you are teleporting your smartphone device to another location, you can try using the fluctuation mode feature offered against it. As you activate **Teleport Mode** from the top-right section and search for a location, you will discover the **Fluctuation Mode** toggle in the confirmation tab. Turn on the toggle to slightly switch the location from the selected point to show realistic motion.
@@ -379,13 +369,6 @@ It is recommended not to start the movement until the cooldown time is completed
 
 This option will automatically jump you to the next destination once the timer ends. It is helpful for games like Pokemon Go, where the game servers can detect frequent jumps with no cooldown time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 5: Import/Export GPX File
 
 You can also import and export specific navigated locations from Dr.Fone in the form of GPX files. While you can export GPX files for keeping a record of your location, you can also import such files for inserting specific locations to simulate or teleport to. Find out how you can import and export GPX files with this location-changing application:
@@ -401,6 +384,10 @@ Step 2Import a GPX File
 For importing a GPX file on the platform, click the **Import** button on the right pane. As this opens a window, select the GPX file you wish to import to the platform.
 
 ![import gpx file to the platform](https://images.wondershare.com/drfone/guide/import-gpx.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3Wait for the File to be Read
 
@@ -425,10 +412,7 @@ Select the **Go** button adjacent to any particular historical record to re-laun
 ![move to any location from history](https://images.wondershare.com/drfone/guide/history-records-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 7: Favorite List
@@ -461,16 +445,20 @@ To look for your favorite locations, look for the **Favorite** icon on the right
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-copyright-compliance-in-instagrams-musical-world/"><u>[New] Mastering Copyright Compliance in Instagram's Musical World</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unravel-the-secrets-to-successful-instagram-metrics-management-with-top-tools/"><u>[Updated] In 2024, Unravel the Secrets to Successful Instagram Metrics Management with Top Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-web-funniness-constructor/"><u>[Updated] Web Funniness Constructor</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/begin-with-class-in-every-screen-best-intro-editor-app-for-2024/"><u>Begin with Class in Every Screen Best Intro Editor App for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/brand-trust-through-video-praise-for-2024/"><u>Brand Trust Through Video Praise for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-realme-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Realme</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-10-mp4-players-you-cant-miss-for-2024/"><u>[New] 10 MP4 Players You Can't Miss for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-advanced-presentation-techniques-youtube-in-slides/"><u>[Updated] Advanced Presentation Techniques YouTube in Slides</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-broadcast-in-ultra-hd-on-the-social-network-for-2024/"><u>[Updated] Broadcast in Ultra HD on the Social Network for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-2017-data-overload-infographics-and-surprising-yt-stats/"><u>[Updated] In 2024, 2017 Data Overload Infographics & Surprising YT Stats</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-into-the-world-of-youtube-transcription-a-comprehensive-no-fee-guide/"><u>[Updated] Step Into the World of YouTube Transcription A Comprehensive No-Fee Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-squared-up-crafting-square-format-videos-with-imovie-and-instagram/"><u>2024 Approved Squared Up Crafting Square-Format Videos with iMovie and Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-12-pro-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 12 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/lava-yuva-3-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Lava Yuva 3 Pro support - Forgotten screen lock.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-video-recording-devices-best-camcorders-reviewed-for-2024/"><u>The Ultimate Video Recording Devices – Best Camcorders Reviewed for 2024</u></a></li>
 </ul></div>
 

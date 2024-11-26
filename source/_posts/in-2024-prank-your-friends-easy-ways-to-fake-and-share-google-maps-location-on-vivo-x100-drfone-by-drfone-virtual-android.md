@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X100 | Dr.fone
-date: 2024-08-24T13:36:47.645Z
-updated: 2024-08-25T13:36:47.645Z
+date: 2024-11-21T06:07:48.648Z
+updated: 2024-11-25T18:51:31.816Z
 tags: 
   - virtual location chang
   - location changer
@@ -18,9 +18,17 @@ thumbnail: https://thmb.techidaily.com/58d1c82f33ff87a2a49ef482dc26ca840416cdee7
 
 Google Maps is a virtual map for mobile and PC use. With it, you can check routes and street maps with unreal aerial imagery. However, sometimes you might want to **fake Google Maps location**. Google maps location. For example, you might want to tag your friends or followers with a new fake location. Or, you might want to prevent apps like Google Chrome from accessing your actual location. Whichever the case, this article teaches you how to **fake GPS on Google maps** without breaking a sweat. Let's learn!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fake or Spoof Your Location in Google Maps?
 
 You may think I should be turning off the location setting and wifi services to show fake locations on google maps. Well, I tried this, but it did not work, unfortunately. Google Maps can still track me. This is because Google Maps can use the signal strength of cell towers around me to guess my location, and believe me, this guess is usually very accurate. Also, the IP of the phone can be used. Here, we provide two effective methods for you to fake and change location in Google Maps at ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Spoof location in Google Maps with a tool for both iOS and Android
 
@@ -81,8 +89,9 @@ NordVPN includes additional features to stay ahead of Hulu’s VPN blocks. It ha
 - Unable to pay by PayPal
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. ExpressVPN
 
 ExpressVPN can bypasses many streaming blocks, like Hulu’s, and it delivers a fast long-distance speeds connecting to America from overseas compared to other vpns. Also, it provides many Japanese server locations, including the main big cities in Japan, Tokyo and Osaka.
@@ -98,9 +107,6 @@ ExpressVPN can bypasses many streaming blocks, like Hulu’s, and it delivers a 
 
 - More expensive than other VPN providers
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Surfshark
 
 Surfshark is relatively new to the market and only emerged some time back in 2018. It’s available now at a great price compared to current top dogs in the market.
@@ -128,9 +134,6 @@ No matter what VPNs you are using, the steps are basically as same as the follow
 - Refresh or reopen your Google Map, and then input your desired location on its search section.
 - It's complished when the desired location is found.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Share Your Location in Google Maps?
 
 For iPhone users, you can share your Google map location through the following steps:
@@ -139,22 +142,22 @@ For iPhone users, you can share your Google map location through the following s
 
 ![share location](https://images.wondershare.com/drfone/article/2022/02/share-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 - Click on your profile avatar, and in the menu, click Location sharing. If you are already sharing your location, you will tap New share.
 
 ![avator icon google map](https://images.wondershare.com/drfone/article/2022/02/avator-icon-google-map.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Now select the contact you want to share your location with and also how long you will share.
 
 ![location sharing feature](https://images.wondershare.com/drfone/article/2022/02/location-sharing-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 - Click Share.
 
 Or you can directly mark a location you wanna go to first, and tap the "Share" button, then choose the channels you want to share. You can share through WhatsApp, Telegram, Instagram, etc.
@@ -175,30 +178,18 @@ Also, follow the steps below if you are using an Android phone:
 
 In the reallocation screen, you'll be able to find the five-star icon on the proper sidebar and, therefore, the new window after you use the three provided modes. A simple click to feature the route to your favorites. After you boost features, it'll show you "collection successfully," and also the five stars icon will display a red icon, and you'll also enter to test what percentage you have ever strengthened.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. How to turn off your location on an iPhone device?
 
 You can do that by changing the settings on your device. Settings >> privacy options>> location services, then turn the icon to the left, which will indicate that your location is off.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### 3\. How to turn off your history on an iPhone device?
 
 To turn off the History, stick to the same icon of settings, and from the system services, check your significant locations, and you can delete them as well.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. How does one give someone your location from your Vivo X100?
 
 Start with opening the "Find My" app on your Vivo X100 and choose the "People" tab. Select share my location and enter the name or number of the person you wish to share your location with. In the end, tap send and share your site with someone you want to share.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Final Words
 
 We've discussed the fake Google maps location through different methods in this detailed guide. Android and iOS users can use various apps to fake their location. For iOS users, [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a perfect choice to spoof Google maps location without doing much work. Sharing fake locations in Google maps is a straightforward thing to do. Whether you want to use it to prank your friends, otherwise, you may have a more serious reason. By following the above steps outlined in this article, you will convince Google that you are anywhere within the world.
@@ -254,9 +245,6 @@ Using an anonymous burner phone purchased with cash is a standard plot device in
 
 ![ invest in a burner phone](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Disable Wi-Fi and Cellular Data Access
 
 Turning down the Vivo X100 device's potential to interact with Wi-Fi and cellular networks is another option for generating a false location.
@@ -264,6 +252,10 @@ Turning down the Vivo X100 device's potential to interact with Wi-Fi and cellula
 **Step 1.** To prevent applications from renewing themselves in the background, you must use the option that saves battery life.
 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Disconnect from the internet through Wi-Fi and cellular data if you have them. For example, rather than disabling the whole Android system on an iPhone, you may simply disable the Life 360 app.
 
@@ -273,9 +265,6 @@ Turning down the Vivo X100 device's potential to interact with Wi-Fi and cellula
 
 Once these services are no longer active, your location data will no longer change.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3. Go For Dr.Fone
 
 This is one of the best products to spoof or stop your location immediately. In addition, you can alter your GPS position whenever it is necessary with the help of [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/),.
@@ -284,11 +273,6 @@ Changing the Vivo X100 device's location info to improve it seems to be in anoth
 
 As a direct result of this, you will have access to all of the banned applications and will be able to have entertainment without having to move physically.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -310,66 +294,33 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 ![open feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3.** You'll be presented with a new window called "Virtual Location."
 
 ![start location faking](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **Step 4.** Make sure you have a USB cable for your iPhone or iPad or Android that is compatible with your computer. Take a moment to unlock the Vivo X100 device, if necessary, and then press the Trust Device option.
 
 ![activate ](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 5**. You may then identify your Phone.
 
 **Step 6.** To teleport your Phone to a specific place, type its address into the address bar. Next, choose an area from the drop-down menu that appears.
 
 ![one stop teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - **Step 7.** Make a selection and then touch "Move here."
 
     ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 - **Step 8**. Tap Still Move after you agree to the instructions.
 
     ![current location in program](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
     When you use this software, your Phone's GPS location will be faked. To navigate your new surroundings, just press and hold the left joystick.
 
 ## Conclusion
 
 Can you tell when someone checks your location on life360? To stay safe, you should know what apps are accessing your location. There are several ways to stop sharing your location, but [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is undoubtedly the best and most convenient. This software can also fake your location and stop the location-sharing process within minutes.
-
-
-
-
 
 ## How Can I Use a Fake GPS Without Mock Location On Vivo X100?
 
@@ -383,9 +334,6 @@ If yes, then we have safe and reliable tricks that will help you to fake GPS on 
 
 In this article, we are going to discuss some useful tricks to fake GPS without a mock location that will protect your privacy. Take a look!
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What Is Mock Location?
 
 Mock location is a feature in android devices that specify the different locations when using fake GPS apps. Basically, it helps with location spoofing in the android emulator, and you can easily test your GPS applications.
@@ -402,9 +350,6 @@ Under the developer option, allow mock location apk is very popular and useful d
 
 In the below section, we have discussed some of the major uses of mock location feature on Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### 2.1 For AR Games
 
 ![mock location for ar games](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-1.jpg)
@@ -414,6 +359,10 @@ People who love to play AR location-based games allow mock location apk to spoof
 However, with allowing mock location feature, you can download fake location apps to spoof AR location-based games. Games like Pokémon Go is very popular, and you can catch more Pokémon while sitting at your home with fake GPS applications.
 
 Also, there are many other AR games, including Ingress Prime, Harry Potter: Wizards Unite, Kings of Pool, Pokémon Go, and Knightfall AR. You can spoof all on Android with the help of allowing mock location apk.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.2 For Dating Apps
 
@@ -427,9 +376,6 @@ Again to spoof dating apps, you will need to enable allow mock location apk feat
 
 Now, let’s check out how you can mock locations on Your Vivo X100s. Ideally, you will need to enable allow mock location to select a fake location spoofer app under it. With fake GPS spoofer, you can fake your android location.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3.1 How to allow mock locations on Android
 
 Most of the latest android phones come with the inbuilt mock location feature. Though this feature is considered to be reserved for developers, and you need to enable the Developer Options first to allow mock location apk on android mobile Phone. Follow the following steps to enable developer option.
@@ -438,13 +384,14 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![allow mock location android](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, tap on the Build Number option seven times without a break to enable the developer option.
 
 ![tap on build number seven times](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 **Step 3:** After this, go back to Settings, and there you will newly added Developer Options.
 
 ![newly added developer options](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-5.jpg)
@@ -453,14 +400,8 @@ Most of the latest android phones come with the inbuilt mock location feature. T
 
 ![add developer option and toggle](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5:** In the list of developer options, locate the “Allow Mock Locations” feature, and enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### 3.2 How To Change Your Mobile Location By Working With A Spoofer App?
 
 After enable “allow mock location” on an android mobile phone, you will need to install a location spoofing app like Fake GPS. Also, there are many other free fake GPS apps that you can download from Google Play Store in your Phone.
@@ -497,12 +438,13 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![connect your iphone](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** You will see a world map with three modes on the right top side.
 
 ![world map with three mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Select any one mode from the teleport, two-stop mode, and multi-stop mode to spoof your location.
 
@@ -510,24 +452,20 @@ Here are the steps that you will need to follow to install Dr. Fone in your devi
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you are ready to spoof iPhone without compromising the privacy of the Phone.
-
-
 
 ## Part 4: Mock Location Feature On Different Android Models
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Mock Location on Samsung and Motto
 
 In Samsung and Motto device, the mock location feature is available under the “Debugging” section of Developer Options.
 
 ![mock location on Samsung and motto](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Allow mock location on LG
 
 Smartphones from LG have a dedicated “Allow Mock Locations” feature that you can easily access by enabling Developer Options.
@@ -542,15 +480,9 @@ Most of the Xiaomi devices have MIUI numbers instead of Build Number. So, to ena
 
 In Huawei devices, there is the EMUI, for this, go to Settings > Software Information and tap on EMUI to turn on Developer Options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 We hope that after reading the above article, you would be able to allow mock locations apk on different android devices. Also, you can fake GPS on iOS with the help of [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) app. This will help you spoof many dating apps and gaming apps.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -564,5 +496,22 @@ We hope that after reading the above article, you would be able to allow mock lo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-fb-success-with-professional-360-video-tips/"><u>[New] 2024 Approved Unlock FB Success with Professional 360 Video Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-integrating-real-time-collaboration-slack-and-filmoras-meeting-guide/"><u>[New] In 2024, Integrating Real-Time Collaboration Slack & Filmora's Meeting Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-success-how-to-make-your-videos-captivate-audiences-for-2024/"><u>[Updated] Instagram Success How to Make Your Videos Captivate Audiences for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-world-of-media-with-vlc-on-mac/"><u>[Updated] Navigating the World of Media with VLC on Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-art-of-audio-visual-harmony-youtube-music-inclusion-guide-for-2024/"><u>[Updated] The Art of Audio-Visual Harmony YouTube Music Inclusion Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-13-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone 13 and Browser | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Itel P55? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-making-slow-motion-videos-in-premiere-pro-a-review-on-the-best-method/"><u>New 2024 Approved Making Slow Motion Videos in Premiere Pro A Review on The Best Method</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-the-best-text-to-audio-converters-of-all-times/"><u>New In 2024, The Best Text-to-Audio Converters of All Times</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguard-your-info-exiting-chatgpts-service/"><u>Safeguard Your Info - Exiting ChatGPT's Service</u></a></li>
+</ul></div>
 

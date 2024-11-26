@@ -1,7 +1,7 @@
 ---
 title: In 2024, What are Location Permissions Life360 On Vivo X100? | Dr.fone
-date: 2024-11-15T18:00:52.911Z
-updated: 2024-11-16T17:38:20.291Z
+date: 2024-11-22T17:01:16.058Z
+updated: 2024-11-25T23:42:06.122Z
 tags: 
   - virtual location chang
   - location changer
@@ -41,13 +41,6 @@ Your device's status bar may glow blue and display a message notifying you that 
 
 "Always" grants the software all the permissions it needs. So, for example, allowing location permission will be done – every time the app launches. As a result, the software can track your location even if the application is closed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2：Can My Vivo X100 Be Tracked If Location Services Are Off?
 
 If you misplace your phone or want to run an application that requires to access your location, you may use the already developed location settings on your smartphone. Suppose, on the other hand; you don't want anybody to track your phone?
@@ -56,15 +49,27 @@ Is it possible to track a phone even if the location services are disabled? Mobi
 
 Disabling your phone's location services might help you hide your current whereabouts. This is critical if you don't want others to be able to follow your movements or activities. However, other methods may still find a smartphone's overall geolocation using different ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Cell-Site Simulators
 
 A cell-site simulator is a device that can imitate a mobile phone tower and force a nearby mobile phone to connect to it. Cell site simulators can be purchased online or at a local electronics store. Law enforcement agencies use them to locate a phone without a warrant.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Malware or Spyware
 
 Malware and spyware can use various techniques to track your phone's location. For example, a malware program may be able to detect your location based on Your Vivo X100's hardware.
 
 Some mobile malware or spyware can detect and track your location without the need for the user's consent.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Cell Towers
 
@@ -115,6 +120,10 @@ Stopping location sharing on Life360 may also be accomplished by turning off the
 
 ![stop using the gps on iphone](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Take use of a Burner Phone
 
 Burner phones make it very easy to disable location tracking on Life360. In addition, disposing of a burner phone keeps your personal information private and secure.
@@ -128,13 +137,6 @@ Burner phones make it very easy to disable location tracking on Life360. In addi
 Smartphones have taken over the globe, and almost everyone has one. In addition, apps for smartphones, such as those for monitoring children, have been developed as a result of advances in technology. Using programs like Life360, parents can keep tabs on their children and teens. However, for some children and teenagers, Life360 disturbs their privacy, and they don't enjoy being tracked around the clock by the program.
 
 It may be difficult to trick the iPhone's GPS, and doing so needs dependable and secure solutions, such as [Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Users of iOS devices will appreciate this app's ability to quickly and safely fake their current location without compromising their personal information. The most excellent part is that it's simple to use and set up. Additionally, with Dr.Fone - Virtual Location (iOS/Android), you may relocate to any location and choose your own pace. Life360 and other location-based applications may be spoofed with a mouse click.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -206,6 +208,10 @@ Download Dr.Fone – Virtual Location on your PC and run it to begin **fake GPS 
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Connect Your Device**
 
 Connect your iOS device with the lightning cable or your Vivo X100 using a USB cable. You can also connect your iOS device via WiFi after being connected once. Click on “Get Started” now.
@@ -224,13 +230,6 @@ Click the second icon present in the upper right to turn on the “teleport mode
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Chance the Location**
 
 Now, you will be able to trick all the location-based apps with your fake location. Click on “Move Here” when the popup box shows.
@@ -248,6 +247,10 @@ Even when you click the “Center On” icon for location yourself, the location
 Other than Dr.Fone, you can use its alternative [Hola](https://m.apkpure.com/fake-gps-location-hola/org.hola.gpslocation) on Android devices. It’s available to use in more than 43 languages free of cost. With this **fake GPS Android no root** **application**, you can choose from an extensive list of places worldwide to set your location. For android users who can’t afford a PC or laptop to perform GPS spoofing with Dr.Fone, they can choose Hola for convenience.
 
 ![hola app](https://images.wondershare.com/drfone/article/2022/05/what-is-hola-fake-gps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pros**
 
@@ -299,15 +302,16 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - No updates for so long.
 - May heat up the phone if used for long.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Life360: Learn How Everything Works On Vivo X100
@@ -343,13 +347,6 @@ The Life360 app uses GPS technology to track your location. When you first insta
 You will also be asked to select a default location. This will be used to determine your home address. Once you enter your zip code, city, and state, you will be able to view your location on a map.
 
 Also, Life360 works best in urban areas. If you live in an area with many tall buildings, Life360 may not work as well.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Is Life360 Safe for Your Privacy?
 
@@ -401,42 +398,29 @@ Downloading Dr.Fone - Virtual Location (for iOS or Android) is the first thing t
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For iPhone users, after the program has been linked via a USB cord, it is possible to connect wirelessly without a connection.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** You may see your current position on a map in the new window. If you are having trouble finding your current position when looking for locations on the map, you may hit the "center on" symbol that is located in the side to the right of the map to reveal your exact location.
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Tap the matching icon in the top right to enter "teleport mode." It's as simple as entering your destination location in the top left corner and clicking on the "go" button. Let's look at Rome, Italy, as an illustration of this.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** It's clear to the system that Rome is your destination. To relocate, choose "Move Here" from the menu that appears.
 
 ![choose destination you want](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** Now you're in Rome instead of wherever you were before. Your iOS or Android smartphone will always show Rome, Italy as your location, regardless of where you really are. This is the exact same location that appears in your location-based program.
 
@@ -490,20 +474,22 @@ Life360 is a useful application that helps you keep tabs on your loved ones. You
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-free-banner-templates-for-youtube-downloads-and-makers-for-2024/"><u>[Updated] Free Banner Templates for YouTube Downloads & Makers for 2024</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/enhance-your-powerpoint-with-youtube-content-a-step-by-step-guide-for-engaging-presentations/"><u>Enhance Your PowerPoint with YouTube Content: A Step-by-Step Guide for Engaging Presentations</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/get-ready-playstation-portable-launches-with-detailed-info-on-costs-and-features-find-retailers-near-you/"><u>Get Ready: PlayStation Portable Launches with Detailed Info on Costs & Features - Find Retailers Near You!</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/how-to-prevent-file-loss-during-automatic-windows-11-updates-a-comprehensive-guide/"><u>How to Prevent File Loss During Automatic Windows 11 Updates: A Comprehensive Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-rhythms-companion-finding-premium-club-vids/"><u>In 2024, Rhythm's Companion Finding Premium Club Vids</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Tecno Spark 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/optimizing-audio-experience-how-to-address-cyberpunk-2077-sound-problems-effectively/"><u>Optimizing Audio Experience: How to Address Cyberpunk 2077 Sound Problems Effectively</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/pioneering-the-use-of-film-in-educational-methodologies-for-2024/"><u>Pioneering the Use of Film in Educational Methodologies for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-11-startup-crashes/"><u>Troubleshooting Guide: Resolving Windows 11 Startup Crashes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/warzone-silence-expert-strategies-for-restoring-audio-on-your-computer/"><u>Warzone Silence: Expert Strategies for Restoring Audio on Your Computer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-no-cost-speedy-tips-for-exposing-deceptive-instagram-acquaintances/"><u>[New] No-Cost, Speedy Tips for Exposing Deceptive Instagram Acquaintances</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-extract-focus-from-logitech-cam-feed/"><u>[Updated] 2024 Approved Extract Focus From Logitech Cam Feed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-5-mac-video-tools-beyond-standard-bandicam/"><u>[Updated] 2024 Approved Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skyrocket-with-telegram-proven-marketing-techniques-unveiled/"><u>2024 Approved Skyrocket with Telegram Proven Marketing Techniques Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/conquer-screen-capture-in-depth-windows-pc-guide-for-live-tv-recording/"><u>Conquer Screen Capture In-Depth Windows PC Guide for Live TV Recording</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pova-6-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pova 6 Pro 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Motorola Moto G14? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-itel-s23plus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Itel S23+? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>iPogo will be the new iSpoofer On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/protect-your-digital-life-eradicate-facebooks-malicious-software-with-these-easy-steps/"><u>Protect Your Digital Life: Eradicate Facebook's Malicious Software with These Easy Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-the-power-of-your-youtube-brand-for-growth-in-subs-for-2024/"><u>Unlock the Power of Your YouTube Brand for Growth in Subs for 2024</u></a></li>
 </ul></div>
 

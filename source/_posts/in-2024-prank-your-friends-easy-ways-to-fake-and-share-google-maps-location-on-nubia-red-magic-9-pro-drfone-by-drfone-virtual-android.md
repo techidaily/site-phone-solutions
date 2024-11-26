@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nubia Red Magic 9 Pro | Dr.fone
-date: 2024-11-12T16:01:10.166Z
-updated: 2024-11-16T19:56:26.303Z
+date: 2024-11-18T17:38:51.709Z
+updated: 2024-11-25T21:40:08.994Z
 tags: 
   - virtual location chang
   - location changer
@@ -53,6 +53,10 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![fake gps google maps drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Next, you need to connect your Nubia Red Magic 9 Pro to the computer by using a cable.
 
 ![connect your phone with computers via Wi-Fi or an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -64,13 +68,6 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 **Step 4:** After becoming sure of your new location, click on the “Move Here” button to change your location from the real one to the virtual one you selected.
 
 ![teleport a gps google location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Change location in Google Maps with a VPN
 
@@ -134,6 +131,10 @@ No matter what VPNs you are using, the steps are basically as same as the follow
 - Refresh or reopen your Google Map, and then input your desired location on its search section.
 - It's complished when the desired location is found.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Share Your Location in Google Maps?
 
 For iPhone users, you can share your Google map location through the following steps:
@@ -156,13 +157,6 @@ Or you can directly mark a location you wanna go to first, and tap the "Share" b
 
 ![send google location to others](https://images.wondershare.com/drfone/article/2022/02/send-google-location-to-others.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Also, follow the steps below if you are using an Android phone:
 
 - On your Nubia Red Magic 9 Pro or tablet, open the Google Maps app Google Maps.
@@ -171,14 +165,11 @@ Also, follow the steps below if you are using an Android phone:
 - Tap the Share icon. If you don't see this icon, tap More and then Share.
 - Choose the app where you want to share the link to the map.
 
-## Part 3: FAQ: All You Wanna Know about Location Changing on Your Nubia Red Magic 9 Pro
-
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 3: FAQ: All You Wanna Know about Location Changing on Your Nubia Red Magic 9 Pro
 
 ### 1\. How can I add my favorite route as favorite?
 
@@ -187,13 +178,6 @@ In the reallocation screen, you'll be able to find the five-star icon on the pro
 ### 2\. How to turn off your location on an iPhone device?
 
 You can do that by changing the settings on your device. Settings >> privacy options>> location services, then turn the icon to the left, which will indicate that your location is off.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. How to turn off your history on an iPhone device?
 
@@ -221,9 +205,17 @@ Facebook is well aware that sharing location details is essential to its users. 
 
 ![facebook messenger live location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 What if you wish to send a particular address from another location? There is no problem with that. Messenger allows users to search for a specific place, trace it on the map, and share the details. The receiver can view it in map form and get directions if necessary. See? It’s very easy and convenient. No need to type in long addresses just to share a particular location with your friend. You just have to find it precisely on the map and send the information afterward.
 
 Convenience is just one thing. Messenger’s location-sharing feature has a lot more to offer to users. One of which is the accuracy of the shared location information. Since the details are automatically generated through GPS, you can be sure that it is correct and definite. If you go out and track it down the neighborhood, you can certainly find the location in no time. Just make sure that the location services on your smartphone are activated so you can view your progress in real time. Also, stay vigilant while you’re out and keep yourself safe from any harm. Remember that safety remains a priority and comes above convenience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Grant Facebook Messenger the Permission to Access Your Location?
 
@@ -233,6 +225,10 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 - **Step 2:** Click **Apps.**
 
 ![apps settings](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Find and click **Messenger.**
 
@@ -246,16 +242,13 @@ Facebook Messenger’s location-sharing feature will not work without the necess
 
 ![location permission on messenger](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** Select **Allow Only While Using the App.** If you’re quite conservative regarding this matter, click **Ask Every Time** instead. After that, Facebook Messenger will have access to your location information.
 
 ![allow messenger access](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. How to Share My Location on Messenger?
 
@@ -293,6 +286,10 @@ Let’s say there is a specific place you want to visit with your friend. Is the
 
 - **Step 6:** Choose one from the suggested results and then click on it. The details will then be forwarded immediately to the intended receiver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Share location on Facebook Messenger via Google Maps location
 
 How do I share my location in Messenger if I cannot find it on the map provided? Yes. That happens sometimes. There are certain places that are untraceable on the messaging platform. As a result, it doesn’t appear on the map when you try to search for it. But don’t sweat it. If you experience the same issue, you can instead use Google Maps to share location details. How to do it? Check out the tutorial provided below.
@@ -315,6 +312,10 @@ How do I share my location in Messenger if I cannot find it on the map provided?
 
 ![send google maps location](https://images.wondershare.com/drfone/article/2024/02/how-to-share-my-location-on-messenger-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **NOTE:** Of course, you can only send pinned locations via Google Maps. The Facebook Messenger’s Live Location is available within the platform only.
 
 ## BONUS TIP: Protect Your Privacy With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -327,13 +328,6 @@ There’s no denying that the location-sharing feature of Facebook Messenger is 
 - **Step 4:** Once the downloading process has concluded, Wondershare Dr.Fone - Virtual Location will automatically open on a separate window. From there, go to the top-right menu bar and then click **Teleport Mode.** It is the first icon that appears in the row.
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Head over to the top-left corner and enter your desired location into the search bar. Choose one from the suggested results. After that, click the **Enter** icon.
 
@@ -381,6 +375,10 @@ Under the developer option, allow mock location apk is very popular and useful d
 
 In the below section, we have discussed some of the major uses of mock location feature on Android devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2.1 For AR Games
 
 ![mock location for ar games](https://images.wondershare.com/drfone/2020/virtual-location/Allow-Mock-Location-APK-1.jpg)
@@ -399,29 +397,9 @@ In addition to AR-based games, you can also spoof dating apps like Tinder and Gr
 
 Again to spoof dating apps, you will need to enable allow mock location apk feature on android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How Mock Locations Change Your Mobile Location?
 
 Now, let’s check out how you can mock locations on Your Nubia Red Magic 9 Pros. Ideally, you will need to enable allow mock location to select a fake location spoofer app under it. With fake GPS spoofer, you can fake your android location.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.1 How to allow mock locations on Android
 
@@ -533,19 +511,16 @@ We hope that after reading the above article, you would be able to allow mock lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-itops-expert-selection-best-windows-screencasters/"><u>[Updated] In 2024, ITop's Expert Selection Best Windows Screencasters</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-polar-pinnacles-beijing-2022-olympic-spotlight-for-2024/"><u>[Updated] Polar Pinnacles Beijing 2022 Olympic Spotlight for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-kinemasters-comprehensive-guide-to-green-screen-usage/"><u>2024 Approved Kinemaster's Comprehensive Guide to Green Screen Usage</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-by-step-sharing-your-content-on-facebook/"><u>2024 Approved Step-by-Step Sharing Your Content on Facebook</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-u23-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on U23 Pro?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-infinix-hot-40-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-believable-characters-in-ux-with-chatgpt-assistance/"><u>Crafting Believable Characters in UX with ChatGPT Assistance</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/exclusive-techniques-for-monitoring-and-logging-whatsapp-conversations/"><u>Exclusive Techniques for Monitoring and Logging WhatsApp Conversations</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2010-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2010 electronically</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-play-40c-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor Play 40C? Fixed | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/streaming-supremacy-pick-the-best-tool-for-your-vlogs-and-streams-for-2024/"><u>Streaming Supremacy Pick the Best Tool for Your Vlogs & Streams for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-reno-8t-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Reno 8T 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/understanding-frame-rates-a-comparison-of-30fps-and-60fps-video-quality/"><u>Understanding Frame Rates: A Comparison of 30Fps and 60Fps Video Quality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-comprehensive-guide-to-advanced-screen-capture-via-adobe-captive/"><u>[New] Comprehensive Guide to Advanced Screen Capture via Adobe Captive</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-veiled-content-on-youtube/"><u>[New] In 2024, Decoding Veiled Content on YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-players-in-immersive-vision-sets/"><u>[New] Top Players in Immersive Vision Sets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-premium-plugins-boosting-ae-projects/"><u>[New] Ultimate Guide Premium Plugins Boosting AE Projects</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/pinnacle-of-picture-perfection-with-video-enhance-v22-for-2024/"><u>Pinnacle of Picture Perfection with Video Enhance V2.2 for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-best-buy-offers-in-june-2024-exclusive-picks-and-savings-spotlighted-by-zdnet/"><u>Top Best Buy Offers in June 2024: Exclusive Picks and Savings Spotlighted by ZDNet</u></a></li>
 </ul></div>
 

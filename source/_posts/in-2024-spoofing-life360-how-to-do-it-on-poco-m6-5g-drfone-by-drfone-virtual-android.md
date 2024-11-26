@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Poco M6 5G? | Dr.fone
-date: 2024-11-12T16:46:21.469Z
-updated: 2024-11-16T18:49:35.066Z
+date: 2024-11-23T16:02:33.980Z
+updated: 2024-11-26T05:00:07.958Z
 tags: 
   - virtual location chang
   - location changer
@@ -73,6 +73,10 @@ You will be shown a map on the next screen. Here, you can find your current virt
 
 ![find your actual location](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Enable Teleport Mode**
 
 You could observe the five icons at the top right of the screen. You need to click on the first icon which is to activate the Teleport Mode. After this, you can enter the place that you wish to teleport and press "Go".
@@ -117,6 +121,10 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 ![select mock location app from settings](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Choose the Fake GPS app as the mock location app.
 
 ![set Fake GPS app](https://images.wondershare.com/drfone/article/2019/11/select-app-android.jpg)
@@ -124,6 +132,10 @@ Before you get the app worked, here is a requirement you need to follow. The req
 **Step 4:** Open the app now and choose the location you wish to fake and hit on the Play button. This was **how to fake your location on Life360** on Android device.
 
 ![new location on Life360](https://images.wondershare.com/drfone/article/2019/11/fake-location-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _If you want to find an easier way to [fake location on life360 Android](https://drfone.wondershare.com/virtual-location/spoof-life360.html#part3), you can also try to use Dr.Fone - Virtual Location(iOS/Android)._
 
@@ -151,13 +163,6 @@ If you completely want Life360 to stop you from tracking, the very first method,
 
 **Note:** As we have mentioned in the beginning, Life360 supports an inbuilt chat function. This is where the downside comes of having a burner phone as a solution. Putting simply, you may miss an important conversation if you have the app on a burner phone and you have left it at home when any of your friends try to chat with you. And this can cause doubts in their minds.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6.2 Pause Location Sharing in Life360 Settings
 
 Here is another way to stop Life360 from tracking you. You can simply pause the location-sharing option from the settings. Let us mention the steps without any more discussion.
@@ -166,31 +171,21 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 
 ![settings of Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, go to the Circle Switcher at the top and pick out the circle you wish not to share locations with.
 
 **Step 3:** Hit on "Location Sharing".
 
 ![go to Location Sharing](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Lastly, toggle off the slider and it will turn grey. You will see a message saying "Location Sharing Paused" and you are done.
 
 ![pause location sharing for Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-3.jpg)
 
 **Note:** When you disable or pause location for a particular group, your location can still be tracked by other circles. Make sure to choose all or as per your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -245,6 +240,10 @@ Utilizing Smart DNS to change country on Netflix without VPN actually works in t
 **Step 2**: Register your IP address on your selected provider and obtain the appropriate DNS Server Address on your account.
 
 ![change dns server](https://images.wondershare.com/drfone/article/2023/01/change-dns-server-netflix-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3**: Open **Networking** settings on your computer, iPhone, PlayStation, or Xbox and find **DNS Settings** (the image below is an example for the Windows system).
 
@@ -397,16 +396,7 @@ There exist disappointed users struggling to understand this app. The user’s f
 ![user voices toward Fake GPS GO](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to use Fake GPS GO Location Spoofer on your Android
@@ -431,18 +421,15 @@ Step 5: Next, you have to enable the ‘Mock Location’ option in the ‘Develo
 
 ![enable option](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Select mock location app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-9.jpg)
 
 Step 6: inside the ‘Select mock location app’, you have to click the ‘FakeGPS Free’ to enable the mock location feature
 
 ![choose FakeGPS Free](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 7: Now go to the ‘Fake GPS Go Location’ app and select your favourite spot on the map. Then press the ‘Play’ button. Select ‘Without Ads’ option to implement the changes accordingly.
 
@@ -469,6 +456,10 @@ Step 1: Check-in to play store and type ‘Fake GPS Location’ in the search ba
 Step 2: Open the app after the download process
 
 ![download the app](https://images.wondershare.com/drfone/article/2019/09/fake-gps-go-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Allow the app to access the Poco M6 5G device location and accept the ‘Cookies’ to work on this platform
 
@@ -532,20 +523,6 @@ Step 6: The location will be changed successfully. You can now see on the map or
 
 ![see changed location on the map](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Part 2: Movement Simulation Between two Places
 
 Step 1: Launch the tool and look for the first icon at the upper right screen which is “one-stop route”. Choose the place you want to travel on the map. You will know the distance in the pop-up box.
@@ -562,6 +539,14 @@ Step 4: Now, the position will be seen moving as per the chosen speed on the map
 
 ![moving as per the chosen speed](https://images.wondershare.com/drfone/guide/virtual-location-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 3: Simulate Route Movement for Multiple Locations
 
 Step 1: For multiple spots, you need to click the “multi-stop route” after entering map interface. This mode is the second icon on the upper right side. Now, select the multiple places one by one where you want to pass.
@@ -573,13 +558,6 @@ Step 2: The pop-up will show the distance where you need to hit the “Move Here
 Step 3: Enter a digit for how many times you want to take route and click “March”. This will begin the movement simulation.
 
 ![digit for how many times to move](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -607,18 +585,18 @@ Step 3: Enter a digit for how many times you want to take route and click “Mar
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-the-speed-of-vimeo-videos/"><u>[New] Enhancing the Speed of Vimeo Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-finding-value-in-sport-photography-cameras-for-the-price-conscious/"><u>[New] Finding Value in Sport Photography – Cameras for the Price-Conscious</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-pro-tips-on-selecting-the-best-mac-snipers/"><u>2024 Approved Pro Tips on Selecting the Best Mac Snipers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks/"><u>2024 Approved The Ultimate Guide to Scrolling Through Engaging YouTube Remarks</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-filmmaking-on-a-shoestring-the-7-best-affordable-software-options/"><u>In 2024, Filmmaking on a Shoestring The 7 Best Affordable Software Options</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-assessment-of-microsoft-surface-keyboard-superior-ergonomics-tested/"><u>In-Depth Assessment of Microsoft Surface Keyboard - Superior Ergonomics Tested</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-90-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor 90 Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/remium-portables-laptops-to-supercharge-your-creative-work-for-2024/"><u>[New] Premium Portables Laptops to Supercharge Your Creative Work for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-zdsofts-screen-capture-brilliance-reviewed/"><u>[Updated] In 2024, ZDSoft's Screen Capture Brilliance Reviewed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-latest-nvidia-quadro-rtx-8000-drivers-compatible-with-windows-11-8-and-7/"><u>Download Latest Nvidia Quadro RTX 8000 Drivers Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-apple-iphone-15-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing Apple iPhone 15 Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/overcoming-common-airdrop-failures-on-ios-and-macos-systems-for-2024/"><u>Overcoming Common Airdrop Failures on iOS and macOS Systems for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-secure-your-site-from-unauthorized-ai-scraping-by-openai/"><u>Steps to Secure Your Site From Unauthorized AI Scraping by OpenAI</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/form-your-life-top-10-premium-yoga-streams-unleashed-for-2024/"><u>Transform Your Life Top 10 Premium Yoga Streams Unleashed for 2024</u></a></li>
 </ul></div>
 
