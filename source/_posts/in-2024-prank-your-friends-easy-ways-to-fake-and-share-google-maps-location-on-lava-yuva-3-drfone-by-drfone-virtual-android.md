@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Lava Yuva 3 | Dr.fone
-date: 2024-12-01T23:54:47.628Z
-updated: 2024-12-05T18:51:39.504Z
+date: 2024-12-05T21:50:56.985Z
+updated: 2024-12-11T23:16:29.258Z
 tags: 
   - virtual location chang
   - location changer
@@ -22,10 +22,6 @@ Google Maps is a virtual map for mobile and PC use. With it, you can check route
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: How to Fake or Spoof Your Location in Google Maps?
 
@@ -61,10 +57,6 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![connect your phone with computers via Wi-Fi or an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** On the next window, you’ll find the world map on your screen, and the coordinates and directions are clear on the map. You need to click on the third icon called the “Teleport Mode” from the top right corner of your screen. Then type in the place's name in the search box where you want to change your location. There is also a way to pinpoint the area if you know it properly.
 
 ![choose your desired place to move](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -72,10 +64,6 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 **Step 4:** After becoming sure of your new location, click on the “Move Here” button to change your location from the real one to the virtual one you selected.
 
 ![teleport a gps google location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change location in Google Maps with a VPN
 
@@ -111,6 +99,10 @@ ExpressVPN can bypasses many streaming blocks, like Hulu’s, and it delivers a 
 **Cons**
 
 - More expensive than other VPN providers
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Surfshark
 
@@ -156,7 +148,7 @@ For iPhone users, you can share your Google map location through the following s
 ![location sharing feature](https://images.wondershare.com/drfone/article/2022/02/location-sharing-feature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Click Share.
@@ -174,6 +166,10 @@ Also, follow the steps below if you are using an Android phone:
 - Choose the app where you want to share the link to the map.
 
 ## Part 3: FAQ: All You Wanna Know about Location Changing on Your Lava Yuva 3
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How can I add my favorite route as favorite?
 
@@ -195,15 +191,15 @@ Start with opening the "Find My" app on your Lava Yuva 3 and choose the "People"
 
 We've discussed the fake Google maps location through different methods in this detailed guide. Android and iOS users can use various apps to fake their location. For iOS users, [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a perfect choice to spoof Google maps location without doing much work. Sharing fake locations in Google maps is a straightforward thing to do. Whether you want to use it to prank your friends, otherwise, you may have a more serious reason. By following the above steps outlined in this article, you will convince Google that you are anywhere within the world.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change Google Play Location On Lava Yuva 3
 
 Google Account has unlimited advantages as it provides quick access to multiple platforms like Google Drive, Google Calendar, and Google Play Store. By accessing these platforms, users can increase their functionality to ease their daily tasks. For example, Google Play Store offers tons of apps and tools in every category that millions of people install on their devices.
 
 However, some featured apps on the Play Store are restricted region-wise, and some users cannot download them. This article will guide you on **how to change the country in Play Store** to access all the apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Should We Know Before Changing Google Account Location?
 
@@ -230,9 +226,17 @@ Through your Lava Yuva 3s, you can change the location on both Google Play Store
 
 ![tap on settings](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Tap on the "General" section to locate the option of "Account and Device Preferences." Afterward, find the "Country and Profiles" option by scrolling down. From there, you can see your current country location.
 
 ![access account and device preferences](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now click on "Switch to the Country Play Store" to change the location. For verification, click on "Continue" when a pop-up message appears on your screen asking if you want to change the location.
 
@@ -253,10 +257,6 @@ To use this powerful VPN tool, we have jotted down some basic steps through whic
 **Step 2:** After opening this app, tap on the country’s name list displayed above the picture of Earth. Tap on that list to view all the available countries.
 
 ![vpn locations displayed](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Select any country from the displayed list by tapping on it. Meanwhile, make sure that your phone is connected to a strong internet connection. This tool will automatically change your Google location by tapping on the country’s name.
 
@@ -279,7 +279,7 @@ In this situation, we will help you change the country's location on your Google
 ![tap on create new profile](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Situation 2: How to Change Google Account Location on Computer**
@@ -293,6 +293,10 @@ Moreover, the process is fast and fully secured to protect your computer from un
 **Step 2:** You can explore regions by either navigating to the "Recommended" or "All Locations" tab. Select the location you want to change with from the displayed list.
 
 ![access expressvpn location bar option](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** After clicking on any country’s location, your computer’s Google Account location will be automatically changed.
 
@@ -344,10 +348,6 @@ Tap on the first icon displayed on the top right to enable the teleport mode. No
 A notification will pop up for confirmation once you have entered a new location. Tap on "Move here" to proceed. Once done, your new location will be set on your smartphone automatically. Now head back to Google Play Store and search for the applications you want to access.
 
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
 
@@ -405,6 +405,10 @@ You can get this done within minutes if you have the right program with you. One
 
 If you are looking for a way to change Lava Yuva 3 Location without Jailbreak, then this is one of the safest options for you. Also, you have other additional features like Phone Transfer, and Whatsapp Transfer along with Location spoofing. The application will never go to waste, won't occupy much of your computer/PC/Laptop's space and you can get the fake location iOS within minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Change GPS Location on Lava Yuva 3 using External Device
 
 You can achieve the iOS Spoof Location using External devices as well. These devices do not cause any inconvenience to you. They are meant to be small, fit into the lightning port of your iPhone, and act as an external source that will spoof the Lava Yuva 3 location and the same will reflect in every app that uses or detects your iPhone's geographic location.
@@ -430,7 +434,7 @@ Note: The Companion App is not available on the App store. You have to download 
 ![final map location](https://images.wondershare.com/drfone/2020/2020/final-map-location-pic8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Change GPS Location on Lava Yuva 3 using XCode
@@ -448,10 +452,6 @@ You can change the geolocation Lava Yuva 3 by using your coding expertise as wel
 **Step 3**: A screen display will appear asking you about your identity. This is where the minimal coding part starts. You need to enter some GIT Commands to continue with the project.
 
 ![identify yourself](https://images.wondershare.com/drfone/2020/2020/identify-yourself-pic11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4**: Launch and run the terminal on your Mac device and enter these commands - git config --global user.email "[<u>you@example.com</u>](mailto:you@example.com)" and git config --global user. name "your name".You need to add your own details in the quoted space and continue to verify your identity.
 
@@ -527,24 +527,18 @@ We hope you are no longer wondering How to change Location services on Lava Yuva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/iberty-of-youtube-download-customizable-video-themes-for-2024/"><u>[New] Liberty of YouTube Download Customizable Video Themes for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-top-10-best-screen-recorders-for-computer/"><u>[New] Top 10 Best Screen Recorders for Computer</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-cultivating-a-sustainable-advertising-ecosystem-famebits-strategies/"><u>[Updated] Cultivating a Sustainable Advertising Ecosystem FameBit’s Strategies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-digital-tapestry-crafting-visual-narratives/"><u>2024 Approved Digital Tapestry Crafting Visual Narratives</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-media-subtitles-transformation/"><u>2024 Approved Mastering Media Subtitles Transformation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oneplus-nord-3-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset OnePlus Nord 3 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-c53-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme C53 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-motorola-edgeplus-2023-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-honor-magic-vs-2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Honor Magic Vs 2</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-poco-x6-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Poco X6</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-xiaomi-redmi-13c-5g-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Xiaomi Redmi 13C 5G lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2023-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2023</u></a></li>
-<li><a href="https://discover-able.techidaily.com/free-techniques-for-seamless-tsv-file-management-and-transformation-into-high-quality-mp4-videos/"><u>Free Techniques for Seamless .TSV File Management and Transformation Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-2019-file-stellar-by-stellar-guide/"><u>Get Rid of corrupt Excel 2019 File | Stellar</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-bridge-ps4-and-personal-computers-for-gaming/"><u>How to Bridge PS4 and Personal Computers for Gaming</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-printer-software-upgrade-and-installation-guide-for-windows-11-users/"><u>HP Printer Software Upgrade & Installation Guide for Windows 11 Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/transfer-data-efficiently-moving-files-from-pc-to-samsung-galaxy-devices/"><u>Transfer Data Efficiently: Moving Files From PC to Samsung Galaxy Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-complete-beginners-guide-to-creating-impressive-macro-videos/"><u>[New] In 2024, The Complete Beginner's Guide to Creating Impressive Macro Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-a-tale-of-two-faces-iphone-x-and-samsung-compared/"><u>[Updated] 2024 Approved A Tale of Two Faces IPhone X & Samsung Compared</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-capture-the-action-crafting-best-in-class-sports-films-for-2024/"><u>[Updated] Capture the Action Crafting Best-in-Class Sports Films for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevating-your-iphone-photos-through-hdr-methods-for-2024/"><u>[Updated] Elevating Your iPhone Photos Through HDR Methods for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-achieve-massive-momentum-hit-1k-ig-gains-monthly/"><u>[Updated] In 2024, Achieve Massive Momentum Hit 1K IG Gains Monthly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pros-guide-to-free-screen-recording-on-mac-devices-for-2024/"><u>[Updated] Pro's Guide to FREE Screen Recording on Mac Devices for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-avoidance-tactics-for-edg-vids-in-learning/"><u>2024 Approved Avoidance Tactics for EDG Vids in Learning</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-itel-p55-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/compatibility-of-winx-dvd-video-player-on-windows-10-systems-what-you-need-to-know/"><u>Compatibility of WinX DVD Video Player on Windows 10 Systems: What You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-google-pixel-7a-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Google Pixel 7a</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2016-file-by-stellar-guide/"><u>How Do I Restore Excel 2016 File ?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/megadron-mastery-industrys-top-heavy-loaders-for-2024/"><u>Megadron Mastery Industry's Top Heavy Loaders for 2024</u></a></li>
 </ul></div>
 

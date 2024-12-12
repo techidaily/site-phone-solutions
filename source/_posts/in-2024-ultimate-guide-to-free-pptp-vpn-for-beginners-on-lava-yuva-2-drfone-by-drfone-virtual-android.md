@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Lava Yuva 2 | Dr.fone
-date: 2024-12-01T20:25:56.093Z
-updated: 2024-12-05T17:47:07.296Z
+date: 2024-12-07T17:43:04.957Z
+updated: 2024-12-12T01:07:50.346Z
 tags: 
   - virtual location chang
   - location changer
@@ -37,6 +37,10 @@ The free VPN PPTP was earlier introduced by Windows, but was later adopted by al
 ![free pptp vpn connection](https://images.wondershare.com/drfone/2023/virtuallocation/pptp-1.jpg)
 
 By attaining a free VPN PPTP server, you can easily connect to it. For instance, if you wish to connect to Singapore, you would need free PPTP VPN Singapore host IP. We have provided a free PPTP VPN list in the next section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Free PPTP VPN Server List
 
@@ -84,10 +88,6 @@ After getting to know about so many free PPTP VPN Singapore, USA, Canada, UK, an
 
 That’s it! By following these steps, you would be able to create a free PPTP VPN Singapore, USA, UK, Canada, Germany, or any other location. Simply give this tutorial a try and pick the preferred option from our free PPTP VPN list. If you also have a suggestion for a free VPN PPTP that you want to add to your list, then let us know about it in the comments below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: An Easier Alternative to Setup VPN
 
 You may find that there is a steep learning curve ahead to master PPTP VPN setup. In addition, the ways to set up PPTP VPN are quite different for various devices and PCs.
@@ -115,15 +115,15 @@ Some of its advantages are as follows:
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How To Teleport Your GPS Location On Lava Yuva 2?
 
 While playing games like Pokemon Go, you are in desperate need of finding more Pokémon. If so, changing your location is a necessity that needs to be figured out. For that, teleporting the GPS location of the Lava Yuva 2 device is the optimal solution. To carry this out, Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) provides a perfect system for fake locations.
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 1: Teleport to Anywhere in the World (Teleport Mode)
 
@@ -143,10 +143,6 @@ Once you have connected your smartphone, continue to select the **Teleport Mode*
 
 ![select teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2Add Location To Teleport
 
 After activating **Teleport Mode,** click the search bar on the top-left to type in the location where you want to shift. After adding the location, hit **Enter** to proceed.
@@ -161,21 +157,25 @@ You will be directed to the particular, and the map will display it for confirma
 
 ![confirm the location to spoof](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4Location Successfully Changed On Computer
 
 The location of the smartphone will be instantly changed to the selected location and will be displayed on the map.
 
 ![move location successfully](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5Location Changed On the Smartphone
 
 Open your smartphone and access its maps application. Look into the current location of the Lava Yuva 2 device and verify it to be the same as the changed location on the computer.
 
 ![confirm location on the smartphone](https://images.wondershare.com/drfone/guide/virtual-location-07.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: Instantaneous Movement Between Multiple Points (Jump Teleport Mode)
 
@@ -187,15 +187,15 @@ You will have to first access the **Jump Teleport Mode** option from the second 
 
 ![turn on jump teleport mode](https://images.wondershare.com/drfone/guide/jump-teleport-mode.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2Set Spots to Jump Teleport
 
 Continue to select the spots you want to pass one by one on the map by simply tapping on them with your mouse. After selecting multiple spots, click the **Start Moving** button at the bottom of the left panel to start the movement.
 
 ![define points for jump teleport](https://images.wondershare.com/drfone/guide/choose-jump-teleport-destination.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3Change Location Between Set Spots
 
@@ -204,7 +204,7 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 ![start changing location](https://images.wondershare.com/drfone/guide/start-use-jump-teleport-mode.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can Life360 Track You When Your Lava Yuva 2 is off?
@@ -212,7 +212,7 @@ As prescribed, you can propagate amongst the set spots with the Jump Teleport Mo
 [![avatar](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Did you know that your Lava Yuva 2 tracks your location even when turned off? And if you're a member of any social media network, it means you could be tracked. Do you like to have your privacy? Do you want to protect your kids from being tracked by strangers?
@@ -226,6 +226,10 @@ Should we trust Life360, the social media company that recently merged with Goog
 - [Part 1: What Is Life360 And How Does It Work?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part1)
 - [Part 2: Does life360 work if the phone is off?](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part2)
 - [Part 3: 3 Ways to Stop Life360 from Tracking You![hot icon](https://images.wondershare.com/drfone/article/2022/05/hot-tip.png)](https://drfone.wondershare.com/virtual-location/can-life360-track-you-when-your-phone-is-off.html#Part3)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Is Life360 And How Does It Work?
 
@@ -246,14 +250,10 @@ If the necessity ever arose, such an undertaking may be useful for maintaining o
 Premium users will still have access to the last 30 days' worth of location data, so the other person will be able to see where you were last seen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: 3 Ways to Stop Life360 from Tracking You
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Low Data Consumption
 
@@ -262,10 +262,6 @@ Disabling Life360's Wi-Fi and Data may result in a warning to parents that their
 ![low data consumption](https://images.wondershare.com/drfone/article/2022/06/can-life360-track-you-when-your-phone-is-off-02.jpg)
 
 Alternatively, you should disable background app refresh, mobile network, physical activity, and WIFI to save battery life. An issue with your Internet connection will come up instead of location stopped in this situation. So don't connect to any Wi-Fi at all.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Fake Locations
 
@@ -276,6 +272,10 @@ Using location spoofing applications on an Android smartphone, your kids can foo
 It has several other noticeable features that can help you in your daily life.
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Setting Wi-Fi and Data Services to "Off."
 
@@ -305,22 +305,24 @@ Can you track a phone if the location is off? Life360 has become a standard feat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-navigating-social-streams-find-just-watched-video-list-on-facebook/"><u>[Updated] In 2024, Navigating Social Streams Find Just-Watched Video List on Facebook</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-best-20-words-for-marketing-success/"><u>[Updated] In 2024, The Best 20 Words for Marketing Success</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimizing-final-viewers-interactions-on-yt/"><u>[Updated] Optimizing Final Viewers' Interactions on YT</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-gt-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-f14-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy F14 5G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-gt-neo-5-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from GT Neo 5</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2019-vba-runtime-error-9-subscript-out-of-range-by-stellar-guide/"><u>Fixed Excel 2019 VBA Runtime Error 9 Subscript Out of Range</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/focus-on-the-details-with-videoleaps-zooming-feature-for-2024/"><u>Focus on the Details with Videoleap's Zooming Feature for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-predictive-ai-make-its-predictions/"><u>How Does Predictive AI Make Its Predictions?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-comparative-analysis-of-the-metaverse-and-multimeva-worlds-detailed-guide/"><u>In 2024, Comparative Analysis of the Metaverse & Multimeva Worlds (Detailed Guide)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-diving-deep-into-the-world-of-immersive-gaming-with-htc-vive/"><u>In 2024, Diving Deep Into the World of Immersive Gaming with HTC Vive</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-infinix-note-30-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Infinix Note 30 Pro? Fixed | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y77t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y77t? Fixed | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v17-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.7 File</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-x8b-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor X8b</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-igtv-downloads-decoded-iphone-and-android-edition/"><u>[New] IGTV Downloads Decoded IPhone & Android Edition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/park-the-momentum-channels-best-inspirational-videos/"><u>[New] Spark the Momentum Channel's Best Inspirational Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-explore-movies-for-free-simple-video-player-software-for-2024/"><u>[Updated] Explore Movies for Free Simple VIDEO Player Software for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-digital-scrutiny-vll-app-evaluation/"><u>[Updated] In 2024, Digital Scrutiny VLL App Evaluation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-top-10-insta-management-gadgets-for-boosting-engagement-for-2024/"><u>[Updated] Top 10 Insta Management Gadgets for Boosting Engagement for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2023s-leading-pc-vr-headsets-revealed/"><u>2023'S Leading PC VR Headsets Revealed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-xiaomi-13t-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Xiaomi 13T Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-xs-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone XS | Stellar</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/advance-repair-for-bad-and-corrupt-video-files-of-tecno-camon-20-by-stellar-video-repair-mobile-video-repair/"><u>Advance Repair for Bad and Corrupt Video Files of Tecno Camon 20</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-simplification-the-dangers-of-trusting-chatgpt-with-your-documents/"><u>Beyond Simplification: The Dangers of Trusting ChatGPT with Your Documents</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-nubia-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Nubia .</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-oneplus-11r-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on OnePlus 11R.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-realme-narzo-60x-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-realme-c53-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Realme C53</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-tecno-camon-20-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Tecno Camon 20</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-on-syncing-gmail-and-zoom-for-remote-collaboration-for-2024/"><u>Expert Tips on Syncing Gmail and Zoom for Remote Collaboration for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-redmi-12mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Redmi 12Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-14-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi 14 Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

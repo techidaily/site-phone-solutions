@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S23? | Dr.fone
-date: 2024-11-01T13:10:30.372Z
-updated: 2024-11-05T17:33:05.538Z
+date: 2024-12-10T23:48:02.518Z
+updated: 2024-12-12T01:08:54.562Z
 tags: 
   - virtual location chang
   - location changer
@@ -141,6 +141,10 @@ _If you want to find an easier way to [fake location on life360 Android](https:/
 
 ## Part 6: How to Stop Life360 from Tracking you
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6.1 Use a burner phone
 
 If you completely want Life360 to stop you from tracking, the very first method, and indeed a useful one is using a burner phone. This simply stands to have an extra phone with you and you can call it a burner phone. To have it, of course, you don’t have to spend much. Just have a cheap Android or iOS device with you. With this, you can easily trick your friends about your location.
@@ -172,10 +176,7 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 **Note:** When you disable or pause location for a particular group, your location can still be tracked by other circles. Make sure to choose all or as per your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
@@ -205,6 +206,10 @@ Life360 is no doubt a useful app that can help you know about the whereabouts of
 Airplane mode is a feature available on all smartphones and other electronic devices that stops the signal transmissions from the Samsung Galaxy S23 devices. Also known as flight or airplane mode, this feature will disconnect the wireless functions, including cellular connection, Wi-Fi, and Bluetooth.
 
 ![airplane mode](https://images.wondershare.com/drfone/article/2022/03/airplane-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The feature's name says that it was introduced to cut off any radio transmission during the flight to avoid any communication interference. However, the feature must be enabled while taking a flight, and if you need to be disconnected from the signals, you can even use the feature outside the plane.
 
@@ -252,6 +257,10 @@ The process to turn off GPS location on Android devices may vary from device to 
 
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
 If you are looking for a method that can prevent GPS tracking without turning on Airplane Mode, spoofing your location is a workable solution. To get this task done, you would need a specialized app or a tool, and here we recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) as the best option.
@@ -276,13 +285,6 @@ You can check out this video for further instruction.
 
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2**. On the leading software, tap on the **Virtual Location** option and then connect your Samsung Galaxy S23 or Android device to your system using a USB cable.
 
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -294,10 +296,7 @@ You can check out this video for further instruction.
 ![virtual location map interface](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5**. Next, in the upper-right corner, click on the teleport mode icon. Next, enter the desired location at the upper left-hand side that you wish to teleport to. Finally, click on the **Go** button after entering the site.
@@ -307,6 +306,10 @@ You can check out this video for further instruction.
 **Step 6**. A pop-up box will appear to click on the **Move Here** button to set the selected location for the connected device. The place will appear on the app interface and the phone.
 
 ![move here on virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: People Also ask about Airplane Mode
 
@@ -318,13 +321,6 @@ No, it cannot be traced when an iPhone or any other phone is switched off. For e
 
 No, the Find My iPhone feature does not work in Airplane mode because the location services need a network connection, and thus in Airplane mode, the Samsung Galaxy S23 device is offline, and it isn't easy to track the Samsung Galaxy S23 device.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Q3: Does airplane mode turn off life360
 
 Life360 is a helpful app for tracking your friends, family, and other people. This app tracks your GPS location and displays it to all the selected members in a circle. When the airplane mode on your device is enabled, the network will be disconnected, and thus Life360 will not be able to update your location to the members in the circle. Therefore, during **airplane mode, Life360** will not update your site.
@@ -334,13 +330,6 @@ Life360 is a helpful app for tracking your friends, family, and other people. Th
 So, it can be concluded that Airplane Mode disconnects you from the cellular network and Wi-Fi. Therefore, to stop getting traced, you need to disable your location services along with the airplane mode. Using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is an excellent alternative to stop the GPS location as the software will help you set a fake location, and your actual location will remain hidden from all.
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Change Google Play Location On Samsung Galaxy S23
 
@@ -359,13 +348,6 @@ By changing the country on Google Play Store, you can install some unavailable a
 - After changing the country’s location, you won't be able to utilize the previous Google Play balance of the old country.
 - Once you have changed your country’s server location in settings, the Google Play Store takes 48 hours to change the location.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Change Google Account Location?
 
 This section will offer easy ways to change play store country and location on Google in every circumstance. By doing so, you can easily install restricted applications in your region.
@@ -383,6 +365,10 @@ Through your Samsung Galaxy S23s, you can change the location on both Google Pla
 **Step 2:** Tap on the "General" section to locate the option of "Account and Device Preferences." Afterward, find the "Country and Profiles" option by scrolling down. From there, you can see your current country location.
 
 ![access account and device preferences](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Now click on "Switch to the Country Play Store" to change the location. For verification, click on "Continue" when a pop-up message appears on your screen asking if you want to change the location.
 
@@ -436,20 +422,11 @@ Moreover, the process is fast and fully secured to protect your computer from un
 
 ![access expressvpn location bar option](https://images.wondershare.com/drfone/article/2022/05/change-google-account-location-9.jpg)
 
-**Step 3:** After clicking on any country’s location, your computer’s Google Account location will be automatically changed.
-
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Step 3:** After clicking on any country’s location, your computer’s Google Account location will be automatically changed.
 
 ## Part 3: The Most Effective Way to Fake Location on iOS and Android
 
@@ -482,6 +459,10 @@ Now connect your smartphone to the phone with the help of a USB cable. Once done
 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Find your Current Location**
 
 After connecting your phone, you will be able to see your current location on the new window. If not, tap on the "Center On" icon displayed on the right side to find your current location.
@@ -501,10 +482,7 @@ A notification will pop up for confirmation once you have entered a new location
 ![tap on move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/xQa-_8RTg5U" frameborder="0"></iframe>
@@ -529,18 +507,16 @@ There are plenty of ways to execute **Google One change location across various 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-how-to-remove-signature-background-in-seconds/"><u>[New] In 2024, How to Remove Signature Background in Seconds</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-future-of-mobile-photography-with-xiaomis-mi-11/"><u>[New] The Future of Mobile Photography with Xiaomi's Mi 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-nubia-z50-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/bridging-light-and-time-iphones-extended-exposure-techniques-for-2024/"><u>Bridging Light and Time IPhone's Extended Exposure Techniques for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-oppo-f23-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Oppo F23 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-g24-power-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on G24 Power</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-samsung-galaxy-a34-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Samsung Galaxy A34 5G?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-free-mindfulness-melodies/"><u>In 2024, Free Mindfulness Melodies</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-tecno-pova-6-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Tecno Pova 6 Pro 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/removing-incessant-windows-10-bluetooth-signal/"><u>Removing Incessant Windows 10 Bluetooth Signal</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/safeguarding-your-system-essential-windows-processes-to-monitor/"><u>Safeguarding Your System: Essential Windows Processes to Monitor</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-wait-get-the-full-story-on-football-manager-2022-launch-hiccups-and-how-they-got-fixed/"><u>Why Wait? Get the Full Story on Football Manager 2022 Launch Hiccups and How They Got Fixed!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-illustrators-toolkit-making-text-pop-in-3d/"><u>2024 Approved The Illustrator's Toolkit Making Text Pop in 3D</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nubia-red-magic-9-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nubia Red Magic 9 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-canon-printer-software-pixma-mg3620-driver-for-windows/"><u>Download Canon Printer Software: Pixma MG3620 Driver for Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-video-entrance-with-these-tools/"><u>Elevate Your Video Entrance with These Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-honor-play-7t-by-fonelab-android-recover-data/"><u>How to recover lost data from Honor Play 7T?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-13-mini-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 13 mini iCloud Lock</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-poco-c50-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Poco C50? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-maze-of-communication-features-on-snapchat/"><u>Navigating the Maze of Communication Features on Snapchat</u></a></li>
 </ul></div>
 

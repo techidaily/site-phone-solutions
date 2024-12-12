@@ -1,7 +1,7 @@
 ---
 title: In 2024, Wondering the Best Alternative to Hola On Nubia Red Magic 8S Pro? Here Is the Answer | Dr.fone
-date: 2024-10-29T18:37:58.171Z
-updated: 2024-11-06T12:52:55.532Z
+date: 2024-12-07T20:19:08.720Z
+updated: 2024-12-11T23:33:31.239Z
 tags: 
   - virtual location chang
   - location changer
@@ -81,6 +81,10 @@ That's how to use the Hola Fake GPS location application on the Android device t
 ## Part 3. Pros and Cons of Fake GPS location - Hola
 
 Hola Fake GPS Android app or the Chrome Extension has its own set of benefits and limitations, depending on the context and intended use. Here are some of the pros and cons of using a Hola Fake GPS location changer:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pros
 
@@ -183,6 +187,10 @@ One of the best things about [Dr.Fone - Virtual Location](https://tools.techidai
 
 That's how to use Dr.Fone - Virtual Location to spoof your location and move to any part of the world conveniently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: How to Use HolaVPN and a Location Spoofer to Fake GPS on Pokémon?
 
 Pokémon Go is hugely popular, but some countries block players from accessing certain features or from downloading it at all. A free VPN service, HolaVPN, can be used to change your IP location to unblock Pokémon Go in these areas.
@@ -205,13 +213,6 @@ Various situations might prompt you to use HoleVPN in the Pokemon Go game. For e
 
 **Step 4:** Once you're connected to a particular country, your phone location will change instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### In conclusion
 
 Hola Fake GPS location is not the best application to change your GPS location. But if you are simply looking to access a restricted website because of IP location, HolaVPN can be helpful.
@@ -227,10 +228,7 @@ How do you use your Nubia Red Magic 8S Pro? Do you use it to make calls, watch c
 ![location changer on iphone ios 16](https://images.wondershare.com/drfone/article/2022/07/how-to-change-location-on-ios16-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part I: Why Do I Need To Change GPS Location On Nubia Red Magic 8S Pro?
@@ -284,15 +282,16 @@ This is how you use Dr.Fone Virtual Location, an iOS 16 Pokémon go spoofer tool
 ![wondershare drfone software interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Choose Virtual Location and connect your phone.
 
 ![wondershare drfone virtual location module](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Click Get Started. NEW Feature: Nubia Red Magic 8S Pro users are now able to go wireless after setting this up the first time!
 
@@ -309,13 +308,6 @@ That's it! You are now ready to perform techno-wizardry, relocate to another pla
 **Step 2:** Start typing your destination location and click Go
 
 ![drfone virtual location teleport](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** You will get a popup to confirm. Click Move Here, and your location will change to reflect the chosen location. Now on, in all supported location-based apps, you will see your chosen location until you restart the Nubia Red Magic 8S Pro. This allows you to break the paywall of dating apps, too, as they will see your current location as the location you chose, allowing you to find dates outside the boundaries set by the apps for free.
 
@@ -349,13 +341,6 @@ Similarly, you can simulate between multiple points to play elaborate pranks on 
 
 ![drfone virtual location multi point simulation](https://images.wondershare.com/drfone/guide/virtual-location-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Distance gets re-calculated after each selection. When you are satisfied with your route simulation, click Move Here.
 
 ![drfone virtual location multi point simulation](https://images.wondershare.com/drfone/guide/virtual-location-12.png)
@@ -378,6 +363,10 @@ Not in the least. Dr.Fone Virtual Location spoofer on Nubia Red Magic 8S Pro wor
 
 Can't say for other apps in the market, but Wondershare Dr.Fone – Virtual Location does not require you to jailbreak your Nubia Red Magic 8S Pro. It works using the computer to temporarily change the GPS coordinates of your Nubia Red Magic 8S Pro, and you can stop spoofing your location anytime by simply restarting your handset. It does not cause security issues with iOS or risk your privacy at all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### FAQ 3: Can I jailbreak Nubia Red Magic 8S Pro to spoof location using Cydia?
 
 The jailbreakers are only catching up to iOS 15 right now. It is being reported that they are close to jailbreaking iOS 15. As you are running iOS 16, you cannot jailbreak Nubia Red Magic 8S Pro to spoof location using Cydia. Furthermore, jailbreaking is not recommended in today's age given the security and privacy risks it poses.
@@ -387,6 +376,10 @@ The jailbreakers are only catching up to iOS 15 right now. It is being reported 
 Location spoofer Nubia Red Magic 8S Pro apps are gaining prevalence today mostly among gamers who use these GPS spoofer Nubia Red Magic 8S Pro apps to catch more Pokémon. However, anyone can use a location changer on Nubia Red Magic 8S Pro for several other benefits such as breaking the geo-restrictions in dating apps and streaming websites to find dates outside your city limits for free and accessing a catalog of movies and TV shows that is not available in your region due to licensing or other considerations. There are several Nubia Red Magic 8S Pro location spoofer apps in the market, each extolling its virtues. None of them, however, come close to Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) spoofer on Nubia Red Magic 8S Pro given its intuitive interface and ease of use. Not only can you use it on iOS 16 without problem as this app works from a computer, but you also do not have to think about security issues that jailbreaking a device brings because Dr.Fone Virtual Location changer on Nubia Red Magic 8S Pro works without jailbreaking the Nubia Red Magic 8S Pro.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 Easy Ways to Change Location on YouTube TV On Nubia Red Magic 8S Pro
 
@@ -412,13 +405,6 @@ Before jumping on the method to **change** **YouTube** **TV** **location**, keep
 
 **Step 3:** Tap on the “Update” option next to the “Home Area” option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Using VPN to Bypass YouTube TV Restrictions
 
 Sometimes, users encounter certain YouTube TV restrictions due to their home area changes. This section will suggest four amazing VPNs to help you bypass any YouTube TV restrictions.
@@ -435,6 +421,10 @@ Do you want to encrypt your browsing activity on your devices? Use Surfshark to 
 
 ![surfshark vpn service](https://images.wondershare.com/drfone/article/2022/05/change-location-on-youtube-tv-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [ExpressVPN](https://www.expressvpn.com/)
 
 ExpressVPN enables the users to change the server’s location anytime and from anywhere across the world. It gives great reliability access to the server location in 94 countries. Moreover, you can enjoy internet browsing with great network speed through it.
@@ -448,6 +438,10 @@ To bring your digital security to the next level, CyberGhost is a good option to
 ![cyberghost youtube tv vpn](https://images.wondershare.com/drfone/article/2022/05/change-location-on-youtube-tv-4.jpg)
 
 <table><tbody><tr><td></td><td><p><strong>NordVPN</strong></p></td><td><p><strong>Surfshark</strong></p></td><td><p><strong>ExpressVPN</strong></p></td><td><p><strong>CyberGhost</strong></p></td></tr><tr><td><p><strong>Ranking</strong></p></td><td><p>1</p></td><td><p>2</p></td><td><p>3</p></td><td><p>4</p></td></tr><tr><td><p><strong>Max Contract Length</strong></p></td><td><p>24 Months</p></td><td><p>24 Months</p></td><td><p>12 Months</p></td><td><p>39 Months</p></td></tr><tr><td><p><strong>Torrenting</strong></p></td><td><p><strong>✔</strong></p></td><td><p><strong>✔</strong></p></td><td><p><strong>✔</strong></p></td><td><p><strong>✔</strong></p></td></tr><tr><td><p><strong>Monthly Plan Cost</strong></p></td><td><p>$11.99</p></td><td><p>$12.95</p></td><td><p>$12.95</p></td><td><p>$12.99</p></td></tr><tr><td><p><strong>IP Addresses</strong></p></td><td><p>5000 Servers</p></td><td><p>3200 Servers</p></td><td><p>3000 Servers</p></td><td><p>8000 Servers</p></td></tr><tr><td><p><strong>Support System</strong></p></td><td><p>Windows, Mac, iOS, Android</p></td><td><p>Windows, Mac, iOS, Android</p></td><td><p>Windows, Mac, iOS, Android</p></td><td><p>Windows, Mac, iOS, Android</p></td></tr><tr><td><p><strong>Support Main Streaming Platforms</strong></p></td><td><p>Netflix, Amazon Prime, Disney+</p></td><td><p>Netflix, HBO Max, Hotstar</p></td><td><p>Netflix, Apple TV+, Hulu</p></td><td><p>Netflix, HBO Max, Disney+</p></td></tr></tbody></table>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: One-stop Tool to Change GPS Location on iOS and Android
 
@@ -465,13 +459,6 @@ Download Dr.Fone on your computer and open its main home page. Select “Virtual
 
 ![access virtual location feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Show Current Location**
 
 A new window will pop up displaying your current location on a map. However, if you cannot locate it, click on the “Center On” icon that will show your current location.
@@ -479,10 +466,7 @@ A new window will pop up displaying your current location on a map. However, if 
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Turn On Teleport Mode**
@@ -533,14 +517,22 @@ This writing comprises a detailed guide regarding the **YouTube TV change locati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-sonic-gold-standard-10-ways-to-elevate-home-recordings/"><u>[Updated] 2024 Approved Sonic Gold Standard 10 Ways to Elevate Home Recordings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/can-you-trust-chatgpt-exploring-potential-data-security-risks/"><u>Can You Trust ChatGPT? Exploring Potential Data Security Risks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-infinix-note-30-vip-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Infinix Note 30 VIP</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-elevate-your-gaming-experience-with-unique-sound-alteration-techniques-for-a-competitive-edge-no-cost/"><u>In 2024, Elevate Your Gaming Experience with Unique Sound Alteration Techniques for a Competitive Edge (No Cost!)</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-top-5-gif-making-software-with-the-highest-ratings/"><u>In 2024, Top 5 GIF Making Software with the Highest Ratings</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-future-of-instagramfacebook-with-meta-ai-integration/"><u>The Future of Instagram/Facebook with Meta AI Integration?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-streamlining-image-editing-taking-out-backgrounds/"><u>[New] In 2024, Streamlining Image Editing Taking Out Backgrounds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-the-best-12-cameras-to-elevate-your-vlogs-for-2024/"><u>[Updated] Discover the Best 12 Cameras to Elevate Your Vlogs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-professional-windows-11-screen-capture-tool/"><u>2024 Approved Professional Windows 11 Screen Capture Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-zte-nubia-flip-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset ZTE Nubia Flip 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-recent-accessory-releases-brimming-with-charm-spotted-this-week-insights-from-zdnet-news/"><u>Apple's Recent Accessory Releases Brimming with Charm - Spotted This Week | Insights From ZDNET News</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-realme-gt-neo-5-se-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-stutter-solved-your-complete-2024-anti-lagging-strategy-revealed/"><u>Discord Stutter Solved? Your Complete 2024 Anti-Lagging Strategy Revealed!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tial-resources-for-crafting-eye-catching-youtube-ends-for-2024/"><u>Essential Resources for Crafting Eye-Catching YouTube Ends for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-15-plus-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 15 Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/instant-replay-efficient-methods-for-downloading-lives/"><u>Instant Replay Efficient Methods for Downloading Lives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/kernel-data-paging-issues-diagnosis-and-repair-techniques/"><u>Kernel Data Paging Issues – Diagnosis and Repair Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-win11-keybindings/"><u>The Ultimate Guide to Win11 Keybindings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on OnePlus 12R? | Dr.fone
-date: 2024-12-02T23:45:16.974Z
-updated: 2024-12-05T16:12:29.575Z
+date: 2024-12-04T17:18:22.721Z
+updated: 2024-12-11T21:36:15.237Z
 tags: 
   - virtual location chang
   - location changer
@@ -35,6 +35,10 @@ Using this app then, you can simply see the location of the other members as wel
 
 Moreover, with the help of Life360, a user can easily control the ‘Check-in’ according to which he or she sends the alert to the circle to know them the exact location. You can also get to see the location history of the members to know their past locations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Why Do People Hate Being Tracked by Life360?
 
 Unarguably Life360 can be considered one of the most helpful and fun apps. But the thing that sometimes or many times might bother people is the 24x7 interference with privacy.
@@ -62,7 +66,7 @@ Get the tool on your computer for the process initiation. To do this, you can vi
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2: Get the OnePlus 12R device Connected**
@@ -83,6 +87,10 @@ You could observe the five icons at the top right of the screen. You need to cli
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Fake your Location on Life360**
 
 The program will make sure to recognize the place you have entered. A pop-up box will appear where the distance is mentioned. Click on "Move Here" and your location will be changed and shown as what you have selected.
@@ -94,10 +102,6 @@ Here is a video guide that helps you to fake your GPS location on Life360.
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
 **3,255,164**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: How to Fake Location on Life360 Android
 
@@ -133,15 +137,7 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 ![new location on Life360](https://images.wondershare.com/drfone/article/2019/11/fake-location-android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _If you want to find an easier way to [fake location on life360 Android](https://drfone.wondershare.com/virtual-location/spoof-life360.html#part3), you can also try to use Dr.Fone - Virtual Location(iOS/Android)._
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -157,6 +153,10 @@ _If you want to find an easier way to [fake location on life360 Android](https:/
 
 ## Part 6: How to Stop Life360 from Tracking you
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6.1 Use a burner phone
 
 If you completely want Life360 to stop you from tracking, the very first method, and indeed a useful one is using a burner phone. This simply stands to have an extra phone with you and you can call it a burner phone. To have it, of course, you don’t have to spend much. Just have a cheap Android or iOS device with you. With this, you can easily trick your friends about your location.
@@ -166,10 +166,6 @@ If you completely want Life360 to stop you from tracking, the very first method,
 - There is nothing more to it. You can now abandon this burner phone and leave it for your work. This will make your friends or near ones think where you want them to show your location.
 
 **Note:** As we have mentioned in the beginning, Life360 supports an inbuilt chat function. This is where the downside comes of having a burner phone as a solution. Putting simply, you may miss an important conversation if you have the app on a burner phone and you have left it at home when any of your friends try to chat with you. And this can cause doubts in their minds.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6.2 Pause Location Sharing in Life360 Settings
 
@@ -188,10 +184,6 @@ Here is another way to stop Life360 from tracking you. You can simply pause the 
 **Step 4:** Lastly, toggle off the slider and it will turn grey. You will see a message saying "Location Sharing Paused" and you are done.
 
 ![pause location sharing for Life360](https://images.wondershare.com/drfone/article/2019/11/pause-location-sharing-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note:** When you disable or pause location for a particular group, your location can still be tracked by other circles. Make sure to choose all or as per your needs.
 
@@ -213,13 +205,13 @@ Wondershare Dr.Fone - Virtual Location is a tool that allows users to spoof actu
 
 Disabling Wi-Fi on your iPhone might limit the accuracy of your location for Life360. However, Life360 can still track your location using cellular data and GPS. Turning off Wi-Fi alone might not entirely stop Life360 from tracking your location. It is especially true if other location services are still active on your device. To prevent tracking, you might need to adjust settings within your device's location services.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final Words
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix My OnePlus 12R Location Is Wrong
 
@@ -234,10 +226,6 @@ As we have mentioned earlier, there are multiple reasons why your location is no
 ### _Reason #1:_ The location services are disabled on your phone
 
 The most basic common reason as to why your current location is wrong is that you could have disabled the GPS or location services on your phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Reason #2:_ Internet connectivity on your mobile is unstable
 
@@ -280,7 +268,15 @@ Double-check if the location services are turned on on your phone so it will sho
 - **_Step 1:_** Open the “Settings” on your phone and scroll down to look for “Privacy” then tap on it.
 - **_Step 2:_** Next, click on “Location Services” and check to see whether the location is turned on. If it is turned on, turn it off and back on again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: Easy Way to Fake Your GPS Location on OnePlus 12R (NO Jailbreak)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -331,6 +327,10 @@ You can genuinely spoof your device's location. While spoofing your location, th
 You can use the GPS **location changer app for iPhone and Android** devices to assist you. In addition, specific tools will enable you to use a custom location according to your needs. So let's quickly learn about them.
 
 ## Top 1 location changer for iOS and Android
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location (iOS)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -418,6 +418,10 @@ The iSpoofer Location Spoofer is one of the most effective iOS location spoofers
 - It costs a hefty amount.
 - You'll need a Developer Image File and iTunes installed on your phone to operate.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [iTools Location changer](https://drfone.wondershare.com/virtual-location/itools-virtual-location-alternative.html)
 
 ThinkSky's iTools is a phone GPS location program. It's a desktop app that can let you spoof your iPhone's location. It is compatible with both Windows and macOS. In addition, you don't need any technical knowledge to modify the location as it offers a user-friendly UI.
@@ -451,10 +455,6 @@ ThinkSky's iTools is a phone GPS location program. It's a desktop app that can l
 You can travel across the world with this **Fake GPS Location app**. To mock your location, search for a certain address in your app's complete address or merely city, state, country, or famous sites.
 
 ![fake gps location tool ios](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Key features:**
 
@@ -537,10 +537,6 @@ It is one of the most popular Android smartphone location spoofing apps that you
 
 ![fake gps location gps joystick](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Key features:**
 
 - You can point to any spot or specify its coordinates directly.
@@ -612,6 +608,10 @@ This is an all-in-one solution for all your device location-altering needs. With
 
 ![fake gps 360](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Key features:**
 
 - There are several options for selecting a new GPS location.
@@ -657,18 +657,15 @@ This is an all-in-one solution for all your device location-altering needs. With
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-exploring-genres-a-collection-of-15-innovative-musician-focused-videos/"><u>[New] In 2024, Exploring Genres A Collection of 15 Innovative Musician-Focused Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-finest-visual-experience-top-10-monitors-for-mac-owners/"><u>[New] In 2024, The Finest Visual Experience - Top 10 Monitors for Mac Owners</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-power-play-the-ultimate-guide-to-selecting-lipos-for-uavs-for-2024/"><u>[Updated] Power Play The Ultimate Guide to Selecting LiPos for UAVS for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-infinix-hot-40-pro-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Infinix Hot 40 Pro.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-nokia-c12-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Nokia C12</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-moto-g84-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Moto G84 5G?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-7-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 7 Plus</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instant-success-code-five-keys-of-chatgpts-triumph/"><u>Instant Success Code: Five Keys of ChatGPT's Triumph</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-techniques-for-unfreezing-your-stuck-iphone/"><u>Troubleshooting Techniques for Unfreezing Your Stuck iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-secrets-of-instagram-igniting-content-passion/"><u>[New] Secrets of Instagram Igniting Content Passion</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-audio-alchemy-free-perfectly-crafted-dj-template-videos/"><u>2024 Approved Audio Alchemy Free, Perfectly Crafted DJ Template Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/audio-free-video-capture-tips-for-your-computer-or-mobile-device/"><u>Audio-Free Video Capture Tips for Your Computer or Mobile Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-xiaomi-redmi-note-13-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-samsung-galaxy-s24plus-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Samsung Galaxy Z Fold 5.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-sturdiness-of-jabra-earpieces/"><u>Evaluating the Sturdiness of Jabra Earpieces</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-tecno-spark-20-proplus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Tecno Spark 20 Pro+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/passaggio-dei-dati-sposta-file-dal-precedente-computer-hp-al-nuovo-sul-sistema-operativo-windows-nove-windows-11-tutorial-completo/"><u>Passaggio Dei Dati: Sposta File Dal Precedente Computer HP Al Nuovo Sul Sistema Operativo Windows Nove (Windows 11) | Tutorial Completo</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-deal-36-discount-on-8tb-samsung-portable-ssd-post-prime-day-spotted-by-zdnet/"><u>Unbeatable Deal: 36% Discount on 8TB Samsung Portable SSD Post-Prime Day - Spotted by ZDNet</u></a></li>
 </ul></div>
 

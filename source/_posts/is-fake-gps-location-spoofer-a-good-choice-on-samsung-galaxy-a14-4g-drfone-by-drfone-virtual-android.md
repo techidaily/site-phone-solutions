@@ -1,7 +1,7 @@
 ---
 title: Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy A14 4G? | Dr.fone
-date: 2024-11-03T20:16:54.759Z
-updated: 2024-11-06T03:56:48.477Z
+date: 2024-12-06T00:48:30.038Z
+updated: 2024-12-11T19:59:55.834Z
 tags: 
   - virtual location chang
   - location changer
@@ -32,13 +32,6 @@ Well, this article will walk you through the things you must know before using t
 ## Part 1. Fake GPS Location Spoofer Overview
 
 <table><tbody><tr><td><strong>Developer</strong></td><td>IncorporateApps</td></tr><tr><td><strong>Review &amp; Rating</strong></td><td>4.3/5</td></tr><tr><td><strong>Latest Version</strong></td><td>5.8.1</td></tr><tr><td><strong>Latest Release</strong></td><td>Aug 22, 2023</td></tr><tr><td><strong>Supported OS</strong></td><td>Android</td></tr><tr><td><strong>System Requirements</strong></td><td>Android 4.4 and later</td></tr><tr><td><strong>Pricing and Plan</strong></td><td>Perpetual Plan - $3.99</td></tr><tr><td><strong>Customer Support</strong></td><td>3.5/5</td></tr></tbody></table>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. Fake GPS Location Spoofer Key Features
 
@@ -77,10 +70,7 @@ We've explained the steps to get Android into developer mode below:
 ![use gps to determine the location](https://images.wondershare.com/drfone/article/2023/01/enable-developer-mode-on-android-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Fake GPS Location With Location Spoofer**
@@ -175,19 +165,6 @@ With [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfon
 
 ![click get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** The tool will automatically detect your current location. But if it does not, navigate to the right sidebar and click the Center On icon to display your location.
 
 ![click the center icon](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
@@ -223,6 +200,10 @@ If you're looking to find out which is best between Fake GPS Location Spoofer an
 | **Favorite List** | Yes | Yes |
 | **Historical Records** | Yes | Yes |
 | **Customized Speed** | No | Yes |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 7: FAQs About Fake GPS Location Spoofer
 
@@ -265,6 +246,10 @@ Everything is not available everywhere. If you are looking for a specific motiva
 **Playlists and Recommendations**
 
 ![spotify region geography playlists](https://images.wondershare.com/drfone/2020/2020/spotify-region-geography-playlists-pic3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Spotify uses your coordinates to provide the right music content for you. There are people who jump up and down and say that the app suggests songs that are their absolute favorite! As if it has read their minds. This is possible because Spotify identifies the most played songs in the region, detects the language and delivers these suggestions to you.
 
@@ -324,6 +309,10 @@ Now you know that by Spotify Change Country, you can get more benefits and you c
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Once you are sure about the new virtual location, click on ‘Move Here’ option.
 
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -340,13 +329,6 @@ Location Spoofers are much safer because they don’t maintain Log data like the
 
 ![nordvpn app](https://images.wondershare.com/drfone/2020/2020/nordvpn-location-servers-pic14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Sign Up and create your account on the app. The main use of a VPN is to mask your IP and give you a new server for internet surfing. So, once you log in, NordVPN will find the closest server for you.
 
 ![connect to server](https://images.wondershare.com/drfone/2020/2020/quick-connect-new-server-pic15.jpg)
@@ -354,6 +336,10 @@ Location Spoofers are much safer because they don’t maintain Log data like the
 The automatic connect was made to United States - the closest server
 
 ![change server using spotify](https://images.wondershare.com/drfone/2020/2020/update-server-disconnect-pic16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** In case you want to change to a specific country, You can go to ‘More Options’ and then choose Servers. Then go to All Countries and choose the country of your choice. Once you launch Spotify, the same will reflect there too.
 
@@ -372,13 +358,6 @@ If you know the right way to do it, changing Spotify Location After Moving to An
 Spotify’s booming audio business is proof that people are in love with its services. If you want to listen to your favorite retro song, or you want to discover the latest hits, Spotify has everything. You can also listen to some really good podcasts and album hits. But what most of us don’t know is that your Spotify Location can determine what kind of content you might come across on the platform.
 
 Your playlist suggestions depend on the country and region you are staying in. And in case you are unable to access any particular song or album, that can be because of your location too, If you are planning on Spotify Change Location, then here are 6 effective ways that will instantly get the job done or you, no matter where you are in the world.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 1: By-Passing geo Restrictions in Spotify**
 
@@ -439,10 +418,7 @@ The Wondershare’s Dr. Fone is a very good application that lets you change loc
 ![dr.fone virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The new Virtual Location will display on your iPhone Location Settings as well and Spotify update location will also be the same.
@@ -456,19 +432,6 @@ For the Spotify Change Region, Cydia's Location Faker App is the perfect choice 
 **Step 1:** Download the Locationfaker version suitable for your phone. Locationfaker8 is available for the 8.0 version of iPhone.
 
 ![download locationfaker](https://images.wondershare.com/drfone/2020/2020/download-locationfaker-version-app-pic9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** You will notice a map appear on the screen. You can either move your pin-point to the new location or enter the address or coordinates into the search box on top of the page.
 
@@ -523,6 +486,10 @@ Hola Fake GPS is a direct Android app that you can use to change country on Spot
 
 ![hola app](https://images.wondershare.com/drfone/2020/2020/hola-app-google-play-pic18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, a map will appear showing your current location in the world. You can shift the pin to a new location or simply type the address into search bar.
 
 ![spotify location shift](https://images.wondershare.com/drfone/2020/2020/location-spotify-shift-pic19.jpg)
@@ -531,13 +498,6 @@ Hola Fake GPS is a direct Android app that you can use to change country on Spot
 
 ![fake gps by lexa](https://images.wondershare.com/drfone/2020/2020/location-change-lexa-pic20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Fake GPS by Lexa**
 
 This is a free app that helps to Change region Spotify within a few minutes. You can also use it for making some advanced changes if you are gaming or trying to access restricted content on other apps.
@@ -545,6 +505,10 @@ This is a free app that helps to Change region Spotify within a few minutes. You
 **Step 1:** Go to the Google Play Store and download Fake GPS by Lexa.
 
 ![fake gps location using lexa](https://images.wondershare.com/drfone/2020/2020/lexa-fake-gps-location-pic21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Once you launch the app, the mp with your current location will be displayed. Enter a new location in the search box.
 
@@ -572,11 +536,19 @@ The Virtual Private Network apps will change your server and your location and I
 
 ![choose countries to change](https://images.wondershare.com/drfone/2020/2020/countries-spotify-change-pic27.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 If you want to update location on spotify, then these are the 6 methods that you can use to change location in Spotify anywhere, anytime and any number of times. Avail all the benefits of this supreme audio application by choosing to be anywhere in the world ‘virtually’.
 
 ## You Might Also Like
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Location-based apps
 
@@ -612,19 +584,20 @@ AR game tricks
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-timestamp-on-youtube-video-link-desktop-and-mobile/"><u>[New] 2024 Approved How to Add Timestamp on YouTube Video Link? [Desktop and Mobile]</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elite-5-video-snapshot-recorders-for-2024/"><u>[New] Elite 5 Video Snapshot Recorders for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitter-video-downloader-how-to-download-twitter-videos-to-iphone/"><u>[Updated] 2024 Approved Twitter Video Downloader How to Download Twitter Videos to iPhone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-crafting-star-stirred-stories-for-your-whatsapp-bio/"><u>[Updated] Crafting Star-Stirred Stories for Your WhatsApp Bio</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-ultimate-handbook-to-zooms-online-presentation-features/"><u>[Updated] In 2024, The Ultimate Handbook to Zoom's Online Presentation Features</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-gt-5-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme GT 5 Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-camon-20-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-xiaomi-redmi-a2-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Xiaomi Redmi A2</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-redmi-note-12r-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Redmi Note 12R</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-t2x-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from T2x 5G</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-gimbal-guide-to-pro-video-shooting-with-dslrs-and-mirrorless/"><u>In 2024, Gimbal Guide to Pro Video Shooting with DSLRs & Mirrorless</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-v30-lite-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo V30 Lite 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/nostalgic-tech-alert-why-these-8-classic-smartphone-features-deserve-a-comeback/"><u>Nostalgic Tech Alert: Why These 8 Classic Smartphone Features Deserve a Comeback</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-enhance-your-projects-with-free-green-screens-from-these-online-hubs/"><u>[New] In 2024, Enhance Your Projects with Free Green Screens From These Online Hubs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dive-into-filmmaking-the-role-of-lenses-in-videos/"><u>[Updated] 2024 Approved Dive Into Filmmaking The Role of Lenses in Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-essential-steps-in-making-impactful-fb-cover-videos/"><u>2024 Approved Essential Steps in Making Impactful FB Cover Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-edge-40-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Edge 40 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-redmi-k70e-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Redmi K70E Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-nokia-c12-pro-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Nokia C12 Pro.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-features-local-pack-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Features - Local Pack</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-galaxy-s24-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Galaxy S24</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oneplus-11-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our OnePlus 11 5G Phone Screen?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revolutionize-your-graphic-tablet-huion-h420-and-windows/"><u>Revolutionize Your Graphic Tablet: Huion H420 & Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleashing-virality-steps-to-skyrocket-your-instagram-content-for-2024/"><u>Unleashing Virality Steps to Skyrocket Your Instagram Content for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows1110876/"><u>システム修復：Windows(11/10/8/7)でチェックディスクツールを起動できない場合、実行方法6つ</u></a></li>
 </ul></div>
 
