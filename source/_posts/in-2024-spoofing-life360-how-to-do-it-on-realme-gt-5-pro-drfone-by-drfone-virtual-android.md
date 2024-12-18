@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Realme GT 5 Pro? | Dr.fone
-date: 2024-12-10T00:17:01.582Z
-updated: 2024-12-12T00:31:36.196Z
+date: 2024-12-15T19:05:56.195Z
+updated: 2024-12-17T22:32:26.640Z
 tags: 
   - virtual location chang
   - location changer
@@ -67,10 +67,6 @@ Take your iPhone now and connect it to the computer. Hit on "Get Started" once t
 
 ![go to virtual location feature](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Find the Current Virtual Location**
 
 You will be shown a map on the next screen. Here, you can find your current virtual location. If the location is not showing, click on the "Current Virtual Location" icon that can be discovered at the lower right part.
@@ -94,6 +90,10 @@ Here is a video guide that helps you to fake your GPS location on Life360.
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
 **3,255,164**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to Fake Location on Life360 Android
 
@@ -131,10 +131,6 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 _If you want to find an easier way to [fake location on life360 Android](https://drfone.wondershare.com/virtual-location/spoof-life360.html#part3), you can also try to use Dr.Fone - Virtual Location(iOS/Android)._
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer to Fake Your Location on Life360!
@@ -158,10 +154,6 @@ If you completely want Life360 to stop you from tracking, the very first method,
 - There is nothing more to it. You can now abandon this burner phone and leave it for your work. This will make your friends or near ones think where you want them to show your location.
 
 **Note:** As we have mentioned in the beginning, Life360 supports an inbuilt chat function. This is where the downside comes of having a burner phone as a solution. Putting simply, you may miss an important conversation if you have the app on a burner phone and you have left it at home when any of your friends try to chat with you. And this can cause doubts in their minds.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6.2 Pause Location Sharing in Life360 Settings
 
@@ -205,6 +197,10 @@ Disabling Wi-Fi on your iPhone might limit the accuracy of your location for Lif
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Best Route Generator Apps You Should Try On Realme GT 5 Pro
 
 ![change location](https://images.wondershare.com/drfone/images2023/virtual-location.png)
@@ -213,15 +209,15 @@ Do you find it hard to look for places without an active internet connection? We
 
 ![Route Generator App Banner](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is a Route Generator App (And Why to Use it)?
 
 In nutshell, a route generator app would help you navigate from one point on the map to another. Though, these apps have some add-one features compared to any run-of-the-mill navigation app. With the help of a GPX file generator feature, they can just export your mapped route offline. In this way, you can simply import the GPX file again (on the same or another map) and navigate your way without any active internet connection.
 
 Therefore, it can help you navigate when you hike, trail, cycle, play games like Pokemon Go, and do other activities where there is low internet connectivity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 5 Best Route Generator Apps You Should Try
 
@@ -276,7 +272,7 @@ _Runs on_: iOS and Android
 ![Map My Run App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. **GPX Creator**
@@ -293,6 +289,10 @@ _Runs on_: iOS
 _Price_: Free or $1.99 monthly
 
 ![GPX Creator iPhone App](https://images.wondershare.com/drfone/article/2021/04/best-route-generator-apps-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. **GPX Viewer: Tracks, Routes, and Waypoints**
 
@@ -335,6 +335,14 @@ But is it a reliable location changer? Or are there better alternatives to Hola 
 
 ![hole vpn cover](https://images.wondershare.com/drfone/article/2023/02/hola-vpn-cover.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Fake GPS location - Hola Overview
 
 Hola Fake GPS is a feature offered by the popular Hola VPN service that allows you to mask your actual location to a location of your choice. Since it does not have high bandwidth like the reputed VPN services, Hola Fake GPS is unsuitable for streaming Netflix or YouTube from another location.
@@ -345,13 +353,13 @@ And while masking your real location is the biggest benefit of using Hola Fake G
 
 Here's what you have to know about the Hola Fake GPS tool before choosing to use it:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. What is Fake GPS location - Hola used for?
 
 **Fake GPS location:** Hola is used to spoof your location and access restricted content. In short, if there is a geo-restricted website that you cannot visit, Hola Fake GPS can help you access it. Plus, you can play location-based games like Pokémon Go to navigate the roads of other corners of the world and catch Pokémon from the comfort of your home.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Key Features of Fake GPS location - Hola
 
@@ -372,10 +380,6 @@ Follow these simple steps to change your location using the Hola Fake GPS Androi
 - Open the Hola Fake GPS application and grant the permission the application needs to change your device location.
 
 ![install the hola app](https://images.wondershare.com/drfone/article/2023/02/how-to-change-android-gps-location-with-hola-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2.** You will go to the Developer Options on the Android device. For this, go to the:
 
@@ -402,6 +406,10 @@ Hola Fake GPS Android app or the Chrome Extension has its own set of benefits an
 - **Access geo-restricted websites and apps**: Hola Fake GPS allows you to access restricted content on the internet by changing the server location.
 - **Testing and development**: If you are designing a location-based application or service, you can use a Hola Fake GPS to conduct such processes.
 - **Online security**: by masking your real location and IP address, Hola Fake GPS protects you from cyber attacks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cons
 
@@ -433,10 +441,6 @@ Not to forget, Hola Fake GPS and its parent app, the HolaVPN, have also been rem
 
 As mentioned, there are many disadvantages to using Hola Fake GPS. From non-encryption to collecting user data, the concerns are more, and the benefits of using the Hola Fake GPS app are less. That is the reason we suggest you use Dr.Fone - Virtual Location. Unlike Hola Fake GPS, Dr.Fone - Virtual Location uses the most advanced algorithms to spoof your location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Dr.Fone - Virtual Location
 
 ![wondershare drfone virtual location](https://images.wondershare.com/drfone/article/2023/02/drfone-virtual-location.jpg)
@@ -467,10 +471,6 @@ This can be useful for a variety of purposes, such as testing location-based app
 | **Works with** | Social apps, navigation apps, and location-based games. | Location-based games. |
 | **Price** | US$ 9.95/mo | US$ 4.95/mo |
 | **G2 Ratings** | 4.7/5 | 2.3/5 |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. How to Spoof GPS Location on iPhone and Android Using Dr.Fone - Virtual Location?
 
@@ -513,6 +513,10 @@ Pokémon Go is hugely popular, but some countries block players from accessing c
 
 HolaVPN is a VPN service that reroutes your internet traffic and hides your IP address. Unlike the Hola Fake GPS, the bandwidth and encryption levels allotted with the HolaVPN service are significant. Plus, it does not alter the location of a chosen application but all the applications on the internet. This means you can play Pokémon from any part of the world, access YouTube from another region, and so on.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Why Use HolaVPN in Pokémon Go?
 
 Various situations might prompt you to use HoleVPN in the Pokemon Go game. For example, some countries restrict players from downloading the Pokemon Go game or gaining full access to some in-game features. Also, some Schools and organizations' networks usually restrict players from playing the Pokemon Go game, so you need a VPN to be able to access the game.
@@ -526,10 +530,6 @@ Various situations might prompt you to use HoleVPN in the Pokemon Go game. For e
 **Step 3**: Locate the country you wish to change your location to and tap on it.
 
 **Step 4:** Once you're connected to a particular country, your phone location will change instantly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### In conclusion
 
@@ -553,20 +553,18 @@ Overall, if you are looking for the ultimate tool to spoof your GPS location, th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-optimizing-video-posts-with-flawless-srt-file-integration-tactics/"><u>[New] 2024 Approved Optimizing Video Posts with Flawless SRT File Integration Tactics</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-elevate-your-tiktok-must-know-editing-insights/"><u>[New] In 2024, Elevate Your TikTok Must-Know Editing Insights</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-active-presenter-8-review-is-it-the-best-screen-recorder-for-2024/"><u>[Updated] Active Presenter 8 Review Is It The Best Screen Recorder for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-selecting-the-top-7-youtube-live-streaming-apps-for-iosandroid-users/"><u>[Updated] The Ultimate Guide Selecting the Top 7 YouTube Live Streaming Apps for iOS/Android Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/cannot-play-mkv-files-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Cannot play MKV files on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-itel-a70-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Itel A70</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-oppo-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Oppo .</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-v27-pro-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on V27 Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premium-6-aids-for-live-video-localization-for-2024/"><u>Premium 6 Aids for Live Video Localization for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-legacy-ribbon-to-windows-explorer/"><u>Restoring Legacy Ribbon to Windows Explorer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-microsoft-copilot-stands-out-4-compelling-reasons-against-chatgpt/"><u>Why Microsoft Copilot Stands Out - 4 Compelling Reasons Against ChatGPT</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-add-music-in-premiere-pro/"><u>[New] 2024 Approved Add Music In Premiere Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-innovators-crafting-marvels-digital-realm/"><u>[New] 2024 Approved Innovators Crafting Marvel's Digital Realm</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveil-secretive-watch-video-icon/"><u>[New] 2024 Approved Unveil Secretive Watch Video Icon</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-fraps-for-gamers-a-screen-record-review/"><u>[New] Fraps for Gamers A Screen Record Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tailoring-drone-video-quality-with-expert-gimbal-choices/"><u>[New] Tailoring Drone Video Quality with Expert Gimbal Choices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-do-shopping-blogs-have-a-payment-scheme-for-reports/"><u>2024 Approved Do Shopping Blogs Have a Payment Scheme for Reports?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-elevate-engagement-boosting-marketing-on-telegram-platforms/"><u>2024 Approved Elevate Engagement Boosting Marketing on Telegram Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-huawei-nova-y91-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Huawei Nova Y91</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-smart-8-hd-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix Smart 8 HD.</u></a></li>
 </ul></div>
 
