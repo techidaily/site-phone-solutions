@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo Y02T | Dr.fone
-date: 2024-12-15T04:39:44.527Z
-updated: 2024-12-18T02:16:28.266Z
+date: 2024-12-24T21:22:19.019Z
+updated: 2024-12-26T18:17:46.719Z
 tags: 
   - virtual location chang
   - location changer
@@ -26,10 +26,6 @@ Google Maps is a virtual map for mobile and PC use. With it, you can check route
 ## Part 1: How to Fake or Spoof Your Location in Google Maps?
 
 You may think I should be turning off the location setting and wifi services to show fake locations on google maps. Well, I tried this, but it did not work, unfortunately. Google Maps can still track me. This is because Google Maps can use the signal strength of cell towers around me to guess my location, and believe me, this guess is usually very accurate. Also, the IP of the phone can be used. Here, we provide two effective methods for you to fake and change location in Google Maps at ease.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Spoof location in Google Maps with a tool for both iOS and Android
 
@@ -57,6 +53,10 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![fake gps google maps drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Next, you need to connect your Vivo Y02T to the computer by using a cable.
 
 ![connect your phone with computers via Wi-Fi or an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
@@ -68,10 +68,6 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 **Step 4:** After becoming sure of your new location, click on the “Move Here” button to change your location from the real one to the virtual one you selected.
 
 ![teleport a gps google location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Change location in Google Maps with a VPN
 
@@ -143,6 +139,10 @@ For iPhone users, you can share your Google map location through the following s
 
 ![share location](https://images.wondershare.com/drfone/article/2022/02/share-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click on your profile avatar, and in the menu, click Location sharing. If you are already sharing your location, you will tap New share.
 
 ![avator icon google map](https://images.wondershare.com/drfone/article/2022/02/avator-icon-google-map.jpg)
@@ -164,10 +164,6 @@ Also, follow the steps below if you are using an Android phone:
 - At the bottom, tap the place's name or address.
 - Tap the Share icon. If you don't see this icon, tap More and then Share.
 - Choose the app where you want to share the link to the map.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: FAQ: All You Wanna Know about Location Changing on Your Vivo Y02T
 
@@ -214,6 +210,10 @@ If you want to know how Life360 stacks up against the competition, these are som
 - At speeds over 25 mph, automatic accident arrest sensors try to make touch with the vehicle to prevent an accident.
 - The battery level of the participants will be shown, and then action will be conducted that will not result in any reason for alarm.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Does Life360 Tell You When Someone Checks Your Location?
 
 Life360 is a service that allows you to follow a person's whereabouts if they permit you to do so. Knowing where your loved ones are in the event of an emergency is critical in today's world of increasing security considerations.
@@ -250,21 +250,17 @@ Turning down the Vivo Y02T device's potential to interact with Wi-Fi and cellula
 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Disconnect from the internet through Wi-Fi and cellular data if you have them. For example, rather than disabling the whole Android system on an iPhone, you may simply disable the Life 360 app.
 
 **Step 3.** Navigate to the settings menu, look for the Life360 option, and then off cellular data, background refresh, and the Motion & Fitness feature.
 
 ![ disable wi-fi and cellular data access](https://images.wondershare.com/drfone/article/2022/06/life360-notify-me-when-someone-checks-your-location-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once these services are no longer active, your location data will no longer change.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3. Go For Dr.Fone
 
@@ -295,6 +291,10 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 
 ![open feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** You'll be presented with a new window called "Virtual Location."
 
 ![start location faking](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
@@ -302,6 +302,10 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
 **Step 4.** Make sure you have a USB cable for your iPhone or iPad or Android that is compatible with your computer. Take a moment to unlock the Vivo Y02T device, if necessary, and then press the Trust Device option.
 
 ![activate ](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5**. You may then identify your Phone.
 
@@ -314,7 +318,7 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
     ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 8**. Tap Still Move after you agree to the instructions.
@@ -324,7 +328,7 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
     When you use this software, your Phone's GPS location will be faked. To navigate your new surroundings, just press and hold the left joystick.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -343,25 +347,21 @@ The circle route feature is under the multi-stop route mode. When your starting 
 
 ![try setting a circle route](https://images.wondershare.com/drfone/guide/circle-route.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Part 2: Realistic Mode (For One-Stop Route and Multi-Stop Route)
 
 This particular feature makes the simulation look realistic with the ability to fluctuate the speed of the simulation. If you wish to turn on realistic mode for the one-stop or multi-stop route, look for the respective checkmark option in the panel on the left.
 
 ![use realistic mode for accuracy](https://images.wondershare.com/drfone/guide/realistic-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 3: Fluctuation Mode (For Teleport Mode)
 
 Whenever you are teleporting your smartphone device to another location, you can try using the fluctuation mode feature offered against it. As you activate **Teleport Mode** from the top-right section and search for a location, you will discover the **Fluctuation Mode** toggle in the confirmation tab. Turn on the toggle to slightly switch the location from the selected point to show realistic motion.
 
 ![apply fluctuation mode](https://images.wondershare.com/drfone/guide/fluctuation-mode.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 4: Cooldown Timer (For Teleport Mode and Jump Teleport Mode)
 
@@ -370,7 +370,7 @@ While teleporting the location of your smartphone to different places for playin
 ![try cooldown timer to avoid bans](https://images.wondershare.com/drfone/guide/cooldown-timer.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It is recommended not to start the movement until the cooldown time is completed to avoid unnecessary bans. Moreover, you can also activate the **Auto jump after cooldown** in the **Jump teleport mode** after turning on the Cooldown Timer.
@@ -445,20 +445,19 @@ To look for your favorite locations, look for the **Favorite** icon on the right
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-how-automatic-high-dynamic-range-enhances-image-quality/"><u>[Updated] How Automatic High Dynamic Range Enhances Image Quality</u></a></li>
-<li><a href="https://win-online.techidaily.com/1728482197914-aomei-backupper/"><u>AOMEI Backupper簡易指南：如何高效建立磁片庫存安全</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-vivo-t2x-5g-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Vivo T2x 5G.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Infinix Smart 7 HD</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-galaxy-a15-5g-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Galaxy A15 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevch265-files-on-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Motorola Moto G84 5G?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v30-lite-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V30 Lite 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Motorola G54 5G? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-m6-pro-4g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco M6 Pro 4G Device</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-yearly-profit-numbers-for-pewdiepie/"><u>In 2024, Yearly Profit Numbers for PewDiePie</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-art-of-color-consistency-a-powerdirector-users-guide/"><u>New 2024 Approved The Art of Color Consistency A PowerDirector Users Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/ultimate-guide-fixing-unresponsive-alphabetic-characters-in-windows-11s-keyboard-layout/"><u>Ultimate Guide: Fixing Unresponsive Alphabetic Characters in Windows 11'S Keyboard Layout</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-time-loop-mastery-how-to-rewind-iphone-media-for-2024/"><u>[New] Time-Loop Mastery How to Rewind iPhone Media for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-companion-for-a-seamless-instagram-video-journey/"><u>[Updated] 2024 Approved The Ultimate Companion for a Seamless Instagram Video Journey</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-selecting-your-favorite-free-game-capture-software/"><u>[Updated] In 2024, Selecting Your Favorite Free Game Capture Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-deep-into-bulgarian-language-10mday/"><u>Dive Deep Into Bulgarian Language - 10M/Day</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-12r-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus 12R Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-realme-12-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Realme 12 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-new-directions-apple-watchs-updated-finding-function-with-watchos-10-a-critical-view-by-zdnet/"><u>Navigating the New Directions: Apple Watch's Updated Finding Function with WatchOS 10 | A Critical View by ZDNET</u></a></li>
 </ul></div>
 
