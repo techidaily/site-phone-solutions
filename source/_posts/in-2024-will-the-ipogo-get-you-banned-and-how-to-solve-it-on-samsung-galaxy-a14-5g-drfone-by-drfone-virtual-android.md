@@ -1,7 +1,7 @@
 ---
 title: In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy A14 5G | Dr.fone
-date: 2025-01-08T00:09:42.350Z
-updated: 2025-01-11T17:37:20.034Z
+date: 2025-01-11T16:19:34.616Z
+updated: 2025-01-17T17:03:46.306Z
 tags: 
   - virtual location chang
   - location changer
@@ -65,6 +65,10 @@ Using a fake GPS tool in Pokemon Go is against the game's terms of service and c
 
 4. **Use a trusted tool:** When using a fake GPS tool for Pokémon Go, it is crucial to choose a reliable and trusted app. Avoid using any random or unverified GPS spoofing apps. There is a reliable is recommended in the following part. Read on!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Better safe tool to iPogo?
 
 We have provided many answers to your question, "Can iPogo get you banned?". But we know knowing it can get you banned is not enough. Because many players don’t even know which tool they should use, that will not lead to a ban. Don’t grieve, we are here to help with a brilliant virtual location changer for iOS, which is “[Dr.Fone - Virtual Location (iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).”
@@ -84,7 +88,7 @@ This app offers many other features like Joystick & keyboard control, easy locat
 - It simulates a more authentic gaming experience with the help of realistic mode, fluctuation mode, and cooldown timer feature, decreasing the risk of detection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step-by-step guide for using Wondershare Dr. Fone to Teleport Anywhere
@@ -123,10 +127,6 @@ Confirm the exact location on the pop-up that appears now and click on “Move h
 
 ![virtual location 05](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6: Check Location on the deivce**
 
 After this, you have successfully changed your location. You can cross-check this by pressing the “Center on” icon.
@@ -140,10 +140,6 @@ To be certain, you can also check the location on your iPhone. Just open maps on
 ## Conclusion
 
 Can iPogo get you banned? Yes, it can, and it eventually will. It would help if you understood why can iPogo get you banned and why you should not use that application for location spoofing. We also provided you with a perfect solution to avoid iPogo ban using Wondershare’s [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . We also provided a step-by-step guide to use Dr. Fone for teleporting and changing your iPhone's GPS location. That was all for this article; if you have any queries related to this article, you can comment below. We will make sure you get the necessary assistance for the same.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11 Best Location Changers for Samsung Galaxy A14 5G
 
@@ -188,6 +184,10 @@ Dr.Fone software supports both iOS and Android, a one-stop solution to change th
 
 - It is not free but provides a free trial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 5 iOS location changers
 
 ### 1\. iMoveGo
@@ -222,7 +222,7 @@ The iSpoofer Location Spoofer is one of the most effective iOS location spoofers
 ![ispoofer](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Key features:**
@@ -244,6 +244,10 @@ The iSpoofer Location Spoofer is one of the most effective iOS location spoofers
 - Some games may not allow you to use it for fake locales.
 - It costs a hefty amount.
 - You'll need a Developer Image File and iTunes installed on your phone to operate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [iTools Location changer](https://drfone.wondershare.com/virtual-location/itools-virtual-location-alternative.html)
 
@@ -305,10 +309,6 @@ You can travel across the world with this **Fake GPS Location app**. To mock you
 This is a hardware technique for mocking your iPhone's location. There are several versions of the dongle. Using this location spoofer, you can easily enjoy games and social media without any worry**.**
 
 ![iteleporter](https://images.wondershare.com/drfone/article/2022/05/10-best-location-changer-for-android-and-ios-in-2022-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Key features:**
 
@@ -381,10 +381,6 @@ It is one of the most popular Android smartphone location spoofing apps that you
 - Pokemon Go occasionally fails to recognize the location specified in the app.
 - Interface fulfills ads. If you want a straightforward interface, Dr.Fone is a good choice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Fake GPS location - Lexa
 
 **Link:** <https://play.google.com/store/apps/details?id=com.lexa.fakegps>
@@ -408,10 +404,6 @@ One of the most popular Android spoofing apps is Lexa's Fake GPS. It allows you 
 - For a few gadget owners, fake GPS may feel a little problematic.
 - After you deactivate the program, your GPS location may become trapped in one spot.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. VPNa - Fake GPS Location
 
 **Link:** <https://play.google.com/store/apps/details?id=com.xdoapp.virtualphonenavigation>
@@ -434,6 +426,10 @@ While the name may be confusing, it is a GPS spoofer for Android, not a VPN. The
 
 - Obtrusive advertisements.
 - There's no joystick option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Fake GPS 360
 
@@ -474,6 +470,10 @@ This is an all-in-one solution for all your device location-altering needs. With
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy A14 5G?
 
 Netflix is easily one of the most popular streaming apps available today. It offers a huge library of movies, TV shows, documentaries, and more. However, the content you want to watch on Netflix depends on the country where you live.
@@ -492,6 +492,10 @@ Using VPNs and other methods to change your region is not illegal, but it violat
 
 If you're wondering if Netflix bans accounts that use VPN, the answer is “No, they don't”. On the other hand, Netflix will block access to content if it detects that you're connected to VPN. If this happens, simply turn off your VPN or try connecting to different servers on your VPN and retry.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Can You Change Your Netflix Region Without a VPN?
 
 There are multiple ways to change your location on Netflix without a VPN, whether you're on your computer, iPhone, or Android. You can use a smart DNS service, a Proxy Server, or a [Tor browser](https://www.torproject.org/download/) to connect to a country you want to access. Follow our guide below to change country on Netflix now without a VPN.
@@ -505,10 +509,6 @@ Utilizing Smart DNS to change country on Netflix without VPN actually works in t
 **Step 2**: Register your IP address on your selected provider and obtain the appropriate DNS Server Address on your account.
 
 ![change dns server](https://images.wondershare.com/drfone/article/2023/01/change-dns-server-netflix-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3**: Open **Networking** settings on your computer, iPhone, PlayStation, or Xbox and find **DNS Settings** (the image below is an example for the Windows system).
 
@@ -524,6 +524,10 @@ Utilizing Smart DNS to change country on Netflix without VPN actually works in t
 **Cons**
 
 - DNS doesn't carry your information, as the server side will only see the IP address where the query came from, which hackers can manipulate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Using a Proxy Server
 
@@ -542,10 +546,6 @@ Proxy Servers work the same as VPNs as it routes traffic to a third-party server
 **Step 3B**: For **Manual proxy setup,** click **Use a proxy server**. Input **Address** and **Port** numbers. Click **Save** afterward.
 
 ![manual proxy settings for netflix](https://images.wondershare.com/drfone/article/2023/01/change-proxy-netflix-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note**
 
@@ -567,6 +567,10 @@ For the unfamiliar, Tor is an open-source network that encrypts your connection 
 **Step 1**: Download and install [**Tor Browser**](https://www.torproject.org/download/).
 
 ![tor browser for netflix](https://images.wondershare.com/drfone/article/2023/01/tor-browser.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2**: Launch **Tor Browser** and click **Connect**.
 
@@ -590,10 +594,6 @@ Tor Browser is available across all major platforms, including Windows, macOS, L
 Changing your Netflix region with or without a VPN certainly has its perks. This is because you can watch your favorite series unavailable to your country to maximize your streaming access. Choosing a country with a lower subscription price also saves you money.
 
 While it's not illegal to change your Netflix region, it does violate the streaming giant's Terms of Use. You should always research and know the pros and cons when circumventing Netflix's terms so your account doesn't get suspended or terminated.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -621,19 +621,20 @@ While it's not illegal to change your Netflix region, it does violate the stream
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ai-powered-name-ideas-for-standout-podcast-titles/"><u>[New] 2024 Approved AI-Powered Name Ideas for Standout Podcast Titles</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-heart-of-adventure-polaroid-cubeplus-video-analysis-for-2024/"><u>[New] The Heart of Adventure Polaroid Cube+ Video Analysis for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-celebrating-the-10-best-moba-games-on-android/"><u>[Updated] 2024 Approved Celebrating the #10 Best MOBA Games on Android</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-top-tweet-talent-social-medias-10-gems-for-2024/"><u>[Updated] Top Tweet Talent Social Media’s 10 Gems for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-nokia-105-classic-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Nokia 105 Classic Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-13c-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi 13C 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Infinix Note 30.</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210666525-9781623178741-i-ching-the-oracle/"><u>I Ching, the Oracle | Free Book</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-a-step-by-step-walkthrough-to-change-profile-pictorials/"><u>In 2024, A Step-by-Step Walkthrough to Change Profile Pictorials</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-honing-the-craft-of-question-design-in-interviews/"><u>In 2024, Honing the Craft of Question Design in Interviews</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-motorola-moto-g-stylus-2023-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Motorola Moto G Stylus (2023)? Fixed | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/luxury-meets-speed-a-critical-review-of-the-costly-glion-dolly-electric-scooter/"><u>Luxury Meets Speed: A Critical Review of the Costly Glion Dolly Electric Scooter</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-fix-ultimate-guide-to-preventing-game-crashes-in-paladins-latest-updates/"><u>Master the Fix: Ultimate Guide to Preventing Game Crashes in Paladins - Latest Updates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deleting-youtube-comments/"><u>[New] 2024 Approved Deleting YouTube Comments</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-y78t-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo Y78t Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-lava-blaze-2-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupt-mp4movavi-video-files-of-play-40c-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupt MP4,MOV,AVI video files of Play 40C</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-poco-m6-5g-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Poco M6 5G.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2000-how-to-get-it-back-stellar-by-stellar-guide/"><u>Data Disappears in Excel 2000 - How to get it back | Stellar</u></a></li>
+<li><a href="https://os-tips.techidaily.com/direct-connection-how-to-project-iphone-screen-onto-roku-television-no-wifi-required/"><u>Direct Connection: How to Project iPhone Screen Onto Roku Television, No WiFi Required</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/explore-10-elite-streamers-offering-freshest-live-content/"><u>Explore 10 Elite Streamers Offering Freshest Live Content</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-can-i-play-mov-files-on-galaxy-m14-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How can I play .mov files on Galaxy M14 5G ?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-digital-illustration-turning-your-favorite-vimeo-videos-into-gifs/"><u>In 2024, Digital Illustration Turning Your Favorite Vimeo Videos Into GIFs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-lava-blaze-curve-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Lava Blaze Curve 5G Phones</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-mov-file-editors-the-ultimate-2023-list/"><u>New In 2024, Free MOV File Editors The Ultimate 2023 List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/travel-essential-revealed-reviewing-the-razer-usb-c-portable-hub-ideal-for-laptop-gamers/"><u>Travel Essential Revealed - Reviewing the Razer USB-C Portable Hub Ideal for Laptop Gamers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-nikon-video-post-production-made-easy-tips-and-tricks/"><u>Updated Nikon Video Post-Production Made Easy Tips and Tricks</u></a></li>
 </ul></div>
 
