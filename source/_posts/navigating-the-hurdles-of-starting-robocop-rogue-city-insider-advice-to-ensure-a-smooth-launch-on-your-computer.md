@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Hurdles of Starting RoboCop: Rogue City - Insider Advice to Ensure a Smooth Launch on Your Computer"
-date: 2024-09-30T03:14:57.931Z
-updated: 2024-10-03T02:46:02.690Z
+date: 2025-02-11T22:53:59.665Z
+updated: 2025-02-12T17:07:52.758Z
 tags:
   - win11
   - win10
@@ -77,25 +77,24 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click the**Battle.net icon** on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-680.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the**Compatibility tab** and check the box next to**Run this program as an administrator** . Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-726.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Relaunch Overwatch to test your issue.
@@ -111,6 +110,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **1)** Right-click the**Overwatch icon** on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-676.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the**Compatibility tab** , then check the box next to**Disable fullscreen optimizations** and click**OK** .
 
@@ -134,20 +137,21 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-684.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-685.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click**Done** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-686.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Try launching Overwatch again. If your issue persists, check the fix below.
 
@@ -178,6 +182,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -220,10 +228,7 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
@@ -233,13 +238,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **4)** Type **%ProgramData%** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Right-click the**Blizzard Entertainment folder** and select **Delete** . Then delete the**Battle.net folder** .
 
@@ -261,16 +259,13 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-713.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-716.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch Overwatch to check if this fixed your issue. If not, read on and try the fix below.
 
@@ -288,6 +283,10 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-712.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If a patch is available, install it, then run your game again to check whether the black screen problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 ---
@@ -304,13 +303,6 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Restart your computer and your game after the update is complete.
 
 If your problem persists, check the fix 10, below.
@@ -325,23 +317,9 @@ If your problem persists, check the fix 10, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-718.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-720.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**Uninstall a program** .
 
@@ -383,24 +361,24 @@ If you’re prompted about permissions, select Continue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-cutting-edge-capture-selecting-top-smartphone-cameras-in-high-res-video/"><u>[Updated] 2024 Approved Cutting Edge Capture Selecting Top Smartphone Cameras in High-Res Video</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-expertly-elevating-images-premier-frame-apps-in-2e-24/"><u>[Updated] In 2024, Expertly Elevating Images Premier Frame Apps in 2E '24</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-x8b-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-tecno-spark-20-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Tecno Spark 20 Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-motorola-moto-g34-5g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Motorola Moto G34 5G Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-6-educational-apps-for-boosting-your-childs-learning-experience-and-helping-parents/"><u>Best 6 Educational Apps for Boosting Your Child's Learning Experience & Helping Parents</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-samsung-galaxy-a15-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Samsung Galaxy A15 5G</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-open-mov-files-on-edge-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't open MOV files on Edge 40</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/discover-unique-content-in-our-customizable-flipbooks-at-flipbuildercom/"><u>Discover Unique Content in Our Customizable Flipbooks at FlipBuilder.com</u></a></li>
-<li><a href="https://games-able.techidaily.com/evaluating-safety-of-roblox-performance-hacks/"><u>Evaluating Safety of Roblox Performance Hacks</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-find-x7-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Find X7</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola G54 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-lava-blaze-2-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Lava Blaze 2 Pro? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-smooth-video-flow-from-your-photobooth-app/"><u>In 2024, Unlock Smooth Video Flow From Your Photobooth App</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-0x80072af9-obstacle/"><u>Navigating Through Windows' 0X80072AF9 Obstacle</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-smart-succeed-premier-communication-courses/"><u>Speak Smart, Succeed: Premier Communication Courses</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-laugh-out-loud-the-10-best-meme-generator-apps-for-mobile-for-2024/"><u>Updated Laugh Out Loud The 10 Best Meme Generator Apps for Mobile for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-omegle-resurgence-overcoming-a-profile-ban-and-reconnecting-with-others/"><u>Updated Omegle Resurgence Overcoming a Profile Ban and Reconnecting with Others</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-guide-to-mass-downloading-a-complete-look-at-tiktok-archives/"><u>[New] Guide to Mass Downloading A Complete Look at TikTok Archives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-discover-the-creme-de-la-creme-of-mac-snipers/"><u>[Updated] 2024 Approved Discover the Crème De La Crème of Mac Snipers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-mastering-metadata-the-power-of-accurate-video-tags/"><u>[Updated] 2024 Approved Mastering Metadata The Power of Accurate Video Tags</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-prime-locations-boosting-your-youtube-content-visibility/"><u>[Updated] 2024 Approved Prime Locations Boosting Your YouTube Content Visibility</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-webcam-master-ultimate-live-recording-guide/"><u>[Updated] WebCam Master Ultimate Live Recording Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-zte-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from ZTE</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-on-galaxy-f14-5g-convert-mts-for-galaxy-f14-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Galaxy F14 5G-convert MTS for Galaxy F14 5G</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-note-30-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Note 30 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/boosting-us-ev-battery-manufacturing-with-a-44b-infusion-zdnet/"><u>Boosting U.S. EV Battery Manufacturing with a $4.4B Infusion | ZDNet</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-honor-90-gt-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Honor 90 GT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-a60s-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on A60s</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-red-magic-9-proplus-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Red Magic 9 Pro+</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-infinix-hot-30i-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Infinix Hot 30i.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-reno-9a-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Reno 9A</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-get-past-the-c1900101-error-during-win10-installation/"><u>How To Get Past the C1900101 Error During Win10 Installation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamlining-the-process-dells-way-to-screen-recording-for-2024/"><u>Streamlining the Process Dell's Way to Screen Recording for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/uniting-devices-bluetooth-enabled-gaming-tech/"><u>Uniting Devices: Bluetooth-Enabled Gaming Tech</u></a></li>
 </ul></div>
 

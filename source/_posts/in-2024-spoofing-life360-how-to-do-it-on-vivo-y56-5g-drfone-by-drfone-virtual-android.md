@@ -1,7 +1,7 @@
 ---
 title: In 2024, Spoofing Life360 How to Do it on Vivo Y56 5G? | Dr.fone
-date: 2025-01-25T21:38:07.602Z
-updated: 2025-01-31T08:22:43.604Z
+date: 2025-02-10T16:03:11.408Z
+updated: 2025-02-12T19:33:48.771Z
 tags: 
   - virtual location chang
   - location changer
@@ -24,7 +24,7 @@ In an era where location tracking has become a norm, many individuals value thei
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What is Life360?
@@ -38,10 +38,6 @@ After the app gets installed, you can create a circle, which in other languages 
 Using this app then, you can simply see the location of the other members as well as get notifications named Place Alerts. These notifications will tell you whether a user has arrived or left the selected location. This can be helpful if you are a parent and want your children to reach safely at a desired place.
 
 Moreover, with the help of Life360, a user can easily control the ‘Check-in’ according to which he or she sends the alert to the circle to know them the exact location. You can also get to see the location history of the members to know their past locations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Why Do People Hate Being Tracked by Life360?
 
@@ -68,6 +64,10 @@ When it comes to learning **how to trick Life360** on iOS or Android, the best o
 Get the tool on your computer for the process initiation. To do this, you can visit the official website and click the "Try It Free" button or you can directly click the **"Download for PC"** or **"Download for Mac"** as below. Next, install the tool and launch it. Choose the "Virtual Location" tab from the main screen.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Get the Vivo Y56 5G device Connected**
 
@@ -109,6 +109,10 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 ![enable developer options](https://images.wondershare.com/drfone/article/2019/11/developer-options-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Now, you need to go to the "About Phone" option. Followed by this, head to "Software info".
 
 **Step 3:** You will find the build number of your device here. You have to tap on it nearly 7 times.
@@ -125,9 +129,17 @@ Before you get the app worked, here is a requirement you need to follow. The req
 
 ![select mock location app from settings](https://images.wondershare.com/drfone/article/2019/11/select-mock-location-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Choose the Fake GPS app as the mock location app.
 
 ![set Fake GPS app](https://images.wondershare.com/drfone/article/2019/11/select-app-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Open the app now and choose the location you wish to fake and hit on the Play button. This was **how to fake your location on Life360** on Android device.
 
@@ -158,10 +170,6 @@ If you completely want Life360 to stop you from tracking, the very first method,
 - There is nothing more to it. You can now abandon this burner phone and leave it for your work. This will make your friends or near ones think where you want them to show your location.
 
 **Note:** As we have mentioned in the beginning, Life360 supports an inbuilt chat function. This is where the downside comes of having a burner phone as a solution. Putting simply, you may miss an important conversation if you have the app on a burner phone and you have left it at home when any of your friends try to chat with you. And this can cause doubts in their minds.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6.2 Pause Location Sharing in Life360 Settings
 
@@ -205,19 +213,11 @@ Disabling Wi-Fi on your iPhone might limit the accuracy of your location for Lif
 
 Life360 is no doubt a useful app that can help you know about the whereabouts of your near friends and family. However, when you hate being tracked on it, spoofing Life360 can come out as a great option. We discussed some helpful ways **how to fake your location on Life360** in this article, including [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) which allows you to manipulate your GPS location, simulate routes, and set up geofences, making it a versatile solution for your location spoofing needs. Hope you find this helpful.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8 Solutions to Fix 'Find My Friends Location Not Available' On Vivo Y56 5G
 
 There is no doubt that Find My Friends is an excellent application for location tracking. It allows users to track the location of their friends and family members through a variety of devices. So, when Find My Friends says the location is not available, it can be a frustrating situation. But don't stress over this because we are here to assist you in Find My Friends not working. Go through this guide, and you'll know what to do to take care of the problem.
 
 ![find my friends location not available](https://images.wondershare.com/drfone/article/2023/05/find-my-friends-location-not-available.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What Does "Location Not Available" Mean on Find My Friends?
 
@@ -252,6 +252,10 @@ All these reasons can be the ones causing trouble on your Vivo Y56 5G  and Andro
 
 When the Find My Friends app location is not available, here are some more tips that can help get rid of this issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 1: Check if Find My Friends is Supported in Region/Country
 
 The foremost thing you should do when the Find My Friends location is not available is to check the region/country's location. Apple Inc still hasn't provided the Find My Friends feature in all countries and regions due to local laws and technical issues. So, the most plausible reason for the app not working properly is solely because it is not available in that particular country/region.
@@ -262,11 +266,19 @@ After verifying that the feature is available in your region, enable the GPS & L
 
 ![enable location services](https://www.virtuallocation.com/images/pokemon-go/enable-location-services.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 3: Adjust Vivo Y56 5G  Date and Time
 
 As we stated in the possible reasons, incorrect dates and times also result in this problem. If you have manually set the date and time, change the settings and set it to "Set Automatically" in General Settings. Hopefully, this will resolve the problem when the Find My Friends location is not available.
 
 ![adjust date and time](https://www.virtuallocation.com/images/pokemon-go/adjust-date-and-time.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 4: Check the Internet
 
@@ -292,10 +304,6 @@ The next tip to use when Find My Friends says location not available is restarti
 
 ![restart Vivo Y56 5G ](https://www.virtuallocation.com/images/pokemon-go/restart-Vivo Y56 5G .jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Drag the Power slider to the right side and wait for the Vivo Y56 5G device to shut down. Wait for a minute before you restart the Vivo Y56 5G device, and hopefully, the feature will start working again as usual.
 
 ### Tip 7: Check That Your Friend Has Signed into Find My Friends
@@ -304,13 +312,13 @@ Another tip that can help you resolve to **Find My Friends location not availabl
 
 Open the Find Friends app, log into it, and enable the location-sharing feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 8: Quit Find My Friends App and Open It Again
 
 Last but not least valuable tip to use when the Find Friends location is not available is to quit the app. There is a possibility that you've faced the problem only because of a momentary issue or some random glitch. Make sure that you also clear the cache memory before opening the app again. It might fix the problem entirely.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Extension: Can I send the fake location by Find Friends to others?
 
@@ -333,10 +341,6 @@ To use Dr.Fone - Virtual Location, here are the steps you need to follow:
 **Step 3:** Now go to the search box and type the location you want to switch to. Once the location gets detected, click on the "Move Here" option, and the location of your Vivo Y56 5G  or Android phone will change to the one you specified.
 
 ![move to virtual location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 As you can see, when you have Dr.Fone - Virtual Location software, you can share any location with just one click. And it would seem that your Find My Friends app is working fine.
 
@@ -410,10 +414,6 @@ If you want to know how Life360 stacks up against the competition, these are som
 - You may also converse with other Circle members in a specific fashion using the "Chat" feature.
 - At speeds over 25 mph, automatic accident arrest sensors try to make touch with the vehicle to prevent an accident.
 - The battery level of the participants will be shown, and then action will be conducted that will not result in any reason for alarm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Does Life360 Tell You When Someone Checks Your Location?
 
@@ -507,7 +507,7 @@ Here are the steps you can follow to stop sharing your location on your iPhone d
     ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 8**. Tap Still Move after you agree to the instructions.
@@ -534,18 +534,20 @@ Can you tell when someone checks your location on life360? To stay safe, you sho
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-ultimate-method-to-conquer-slow-mo-filming-in-tiktok/"><u>[New] 2024 Approved The Ultimate Method to Conquer Slow Mo Filming in TikTok</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-videosnatch-quality-inspector/"><u>[New] 2024 Approved VideoSnatch Quality Inspector</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-lilliputscreenmugger-review-analysis/"><u>[New] LilliputScreenMugger Review Analysis</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209760161-9781119643135-feng-shui-for-dummies-2nd-ed/"><u>Feng Shui For Dummies (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-infinix-note-30-vip-racing-edition-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Infinix Note 30 VIP Racing Edition and Browser | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-infinix-note-30i-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Infinix Note 30i and Browser | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/introducing-the-new-features-in-our-latest-software-update/"><u>Introducing the New Features in Our Latest Software Update!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/minimizing-vr-nausea-effective-strategies-for-2024/"><u>Minimizing VR Nausea Effective Strategies for 2024</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/resolving-your-wi-fi-woes-effective-network-fix-strategies-by-yl-computing/"><u>Resolving Your Wi-Fi Woes: Effective Network Fix Strategies by YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unveiling-the-new-gen-of-ai-enhanced-dell-xps-laptops-where-sophistication-meets-innovation-in-style-and-functionality-zdnet/"><u>Unveiling the New Gen of AI-Enhanced Dell XPS Laptops: Where Sophistication Meets Innovation in Style and Functionality | ZDNet</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-easy-steps-for-clearing-out-desktop-discords/"><u>[New] 2024 Approved Easy Steps for Clearing Out Desktop Discords</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-best-of-the-best-compilation-of-top-10-4k-phone-cameras/"><u>2024 Approved Best of the Best Compilation of Top 10 4K Phone Cameras</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-razr-40-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Razr 40 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-itel-a05s-frp-bypass-by-drfone-android/"><u>About Itel A05s FRP Bypass</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breakdown-of-pewdiepies-monthly-earning-trends/"><u>Breakdown of PewDiePie's Monthly Earning Trends</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/data-disappears-in-excel-2016-how-to-get-it-back-by-stellar-guide/"><u>Data Disappears in Excel 2016 - How to get it back</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-play-8t-music-recovery-recover-deleted-music-from-honor-play-8t-by-fonelab-android-recover-music/"><u>Honor Play 8T Music Recovery - Recover Deleted Music from Honor Play 8T</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-xiaomi-redmi-a2-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Xiaomi Redmi A2?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-realme-11-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Realme 11 5G</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-vivo-x100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-continuous-boot-issues-on-your-skyrim-game/"><u>How to Resolve Continuous Boot Issues on Your Skyrim Game</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-open-source-video-player-for-linux-windows-and-mac/"><u>In 2024, 10 Open Source Video Player for Linux, Windows and Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-xr-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone XR? Fixed | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/installing-and-mastering-microsoft-copilot-for-macos-developers/"><u>Installing and Mastering Microsoft Copilot for macOS Developers</u></a></li>
 </ul></div>
 

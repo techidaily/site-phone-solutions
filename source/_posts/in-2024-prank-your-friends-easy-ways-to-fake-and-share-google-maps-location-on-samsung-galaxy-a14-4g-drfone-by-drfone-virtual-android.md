@@ -1,7 +1,7 @@
 ---
 title: In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A14 4G | Dr.fone
-date: 2025-01-28T08:02:30.472Z
-updated: 2025-01-31T09:43:34.203Z
+date: 2025-02-05T17:24:22.430Z
+updated: 2025-02-12T20:44:56.635Z
 tags: 
   - virtual location chang
   - location changer
@@ -23,9 +23,17 @@ Google Maps is a virtual map for mobile and PC use. With it, you can check route
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Fake or Spoof Your Location in Google Maps?
 
 You may think I should be turning off the location setting and wifi services to show fake locations on google maps. Well, I tried this, but it did not work, unfortunately. Google Maps can still track me. This is because Google Maps can use the signal strength of cell towers around me to guess my location, and believe me, this guess is usually very accurate. Also, the IP of the phone can be used. Here, we provide two effective methods for you to fake and change location in Google Maps at ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Spoof location in Google Maps with a tool for both iOS and Android
 
@@ -53,13 +61,13 @@ Here is a video tutorial for you to have a quick view on Google maps location ch
 
 ![fake gps google maps drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Next, you need to connect your Samsung Galaxy A14 4G to the computer by using a cable.
 
 ![connect your phone with computers via Wi-Fi or an USB cable](https://images.wondershare.com/drfone/guide/vl-connect-ios-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** On the next window, you’ll find the world map on your screen, and the coordinates and directions are clear on the map. You need to click on the third icon called the “Teleport Mode” from the top right corner of your screen. Then type in the place's name in the search box where you want to change your location. There is also a way to pinpoint the area if you know it properly.
 
@@ -171,16 +179,12 @@ In the reallocation screen, you'll be able to find the five-star icon on the pro
 
 You can do that by changing the settings on your device. Settings >> privacy options>> location services, then turn the icon to the left, which will indicate that your location is off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. How to turn off your history on an iPhone device?
 
 To turn off the History, stick to the same icon of settings, and from the system services, check your significant locations, and you can delete them as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. How does one give someone your location from your Samsung Galaxy A14 4G?
@@ -235,6 +239,10 @@ Before **GPS** **spoof without root,** you have to find and set your actual loca
 
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Turn on Teleport Mode**
 
 Click the second icon present in the upper right to turn on the “teleport mode.” Now, type where you want to teleport in the space given on the top left. After that, click “Go” to start a **fake GPS with no root**.
@@ -279,10 +287,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 
 ![fake gps go](https://images.wondershare.com/drfone/article/2022/05/fake-gps-go-location-spoofer-free.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Pros**
 
 - It can be used with a joystick to match the movement on the screen.
@@ -313,10 +317,6 @@ You'll have fun letting your friends think you're partying like a rock star or r
 - No updates for so long.
 - May heat up the phone if used for long.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 If you plan to root your device to **fake GPS without mock location no root**, drop that idea. You are now aware of some of the best ways to fake GPS without rooting your device. It’s highly recommended to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) when you want to do more and change your GPS location.
@@ -328,6 +328,10 @@ Sometimes you need to decide whether you can share certain personal information 
 Location permissions Life360 allows you to share the location of your device with other apps, even if those apps aren't in your app library. It's usually a good idea to use location permissions sparingly, but sometimes you'll need to use them.
 
 Life360 uses location permissions for a few different reasons. For example, Life360 uses location permissions to show nearby friends when they check in to places so that you can see who is nearby and what they're up to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1：What Does "Location Permissions Off" Mean on Life360?
 
@@ -343,10 +347,6 @@ Your device's status bar may glow blue and display a message notifying you that 
 
 "Always" grants the software all the permissions it needs. So, for example, allowing location permission will be done – every time the app launches. As a result, the software can track your location even if the application is closed.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2：Can My Samsung Galaxy A14 4G Be Tracked If Location Services Are Off?
 
 If you misplace your phone or want to run an application that requires to access your location, you may use the already developed location settings on your smartphone. Suppose, on the other hand; you don't want anybody to track your phone?
@@ -355,9 +355,17 @@ Is it possible to track a phone even if the location services are disabled? Mobi
 
 Disabling your phone's location services might help you hide your current whereabouts. This is critical if you don't want others to be able to follow your movements or activities. However, other methods may still find a smartphone's overall geolocation using different ways.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Cell-Site Simulators
 
 A cell-site simulator is a device that can imitate a mobile phone tower and force a nearby mobile phone to connect to it. Cell site simulators can be purchased online or at a local electronics store. Law enforcement agencies use them to locate a phone without a warrant.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Malware or Spyware
 
@@ -377,19 +385,15 @@ When a Wi-Fi hotspot is nearby, your phone can connect to it without needing to 
 
 There are many ways to ensure your parents do not know where you are and what you are doing. Some of these methods are:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Switch to the Airplane Mode
 
 Turning on Airplane Mode on your smartphone is another fast approach to preventing Life360 from broadcasting your whereabouts without your parents being aware. Unfortunately, you'll be unable to use your phone's internet connection after setting off Airplane Mode, so you'll lose your GPS position.
 
 ![switch to the airplane mode](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Make Sure to Turn Off Circle's Location Sharing
 
@@ -414,10 +418,6 @@ Stopping location sharing on Life360 may also be accomplished by turning off the
 - To prevent applications from monitoring your location, uncheck the "Location" option.
 
 ![stop using the gps on android](https://images.wondershare.com/drfone/article/2022/06/what-are-location-permissions-life360-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### \* For iPhone Users
 
@@ -466,6 +466,10 @@ It's pretty simple to use Dr.Fone, and here are the instructions.
 
 ![locate yourself](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Step 4: To relocate to a new place, do a scan and then hit the "move here" option.
 
 ![teleport to desired location](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -473,10 +477,6 @@ It's pretty simple to use Dr.Fone, and here are the instructions.
 - Step 5: Finally, Your spoofing skills have been fully unlocked!
 
 ![current location in program](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -496,16 +496,18 @@ Life360 is a handy app, but it can be frustrating when a child or teen doesn't w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-best-in-class-music-video-platforms/"><u>[Updated] Best-in-Class Music Video Platforms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-streamlined-accessibility-learning-iphoneipad-techniques-for-podcast-downloads/"><u>[Updated] Streamlined Accessibility Learning iPhone/iPad Techniques for Podcast Downloads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-take-on-camstudios-recorder-efficacy/"><u>2024 Approved Expert Take on CamStudio's Recorder Efficacy</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oneplus-ace-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-honor-magic-6-lite-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Honor Magic 6 Lite</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Xiaomi Redmi 12 5G?</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-fix-guide-overcoming-workspace-malfunctions-in-windows-os/"><u>Immediate Fix Guide: Overcoming Workspace Malfunctions in Windows OS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tips-on-selecting-and-buying-an-ideal-tv-setup-for-your-household/"><u>Step-by-Step Tips on Selecting & Buying an Ideal TV Setup for Your Household</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ing-youtube-shorts-music-hacks-for-viral-scenes/"><u>Unboxing YouTube Shorts Music Hacks for Viral Scenes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/up-to-date-gpt-insights-universal-benefit/"><u>Up-to-Date GPT Insights, Universal Benefit</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/33-chuckle-inducing-tiktok-joke-series-for-2024/"><u>33 Chuckle-Inducing TikTok Joke Series for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-oneplus-11r-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart OnePlus 11R Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-nokia-xr21-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Nokia XR21</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-realme-c67-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Realme C67 5G</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypassreset-vivo-phone-screen-passcodepatternpin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Vivo Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/comprehensive-tutorial-for-effective-screen-recording-for-2024/"><u>Comprehensive Tutorial for Effective Screen Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-videos-vertical-or-horizontal-in-2024/"><u>Facebook Videos; Vertical or Horizontal, In 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-docm-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a .docm file</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-pictolaugh-design-humor-graphics/"><u>In 2024, PictoLaugh Design Humor Graphics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-mouse-driver-wireless-on-your-windows-device/"><u>Install Logitech Mouse Driver (Wireless) on Your Windows Device</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/procase-for-mbac-pro-13-cost-efficient-laptop-cover-unboxed-and-reviewed/"><u>ProCase for MBAc Pro 13: Cost-Efficient Laptop Cover Unboxed and Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-x-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone X Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 
