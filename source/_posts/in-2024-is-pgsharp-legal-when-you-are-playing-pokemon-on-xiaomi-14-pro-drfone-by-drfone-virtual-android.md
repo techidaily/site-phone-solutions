@@ -1,7 +1,7 @@
 ---
 title: In 2024, Is pgsharp legal when you are playing pokemon On Xiaomi 14 Pro? | Dr.fone
-date: 2024-09-02T23:26:38.873Z
-updated: 2024-09-03T23:26:38.873Z
+date: 2025-03-02T18:10:28.177Z
+updated: 2025-03-03T17:33:16.686Z
 tags: 
   - virtual location chang
   - location changer
@@ -24,14 +24,8 @@ Pokémon Go relies on GPS coordinates and real-time tracking to let players catc
 
 'Spoofing' location makes your phone, and thereby the game thinks that you're in another location, which opens up the possibility to catch new and rare Pokémon s from gyms and PokeStops around the world.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 1: Is Pgsharp legal?**
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pgsharp](https://images.wondershare.com/drfone/2020/202010/pgsharp.jpg)
 
 No game developer likes to see their game played in unfair ways. Thus, Niantic (PoGo's Dev) made some strict rules against exploiting their game, giving some players an unfair advantage over others.
@@ -53,16 +47,10 @@ So, ****is PGSharp legal?**** No, Spoofing location, in general, is illegal. H
 
 ![niantic-warning](https://images.wondershare.com/drfone/2020/202010/niantic-warning.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## ****Part 2: Three ways to spoof on Android****
 
 1. **PGSharp :**
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pgsharp-interface](https://images.wondershare.com/drfone/2020/202010/pgsharp-interface.jpg)
 
 PGSharp is one of the most reliable ways to spoof your location while playing Pokémon Go. Niantic does not easily recognize its simple map-like UI as a fake location app.
@@ -92,9 +80,6 @@ Fake GPS Go is another location spoofer app for Android that is reliable and fre
 
 3. **VPN:**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![vpn](https://images.wondershare.com/drfone/2020/vpn.jpg)
 
 Using a Virtual Private Network (VPN) App is the safest option to spoof your location while playing PoGo, as it masks your IP address and uses a server in any other location.
@@ -115,9 +100,6 @@ Spoofing the GPS location on iPhones is more difficult and much more complex tha
 
 Step 1: Download the tool on your PC from the official website of drfone. Select "Virtual Location" given on the first page of the program.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![launch the Virtual Location](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 Step 2: Now, have your iPhone connected to your computer. Then select "Get Started". Now a map will open in a new window, showing your actual location.
@@ -143,8 +125,6 @@ Step 4: Now select "Move here." And you will have successfully spoofed your loca
 
 Following these tips will help you to behave like an actual traveler who's on a Pokémon hunt. This will make it even harder for game devs to detect any discrepancies.
 
-
-
 ## How to Change Netflix Location to Get More Country Version On Xiaomi 14 Pro
 
 Many people nowadays idle away the hours watching films and TV shows on Netflix. Well, it’s not that hard to see why. First and foremost, Netflix is readily available and easily accessible in different parts of the world. All you have to do is set up an account and browse the selections afterward. Another thing is that Netflix offers a very large catalog of television programs to match your current mood. From romance and adventure to thrillers and documentaries, you will not run out of options. Netflix has got you covered.
@@ -165,21 +145,12 @@ There are many potential reasons why Netflix shows vary from one region to anoth
 
 Netflix holds traditional beliefs in high regard and abides by government rules. If the show depicts sensitive topics that certain countries don’t openly discuss, its viewing is immediately restricted in the region. That’s probably the reason why a particular Netflix show is unavailable in your region. Is there a way to access it without traveling anywhere? Luckily, there is. Find a tutorial online on how to change your location on Netflix. Follow the steps accordingly until your Netflix location is modified. After that, the restricted show must be available now on your end.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### There are some issues regarding copyright ownership
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![netflix shows copyright](https://images.wondershare.com/drfone/article/2024/02/how-do-you-change-your-location-on-netflix-2.JPG)
 
 In simple terms, copyright ownership is enforced separately in each country. That means Netflix must secure individual licenses for every region. Sometimes, certain countries fail to acquire copyright ownership due to the cost and other factors. As a result, the content becomes unavailable in that particular location. We cannot do anything about it unless you’re willing to shell out money for the license. But if you’re really eager to get hold of the restricted Netflix show, try to modify your device’s primary location. Don’t worry. There are many tutorials online on how to change your Netflix location. Just choose one and follow the instructions indicated.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Netflix show has varying release dates for each region
 
 ![netflix show release date](https://images.wondershare.com/drfone/article/2024/02/how-do-you-change-your-location-on-netflix-3.JPG)
@@ -190,9 +161,6 @@ Maybe there is no complicated issue behind the geo-blocking of a particular Netf
 
 If you wish to explore other Netflix collections, the best way you can try is to alter your Netflix region. Is it possible? Of course, it is. There are many tutorials that provide easy steps on how to change your Netflix region. If you successfully complete them, your Netflix location will be changed immediately as though you’ve traveled somewhere. Don’t worry. Most of them are not that complicated to implement. In actuality, it only takes a few minutes or even seconds to accomplish the entire instructions. Just make sure to choose the best guide that works perfectly with your situation. To help you out, below is the list of methods you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Activate VPN before streaming Netflix shows
 
 Virtual Private Networks generally mask your IP address by directing your internet traffic to a server from a different location. Thus, your location settings show modified coordinates whenever you browse the internet with a VPN enabled. That also works with streaming Netflix shows that are currently restricted in your region. Do you want to try it? Here’s a short guide on how to change your location on Netflix using Virtual Private Networks.
@@ -222,9 +190,6 @@ For the most part, a web proxy server basically works like a Virtual Private Net
 
 ![stream netflix](https://images.wondershare.com/drfone/article/2024/02/how-do-you-change-your-location-on-netflix-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Stream Netflix shows from the Tor browser
 
 Tor browser is primarily used for ultra-private internet browsing. Your online activities on this platform are encrypted and directed to about three various servers located worldwide. Although you cannot actually change your location settings, your actual IP address will be masked and routed somewhere else. This way, you get a higher chance of accessing restricted Netflix shows from the comfort of your own home. Do you want to try it now? Here’s the guide on how to change your Netflix region using the Tor browser.
@@ -251,23 +216,15 @@ The tutorials above on how to change your location on Netflix are undeniably hel
 
 The first three tutorials above on how to change your location on Netflix work pretty well on personal computers. Do they work too on mobile devices? Well, you can try and see what’s going to happen. However, a positive result is not a hundred percent guaranteed. Is there any other way? Fortunately, there is. [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) can absolutely help you with that. It offers a potent Virtual Location feature capable of simulating GPS movements and modifying your location settings in a snap/ Don’t sweat it. It’s very easy to get started. Check out the tutorial below on how to change your location on Netflix using Wondershare Dr.Fone.
 
-
-
 - **Step 1:** Download Wondershare Dr.Fone for free from its [<u>official website. </u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Right after, install it on your computer.
 - **Step 2:** Launch the newly installed software on your desktop. Once it fully loads up, connect your smartphone using a data cable. Follow the on-screen instructions carefully and execute each step properly to ensure the connection between the two devices is stable enough to handle the succeeding procedures.
 - **Step 3:** Access the left-side panel afterward and then click **Toolbox.** On the main dashboard, click **Virtual Location.** Is it your first time using this feature? If so, let Wondershare Dr.Fone download additional resources. Don’t worry. It will only take a few minutes to complete.
 - **Step 4:** Once the downloading process has concluded, Wondershare Dr.Fone - Virtual Location will immediately open on a separate window. From there, hover over to the top-right menu bar and then click **Teleport Mode.** It is the first icon in the row.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 - **Step 5:** After that, find the search at the top-left corner of your screen and type in your desired location. Choose one from the suggested results. Then, click the **Enter** icon to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![search for your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 - **Step 6:** The essential details referring to your chosen location will be displayed on your computer screen, along with a map marker. Read the information very well and make sure that it is exactly the place you’re looking for. Once confirmed, click **Move Here.**
@@ -276,21 +233,13 @@ The first three tutorials above on how to change your location on Netflix work p
 
 - **Step 7:** The location settings on your mobile devices will be immediately changed to your chosen coordinates. Verify that the changes have already been applied by simply checking out your Maps mobile app. It must not show your real current location.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![location settings changed](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 - **Step 8:** Open the Netflix application on your smartphone and then browse through its catalog. Find the restricted content you want to watch and try to stream it on your device. To restore your original location settings, simply close the Wondershare Dr.Fone on your computer and then restart your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Netflix is definitely at the forefront of modern entertainment. It is the go-to app of many people whenever they are bored and want to binge-watch TV shows. However, it is sometimes infuriating if the movie you want to stream is restricted in your location. If you’re experiencing anything similar, you can refer to the discussions above. The provided tutorials on how to change your location on Netflix can surely help you in this regard. For mobile devices, follow the guide on how to change your Netflix location using [<u>Wondershare Dr.Fone. </u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) It has a powerful Virtual Location feature capable of modifying your whereabouts and simulating GPS movements.
-
-
 
 ## Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi 14 Pro?
 
@@ -302,9 +251,6 @@ Life360 uses real-time GPS data to notify your group members about your location
 
 You might have learned from your friends or social media about various applications that allow you to track other devices, view text messages, and track everything someone does on their device. No one, including your circle members, can spy on what you do on your devices, like checking your internet history or reading texts. Although life360 has many tracking features similar to spy apps, it only provides basic location and text tracking under specific conditions. For people who don't use Life360 for privacy reasons, what can life360 monitor? Can Life360 see your internet history, or can Life360 see who you text? Here is a brief about everything the app can do and monitor on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: What can you do with Life360?
 
 Life360 is a mobile application that provides family security services that you can download and use for free on Android and IOS. Its basic features include location and driving safety tracking as the application runs in the background. In addition, the application notifies group members if someone in the group is not driving responsibly. Users can also pay for premium perks to access more safety and tracking features for the security of their loved ones.
@@ -315,9 +261,6 @@ The paid features of life360 notify circle members when you text while driving. 
 
 One of the best features of Life360 is the panic button which allows users to send out mass emergency texts to their circle members with their GPS coordinates if they are in danger.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Can Life360 see your texts?
 
 Although it uses some tracking features, there are limitations on what the app can or cannot do. If you are wondering can life360 see your texts, then the answer is "No"; the app can only see and track your texts under one condition. As Life360 links group members' devices, it can read texts sent between members of any group. All circle members get notifications when your app is active. Some applications allow users to view the text on someone's device, like their spouse or partner, but life360 does not compromise the privacy of its users and only shows limited information without any way of spying on others.
@@ -344,8 +287,6 @@ Life360 can only have limited access to your texts, but it tracks your location 
 
 [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is a location changer application that teleports your GPS location to anywhere you want with a single click. It is the best tool to fool all location tracking-based Android or IOS applications, including Life360. Users can fake their location by stimulating GPS location with a joystick and drawing a fake route on a 360-degree map. It also allows you to play location-based games on your device without moving a single step.
 
-
-
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -364,21 +305,12 @@ Open the Dr.Fone software on your computer and connect your phone. Next, navigat
 
 And click on "Get Started" to open the maps.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on get started button](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 Click on the "Teleport Mode" search for your fake location or use the joystick stimulator to move to the exact coordinates. Finally, click on the "Move Here" button to change your device's location.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: FAQs about Life360
 
 **FAQ 1: Are there any cons to using Life360?**
@@ -401,7 +333,6 @@ Life360 is designed for parents to always stay informed about the digital well-b
 
 I hope reading this article helped relieve your concerns about the Life360 app. Can you track text messages with life360 "Yes" the app tracks your location through texts but can life360 read texts, or can life360 see who you text, "No" because it cannot monitor all your device's actions. The device can see if you are texting others. Still, it cannot store any data, so you can privately communicate with people inside or outside your circle. But you can stop the app from tracking your location for safety purposes, so you have to use [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) to trick location-based applications or change your GPS coordinates or location history with one click.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -414,9 +345,19 @@ I hope reading this article helped relieve your concerns about the Life360 app. 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-shoot-hdr-photos-with-iphone/"><u>[New] In 2024, How to Shoot HDR Photos with iPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-digital-canvas-the-path-to-photomosaic-mastery/"><u>[Updated] Digital Canvas The Path to PhotoMosaic Mastery</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-aerial-visionaries-revealed-detailed-dji-phantom-4-study/"><u>[Updated] In 2024, Aerial Visionaries Revealed Detailed DJI Phantom 4 Study</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/apps-calm-demeanor-hides-computational-challenges-for-windows-users/"><u>Apps' Calm Demeanor Hides Computational Challenges for Windows Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from ZTE Blade A73 5G</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/efficient-background-extraction-with-photopea-for-2024/"><u>Efficient Background Extraction with Photopea for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-k70-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Xiaomi Redmi K70</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-reels-virality-unlocked-leveraging-tiktok-hacks/"><u>Instagram Reels Virality Unlocked Leveraging TikTok Hacks</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-photo-8-restoration-with-stellar-repair-on-windows-systems/"><u>Mastering Photo 8 Restoration with Stellar Repair on Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unleashing-space-duel-excellence-an-enthralling-review-of-star-wars-squadrons-battle-royale/"><u>Unleashing Space Duel Excellence: An Enthralling Review of Star Wars: Squadrons' Battle Royale</u></a></li>
+</ul></div>
 

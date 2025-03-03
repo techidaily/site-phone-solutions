@@ -1,7 +1,7 @@
 ---
 title: In 2024, iSpoofer is not working On Samsung Galaxy F15 5G? Fixed | Dr.fone
-date: 2024-09-02T23:19:10.983Z
-updated: 2024-09-03T23:19:10.983Z
+date: 2025-02-28T16:47:03.292Z
+updated: 2025-03-03T18:43:26.096Z
 tags: 
   - virtual location chang
   - location changer
@@ -18,18 +18,12 @@ thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36d
 
 Pokemon Go is one of the most appreciated games across the world. Yes, it has been banned in a few regions because of the controversial concept of the entire game but that’s one of the reasons why people turned to spoofer apps. While wanting to catch more Pokemon is the main reason for location spoofing, to evade the boundary barriers of the game is one more reason.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pokemon-Go-Location-Spoofing-pic-1](https://images.wondershare.com/drfone/2020/2020/Pokemon-Go-Location-Spoofing-pic-1.jpg)
 
 However, if you have checked recently, iSpoofer has gone - MIA. You don’t find relevant sources to download the application and you don’t see your desperate attempts bringing any fruitful results. Does this mean that the good old days of iSpoofer’s popularity are over? Do we have to find an alternative or there are chances we might get the location changer back?
 
 You will find the answers to all these questions in the clearly guided write-up below and yes, it i applicable for both Android and iOS users.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 1 - Does iSpoofer Still Work. Why?**
 
 If you have encountered the iSpoofer not working problem, then you are among the several Pokemon Enthusiasts who have been desperately waiting for an update. But the sad news is we never know if it will knock on our doors or not. The app still remains - non-functional. If you have the older version on your phone - uninstalled - and just lying there, you will notice that you will get a maintenance message saying that the app is under ‘maintanence’.
@@ -40,25 +34,16 @@ Your search through several blogs will tell that the app is going through some c
 
 One of the main reasons for iSpoofer Pogo not working is its ban by the makers of Pokemon Go. Niantic is very particular about the rules that it had laid down for the players. One of them is a strict no to use any third-party apps while playing the game.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iSpoofer -initial-error-message-official-pic-3](https://images.wondershare.com/drfone/2020/2020/iSpoofer%20-initial-error-message-official-pic-3.jpg)
 
 iSpoofer not only changes the way you play the game but also defies the very concept of how the game should be perceived. You have to ‘Go’ out of the house. So, when Niantic banned the app, iSpoofer lost its very loyal customers. The main target audience were the players of Pokemon Go so you can expect how hard of an impact the loss must have brought to the revenue of iSpoofer.
 
 So, the wise and safest option they had is to pull out and give it some time. It looks like Nianticis in no mood to give a nod to the Spoofing app (isn’t that obvious?) so iSpoofer Pokemon Go not working will remain to be a problem for a while.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iSpoofer-previous-IV-pic-4](https://images.wondershare.com/drfone/2020/2020/iSpoofer-previous-IV-pic-4.jpg)
 
 There were high expectations that iSpoofer will revive back during 2020, owing to everyone staying home and being in desperate need of such spoofing apps but the audience only met with silence from their end. So, there are high chances that the very useful location spoofing app may not be around for a while at least.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 2 - How can I spoof on iOS safely?**
 
 If there is someone who is very disappointed with iSpoofer going off of the chart, then it must be the iPhone users. iOS doesn’t provide diverse options to do something as ‘adventurous’ as changing the location on the Samsung Galaxy F15 5G device. You have very little apps to choose from the play store.
@@ -67,9 +52,6 @@ If you are facing the iSpoofer iOS not working problem, then you can adopt one o
 
 **VPNs** - This doesn’t imply that every VPN that is on the internet will help you spoof your location. There are certain blessed ones that come with an in-built location spoofing option that makes the job easier. If I have to name one - then you can use Surfshark. It can sustain you as long as you do not change your location too obnoxiously that the makers can detect the very quick change from point A to Point B that is humanly impossible. However, even if it is not as effective as iSpoofer, and definitely not an alternative, you at least get to enjoy temporary benefits.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![VPN-surf-shark-option-pic-5](https://images.wondershare.com/drfone/2020/2020/VPN-surf-shark-option-pic-5.jpg)
 
 **Apps on App Store** - This is one of the first things that anyone would do when they are in serious need of a location change. Go to the App Store and search for the ‘Fake GPS Location Changers’. However, you have to resort to the Trial and Error method here. Not all apps are going to work - some will be detected pretty quickly - while the others will simply take up space and nothing else. Until you settle on the suitable one, the search continues.
@@ -79,8 +61,6 @@ If you are facing the iSpoofer iOS not working problem, then you can adopt one o
 If you are looking for a sure shot at changing your location without any hassle, then the best suggestion would be to use [Dr. Fone’s Virtual Location](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html) Changer. WIthin 3-4 steps you can easily change your location to anywhere in the world. This is how you do it -
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/FfhgWxnARqo" frameborder="0" allowfullscreen=""></iframe>
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -96,8 +76,6 @@ If you are looking for a sure shot at changing your location without any hassle,
 
 It is as simple as that with [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) . So, if you are looking for an alternative until iSpoofer comes back for iOS devices then Wonderhare’s Dr.Fone can be a perfect choice.
 
-
-
 ## Does Airplane Mode Turn off GPS Location On Samsung Galaxy F15 5G?
 
 Airplane mode is a feature available on all smartphones and other electronic devices that stops the signal transmissions from the Samsung Galaxy F15 5G devices. Also known as flight or airplane mode, this feature will disconnect the wireless functions, including cellular connection, Wi-Fi, and Bluetooth.
@@ -108,10 +86,6 @@ The feature's name says that it was introduced to cut off any radio transmission
 
 If you have **enabled airplane mode on your Samsung Galaxy F15 5G** or Android device and think it will also block your GPS location, you are wrong. Know why airplane mode does not turn off GPS location and other ways to **avoid getting tracked with or without Airplane Mode.**
 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Does Airplane Mode Turn off location?
 
 As we mentioned above, while you put your phone on airplane mode, the cellular radio, Wi-Fi and Bluetooth is disabled, but not the GPS location.
@@ -132,9 +106,6 @@ To hide the location on your Samsung Galaxy F15 5G and iPad, below listed are th
 
 **Step 1**. Open the Control Center on your iDevice, iPhone 13 for example. (For iPhone X and above models, swipe down from the top-right, while on other devices, swipe from the bottom of the screen)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch off gps on idevices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-idevice-1.jpg)
 
 **Step 2**. Enable the Airplane Mode or turn off the Wi-Fi and Cellular icon.
@@ -149,9 +120,6 @@ The process to turn off GPS location on Android devices may vary from device to 
 
 **Step 1**. On your Samsung Galaxy F15 5G, swipe down on your screen to open the options list.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-1.jpg)
 
 **Step 2**. Search for the Airplane icon and click on it to turn on the Airplane Mode.
@@ -160,9 +128,6 @@ The process to turn off GPS location on Android devices may vary from device to 
 
 ![drfone virtual location switch off gps on android devices](https://images.wondershare.com/drfone/article/2022/03/switch-off-gps-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Spoof Location to prevent GPS Tracing without Turning on Airplane Mode
 
 If you are looking for a method that can prevent GPS tracking without turning on Airplane Mode, spoofing your location is a workable solution. To get this task done, you would need a specialized app or a tool, and here we recommend [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) as the best option.
@@ -185,16 +150,10 @@ You can check out this video for further instruction.
 
 **Step 1**. Download, install and launch the Dr. Fone software on your Windows or Mac system.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![home page](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2**. On the leading software, tap on the **Virtual Location** option and then connect your Samsung Galaxy F15 5G or Android device to your system using a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download virtual location and get started](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 **Step 3**. Click on the **Get Start** button.
@@ -229,23 +188,14 @@ Life360 is a helpful app for tracking your friends, family, and other people. Th
 
 So, it can be concluded that Airplane Mode disconnects you from the cellular network and Wi-Fi. Therefore, to stop getting traced, you need to disable your location services along with the airplane mode. Using [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is an excellent alternative to stop the GPS location as the software will help you set a fake location, and your actual location will remain hidden from all.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy F15 5G
 
 Through YouTube TV, people can access different TV channels such as news, sports, and entertainment. However, as every YouTube TV works in accordance with the assigned home area, sometimes you can forget or are unable to change the home area, which can lead to certain restrictions. If you want to change the location of YouTube TV to access more services, this article is for you.
 
 Continue reading this article to learn how to **change your YouTube TV location** with the help of easy methods so that you won’t tire yourself. You can easily bypass YouTube TV restrictions by following this authentic guide.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Change your Home Area to Change Location on YouTube TV
 
 Before jumping on the method to **change** **YouTube** **TV** **location**, keep in mind that YouTube only allows changing the location twice a year. In this part, we will provide a manual method to **change location on YouTube** **TV** for both iOS and Android devices:
@@ -264,9 +214,6 @@ Before jumping on the method to **change** **YouTube** **TV** **location**, keep
 
 **Step 3:** Tap on the “Update” option next to the “Home Area” option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Using VPN to Bypass YouTube TV Restrictions
 
 Sometimes, users encounter certain YouTube TV restrictions due to their home area changes. This section will suggest four amazing VPNs to help you bypass any YouTube TV restrictions.
@@ -277,35 +224,18 @@ NordVPN is a well-trusted VPN that provides exceptional security and protection 
 
 ![nordvpn official website](https://images.wondershare.com/drfone/article/2022/05/change-location-on-youtube-tv-1.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Surfshark
 
 Do you want to encrypt your browsing activity on your devices? Use Surfshark to browse in a secure manner so that no one can steal or track your information. You can also change your location through this platform to strengthen your privacy across online sites. You can access any specific YouTube TV content by selecting any location from its US servers category.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![surfshark vpn service](https://images.wondershare.com/drfone/article/2022/05/change-location-on-youtube-tv-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. ExpressVPN
 
 ExpressVPN enables the users to change the server’s location anytime and from anywhere across the world. It gives great reliability access to the server location in 94 countries. Moreover, you can enjoy internet browsing with great network speed through it.
 
 ![expressvpn for youtube tv](https://images.wondershare.com/drfone/article/2022/05/change-location-on-youtube-tv-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. CyberGhost
 
 To bring your digital security to the next level, CyberGhost is a good option to rely upon. It is a one-click location changer VPN that helps you connect anywhere within seconds with a secured IP address. After that, you can anonymously visit and use online sites through its encrypted VPN protocols and safely hide your identity.
@@ -340,9 +270,6 @@ A new window will pop up displaying your current location on a map. However, if 
 
 To turn on the teleport mode, click on the second icon that you can locate on the top right. Then, type the area in the search box and press the “Go” button.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose destination](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 4: Confirm Location**
@@ -373,7 +300,6 @@ YouTube has provided easy access through membership that allows the users to wat
 
 This writing comprises a detailed guide regarding the **YouTube TV change location** and the exact steps. We have also mentioned some of the well-trusted VPNs to **change YouTube TV location**, but to be precise in the results, we have suggested [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) as a complete and advanced tool for changing the location.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -386,11 +312,18 @@ This writing comprises a detailed guide regarding the **YouTube TV change locati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-cost-effective-drone-collection-affordable-flight-gadgets/"><u>[New] 2024 Approved Cost-Effective Drone Collection Affordable Flight Gadgets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-recipes-that-resonate-best-practices-for-eating-themed-titles/"><u>[New] In 2024, Recipes That Resonate Best Practices for Eating-Themed Titles</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-from-spectator-to-participant-joining-live-tiktok-events-for-2024/"><u>[Updated] From Spectator to Participant Joining Live TikTok Events for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-yuva-3-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Yuva 3 Pro Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-y56-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo Y56 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/brilliant-question-bank-to-entice-audio-enthusiasts-for-2024/"><u>Brilliant Question Bank to Entice Audio Enthusiasts for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/exceptional-exchange-rescue-case-study-highlights/"><u>Exceptional Exchange Rescue: Case Study Highlights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-nokia-c110-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Nokia C110</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-edit-like-a-pro-a-free-online-video-editing-course-using-jaycut-for-2024/"><u>New Edit Like a Pro A Free Online Video Editing Course Using Jaycut for 2024</u></a></li>
+</ul></div>
 
